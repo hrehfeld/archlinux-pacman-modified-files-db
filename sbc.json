@@ -1,1 +1,13 @@
-{"1.3-1": {"/usr/bin/sbcenc": "1a0b9431390cfc0d76dae760e844fee921c22b2e8433ee834b36d748818068e2", "/usr/bin/sbcdec": "70963dd763b18d8e27772a16314bcfd465ffd7082a33ca8ea3c03387233cbee1", "/usr/bin/sbcinfo": "2f127c6686711c2f8eae168a1257b0d3970e29415a31f2ed8b9364869412d42b", "/usr/include/sbc/sbc.h": "02927086af8e938594d3d1e7614bf06563992685e0946016554b22fb08ae2b81", "/usr/lib/libsbc.so.1.2.1": "3d08efeb51accde1602e4d8d8891a63397a25629a751f778f5e7c7f0f9d366a5", "/usr/lib/libsbc.so": "3d08efeb51accde1602e4d8d8891a63397a25629a751f778f5e7c7f0f9d366a5", "/usr/lib/libsbc.so.1": "3d08efeb51accde1602e4d8d8891a63397a25629a751f778f5e7c7f0f9d366a5", "/usr/lib/pkgconfig/sbc.pc": "88dc415727fbe4edd460d4fc84c1ea243c3fd210a92483043b7513288f66ffb1", "/var/log/pacman.log": "5907e9715e1f7f8c6b9cabe8bbfa22f3c4680bcbb00a0330b5c57608667e1012"}}
+{
+  "1.3-1": {
+    "/usr/bin/sbcenc": "1a0b9431390cfc0d76dae760e844fee921c22b2e8433ee834b36d748818068e2",
+    "/usr/bin/sbcdec": "70963dd763b18d8e27772a16314bcfd465ffd7082a33ca8ea3c03387233cbee1",
+    "/usr/bin/sbcinfo": "2f127c6686711c2f8eae168a1257b0d3970e29415a31f2ed8b9364869412d42b",
+    "/usr/include/sbc/sbc.h": "02927086af8e938594d3d1e7614bf06563992685e0946016554b22fb08ae2b81",
+    "/usr/lib/libsbc.so.1.2.1": "3d08efeb51accde1602e4d8d8891a63397a25629a751f778f5e7c7f0f9d366a5",
+    "/usr/lib/libsbc.so": "3d08efeb51accde1602e4d8d8891a63397a25629a751f778f5e7c7f0f9d366a5",
+    "/usr/lib/libsbc.so.1": "3d08efeb51accde1602e4d8d8891a63397a25629a751f778f5e7c7f0f9d366a5",
+    "/usr/lib/pkgconfig/sbc.pc": "88dc415727fbe4edd460d4fc84c1ea243c3fd210a92483043b7513288f66ffb1",
+    "/var/log/pacman.log": "5907e9715e1f7f8c6b9cabe8bbfa22f3c4680bcbb00a0330b5c57608667e1012"
+  }
+}

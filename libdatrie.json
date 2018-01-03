@@ -1,1 +1,18 @@
-{"0.2.10-2": {"/usr/lib/libdatrie.so.1": "a14180bfd79ffc196dd825699b1a806904cbb8ef2f4e9415a29a348d2b899c95", "/usr/lib/libdatrie.so": "a14180bfd79ffc196dd825699b1a806904cbb8ef2f4e9415a29a348d2b899c95", "/usr/lib/libdatrie.so.1.3.3": "a14180bfd79ffc196dd825699b1a806904cbb8ef2f4e9415a29a348d2b899c95", "/usr/lib/pkgconfig/datrie-0.2.pc": "222d445d0b36e266c8eaf7edecb35de9f823014731afe0a83cd7431cd11b0a47", "/usr/include/datrie/typedefs.h": "c1b87df8edc57b338968ebc2ed786198d3db2a960e1b81a137ea702c52a48c41", "/usr/include/datrie/triedefs.h": "3325e47b5dd8a32510989c7222e8838cd484669f4ef5cc35b232fb39270a5304", "/usr/include/datrie/alpha-map.h": "77b43cffb4c57267403f0982208e14e0cd57dd53f7047c0e57e302487c2f758d", "/usr/include/datrie/trie.h": "5d0d473b476345e23ebafc8ef7e6c71e7777d2bb7d3c0963362387b3b422c831", "/usr/bin/trietool-0.2": "2c83b3ae12fcfb5c02ea2b08a57d1b898267dbd256603ea13b1dd6c81ada3b64", "/usr/bin/trietool": "2c83b3ae12fcfb5c02ea2b08a57d1b898267dbd256603ea13b1dd6c81ada3b64", "/usr/share/man/man1/trietool-0.2.1.gz": "6985391e97e034133cb2bb3cad049029409d3b6f15786b2d8173fe6a61a8ec4b", "/usr/share/man/man1/trietool.1.gz": "6985391e97e034133cb2bb3cad049029409d3b6f15786b2d8173fe6a61a8ec4b", "/usr/share/doc/libdatrie/README.migration": "339b6455497d2c9a093ee23d89a3a00cff09c9814e635b28218d0054927039d6", "/var/log/pacman.log": "f74fbf6e440e1722843ac98b20f3ba603ed959fa1a30529764f75c53ffc7bda8"}}
+{
+  "0.2.10-2": {
+    "/usr/lib/libdatrie.so.1": "a14180bfd79ffc196dd825699b1a806904cbb8ef2f4e9415a29a348d2b899c95",
+    "/usr/lib/libdatrie.so": "a14180bfd79ffc196dd825699b1a806904cbb8ef2f4e9415a29a348d2b899c95",
+    "/usr/lib/libdatrie.so.1.3.3": "a14180bfd79ffc196dd825699b1a806904cbb8ef2f4e9415a29a348d2b899c95",
+    "/usr/lib/pkgconfig/datrie-0.2.pc": "222d445d0b36e266c8eaf7edecb35de9f823014731afe0a83cd7431cd11b0a47",
+    "/usr/include/datrie/typedefs.h": "c1b87df8edc57b338968ebc2ed786198d3db2a960e1b81a137ea702c52a48c41",
+    "/usr/include/datrie/triedefs.h": "3325e47b5dd8a32510989c7222e8838cd484669f4ef5cc35b232fb39270a5304",
+    "/usr/include/datrie/alpha-map.h": "77b43cffb4c57267403f0982208e14e0cd57dd53f7047c0e57e302487c2f758d",
+    "/usr/include/datrie/trie.h": "5d0d473b476345e23ebafc8ef7e6c71e7777d2bb7d3c0963362387b3b422c831",
+    "/usr/bin/trietool-0.2": "2c83b3ae12fcfb5c02ea2b08a57d1b898267dbd256603ea13b1dd6c81ada3b64",
+    "/usr/bin/trietool": "2c83b3ae12fcfb5c02ea2b08a57d1b898267dbd256603ea13b1dd6c81ada3b64",
+    "/usr/share/man/man1/trietool-0.2.1.gz": "6985391e97e034133cb2bb3cad049029409d3b6f15786b2d8173fe6a61a8ec4b",
+    "/usr/share/man/man1/trietool.1.gz": "6985391e97e034133cb2bb3cad049029409d3b6f15786b2d8173fe6a61a8ec4b",
+    "/usr/share/doc/libdatrie/README.migration": "339b6455497d2c9a093ee23d89a3a00cff09c9814e635b28218d0054927039d6",
+    "/var/log/pacman.log": "f74fbf6e440e1722843ac98b20f3ba603ed959fa1a30529764f75c53ffc7bda8"
+  }
+}

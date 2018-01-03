@@ -1,1 +1,8 @@
-{"1.0.7-1": {"/usr/share/licenses/xorg-iceauth/COPYING": "fdd9ba8ccb92af2f31f542e7b7a18c27257e6cdce147d231bc9ba3654ad84976", "/usr/share/man/man1/iceauth.1.gz": "28e3daa3c4172229f0d29308f2e554ca3648b2ac8ef8aba026b57c498c12f99e", "/usr/bin/iceauth": "09f3a66eb95c48b0cbf9748b58756e54b58929e7c04c584516cae4540f219ce8", "/var/log/pacman.log": "cd36c45900e21049832b799c78a4601f074c9f2832bdddca3fb8ac9d77094e1a"}}
+{
+  "1.0.7-1": {
+    "/usr/share/licenses/xorg-iceauth/COPYING": "fdd9ba8ccb92af2f31f542e7b7a18c27257e6cdce147d231bc9ba3654ad84976",
+    "/usr/share/man/man1/iceauth.1.gz": "28e3daa3c4172229f0d29308f2e554ca3648b2ac8ef8aba026b57c498c12f99e",
+    "/usr/bin/iceauth": "09f3a66eb95c48b0cbf9748b58756e54b58929e7c04c584516cae4540f219ce8",
+    "/var/log/pacman.log": "cd36c45900e21049832b799c78a4601f074c9f2832bdddca3fb8ac9d77094e1a"
+  }
+}

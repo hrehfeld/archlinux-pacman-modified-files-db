@@ -1,1 +1,5 @@
-{"2.3.2-2": {"/var/log/pacman.log": "6d89081712be8be269a870490e02ac63fbee7f828860be639008b56c7b5ee88d"}}
+{
+  "2.3.2-2": {
+    "/var/log/pacman.log": "6d89081712be8be269a870490e02ac63fbee7f828860be639008b56c7b5ee88d"
+  }
+}

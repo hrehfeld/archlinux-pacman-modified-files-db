@@ -1,1 +1,13 @@
-{"0.22.0-1": {"/usr/share/licenses/serd/LICENSE": "6b730fd9f10ccd96c03461603308887071b1b265f8e01723c3bc2faab9673c6c", "/usr/share/man/man1/serdi.1.gz": "7728b3239065a38d7815b57a363e85145fff429777d7e874ba5de13943b6ec89", "/usr/lib/libserd-0.so": "59a0ab1de0d42ce5ab6bf474d1530e870611f275d63e6d16aeb9d35459d43b48", "/usr/lib/libserd-0.so.0.22.0": "59a0ab1de0d42ce5ab6bf474d1530e870611f275d63e6d16aeb9d35459d43b48", "/usr/lib/libserd-0.so.0": "59a0ab1de0d42ce5ab6bf474d1530e870611f275d63e6d16aeb9d35459d43b48", "/usr/lib/pkgconfig/serd-0.pc": "a37600314b4e99e53ef25efa463a190cb6be6e3dded318075cbedd6117edd587", "/usr/bin/serdi": "dc389e5cd3704731b3387d0c30b86128da85fce81cdcca3b8fe675bb0d4ac989", "/usr/include/serd-0/serd/serd.h": "fb2b48e5f5fc5184549d9cf07f1e77b937439b00b862ea86d9bf1d1c85fe708d", "/var/log/pacman.log": "2d381b74b5a35ab9fc75e17605018be489e7396b21574f343cf2d85310b4c0ba"}}
+{
+  "0.22.0-1": {
+    "/usr/share/licenses/serd/LICENSE": "6b730fd9f10ccd96c03461603308887071b1b265f8e01723c3bc2faab9673c6c",
+    "/usr/share/man/man1/serdi.1.gz": "7728b3239065a38d7815b57a363e85145fff429777d7e874ba5de13943b6ec89",
+    "/usr/lib/libserd-0.so": "59a0ab1de0d42ce5ab6bf474d1530e870611f275d63e6d16aeb9d35459d43b48",
+    "/usr/lib/libserd-0.so.0.22.0": "59a0ab1de0d42ce5ab6bf474d1530e870611f275d63e6d16aeb9d35459d43b48",
+    "/usr/lib/libserd-0.so.0": "59a0ab1de0d42ce5ab6bf474d1530e870611f275d63e6d16aeb9d35459d43b48",
+    "/usr/lib/pkgconfig/serd-0.pc": "a37600314b4e99e53ef25efa463a190cb6be6e3dded318075cbedd6117edd587",
+    "/usr/bin/serdi": "dc389e5cd3704731b3387d0c30b86128da85fce81cdcca3b8fe675bb0d4ac989",
+    "/usr/include/serd-0/serd/serd.h": "fb2b48e5f5fc5184549d9cf07f1e77b937439b00b862ea86d9bf1d1c85fe708d",
+    "/var/log/pacman.log": "2d381b74b5a35ab9fc75e17605018be489e7396b21574f343cf2d85310b4c0ba"
+  }
+}

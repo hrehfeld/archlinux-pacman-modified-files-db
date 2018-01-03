@@ -1,1 +1,29 @@
-{"1.3.5-2": {"/usr/include/rhash_torrent.h": "6e985622b6df184d69ab9304d53f4f333f9102b68f1528900e01c9f9642c6b18", "/usr/include/rhash.h": "cdab85733b289ed6879708ea2d939d3479a103a7e223014833cd7a450110aaa6", "/usr/bin/sfv-hash": "2e7352cfa6c5395bc4a6aa06a018f62b32b4acc3fa06c59442e88de43f103b70", "/usr/bin/gost-hash": "2e7352cfa6c5395bc4a6aa06a018f62b32b4acc3fa06c59442e88de43f103b70", "/usr/bin/has160-hash": "2e7352cfa6c5395bc4a6aa06a018f62b32b4acc3fa06c59442e88de43f103b70", "/usr/bin/tth-hash": "2e7352cfa6c5395bc4a6aa06a018f62b32b4acc3fa06c59442e88de43f103b70", "/usr/bin/ed2k-link": "2e7352cfa6c5395bc4a6aa06a018f62b32b4acc3fa06c59442e88de43f103b70", "/usr/bin/tiger-hash": "2e7352cfa6c5395bc4a6aa06a018f62b32b4acc3fa06c59442e88de43f103b70", "/usr/bin/rhash": "2e7352cfa6c5395bc4a6aa06a018f62b32b4acc3fa06c59442e88de43f103b70", "/usr/bin/magnet-link": "2e7352cfa6c5395bc4a6aa06a018f62b32b4acc3fa06c59442e88de43f103b70", "/usr/bin/whirlpool-hash": "2e7352cfa6c5395bc4a6aa06a018f62b32b4acc3fa06c59442e88de43f103b70", "/usr/share/licenses/rhash/LICENSE": "8cf876d3406a2eed6c17ae804c8958bd78d3a0f63c30d6e2e789ab575e9fde40", "/usr/share/man/man1/whirlpool-hash.1.gz": "b90649d92aeec115c4ff8b8de6bae95ae6f9460557ea9b9d8e0a14914e192b20", "/usr/share/man/man1/rhash.1.gz": "b90649d92aeec115c4ff8b8de6bae95ae6f9460557ea9b9d8e0a14914e192b20", "/usr/share/man/man1/gost-hash.1.gz": "b90649d92aeec115c4ff8b8de6bae95ae6f9460557ea9b9d8e0a14914e192b20", "/usr/share/man/man1/has160-hash.1.gz": "b90649d92aeec115c4ff8b8de6bae95ae6f9460557ea9b9d8e0a14914e192b20", "/usr/share/man/man1/magnet-link.1.gz": "b90649d92aeec115c4ff8b8de6bae95ae6f9460557ea9b9d8e0a14914e192b20", "/usr/share/man/man1/tth-hash.1.gz": "b90649d92aeec115c4ff8b8de6bae95ae6f9460557ea9b9d8e0a14914e192b20", "/usr/share/man/man1/sfv-hash.1.gz": "b90649d92aeec115c4ff8b8de6bae95ae6f9460557ea9b9d8e0a14914e192b20", "/usr/share/man/man1/tiger-hash.1.gz": "b90649d92aeec115c4ff8b8de6bae95ae6f9460557ea9b9d8e0a14914e192b20", "/usr/share/man/man1/ed2k-link.1.gz": "b90649d92aeec115c4ff8b8de6bae95ae6f9460557ea9b9d8e0a14914e192b20", "/usr/lib/librhash.so": "795c878071d8dc4a89957f3c7d951972aa8815ac05af2307a5fb7ce86e4a4ff6", "/usr/lib/librhash.so.0": "795c878071d8dc4a89957f3c7d951972aa8815ac05af2307a5fb7ce86e4a4ff6", "/var/log/pacman.log": "7759a40c0c5053111fefe65d0f57c6a4e16738154cbda172e732c4aa4af5c501", "/etc/rhashrc": "8f1f9acb492a6b7a454baa107d6aff21d92a6f5303be2cc4445602bec55295b3"}}
+{
+  "1.3.5-2": {
+    "/usr/include/rhash_torrent.h": "6e985622b6df184d69ab9304d53f4f333f9102b68f1528900e01c9f9642c6b18",
+    "/usr/include/rhash.h": "cdab85733b289ed6879708ea2d939d3479a103a7e223014833cd7a450110aaa6",
+    "/usr/bin/sfv-hash": "2e7352cfa6c5395bc4a6aa06a018f62b32b4acc3fa06c59442e88de43f103b70",
+    "/usr/bin/gost-hash": "2e7352cfa6c5395bc4a6aa06a018f62b32b4acc3fa06c59442e88de43f103b70",
+    "/usr/bin/has160-hash": "2e7352cfa6c5395bc4a6aa06a018f62b32b4acc3fa06c59442e88de43f103b70",
+    "/usr/bin/tth-hash": "2e7352cfa6c5395bc4a6aa06a018f62b32b4acc3fa06c59442e88de43f103b70",
+    "/usr/bin/ed2k-link": "2e7352cfa6c5395bc4a6aa06a018f62b32b4acc3fa06c59442e88de43f103b70",
+    "/usr/bin/tiger-hash": "2e7352cfa6c5395bc4a6aa06a018f62b32b4acc3fa06c59442e88de43f103b70",
+    "/usr/bin/rhash": "2e7352cfa6c5395bc4a6aa06a018f62b32b4acc3fa06c59442e88de43f103b70",
+    "/usr/bin/magnet-link": "2e7352cfa6c5395bc4a6aa06a018f62b32b4acc3fa06c59442e88de43f103b70",
+    "/usr/bin/whirlpool-hash": "2e7352cfa6c5395bc4a6aa06a018f62b32b4acc3fa06c59442e88de43f103b70",
+    "/usr/share/licenses/rhash/LICENSE": "8cf876d3406a2eed6c17ae804c8958bd78d3a0f63c30d6e2e789ab575e9fde40",
+    "/usr/share/man/man1/whirlpool-hash.1.gz": "b90649d92aeec115c4ff8b8de6bae95ae6f9460557ea9b9d8e0a14914e192b20",
+    "/usr/share/man/man1/rhash.1.gz": "b90649d92aeec115c4ff8b8de6bae95ae6f9460557ea9b9d8e0a14914e192b20",
+    "/usr/share/man/man1/gost-hash.1.gz": "b90649d92aeec115c4ff8b8de6bae95ae6f9460557ea9b9d8e0a14914e192b20",
+    "/usr/share/man/man1/has160-hash.1.gz": "b90649d92aeec115c4ff8b8de6bae95ae6f9460557ea9b9d8e0a14914e192b20",
+    "/usr/share/man/man1/magnet-link.1.gz": "b90649d92aeec115c4ff8b8de6bae95ae6f9460557ea9b9d8e0a14914e192b20",
+    "/usr/share/man/man1/tth-hash.1.gz": "b90649d92aeec115c4ff8b8de6bae95ae6f9460557ea9b9d8e0a14914e192b20",
+    "/usr/share/man/man1/sfv-hash.1.gz": "b90649d92aeec115c4ff8b8de6bae95ae6f9460557ea9b9d8e0a14914e192b20",
+    "/usr/share/man/man1/tiger-hash.1.gz": "b90649d92aeec115c4ff8b8de6bae95ae6f9460557ea9b9d8e0a14914e192b20",
+    "/usr/share/man/man1/ed2k-link.1.gz": "b90649d92aeec115c4ff8b8de6bae95ae6f9460557ea9b9d8e0a14914e192b20",
+    "/usr/lib/librhash.so": "795c878071d8dc4a89957f3c7d951972aa8815ac05af2307a5fb7ce86e4a4ff6",
+    "/usr/lib/librhash.so.0": "795c878071d8dc4a89957f3c7d951972aa8815ac05af2307a5fb7ce86e4a4ff6",
+    "/var/log/pacman.log": "7759a40c0c5053111fefe65d0f57c6a4e16738154cbda172e732c4aa4af5c501",
+    "/etc/rhashrc": "8f1f9acb492a6b7a454baa107d6aff21d92a6f5303be2cc4445602bec55295b3"
+  }
+}

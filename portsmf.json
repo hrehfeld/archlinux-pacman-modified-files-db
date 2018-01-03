@@ -1,1 +1,16 @@
-{"228-2": {"/usr/share/licenses/portsmf/LICENSE": "9fe286296c8ccfd148bfc5da0b46b63d1d4d4e42996ad3d39da8090383a165da", "/usr/share/doc/portsmf/license.txt": "9fe286296c8ccfd148bfc5da0b46b63d1d4d4e42996ad3d39da8090383a165da", "/usr/share/doc/portsmf/README.txt": "88ae42fdf2c2ec06510d4c369a5c0a856a0b98b5702d8efdb0b74d9ba7d0e241", "/usr/lib/libportSMF.so.0.0.0": "3ca3bb26295476c19528c21a4b458936702f1324bf751e6e96b003af7f5778de", "/usr/lib/libportSMF.so": "3ca3bb26295476c19528c21a4b458936702f1324bf751e6e96b003af7f5778de", "/usr/lib/libportSMF.so.0": "3ca3bb26295476c19528c21a4b458936702f1324bf751e6e96b003af7f5778de", "/usr/lib/pkgconfig/portSMF.pc": "de6a163b8d78e0e29a1e75ea398da266a455379d3df76e8ab2f4ad52f6c2fbac", "/usr/include/portsmf/trace.h": "39efe58e54ad19796c8fa56db5e57601387a6a2ff4e0325ab409f54d90f292a8", "/usr/include/portsmf/strparse.h": "571f7ac3ab43a00b1fd515d59910888d68eeda1b2175339f736f66b16cd67af1", "/usr/include/portsmf/mfmidi.h": "7cd699bb770b834218b46f8bfca9eb67174b26c8c5041005ca7f8fad5af8dab5", "/usr/include/portsmf/allegro.h": "ecc68379cdbc0b5344d3e6da9bece47d5907f687d5809ae08525743992c8ad43", "/var/log/pacman.log": "9ce4e5c01729ceefa27108ffe3d2775a04c4978239a1cb290a317ad9f4977093"}}
+{
+  "228-2": {
+    "/usr/share/licenses/portsmf/LICENSE": "9fe286296c8ccfd148bfc5da0b46b63d1d4d4e42996ad3d39da8090383a165da",
+    "/usr/share/doc/portsmf/license.txt": "9fe286296c8ccfd148bfc5da0b46b63d1d4d4e42996ad3d39da8090383a165da",
+    "/usr/share/doc/portsmf/README.txt": "88ae42fdf2c2ec06510d4c369a5c0a856a0b98b5702d8efdb0b74d9ba7d0e241",
+    "/usr/lib/libportSMF.so.0.0.0": "3ca3bb26295476c19528c21a4b458936702f1324bf751e6e96b003af7f5778de",
+    "/usr/lib/libportSMF.so": "3ca3bb26295476c19528c21a4b458936702f1324bf751e6e96b003af7f5778de",
+    "/usr/lib/libportSMF.so.0": "3ca3bb26295476c19528c21a4b458936702f1324bf751e6e96b003af7f5778de",
+    "/usr/lib/pkgconfig/portSMF.pc": "de6a163b8d78e0e29a1e75ea398da266a455379d3df76e8ab2f4ad52f6c2fbac",
+    "/usr/include/portsmf/trace.h": "39efe58e54ad19796c8fa56db5e57601387a6a2ff4e0325ab409f54d90f292a8",
+    "/usr/include/portsmf/strparse.h": "571f7ac3ab43a00b1fd515d59910888d68eeda1b2175339f736f66b16cd67af1",
+    "/usr/include/portsmf/mfmidi.h": "7cd699bb770b834218b46f8bfca9eb67174b26c8c5041005ca7f8fad5af8dab5",
+    "/usr/include/portsmf/allegro.h": "ecc68379cdbc0b5344d3e6da9bece47d5907f687d5809ae08525743992c8ad43",
+    "/var/log/pacman.log": "9ce4e5c01729ceefa27108ffe3d2775a04c4978239a1cb290a317ad9f4977093"
+  }
+}

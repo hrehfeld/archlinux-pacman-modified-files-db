@@ -1,1 +1,14 @@
-{"0.7.6-2": {"/usr/share/licenses/optipng/LICENSE": "d9c1c981a4bf2084a237d1201657f620d832e4064665aba2d9731ccdea0853c4", "/usr/share/man/man1/optipng.1.gz": "06c5f7460ec510bb1a6034a95b47a4dd6d07a25a1bf66ad1e27839a9977ed405", "/usr/bin/optipng": "7684cc167ef28a95275048274f68584d1163baa57ff1922383c021761e1ad99a", "/var/log/pacman.log": "86e5d0b9c9927001ef4bc6d4acb25897b7870690f7cc1fccb5a73c4105818a52"}}
+{
+  "0.7.6-2": {
+    "/usr/share/licenses/optipng/LICENSE": "d9c1c981a4bf2084a237d1201657f620d832e4064665aba2d9731ccdea0853c4",
+    "/usr/share/man/man1/optipng.1.gz": "06c5f7460ec510bb1a6034a95b47a4dd6d07a25a1bf66ad1e27839a9977ed405",
+    "/usr/bin/optipng": "7684cc167ef28a95275048274f68584d1163baa57ff1922383c021761e1ad99a",
+    "/var/log/pacman.log": "86e5d0b9c9927001ef4bc6d4acb25897b7870690f7cc1fccb5a73c4105818a52"
+  },
+  "0.7.7-1": {
+    "/usr/bin/optipng": "2d9a2d18425ff21716356f42ac0e625a6d4da55dd130f74c0831e365f0ca4429",
+    "/usr/share/man/man1/optipng.1.gz": "a30ce73bbce23b3c58d1c5a327e07eca661b4854ca5a605f2b72aa078e4e6bd2",
+    "/usr/share/licenses/optipng/LICENSE": "0d7d70c267700f931268ea668a432a642fe673416783885d24844262aa036ee6",
+    "/var/log/pacman.log": "797d14b4278426196adf4b5870ddd425d0a2ced594e2f7253181eeb243f93b74"
+  }
+}

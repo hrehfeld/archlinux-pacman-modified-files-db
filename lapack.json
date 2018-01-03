@@ -1,1 +1,26 @@
-{"3.7.1-2": {"/usr/lib/liblapack.so.3": "44ede389cbf281d8e54ed4bfb4c9b5b81b80fb8f78a4d7f8fadb92f53e121b78", "/usr/lib/liblapack.so": "44ede389cbf281d8e54ed4bfb4c9b5b81b80fb8f78a4d7f8fadb92f53e121b78", "/usr/lib/libtmglib.so": "7672cf2a7fabd46e0c6f6626bb174001f5ba728c5f1b505f998162f4cc9173d6", "/usr/lib/liblapack.so.3.7.1": "44ede389cbf281d8e54ed4bfb4c9b5b81b80fb8f78a4d7f8fadb92f53e121b78", "/usr/lib/cmake/lapack-3.7.1/lapack-targets.cmake": "2d912083fc7a059d82ee145adf2c6bfd79d51265457f6205ec97db032d7fff15", "/usr/lib/cmake/lapack-3.7.1/lapack-targets-release.cmake": "83d567fc57c3498fed4a8a06690bcba3bfde2bc09a70662562d95ab292677c15", "/usr/lib/cmake/lapack-3.7.1/lapack-config.cmake": "8ef90c7a95542e467f701dcb9344df4d4951af1d4a621e7640ebda73a33d41f4", "/usr/lib/cmake/lapack-3.7.1/lapack-config-version.cmake": "fba5537e87c3f727e189080653d8643b52e9781b78d690ba40e81e9464ceea6f", "/usr/lib/pkgconfig/lapack.pc": "46d248cad6b0669aed4af7382b28dad2f76249977ad2c2ef145adf035aca2ee2", "/var/log/pacman.log": "6902df20862b424e1f695778f3d6eb8a37489fb1d570cf89e494a9838b51c7de"}, "3.8.0-1": {"/usr/lib/liblapack.so.3": "c1c20fa26784fe6705ab31695a3fd00c3977d564fd9d4f9127c3616207451857", "/usr/lib/liblapack.so": "c1c20fa26784fe6705ab31695a3fd00c3977d564fd9d4f9127c3616207451857", "/usr/lib/libtmglib.so": "f0f3a900f42b3fdb1ed521ad587dbc0c5e40e223184003dd7acbc206e1f907d5", "/usr/lib/liblapack.so.3.8.0": "c1c20fa26784fe6705ab31695a3fd00c3977d564fd9d4f9127c3616207451857", "/usr/lib/cmake/lapack-3.8.0/lapack-targets.cmake": "b800d3311d67d1d4dd7554fcb995e30e4f9d40459d7404e8e4968a60ea2d1910", "/usr/lib/cmake/lapack-3.8.0/lapack-targets-release.cmake": "aeac28535bc3e9282a12d13610670edcaf9a947ac0f1118bf9226d3c0d4f1506", "/usr/lib/cmake/lapack-3.8.0/lapack-config.cmake": "8ef90c7a95542e467f701dcb9344df4d4951af1d4a621e7640ebda73a33d41f4", "/usr/lib/cmake/lapack-3.8.0/lapack-config-version.cmake": "2c880f8a08766559616c086f5a87b3c7e86a3c6f7083eca8d4432e8c6a691e7d", "/usr/lib/pkgconfig/lapack.pc": "7d7aef2c132c3a045d0af94141e6581dd63039273c3a33a030483a89f1652560", "/var/log/pacman.log": "e9d62ac356c1ce07bcf0e9729cee264701c32296ae69662098662c4a41931328"}}
+{
+  "3.7.1-2": {
+    "/usr/lib/liblapack.so.3": "44ede389cbf281d8e54ed4bfb4c9b5b81b80fb8f78a4d7f8fadb92f53e121b78",
+    "/usr/lib/liblapack.so": "44ede389cbf281d8e54ed4bfb4c9b5b81b80fb8f78a4d7f8fadb92f53e121b78",
+    "/usr/lib/libtmglib.so": "7672cf2a7fabd46e0c6f6626bb174001f5ba728c5f1b505f998162f4cc9173d6",
+    "/usr/lib/liblapack.so.3.7.1": "44ede389cbf281d8e54ed4bfb4c9b5b81b80fb8f78a4d7f8fadb92f53e121b78",
+    "/usr/lib/cmake/lapack-3.7.1/lapack-targets.cmake": "2d912083fc7a059d82ee145adf2c6bfd79d51265457f6205ec97db032d7fff15",
+    "/usr/lib/cmake/lapack-3.7.1/lapack-targets-release.cmake": "83d567fc57c3498fed4a8a06690bcba3bfde2bc09a70662562d95ab292677c15",
+    "/usr/lib/cmake/lapack-3.7.1/lapack-config.cmake": "8ef90c7a95542e467f701dcb9344df4d4951af1d4a621e7640ebda73a33d41f4",
+    "/usr/lib/cmake/lapack-3.7.1/lapack-config-version.cmake": "fba5537e87c3f727e189080653d8643b52e9781b78d690ba40e81e9464ceea6f",
+    "/usr/lib/pkgconfig/lapack.pc": "46d248cad6b0669aed4af7382b28dad2f76249977ad2c2ef145adf035aca2ee2",
+    "/var/log/pacman.log": "6902df20862b424e1f695778f3d6eb8a37489fb1d570cf89e494a9838b51c7de"
+  },
+  "3.8.0-1": {
+    "/usr/lib/liblapack.so.3": "c1c20fa26784fe6705ab31695a3fd00c3977d564fd9d4f9127c3616207451857",
+    "/usr/lib/liblapack.so": "c1c20fa26784fe6705ab31695a3fd00c3977d564fd9d4f9127c3616207451857",
+    "/usr/lib/libtmglib.so": "f0f3a900f42b3fdb1ed521ad587dbc0c5e40e223184003dd7acbc206e1f907d5",
+    "/usr/lib/liblapack.so.3.8.0": "c1c20fa26784fe6705ab31695a3fd00c3977d564fd9d4f9127c3616207451857",
+    "/usr/lib/cmake/lapack-3.8.0/lapack-targets.cmake": "b800d3311d67d1d4dd7554fcb995e30e4f9d40459d7404e8e4968a60ea2d1910",
+    "/usr/lib/cmake/lapack-3.8.0/lapack-targets-release.cmake": "aeac28535bc3e9282a12d13610670edcaf9a947ac0f1118bf9226d3c0d4f1506",
+    "/usr/lib/cmake/lapack-3.8.0/lapack-config.cmake": "8ef90c7a95542e467f701dcb9344df4d4951af1d4a621e7640ebda73a33d41f4",
+    "/usr/lib/cmake/lapack-3.8.0/lapack-config-version.cmake": "2c880f8a08766559616c086f5a87b3c7e86a3c6f7083eca8d4432e8c6a691e7d",
+    "/usr/lib/pkgconfig/lapack.pc": "7d7aef2c132c3a045d0af94141e6581dd63039273c3a33a030483a89f1652560",
+    "/var/log/pacman.log": "e9d62ac356c1ce07bcf0e9729cee264701c32296ae69662098662c4a41931328"
+  }
+}

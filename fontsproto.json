@@ -1,1 +1,14 @@
-{"2.1.3-2": {"/usr/share/doc/fontsproto/fsproto.xml": "4c31347982d0b3ab54151f74a4b0976e55fbed754954b6cea8dc3a472a2c10d6", "/usr/share/licenses/fontsproto/COPYING": "f4af05774b02ae149357cc26f7bf5ef1116c2e09373c2492081a3a1892c58417", "/usr/include/X11/fonts/font.h": "8a380242a874d1afe4919597178e678f74eb13a0e08e858d889d0f97db4f4632", "/usr/include/X11/fonts/fontproto.h": "06ed222462304078d1a97217b265344c1f646885b311388f4f413e172e490f6a", "/usr/include/X11/fonts/fontstruct.h": "d77ce2f6a3ed4da0696457a944740106ababd0be2400304b8ba6bbcbd35b76ed", "/usr/include/X11/fonts/FS.h": "7fe2d3648e6499d404af870bd9e227e9ab8fd79ef1392ce016f7e243a7fa5722", "/usr/include/X11/fonts/fsmasks.h": "e4e7f0248c73f2a5878f0d65b1e4145951f1b1ccc0901b1ea752a84cc0fe121d", "/usr/include/X11/fonts/FSproto.h": "5fc98cbd5c41f2188c87b823d9f2cc056f75bf8d4532329d7acda71bed21e1e3", "/usr/lib/pkgconfig/fontsproto.pc": "3ae4ec69ddfe3faf654919ec2c28803be03a5b831e085553b9666fee4f444e40", "/var/log/pacman.log": "eefa27d6124330203c1835696e92687c887983e9dfdabc9fb67ae8ea74610236"}}
+{
+  "2.1.3-2": {
+    "/usr/share/doc/fontsproto/fsproto.xml": "4c31347982d0b3ab54151f74a4b0976e55fbed754954b6cea8dc3a472a2c10d6",
+    "/usr/share/licenses/fontsproto/COPYING": "f4af05774b02ae149357cc26f7bf5ef1116c2e09373c2492081a3a1892c58417",
+    "/usr/include/X11/fonts/font.h": "8a380242a874d1afe4919597178e678f74eb13a0e08e858d889d0f97db4f4632",
+    "/usr/include/X11/fonts/fontproto.h": "06ed222462304078d1a97217b265344c1f646885b311388f4f413e172e490f6a",
+    "/usr/include/X11/fonts/fontstruct.h": "d77ce2f6a3ed4da0696457a944740106ababd0be2400304b8ba6bbcbd35b76ed",
+    "/usr/include/X11/fonts/FS.h": "7fe2d3648e6499d404af870bd9e227e9ab8fd79ef1392ce016f7e243a7fa5722",
+    "/usr/include/X11/fonts/fsmasks.h": "e4e7f0248c73f2a5878f0d65b1e4145951f1b1ccc0901b1ea752a84cc0fe121d",
+    "/usr/include/X11/fonts/FSproto.h": "5fc98cbd5c41f2188c87b823d9f2cc056f75bf8d4532329d7acda71bed21e1e3",
+    "/usr/lib/pkgconfig/fontsproto.pc": "3ae4ec69ddfe3faf654919ec2c28803be03a5b831e085553b9666fee4f444e40",
+    "/var/log/pacman.log": "eefa27d6124330203c1835696e92687c887983e9dfdabc9fb67ae8ea74610236"
+  }
+}

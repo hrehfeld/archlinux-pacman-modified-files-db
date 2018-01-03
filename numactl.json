@@ -1,1 +1,42 @@
-{"2.0.11-1": {"/usr/bin/memhog": "5a73ba296ef16a6ccfbb36e8fa8fcca74ace714fca7ea92ae40831bf98a5ab3a", "/usr/bin/migspeed": "89926efdba1fa3a2a7ae0146ec34df8d121436437a6e8ed7a67904850777c00c", "/usr/bin/migratepages": "225bc13f8b2fc0d8c9ae75157d93592106a2b6a4329ecb5d45fa2946fc3100a0", "/usr/bin/numademo": "cca7636b9b21a2b5f8de96248340cd2f6f7c9c7589921de2517ef43e66731bcf", "/usr/bin/numastat": "a42f6b748af28a3c760d937aa2437472e38da10bee1931aeb2d42e943bd8c3d4", "/usr/bin/numactl": "6022b8dadeaba59aa54d88a3f2ee9ceb82d9037491ccc9f3434474f73cab3bb2", "/usr/lib/libnuma.so.1.0.0": "6ab1d437ae36c26edf5ce98cfe66d747a5bc85a6ae9a65fb75477fb94e4ac0b5", "/usr/lib/libnuma.so": "6ab1d437ae36c26edf5ce98cfe66d747a5bc85a6ae9a65fb75477fb94e4ac0b5", "/usr/lib/libnuma.so.1": "6ab1d437ae36c26edf5ce98cfe66d747a5bc85a6ae9a65fb75477fb94e4ac0b5", "/usr/share/man/man8/migspeed.8.gz": "5933eca11cb469eaa4b044fdca2d7eba7c9be02f33e513dcd5dd8abe2b582357", "/usr/share/man/man8/migratepages.8.gz": "6f1c4546d43619ad235758a02c150a48454cdaa23fb22dc6521b68574666d834", "/usr/share/man/man8/numastat.8.gz": "50d99d0d81f28a256daf1c82b4d416ab9096ddbf102892a939912d004405dd67", "/usr/share/man/man8/numactl.8.gz": "e64ac1b5ea76c0de79a6b4372cce822be7a7dd4e906e3b044f5a6a21f1a0648c", "/usr/share/man/man3/numa.3.gz": "9a3af3e84938935b77cb5aaa50d38fdc2603feb07c4f684af2cfabdc23df1a65", "/usr/include/numaif.h": "acf583a5de2aeb76f19b0c5de54a88f80bc65a458cd9d9e146362b2b1ecf0366", "/usr/include/numacompat1.h": "cfe32ae7891dd0620a6bd80605e0c52db34be4dedd855329452b4a6cece220a4", "/usr/include/numa.h": "85297dea9256f051e4a42ddb76553d722244621a2ce2de5917d99775fff6551f", "/var/log/pacman.log": "503153ea8b963b027e8732cd2aff1c0334d9be7a49d289b300470c5f651f726a"}}
+{
+  "2.0.11-1": {
+    "/usr/bin/memhog": "5a73ba296ef16a6ccfbb36e8fa8fcca74ace714fca7ea92ae40831bf98a5ab3a",
+    "/usr/bin/migspeed": "89926efdba1fa3a2a7ae0146ec34df8d121436437a6e8ed7a67904850777c00c",
+    "/usr/bin/migratepages": "225bc13f8b2fc0d8c9ae75157d93592106a2b6a4329ecb5d45fa2946fc3100a0",
+    "/usr/bin/numademo": "cca7636b9b21a2b5f8de96248340cd2f6f7c9c7589921de2517ef43e66731bcf",
+    "/usr/bin/numastat": "a42f6b748af28a3c760d937aa2437472e38da10bee1931aeb2d42e943bd8c3d4",
+    "/usr/bin/numactl": "6022b8dadeaba59aa54d88a3f2ee9ceb82d9037491ccc9f3434474f73cab3bb2",
+    "/usr/lib/libnuma.so.1.0.0": "6ab1d437ae36c26edf5ce98cfe66d747a5bc85a6ae9a65fb75477fb94e4ac0b5",
+    "/usr/lib/libnuma.so": "6ab1d437ae36c26edf5ce98cfe66d747a5bc85a6ae9a65fb75477fb94e4ac0b5",
+    "/usr/lib/libnuma.so.1": "6ab1d437ae36c26edf5ce98cfe66d747a5bc85a6ae9a65fb75477fb94e4ac0b5",
+    "/usr/share/man/man8/migspeed.8.gz": "5933eca11cb469eaa4b044fdca2d7eba7c9be02f33e513dcd5dd8abe2b582357",
+    "/usr/share/man/man8/migratepages.8.gz": "6f1c4546d43619ad235758a02c150a48454cdaa23fb22dc6521b68574666d834",
+    "/usr/share/man/man8/numastat.8.gz": "50d99d0d81f28a256daf1c82b4d416ab9096ddbf102892a939912d004405dd67",
+    "/usr/share/man/man8/numactl.8.gz": "e64ac1b5ea76c0de79a6b4372cce822be7a7dd4e906e3b044f5a6a21f1a0648c",
+    "/usr/share/man/man3/numa.3.gz": "9a3af3e84938935b77cb5aaa50d38fdc2603feb07c4f684af2cfabdc23df1a65",
+    "/usr/include/numaif.h": "acf583a5de2aeb76f19b0c5de54a88f80bc65a458cd9d9e146362b2b1ecf0366",
+    "/usr/include/numacompat1.h": "cfe32ae7891dd0620a6bd80605e0c52db34be4dedd855329452b4a6cece220a4",
+    "/usr/include/numa.h": "85297dea9256f051e4a42ddb76553d722244621a2ce2de5917d99775fff6551f",
+    "/var/log/pacman.log": "503153ea8b963b027e8732cd2aff1c0334d9be7a49d289b300470c5f651f726a"
+  },
+  "2.0.11-2": {
+    "/usr/include/numacompat1.h": "cfe32ae7891dd0620a6bd80605e0c52db34be4dedd855329452b4a6cece220a4",
+    "/usr/include/numaif.h": "acf583a5de2aeb76f19b0c5de54a88f80bc65a458cd9d9e146362b2b1ecf0366",
+    "/usr/include/numa.h": "85297dea9256f051e4a42ddb76553d722244621a2ce2de5917d99775fff6551f",
+    "/usr/lib/libnuma.so.1": "8c1349e4c7b34b2bf20cf927b81f0c3eb7f6dc05b6efbe26404d3eebf75883c1",
+    "/usr/lib/libnuma.so.1.0.0": "8c1349e4c7b34b2bf20cf927b81f0c3eb7f6dc05b6efbe26404d3eebf75883c1",
+    "/usr/lib/libnuma.so": "8c1349e4c7b34b2bf20cf927b81f0c3eb7f6dc05b6efbe26404d3eebf75883c1",
+    "/usr/share/man/man8/migspeed.8.gz": "5933eca11cb469eaa4b044fdca2d7eba7c9be02f33e513dcd5dd8abe2b582357",
+    "/usr/share/man/man8/numactl.8.gz": "e64ac1b5ea76c0de79a6b4372cce822be7a7dd4e906e3b044f5a6a21f1a0648c",
+    "/usr/share/man/man8/migratepages.8.gz": "6f1c4546d43619ad235758a02c150a48454cdaa23fb22dc6521b68574666d834",
+    "/usr/share/man/man8/numastat.8.gz": "50d99d0d81f28a256daf1c82b4d416ab9096ddbf102892a939912d004405dd67",
+    "/usr/share/man/man3/numa.3.gz": "9a3af3e84938935b77cb5aaa50d38fdc2603feb07c4f684af2cfabdc23df1a65",
+    "/usr/bin/migratepages": "f40d262dca0c597b151b742f1b382d652b0f1bd7f1404645dd1f26437cf12e6d",
+    "/usr/bin/numastat": "f6ba98d8e5e925b310594bca8aa364f7312fbc4f3426c962c1be290c3ef6a8d0",
+    "/usr/bin/numactl": "0c5078b40dc710bcdd58c0ba10a0a239031bfb8592351e4e76640c174d129392",
+    "/usr/bin/numademo": "b0974dabfb24a55afba25178963c450b8770d08ac09d3f42dfa09000a20a631a",
+    "/usr/bin/memhog": "2db2ab2d5124f4e96ae22e6fc93b860aeb378976fb5e9b91dc5b423561d91144",
+    "/usr/bin/migspeed": "79028d598caf62d8d4a1258b5755b66df95c1e3d324bce36e758dc67a421ea37",
+    "/var/log/pacman.log": "f27d2d70bc8944a2547884bf61c48ab945fabb415266dda1ecfd1a0e52007859"
+  }
+}

@@ -1,1 +1,14 @@
-{"1:1.2.11-2": {"/usr/lib/libz.so": "f955d80803f61b8a4e666f1dfa78a6d2f16676355fb37dd4466f049fefcdfbb4", "/usr/lib/libz.so.1": "f955d80803f61b8a4e666f1dfa78a6d2f16676355fb37dd4466f049fefcdfbb4", "/usr/lib/libz.so.1.2.11": "f955d80803f61b8a4e666f1dfa78a6d2f16676355fb37dd4466f049fefcdfbb4", "/usr/lib/libz.a": "f3cfafeeff0590f4ead4e8a9456f37019dd272d708a13cee4459e3fc22ff40b5", "/usr/lib/pkgconfig/zlib.pc": "a488958a8230960589c0346f579404208d4a32ca8f9afaa3f3e6b78c838d1632", "/usr/share/man/man3/zlib.3.gz": "fea54050627f9867e4dbc4189e11ef2716ec4040ba6c5b139b16225d66ffab12", "/usr/share/licenses/zlib/LICENSE": "b8dc97ec24faf95f0f30bf2ab721dbdc30b32de1aa4a2a5853e56551c59d6f04", "/usr/include/zlib.h": "4ddc82b4af931ab55f44d977bde81bfbc4151b5dcdccc03142831a301b5ec3c8", "/usr/include/zconf.h": "77304005ceb5f0d03ad4c37eb8386a10866e4ceeb204f7c3b6599834c7319541", "/var/log/pacman.log": "826000c14061c7ebab9c52eab9ba58ee82d74b805837a8e93121fae47dfb742c"}}
+{
+  "1:1.2.11-2": {
+    "/usr/lib/libz.so": "f955d80803f61b8a4e666f1dfa78a6d2f16676355fb37dd4466f049fefcdfbb4",
+    "/usr/lib/libz.so.1": "f955d80803f61b8a4e666f1dfa78a6d2f16676355fb37dd4466f049fefcdfbb4",
+    "/usr/lib/libz.so.1.2.11": "f955d80803f61b8a4e666f1dfa78a6d2f16676355fb37dd4466f049fefcdfbb4",
+    "/usr/lib/libz.a": "f3cfafeeff0590f4ead4e8a9456f37019dd272d708a13cee4459e3fc22ff40b5",
+    "/usr/lib/pkgconfig/zlib.pc": "a488958a8230960589c0346f579404208d4a32ca8f9afaa3f3e6b78c838d1632",
+    "/usr/share/man/man3/zlib.3.gz": "fea54050627f9867e4dbc4189e11ef2716ec4040ba6c5b139b16225d66ffab12",
+    "/usr/share/licenses/zlib/LICENSE": "b8dc97ec24faf95f0f30bf2ab721dbdc30b32de1aa4a2a5853e56551c59d6f04",
+    "/usr/include/zlib.h": "4ddc82b4af931ab55f44d977bde81bfbc4151b5dcdccc03142831a301b5ec3c8",
+    "/usr/include/zconf.h": "77304005ceb5f0d03ad4c37eb8386a10866e4ceeb204f7c3b6599834c7319541",
+    "/var/log/pacman.log": "826000c14061c7ebab9c52eab9ba58ee82d74b805837a8e93121fae47dfb742c"
+  }
+}

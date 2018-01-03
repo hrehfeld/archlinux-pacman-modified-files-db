@@ -1,1 +1,39 @@
-{"4.5-1": {"/usr/share/haskell/register/haskell-either.sh": "5d3768d7535617ada32ca087af6308734572eee463564a40cbcdd7e1be795e86", "/usr/share/haskell/unregister/haskell-either.sh": "d63f19db7daf1c75a9a8e38871629100ec60800956c00c45761283d88a52e382", "/usr/share/licenses/haskell-either/LICENSE": "417f3f0bc725643573d2258169fa0c0c140e628128abfd543995be3bfbc2ecab", "/usr/lib/libHSeither-4.5-LYT0d6MLKlX83NrOtw2Pp2-ghc8.2.1.so": "592220b34e2203d9e6c29e885d8b461f7e1b3e1a8b202864412e685dd2bbc81a", "/usr/lib/ghc-8.2.1/site-local/either-4.5/Control/Monad/Trans/Either.dyn_hi": "53fd302e5bf551edf799323fa331992764312b2158a3493ddef72caa38e775b5", "/usr/lib/ghc-8.2.1/site-local/either-4.5/Data/Either/Combinators.dyn_hi": "d654f6cb46378d0888801b6f83b8801de611823c2e15151a66cb0f4ef5835b13", "/usr/lib/ghc-8.2.1/site-local/either-4.5/Data/Either/Validation.dyn_hi": "d1cf073febde58b7811f344d074e6dfe36c6a670ea77b127541b8242a0dc74a1", "/var/log/pacman.log": "c192726b4da4e16c4c03d56a27b27136493420b2d60237a79393785fe4a2fc89"}, "5-1": {"/usr/share/haskell/register/haskell-either.sh": "ad8c1ece22296b7309fce25d0c012c1c506e987c712136e6726071df1b3aec3d", "/usr/share/haskell/unregister/haskell-either.sh": "8c9df16c0c87a0a09a6b9209c6136500af051c2e7fc9fa0b835ca0ad358a23c7", "/usr/share/licenses/haskell-either/LICENSE": "417f3f0bc725643573d2258169fa0c0c140e628128abfd543995be3bfbc2ecab", "/usr/lib/libHSeither-5-5e6I5HM3Bkz1pvSB6HKjkI-ghc8.2.2.so": "b0c72fef0d727c329969af25332b8da7130fc46494ed21443480bcf9a6736903", "/usr/lib/ghc-8.2.2/site-local/either-5/Data/Either/Combinators.dyn_hi": "3744eca052acc7dc5066eba1ac12a4cfb45f0445140973e914b27bf36482aa42", "/usr/lib/ghc-8.2.2/site-local/either-5/Data/Either/Validation.dyn_hi": "29cbb60e2e7b316779f06c4d5469a5f71ff156d2895691d2c73d93c5c48216ca", "/var/log/pacman.log": "6dc0384c63daee3a0ef65954a7f0d5023da39deba07cc756732eb353606e6c95"}, "5-2": {"/usr/share/haskell/register/haskell-either.sh": "f14bc94f80fa148697aba5babe8620b90ed767107022930d577519f1680a7248", "/usr/share/haskell/unregister/haskell-either.sh": "8c9df16c0c87a0a09a6b9209c6136500af051c2e7fc9fa0b835ca0ad358a23c7", "/usr/share/licenses/haskell-either/LICENSE": "417f3f0bc725643573d2258169fa0c0c140e628128abfd543995be3bfbc2ecab", "/usr/lib/libHSeither-5-8C0CQhohxnUI5Cisu0Hdr3-ghc8.2.2.so": "c39d20150b87568b9286c6be4b2ee848868ed80913bc2e3525b9bcc760823b15", "/usr/lib/ghc-8.2.2/site-local/either-5/Data/Either/Combinators.dyn_hi": "63e06fd487f1bb121763e1aa997491bb9b6d4afbea0b8401fd3b1c90633851fe", "/usr/lib/ghc-8.2.2/site-local/either-5/Data/Either/Validation.dyn_hi": "8e3209ec6cec6287dfca24d5020aeaca4f187d56601c814521eb24e78e93699c", "/var/log/pacman.log": "a84ab152b4cc84ca2009f6863d9a94fcb8a7d72defcbe95b293efa7e0e9619e0"}}
+{
+  "4.5-1": {
+    "/usr/share/haskell/register/haskell-either.sh": "5d3768d7535617ada32ca087af6308734572eee463564a40cbcdd7e1be795e86",
+    "/usr/share/haskell/unregister/haskell-either.sh": "d63f19db7daf1c75a9a8e38871629100ec60800956c00c45761283d88a52e382",
+    "/usr/share/licenses/haskell-either/LICENSE": "417f3f0bc725643573d2258169fa0c0c140e628128abfd543995be3bfbc2ecab",
+    "/usr/lib/libHSeither-4.5-LYT0d6MLKlX83NrOtw2Pp2-ghc8.2.1.so": "592220b34e2203d9e6c29e885d8b461f7e1b3e1a8b202864412e685dd2bbc81a",
+    "/usr/lib/ghc-8.2.1/site-local/either-4.5/Control/Monad/Trans/Either.dyn_hi": "53fd302e5bf551edf799323fa331992764312b2158a3493ddef72caa38e775b5",
+    "/usr/lib/ghc-8.2.1/site-local/either-4.5/Data/Either/Combinators.dyn_hi": "d654f6cb46378d0888801b6f83b8801de611823c2e15151a66cb0f4ef5835b13",
+    "/usr/lib/ghc-8.2.1/site-local/either-4.5/Data/Either/Validation.dyn_hi": "d1cf073febde58b7811f344d074e6dfe36c6a670ea77b127541b8242a0dc74a1",
+    "/var/log/pacman.log": "c192726b4da4e16c4c03d56a27b27136493420b2d60237a79393785fe4a2fc89"
+  },
+  "5-1": {
+    "/usr/share/haskell/register/haskell-either.sh": "ad8c1ece22296b7309fce25d0c012c1c506e987c712136e6726071df1b3aec3d",
+    "/usr/share/haskell/unregister/haskell-either.sh": "8c9df16c0c87a0a09a6b9209c6136500af051c2e7fc9fa0b835ca0ad358a23c7",
+    "/usr/share/licenses/haskell-either/LICENSE": "417f3f0bc725643573d2258169fa0c0c140e628128abfd543995be3bfbc2ecab",
+    "/usr/lib/libHSeither-5-5e6I5HM3Bkz1pvSB6HKjkI-ghc8.2.2.so": "b0c72fef0d727c329969af25332b8da7130fc46494ed21443480bcf9a6736903",
+    "/usr/lib/ghc-8.2.2/site-local/either-5/Data/Either/Combinators.dyn_hi": "3744eca052acc7dc5066eba1ac12a4cfb45f0445140973e914b27bf36482aa42",
+    "/usr/lib/ghc-8.2.2/site-local/either-5/Data/Either/Validation.dyn_hi": "29cbb60e2e7b316779f06c4d5469a5f71ff156d2895691d2c73d93c5c48216ca",
+    "/var/log/pacman.log": "6dc0384c63daee3a0ef65954a7f0d5023da39deba07cc756732eb353606e6c95"
+  },
+  "5-2": {
+    "/usr/share/haskell/register/haskell-either.sh": "f14bc94f80fa148697aba5babe8620b90ed767107022930d577519f1680a7248",
+    "/usr/share/haskell/unregister/haskell-either.sh": "8c9df16c0c87a0a09a6b9209c6136500af051c2e7fc9fa0b835ca0ad358a23c7",
+    "/usr/share/licenses/haskell-either/LICENSE": "417f3f0bc725643573d2258169fa0c0c140e628128abfd543995be3bfbc2ecab",
+    "/usr/lib/libHSeither-5-8C0CQhohxnUI5Cisu0Hdr3-ghc8.2.2.so": "c39d20150b87568b9286c6be4b2ee848868ed80913bc2e3525b9bcc760823b15",
+    "/usr/lib/ghc-8.2.2/site-local/either-5/Data/Either/Combinators.dyn_hi": "63e06fd487f1bb121763e1aa997491bb9b6d4afbea0b8401fd3b1c90633851fe",
+    "/usr/lib/ghc-8.2.2/site-local/either-5/Data/Either/Validation.dyn_hi": "8e3209ec6cec6287dfca24d5020aeaca4f187d56601c814521eb24e78e93699c",
+    "/var/log/pacman.log": "a84ab152b4cc84ca2009f6863d9a94fcb8a7d72defcbe95b293efa7e0e9619e0"
+  },
+  "5-3": {
+    "/usr/share/haskell/register/haskell-either.sh": "e3fe3eb83f621c2c94f00deee2773cf01bbc2c90091057dea3a35ef1922c327c",
+    "/usr/share/haskell/unregister/haskell-either.sh": "8c9df16c0c87a0a09a6b9209c6136500af051c2e7fc9fa0b835ca0ad358a23c7",
+    "/usr/share/licenses/haskell-either/LICENSE": "417f3f0bc725643573d2258169fa0c0c140e628128abfd543995be3bfbc2ecab",
+    "/usr/lib/libHSeither-5-I3NHfRCWwZB9WJ7CtLsffd-ghc8.2.2.so": "fb73f90b842a9deb4b524ea4c28ffad77994e5ae4dc6605c2614c1ad208c5fec",
+    "/usr/lib/ghc-8.2.2/site-local/either-5/Data/Either/Combinators.dyn_hi": "61c8404d65687bb426ddb8832839f7190252e6d4e49995a8a98c38060b4e2edc",
+    "/usr/lib/ghc-8.2.2/site-local/either-5/Data/Either/Validation.dyn_hi": "9a9d71f0ba9fc225760bbb7b19bf28bcb302343cefa9180e4cecc22403e9a1c4",
+    "/var/log/pacman.log": "e0f927e06c950171419df3d922a34fbb968011ef9302f21ee00231dff4b02520"
+  }
+}

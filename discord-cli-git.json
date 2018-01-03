@@ -1,1 +1,7 @@
-{"r45.57f869f-4": {"/usr/bin/discord-cli": "f9d56f5ef39c17380ea1e62b3d19f1378e1340f4731f9a31ca5f46289c0072fa", "/usr/share/licenses/discord-cli/LICENSE": "db296f2f7f35bca3a174efb0eb392b3b17bd94b341851429a3dff411b1c2fc73", "/var/log/pacman.log": "46f0504d2236004c7e2ddab946d1e50351caec6050fff1f40c23c7f747c80390"}}
+{
+  "r45.57f869f-4": {
+    "/usr/bin/discord-cli": "f9d56f5ef39c17380ea1e62b3d19f1378e1340f4731f9a31ca5f46289c0072fa",
+    "/usr/share/licenses/discord-cli/LICENSE": "db296f2f7f35bca3a174efb0eb392b3b17bd94b341851429a3dff411b1c2fc73",
+    "/var/log/pacman.log": "46f0504d2236004c7e2ddab946d1e50351caec6050fff1f40c23c7f747c80390"
+  }
+}

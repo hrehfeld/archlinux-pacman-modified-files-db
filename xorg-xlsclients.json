@@ -1,1 +1,8 @@
-{"1.1.3-1": {"/usr/bin/xlsclients": "c12004c8a6a3b8e1de5d6d8f1f866b883c43d89d764be5d07fefc07ed59d052b", "/usr/share/licenses/xorg-xlsclients/COPYING": "716d6f1d18cb97cdd4a2ef7b101d944a250ca9de57578a490c038b9aaf950648", "/usr/share/man/man1/xlsclients.1.gz": "f8c4d6239f5722ddc3b66c24c144a79a37cdb51a602bf3298937063eff9f91fb", "/var/log/pacman.log": "f3e138ec5061b454be5dbe657c1ef79eb8e4ea22b5a226ca67653ebccb461554"}}
+{
+  "1.1.3-1": {
+    "/usr/bin/xlsclients": "c12004c8a6a3b8e1de5d6d8f1f866b883c43d89d764be5d07fefc07ed59d052b",
+    "/usr/share/licenses/xorg-xlsclients/COPYING": "716d6f1d18cb97cdd4a2ef7b101d944a250ca9de57578a490c038b9aaf950648",
+    "/usr/share/man/man1/xlsclients.1.gz": "f8c4d6239f5722ddc3b66c24c144a79a37cdb51a602bf3298937063eff9f91fb",
+    "/var/log/pacman.log": "f3e138ec5061b454be5dbe657c1ef79eb8e4ea22b5a226ca67653ebccb461554"
+  }
+}

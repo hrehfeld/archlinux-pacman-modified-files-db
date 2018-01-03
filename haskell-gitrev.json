@@ -1,1 +1,18 @@
-{"1.3.1-3": {"/usr/share/haskell/register/haskell-gitrev.sh": "014cd0bd0ceee2e7e369b2afd9930b99eed026bea6da2944e0110c356af730a0", "/usr/share/haskell/unregister/haskell-gitrev.sh": "1fbadb72d161f1049efd0e5c75259fd62994c10e24f3df26c9d6efa5fcd8c31f", "/usr/share/licenses/haskell-gitrev/LICENSE": "791b618e992236b7429be82dce923bbb46c64573683bcb43892b4fdbb1b0323d", "/usr/lib/libHSgitrev-1.3.1-Cgp0kQsBgtmnAoUzRW7fU-ghc8.2.1.so": "5837e55c0ad082f3f7db94a17c147e20c64d76aaa02149ab716a709a9ca00ba0", "/usr/lib/ghc-8.2.1/site-local/gitrev-1.3.1/Development/GitRev.dyn_hi": "23bcb679129592580e30d714c16fdfc7c737712cbe3056cf7a47762ca5f481e5", "/var/log/pacman.log": "4fe07a348b1e49785e3530f7ae9c084c6aadc01739d91091b7e5fb5dbb3019f0"}, "1.3.1-4": {"/usr/share/haskell/register/haskell-gitrev.sh": "63a01feebdbb8ba4487a5810e229f9018bfc88fcb7e28b26b0d0473c15af5e03", "/usr/share/haskell/unregister/haskell-gitrev.sh": "79ad2cf546ed2448a4714888ee5fcfe73a5db25ddeb059655503639a6bd8c8b4", "/usr/share/licenses/haskell-gitrev/LICENSE": "791b618e992236b7429be82dce923bbb46c64573683bcb43892b4fdbb1b0323d", "/usr/lib/libHSgitrev-1.3.1-JVrypmYNWjs1jJQPEs0aKn-ghc8.2.2.so": "e8f3a47267151863fa7c2d63a37d247b4f505034501e974d056b414b98fc7c9a", "/usr/lib/ghc-8.2.2/site-local/gitrev-1.3.1/Development/GitRev.dyn_hi": "208af953fd133e6eeab96e66aea3ae62c7e09da2dd29f984ae4748d11d566e6e", "/var/log/pacman.log": "c86deb546eb2d59f0907655943a242c82d7fbf16c7ccf7f5cfc69f7c523d16bc"}}
+{
+  "1.3.1-3": {
+    "/usr/share/haskell/register/haskell-gitrev.sh": "014cd0bd0ceee2e7e369b2afd9930b99eed026bea6da2944e0110c356af730a0",
+    "/usr/share/haskell/unregister/haskell-gitrev.sh": "1fbadb72d161f1049efd0e5c75259fd62994c10e24f3df26c9d6efa5fcd8c31f",
+    "/usr/share/licenses/haskell-gitrev/LICENSE": "791b618e992236b7429be82dce923bbb46c64573683bcb43892b4fdbb1b0323d",
+    "/usr/lib/libHSgitrev-1.3.1-Cgp0kQsBgtmnAoUzRW7fU-ghc8.2.1.so": "5837e55c0ad082f3f7db94a17c147e20c64d76aaa02149ab716a709a9ca00ba0",
+    "/usr/lib/ghc-8.2.1/site-local/gitrev-1.3.1/Development/GitRev.dyn_hi": "23bcb679129592580e30d714c16fdfc7c737712cbe3056cf7a47762ca5f481e5",
+    "/var/log/pacman.log": "4fe07a348b1e49785e3530f7ae9c084c6aadc01739d91091b7e5fb5dbb3019f0"
+  },
+  "1.3.1-4": {
+    "/usr/share/haskell/register/haskell-gitrev.sh": "63a01feebdbb8ba4487a5810e229f9018bfc88fcb7e28b26b0d0473c15af5e03",
+    "/usr/share/haskell/unregister/haskell-gitrev.sh": "79ad2cf546ed2448a4714888ee5fcfe73a5db25ddeb059655503639a6bd8c8b4",
+    "/usr/share/licenses/haskell-gitrev/LICENSE": "791b618e992236b7429be82dce923bbb46c64573683bcb43892b4fdbb1b0323d",
+    "/usr/lib/libHSgitrev-1.3.1-JVrypmYNWjs1jJQPEs0aKn-ghc8.2.2.so": "e8f3a47267151863fa7c2d63a37d247b4f505034501e974d056b414b98fc7c9a",
+    "/usr/lib/ghc-8.2.2/site-local/gitrev-1.3.1/Development/GitRev.dyn_hi": "208af953fd133e6eeab96e66aea3ae62c7e09da2dd29f984ae4748d11d566e6e",
+    "/var/log/pacman.log": "c86deb546eb2d59f0907655943a242c82d7fbf16c7ccf7f5cfc69f7c523d16bc"
+  }
+}

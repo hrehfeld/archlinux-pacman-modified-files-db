@@ -1,1 +1,13 @@
-{"2.4.1-1": {"/usr/share/java/glsof/remote-lsof.jar": "427aa69a99d9d6bc38b73e7ce63294696a7c6e85634ab0f2c699b4db0bcc5924", "/usr/share/java/glsof/security-server.txt": "d3298e426889240b3b06076e618c56bba9cf58f382886015756b271012cd2496", "/usr/share/java/glsof/filemonitor.jar": "94b9f21e2fc8b8e312429f66e8679854e1359e15a64b0014995ab96ec5b08782", "/usr/share/java/glsof/security-client.txt": "d3298e426889240b3b06076e618c56bba9cf58f382886015756b271012cd2496", "/usr/share/java/glsof/queries.jar": "a23401463ed9f07b38b68e0fc865a42e18f2c58142301186d42e92a6def288bc", "/usr/share/doc/glsof/queries.pdf": "74768447574e8f71964973ae5d831af4e637093676dd9e11449d38cdbf750f2e", "/usr/bin/glsof-filemonitor": "d308278561c9b63edf5f819cb22686d76e71897ce30f264e12c424fdfb063845", "/usr/bin/glsof-queries": "7281e7de9102dcbd8adcef7136a9fd9ff5c047255c9e1bf0ea9661aec7bd4db8", "/var/log/pacman.log": "1a97044acdafd3fc7944cab5e8bc79e59d1179746dab86794094c5a892f0ee49"}}
+{
+  "2.4.1-1": {
+    "/usr/share/java/glsof/remote-lsof.jar": "427aa69a99d9d6bc38b73e7ce63294696a7c6e85634ab0f2c699b4db0bcc5924",
+    "/usr/share/java/glsof/security-server.txt": "d3298e426889240b3b06076e618c56bba9cf58f382886015756b271012cd2496",
+    "/usr/share/java/glsof/filemonitor.jar": "94b9f21e2fc8b8e312429f66e8679854e1359e15a64b0014995ab96ec5b08782",
+    "/usr/share/java/glsof/security-client.txt": "d3298e426889240b3b06076e618c56bba9cf58f382886015756b271012cd2496",
+    "/usr/share/java/glsof/queries.jar": "a23401463ed9f07b38b68e0fc865a42e18f2c58142301186d42e92a6def288bc",
+    "/usr/share/doc/glsof/queries.pdf": "74768447574e8f71964973ae5d831af4e637093676dd9e11449d38cdbf750f2e",
+    "/usr/bin/glsof-filemonitor": "d308278561c9b63edf5f819cb22686d76e71897ce30f264e12c424fdfb063845",
+    "/usr/bin/glsof-queries": "7281e7de9102dcbd8adcef7136a9fd9ff5c047255c9e1bf0ea9661aec7bd4db8",
+    "/var/log/pacman.log": "1a97044acdafd3fc7944cab5e8bc79e59d1179746dab86794094c5a892f0ee49"
+  }
+}

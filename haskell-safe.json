@@ -1,1 +1,26 @@
-{"0.3.15-3": {"/usr/share/haskell/register/haskell-safe.sh": "25e53765bb6a3e012d55aa1115157ecaad3bf6bbf20a46349bd96104c17c0987", "/usr/share/haskell/unregister/haskell-safe.sh": "8392158868c6fa2023670608112541af39c5a17dd0b8f68d1073e04c91f4ad97", "/usr/share/licenses/haskell-safe/LICENSE": "83770b961e410e87e32487c0679e478fe5d177ea9dc059f710571bad82e87e33", "/usr/lib/libHSsafe-0.3.15-AsY8t7BqxG7J4M7E7fbih5-ghc8.2.1.so": "28b441cc10b8d9d757eee1bb93df51227bb4bf225e98d267f66974ea64161500", "/usr/lib/ghc-8.2.1/site-local/safe-0.3.15/Safe.dyn_hi": "0045c322434705a892fc098a667757bd2b23efe49cf2079c0f2efaf3de210035", "/usr/lib/ghc-8.2.1/site-local/safe-0.3.15/Safe/Exact.dyn_hi": "a76b6fa3840df2d43eca4e615a93fdd9dbf832fbdd24b539ca3e18739be72fa4", "/usr/lib/ghc-8.2.1/site-local/safe-0.3.15/Safe/Foldable.dyn_hi": "5fa7fc5d15b82cb5a9ca102bb38136e854444b33443e6d44721a75cd9649f754", "/usr/lib/ghc-8.2.1/site-local/safe-0.3.15/Safe/Partial.dyn_hi": "b24ea732b42547a4ef0de4863fde3054c9280e1a48dfaa1b7dfbf9406039aabb", "/usr/lib/ghc-8.2.1/site-local/safe-0.3.15/Safe/Util.dyn_hi": "aa7664ea335a01abed9e89d457cbdb77c48ee67f6de6484aebc3e1d1996b47ac", "/var/log/pacman.log": "55fbb19fac8105abde78f380bfb1e128cae9601388844e6eedff982b6fca0af2"}, "0.3.15-4": {"/usr/share/haskell/register/haskell-safe.sh": "1c5e8ebbe53cdccc73883e750a9c0a20afe5a41d886872123feba8d310534fb8", "/usr/share/haskell/unregister/haskell-safe.sh": "9380a2da1254731d41795ab98322cfda29a03318751ebd8e57c72febed740c6a", "/usr/share/licenses/haskell-safe/LICENSE": "83770b961e410e87e32487c0679e478fe5d177ea9dc059f710571bad82e87e33", "/usr/lib/libHSsafe-0.3.15-EroU33EYnr02fGSZYGiX97-ghc8.2.2.so": "aeb10dc929c04a6bec0415b3a704e6d815ddd9ec0c817d2ac733b74567245c14", "/usr/lib/ghc-8.2.2/site-local/safe-0.3.15/Safe.dyn_hi": "2cee356babbf65d9e2272aa02610bb3ca5583005868442a942fab5ad3d1832c5", "/usr/lib/ghc-8.2.2/site-local/safe-0.3.15/Safe/Exact.dyn_hi": "ac8f20a4909e0caddaaba4bb1dd0c35bb6a16b37830927f42eb21b5e16115a1e", "/usr/lib/ghc-8.2.2/site-local/safe-0.3.15/Safe/Foldable.dyn_hi": "398d3cf8ef4b2a120128f256a1c95d357aa53ac6ba1e021735810988f257320f", "/usr/lib/ghc-8.2.2/site-local/safe-0.3.15/Safe/Partial.dyn_hi": "8744a8cce0944e19acd8ee0af09b8be67e9757e3bb6ec4c38059c09ec932501a", "/usr/lib/ghc-8.2.2/site-local/safe-0.3.15/Safe/Util.dyn_hi": "ed0075eb5c121e5d15dc3e958354c1d1d199ee19345227573d54fd4d76da2c5c", "/var/log/pacman.log": "d912cd5b6cc9a49685c833ac7fac6a03f40aead643c2ca0ae288f3a2f596e655"}}
+{
+  "0.3.15-3": {
+    "/usr/share/haskell/register/haskell-safe.sh": "25e53765bb6a3e012d55aa1115157ecaad3bf6bbf20a46349bd96104c17c0987",
+    "/usr/share/haskell/unregister/haskell-safe.sh": "8392158868c6fa2023670608112541af39c5a17dd0b8f68d1073e04c91f4ad97",
+    "/usr/share/licenses/haskell-safe/LICENSE": "83770b961e410e87e32487c0679e478fe5d177ea9dc059f710571bad82e87e33",
+    "/usr/lib/libHSsafe-0.3.15-AsY8t7BqxG7J4M7E7fbih5-ghc8.2.1.so": "28b441cc10b8d9d757eee1bb93df51227bb4bf225e98d267f66974ea64161500",
+    "/usr/lib/ghc-8.2.1/site-local/safe-0.3.15/Safe.dyn_hi": "0045c322434705a892fc098a667757bd2b23efe49cf2079c0f2efaf3de210035",
+    "/usr/lib/ghc-8.2.1/site-local/safe-0.3.15/Safe/Exact.dyn_hi": "a76b6fa3840df2d43eca4e615a93fdd9dbf832fbdd24b539ca3e18739be72fa4",
+    "/usr/lib/ghc-8.2.1/site-local/safe-0.3.15/Safe/Foldable.dyn_hi": "5fa7fc5d15b82cb5a9ca102bb38136e854444b33443e6d44721a75cd9649f754",
+    "/usr/lib/ghc-8.2.1/site-local/safe-0.3.15/Safe/Partial.dyn_hi": "b24ea732b42547a4ef0de4863fde3054c9280e1a48dfaa1b7dfbf9406039aabb",
+    "/usr/lib/ghc-8.2.1/site-local/safe-0.3.15/Safe/Util.dyn_hi": "aa7664ea335a01abed9e89d457cbdb77c48ee67f6de6484aebc3e1d1996b47ac",
+    "/var/log/pacman.log": "55fbb19fac8105abde78f380bfb1e128cae9601388844e6eedff982b6fca0af2"
+  },
+  "0.3.15-4": {
+    "/usr/share/haskell/register/haskell-safe.sh": "1c5e8ebbe53cdccc73883e750a9c0a20afe5a41d886872123feba8d310534fb8",
+    "/usr/share/haskell/unregister/haskell-safe.sh": "9380a2da1254731d41795ab98322cfda29a03318751ebd8e57c72febed740c6a",
+    "/usr/share/licenses/haskell-safe/LICENSE": "83770b961e410e87e32487c0679e478fe5d177ea9dc059f710571bad82e87e33",
+    "/usr/lib/libHSsafe-0.3.15-EroU33EYnr02fGSZYGiX97-ghc8.2.2.so": "aeb10dc929c04a6bec0415b3a704e6d815ddd9ec0c817d2ac733b74567245c14",
+    "/usr/lib/ghc-8.2.2/site-local/safe-0.3.15/Safe.dyn_hi": "2cee356babbf65d9e2272aa02610bb3ca5583005868442a942fab5ad3d1832c5",
+    "/usr/lib/ghc-8.2.2/site-local/safe-0.3.15/Safe/Exact.dyn_hi": "ac8f20a4909e0caddaaba4bb1dd0c35bb6a16b37830927f42eb21b5e16115a1e",
+    "/usr/lib/ghc-8.2.2/site-local/safe-0.3.15/Safe/Foldable.dyn_hi": "398d3cf8ef4b2a120128f256a1c95d357aa53ac6ba1e021735810988f257320f",
+    "/usr/lib/ghc-8.2.2/site-local/safe-0.3.15/Safe/Partial.dyn_hi": "8744a8cce0944e19acd8ee0af09b8be67e9757e3bb6ec4c38059c09ec932501a",
+    "/usr/lib/ghc-8.2.2/site-local/safe-0.3.15/Safe/Util.dyn_hi": "ed0075eb5c121e5d15dc3e958354c1d1d199ee19345227573d54fd4d76da2c5c",
+    "/var/log/pacman.log": "d912cd5b6cc9a49685c833ac7fac6a03f40aead643c2ca0ae288f3a2f596e655"
+  }
+}

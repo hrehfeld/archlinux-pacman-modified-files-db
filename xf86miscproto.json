@@ -1,1 +1,9 @@
-{"0.9.3-1": {"/usr/share/licenses/xf86miscproto/COPYING": "3591964e01a9cdfc9cc4149a847a431a3f3d98328cc9e5864c7a7831b29c4058", "/usr/include/X11/extensions/xf86mscstr.h": "e0390ebb13300867a4a2519df77f8bcd9c0a320c578f71b0fd264078c0c3c6de", "/usr/include/X11/extensions/xf86misc.h": "07a9a6adcc47787fb51d7e56ff46854a61f806839f54e46dfd47413f71cb5c37", "/usr/lib/pkgconfig/xf86miscproto.pc": "da8e77bbef8cdecd266607d4b38abd45fec57be2ae580521374a6a92eb2d4066", "/var/log/pacman.log": "4411628f3aa5654de16333bfe257fb78b14bd86076b0d9b1ee4aed4e160fd13b"}}
+{
+  "0.9.3-1": {
+    "/usr/share/licenses/xf86miscproto/COPYING": "3591964e01a9cdfc9cc4149a847a431a3f3d98328cc9e5864c7a7831b29c4058",
+    "/usr/include/X11/extensions/xf86mscstr.h": "e0390ebb13300867a4a2519df77f8bcd9c0a320c578f71b0fd264078c0c3c6de",
+    "/usr/include/X11/extensions/xf86misc.h": "07a9a6adcc47787fb51d7e56ff46854a61f806839f54e46dfd47413f71cb5c37",
+    "/usr/lib/pkgconfig/xf86miscproto.pc": "da8e77bbef8cdecd266607d4b38abd45fec57be2ae580521374a6a92eb2d4066",
+    "/var/log/pacman.log": "4411628f3aa5654de16333bfe257fb78b14bd86076b0d9b1ee4aed4e160fd13b"
+  }
+}

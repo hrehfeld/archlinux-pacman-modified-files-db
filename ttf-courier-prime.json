@@ -1,1 +1,19 @@
-{"1.203-3": {"/usr/share/fonts/TTF/CourierPrime-Medium.ttf": "700b4dd3fa853a7b1540a6b7888b9ba6045db79a41ca3e38510e032b5a385c51", "/usr/share/fonts/TTF/CourierPrime-SemiBold.ttf": "63b48edfdde0c37846d3e92d0fd4685dfa5120e4f3591eac52123d258bc2bc96", "/usr/share/fonts/TTF/Courier Prime Code Italic.ttf": "362fb0fb8b7ff2bd5339808e18b113912bdb79386780507dcac0f41d51ab9b9c", "/usr/share/fonts/TTF/Courier Prime Code.ttf": "19b32d76874e2f299222ca524819cf6ec104c73b90ba56eae74f532183ba5304", "/usr/share/fonts/TTF/Courier Prime Sans Bold Italic.ttf": "54f7ea7f5bf075ea14b57848f4d2d6f457999e323d74e6dff193ff2c6d3956e4", "/usr/share/fonts/TTF/Courier Prime Sans Bold.ttf": "53630306604b114ae3ed89d8b869614a2eff11dcbb95f468f958457892778358", "/usr/share/fonts/TTF/Courier Prime Sans Italic.ttf": "e56dd4788dab62525ec95520baedd86c87bcfea6217b4c45902b68a161d781c8", "/usr/share/fonts/TTF/Courier Prime Sans.ttf": "47de3c19b41592d36e767674c6a3b3c1d494bc9b351d2f1a8620f8a80564769e", "/usr/share/fonts/TTF/Courier Prime Bold Italic.ttf": "cfc77df22c0516962b6ba841e63c59ad8c2f95aff4d7a44f6328eeaaeff7e7d8", "/usr/share/fonts/TTF/Courier Prime Bold.ttf": "aa5a0a31d25dac006fe2d71fc6ff0feff250bc6de3b3c81b7e9d3a58e1329b52", "/usr/share/fonts/TTF/Courier Prime Italic.ttf": "e1c9bde2ef55f90a5619cff5dac0d5674700045d666a7d2cddee1879bb83d552", "/usr/share/fonts/TTF/Courier Prime.ttf": "6cc9525b1334047445cba53f323e810331acfdf59f18f4008397d13137737b91", "/usr/share/licenses/ttf-courier-prime/OFL-FAQ.txt": "2226f2d4aaa2fba54ebb26ff7f0256fb3d3b621e7714329a7de6f9429129a091", "/usr/share/licenses/ttf-courier-prime/OFL.txt": "d8c311cc390242133318bea7a3117836a760aca5928bbaf47bb864fc9b570a46", "/var/log/pacman.log": "702a7ba95cf328c79bbcb171de5ac51d476b545b404687c72434218d44ef85b9"}}
+{
+  "1.203-3": {
+    "/usr/share/fonts/TTF/CourierPrime-Medium.ttf": "700b4dd3fa853a7b1540a6b7888b9ba6045db79a41ca3e38510e032b5a385c51",
+    "/usr/share/fonts/TTF/CourierPrime-SemiBold.ttf": "63b48edfdde0c37846d3e92d0fd4685dfa5120e4f3591eac52123d258bc2bc96",
+    "/usr/share/fonts/TTF/Courier Prime Code Italic.ttf": "362fb0fb8b7ff2bd5339808e18b113912bdb79386780507dcac0f41d51ab9b9c",
+    "/usr/share/fonts/TTF/Courier Prime Code.ttf": "19b32d76874e2f299222ca524819cf6ec104c73b90ba56eae74f532183ba5304",
+    "/usr/share/fonts/TTF/Courier Prime Sans Bold Italic.ttf": "54f7ea7f5bf075ea14b57848f4d2d6f457999e323d74e6dff193ff2c6d3956e4",
+    "/usr/share/fonts/TTF/Courier Prime Sans Bold.ttf": "53630306604b114ae3ed89d8b869614a2eff11dcbb95f468f958457892778358",
+    "/usr/share/fonts/TTF/Courier Prime Sans Italic.ttf": "e56dd4788dab62525ec95520baedd86c87bcfea6217b4c45902b68a161d781c8",
+    "/usr/share/fonts/TTF/Courier Prime Sans.ttf": "47de3c19b41592d36e767674c6a3b3c1d494bc9b351d2f1a8620f8a80564769e",
+    "/usr/share/fonts/TTF/Courier Prime Bold Italic.ttf": "cfc77df22c0516962b6ba841e63c59ad8c2f95aff4d7a44f6328eeaaeff7e7d8",
+    "/usr/share/fonts/TTF/Courier Prime Bold.ttf": "aa5a0a31d25dac006fe2d71fc6ff0feff250bc6de3b3c81b7e9d3a58e1329b52",
+    "/usr/share/fonts/TTF/Courier Prime Italic.ttf": "e1c9bde2ef55f90a5619cff5dac0d5674700045d666a7d2cddee1879bb83d552",
+    "/usr/share/fonts/TTF/Courier Prime.ttf": "6cc9525b1334047445cba53f323e810331acfdf59f18f4008397d13137737b91",
+    "/usr/share/licenses/ttf-courier-prime/OFL-FAQ.txt": "2226f2d4aaa2fba54ebb26ff7f0256fb3d3b621e7714329a7de6f9429129a091",
+    "/usr/share/licenses/ttf-courier-prime/OFL.txt": "d8c311cc390242133318bea7a3117836a760aca5928bbaf47bb864fc9b570a46",
+    "/var/log/pacman.log": "702a7ba95cf328c79bbcb171de5ac51d476b545b404687c72434218d44ef85b9"
+  }
+}

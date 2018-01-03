@@ -1,1 +1,24 @@
-{"1.19-5": {"/usr/bin/icctrans": "5140aa32e421a2327157b2513d6dd3665c1a47689d79ee29f1f3b339dec1d7ba", "/usr/bin/wtpt": "828e852cf268ac63df77d9c0306e2009af254e57edad4c305d67c30283d00a36", "/usr/bin/icclink": "dd3614e0ecf9663a89e8b6d0d488197af2e3ed434178a0b4250d22d85976796a", "/usr/bin/tiffdiff": "71172d3051be57916923490d6cd9006771461351674cb97ba793c9c083e2d7a3", "/usr/bin/tifficc": "d7ad1ce2d17842fc22fc1f78bc7887455d2d5d948c93178e3f7c3db8f7eb7985", "/usr/bin/jpegicc": "e911c23e46368b91b1b6bdfef36367712bb5c1bdf847bc5e6e7f8d5dddfb2c37", "/usr/bin/icc2ps": "e9cb10d6dff659063dcd44b3286cc92fc39c94e3f38c4e37350c4b40045f12d0", "/usr/include/lcms.h": "f24b3afd440094840d0586a1ac9c583c0adf4b216b21ecc0de5b17b9ea4e45e2", "/usr/include/icc34.h": "0cf81fbf9cda3a2247056a85f9ab4f6ad1150adfb26ad76409fb10ce3f54eaf6", "/usr/share/licenses/lcms/LICENSE": "7dfada6229e20da40af156afe760eb2a005cda69fd8900fda2bd3ea4cafb06d8", "/usr/share/man/man1/wtpt.1.gz": "dd8401d3aa64103158e7c9749be8e5d1fd2209a7bfcce438f3aa80604175ebf2", "/usr/share/man/man1/icc2ps.1.gz": "ea17c9f617843a271ac62c93ee640d37b784bded243e2326d13da5bc42d24a95", "/usr/share/man/man1/tifficc.1.gz": "d4d68b0a1e8aa5bcbf7ddc31b4ca3967e5de63499770bddcb9be62f10703aa00", "/usr/share/man/man1/jpegicc.1.gz": "76ff389d5656d3c8f92f62e69509a7b2c243057fc2897046971e2e08a5094edb", "/usr/share/man/man1/icclink.1.gz": "849c824d3bc50d9d3a5ff9ccd2e650eb502aee5b3b2195a63a6ff02fd33820a9", "/usr/lib/liblcms.so": "a4c59343f28f9d6b531eb2d30826d4978875e459708e1790367a0dacdc41ad44", "/usr/lib/liblcms.so.1.0.19": "a4c59343f28f9d6b531eb2d30826d4978875e459708e1790367a0dacdc41ad44", "/usr/lib/liblcms.so.1": "a4c59343f28f9d6b531eb2d30826d4978875e459708e1790367a0dacdc41ad44", "/usr/lib/pkgconfig/lcms.pc": "813d2f35509f9d0a337b97cc8abfb50a8a401a67f245f6fa3b93c33b06f90d91", "/var/log/pacman.log": "90d804457e655a0bc62b98b5ba6e49a407ce050ead73b99c022ca7dfa3a0fe33"}}
+{
+  "1.19-5": {
+    "/usr/bin/icctrans": "5140aa32e421a2327157b2513d6dd3665c1a47689d79ee29f1f3b339dec1d7ba",
+    "/usr/bin/wtpt": "828e852cf268ac63df77d9c0306e2009af254e57edad4c305d67c30283d00a36",
+    "/usr/bin/icclink": "dd3614e0ecf9663a89e8b6d0d488197af2e3ed434178a0b4250d22d85976796a",
+    "/usr/bin/tiffdiff": "71172d3051be57916923490d6cd9006771461351674cb97ba793c9c083e2d7a3",
+    "/usr/bin/tifficc": "d7ad1ce2d17842fc22fc1f78bc7887455d2d5d948c93178e3f7c3db8f7eb7985",
+    "/usr/bin/jpegicc": "e911c23e46368b91b1b6bdfef36367712bb5c1bdf847bc5e6e7f8d5dddfb2c37",
+    "/usr/bin/icc2ps": "e9cb10d6dff659063dcd44b3286cc92fc39c94e3f38c4e37350c4b40045f12d0",
+    "/usr/include/lcms.h": "f24b3afd440094840d0586a1ac9c583c0adf4b216b21ecc0de5b17b9ea4e45e2",
+    "/usr/include/icc34.h": "0cf81fbf9cda3a2247056a85f9ab4f6ad1150adfb26ad76409fb10ce3f54eaf6",
+    "/usr/share/licenses/lcms/LICENSE": "7dfada6229e20da40af156afe760eb2a005cda69fd8900fda2bd3ea4cafb06d8",
+    "/usr/share/man/man1/wtpt.1.gz": "dd8401d3aa64103158e7c9749be8e5d1fd2209a7bfcce438f3aa80604175ebf2",
+    "/usr/share/man/man1/icc2ps.1.gz": "ea17c9f617843a271ac62c93ee640d37b784bded243e2326d13da5bc42d24a95",
+    "/usr/share/man/man1/tifficc.1.gz": "d4d68b0a1e8aa5bcbf7ddc31b4ca3967e5de63499770bddcb9be62f10703aa00",
+    "/usr/share/man/man1/jpegicc.1.gz": "76ff389d5656d3c8f92f62e69509a7b2c243057fc2897046971e2e08a5094edb",
+    "/usr/share/man/man1/icclink.1.gz": "849c824d3bc50d9d3a5ff9ccd2e650eb502aee5b3b2195a63a6ff02fd33820a9",
+    "/usr/lib/liblcms.so": "a4c59343f28f9d6b531eb2d30826d4978875e459708e1790367a0dacdc41ad44",
+    "/usr/lib/liblcms.so.1.0.19": "a4c59343f28f9d6b531eb2d30826d4978875e459708e1790367a0dacdc41ad44",
+    "/usr/lib/liblcms.so.1": "a4c59343f28f9d6b531eb2d30826d4978875e459708e1790367a0dacdc41ad44",
+    "/usr/lib/pkgconfig/lcms.pc": "813d2f35509f9d0a337b97cc8abfb50a8a401a67f245f6fa3b93c33b06f90d91",
+    "/var/log/pacman.log": "90d804457e655a0bc62b98b5ba6e49a407ce050ead73b99c022ca7dfa3a0fe33"
+  }
+}

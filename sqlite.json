@@ -1,1 +1,19 @@
-{"3.21.0-1": {"/usr/include/sqlite3.h": "597dbea8fb30377cf7f2b2641060dd752cebe1e0edf6b98480f9e9644ee237ad", "/usr/include/sqlite3ext.h": "9f15a282af00fa2de1811b524e367ab73de552b284173aa824fdffa290780f26", "/usr/share/licenses/sqlite/license.txt": "4e57d9ac979f1c9872e69799c2597eeef4c6ce7224f3ede0bf9dc8d217b1e65d", "/usr/share/man/man1/sqlite3.1.gz": "c3d798a2cdc6cec01e417fdad09584a6f042c841be8a78a4e8c7c7365af5d586", "/usr/bin/showjournal": "4bee3f955981e48d7b81b4b061951a457a83598576804bc1b83bbc7d5b967a0e", "/usr/bin/showwal": "c1d52e3dcf1eb3b6c6f463ba824d8ccec328df7ffefe5084b220fb042620bf18", "/usr/bin/sqldiff": "4bd154aa6244244803ad73c8bbd9f1d68b1d9c4329646e304993bccbae28ca6b", "/usr/bin/showstat4": "4ce361c42b2e0ac2709b2679cc014121a63e374318edb58d5ca7c913ffc75384", "/usr/bin/showdb": "382e3a19c3ff8448daf4093a01bba3c12e84efcd175c1893c9e9345db28dee86", "/usr/bin/sqlite3": "b36e6654b3a10dc9f1158bedeb690d035d11cdd7dbaa1e0cd0c7a34bb702c808", "/usr/lib/libsqlite3.so.0.8.6": "05ae1d3bc673ffb91e63b68b3a1f5e8aeb96342b8d094eab74fc6463ce3f38a3", "/usr/lib/libsqlite3.so": "05ae1d3bc673ffb91e63b68b3a1f5e8aeb96342b8d094eab74fc6463ce3f38a3", "/usr/lib/libsqlite3.so.0": "05ae1d3bc673ffb91e63b68b3a1f5e8aeb96342b8d094eab74fc6463ce3f38a3", "/usr/lib/pkgconfig/sqlite3.pc": "910823b94c368ba98af53989a95c0af2cd876ea36bfe43dbfab9f5f71133ded5", "/var/log/pacman.log": "5c5eed3cf23a565e321bbb0504a0a3d9b32a1b8cf05197f4f9eeaa0568e96353"}}
+{
+  "3.21.0-1": {
+    "/usr/include/sqlite3.h": "597dbea8fb30377cf7f2b2641060dd752cebe1e0edf6b98480f9e9644ee237ad",
+    "/usr/include/sqlite3ext.h": "9f15a282af00fa2de1811b524e367ab73de552b284173aa824fdffa290780f26",
+    "/usr/share/licenses/sqlite/license.txt": "4e57d9ac979f1c9872e69799c2597eeef4c6ce7224f3ede0bf9dc8d217b1e65d",
+    "/usr/share/man/man1/sqlite3.1.gz": "c3d798a2cdc6cec01e417fdad09584a6f042c841be8a78a4e8c7c7365af5d586",
+    "/usr/bin/showjournal": "4bee3f955981e48d7b81b4b061951a457a83598576804bc1b83bbc7d5b967a0e",
+    "/usr/bin/showwal": "c1d52e3dcf1eb3b6c6f463ba824d8ccec328df7ffefe5084b220fb042620bf18",
+    "/usr/bin/sqldiff": "4bd154aa6244244803ad73c8bbd9f1d68b1d9c4329646e304993bccbae28ca6b",
+    "/usr/bin/showstat4": "4ce361c42b2e0ac2709b2679cc014121a63e374318edb58d5ca7c913ffc75384",
+    "/usr/bin/showdb": "382e3a19c3ff8448daf4093a01bba3c12e84efcd175c1893c9e9345db28dee86",
+    "/usr/bin/sqlite3": "b36e6654b3a10dc9f1158bedeb690d035d11cdd7dbaa1e0cd0c7a34bb702c808",
+    "/usr/lib/libsqlite3.so.0.8.6": "05ae1d3bc673ffb91e63b68b3a1f5e8aeb96342b8d094eab74fc6463ce3f38a3",
+    "/usr/lib/libsqlite3.so": "05ae1d3bc673ffb91e63b68b3a1f5e8aeb96342b8d094eab74fc6463ce3f38a3",
+    "/usr/lib/libsqlite3.so.0": "05ae1d3bc673ffb91e63b68b3a1f5e8aeb96342b8d094eab74fc6463ce3f38a3",
+    "/usr/lib/pkgconfig/sqlite3.pc": "910823b94c368ba98af53989a95c0af2cd876ea36bfe43dbfab9f5f71133ded5",
+    "/var/log/pacman.log": "5c5eed3cf23a565e321bbb0504a0a3d9b32a1b8cf05197f4f9eeaa0568e96353"
+  }
+}

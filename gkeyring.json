@@ -1,1 +1,14 @@
-{"0.4-1": {"/usr/lib/python2.7/site-packages/gkeyring.py": "112f7174b106f6fb9191eff66f5de8546919b1a7173932c85f212e858cd0e0fb", "/usr/lib/python2.7/site-packages/gkeyring.pyc": "a38b6a4f2cf66d1bdd53a4238808a34bdfb9d3442699497e66dc86f7646d0330", "/usr/lib/python2.7/site-packages/gkeyring.pyo": "a38b6a4f2cf66d1bdd53a4238808a34bdfb9d3442699497e66dc86f7646d0330", "/usr/lib/python2.7/site-packages/gkeyring-0.4-py2.7.egg-info/SOURCES.txt": "dd573a6cd322918b68e3b49d744b588dd23c9e540df66fa5bbdc09c86b15942d", "/usr/lib/python2.7/site-packages/gkeyring-0.4-py2.7.egg-info/entry_points.txt": "4f2dd7504fdb8d968ce1f26cddda99f0dd6be2e539deb91b4a23d601d7b56228", "/usr/lib/python2.7/site-packages/gkeyring-0.4-py2.7.egg-info/dependency_links.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b", "/usr/lib/python2.7/site-packages/gkeyring-0.4-py2.7.egg-info/top_level.txt": "18aaabd88bd3d0911951807053db420530a9b0ebc73f632797b0b15e3d9f4792", "/usr/lib/python2.7/site-packages/gkeyring-0.4-py2.7.egg-info/PKG-INFO": "12fba585cace85331568f9593c93f0ff44c3fe77d479a65c69c136e0bee3c133", "/usr/bin/gkeyring": "0c332dc76c40a9d6c9b6f9f83e4078feb584fdd2c6a52c293558e1468509bf3c", "/var/log/pacman.log": "57b3caecd6f75615f0fc07422ce9255033d6fbafe75eea9db3873985477e7712"}}
+{
+  "0.4-1": {
+    "/usr/lib/python2.7/site-packages/gkeyring.py": "112f7174b106f6fb9191eff66f5de8546919b1a7173932c85f212e858cd0e0fb",
+    "/usr/lib/python2.7/site-packages/gkeyring.pyc": "a38b6a4f2cf66d1bdd53a4238808a34bdfb9d3442699497e66dc86f7646d0330",
+    "/usr/lib/python2.7/site-packages/gkeyring.pyo": "a38b6a4f2cf66d1bdd53a4238808a34bdfb9d3442699497e66dc86f7646d0330",
+    "/usr/lib/python2.7/site-packages/gkeyring-0.4-py2.7.egg-info/SOURCES.txt": "dd573a6cd322918b68e3b49d744b588dd23c9e540df66fa5bbdc09c86b15942d",
+    "/usr/lib/python2.7/site-packages/gkeyring-0.4-py2.7.egg-info/entry_points.txt": "4f2dd7504fdb8d968ce1f26cddda99f0dd6be2e539deb91b4a23d601d7b56228",
+    "/usr/lib/python2.7/site-packages/gkeyring-0.4-py2.7.egg-info/dependency_links.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "/usr/lib/python2.7/site-packages/gkeyring-0.4-py2.7.egg-info/top_level.txt": "18aaabd88bd3d0911951807053db420530a9b0ebc73f632797b0b15e3d9f4792",
+    "/usr/lib/python2.7/site-packages/gkeyring-0.4-py2.7.egg-info/PKG-INFO": "12fba585cace85331568f9593c93f0ff44c3fe77d479a65c69c136e0bee3c133",
+    "/usr/bin/gkeyring": "0c332dc76c40a9d6c9b6f9f83e4078feb584fdd2c6a52c293558e1468509bf3c",
+    "/var/log/pacman.log": "57b3caecd6f75615f0fc07422ce9255033d6fbafe75eea9db3873985477e7712"
+  }
+}

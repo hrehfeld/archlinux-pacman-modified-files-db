@@ -1,1 +1,17 @@
-{"2017.44918-1\ntexlive-fontsextra 2017.44818-1\ntexlive-formatsextra 2017.44177-2\ntexlive-games 2017.44131-1\ntexlive-humanities 2017.44833-1\ntexlive-langextra 2017.44908-1\ntexlive-latexextra 2017.44907-1\ntexlive-music 2017.44885-1\ntexlive-pictures 2017.44899-1\ntexlive-pstricks 2017.44742-1\ntexlive-publishers 2017.44916-1\ntexlive-science 2017.44906-1\ntftp-hpa 5.2-6\nthe_silver_searcher 2.1.0-1\nthin-provisioning-tools 0.7.4-1\nthrust 1.8.2-1\ntinyxml2 5.0.1-1\ntortoisehg 4.3.1-1\ntree 1.7.0-2\ntslib 1.13-1\nttf-all-the-icons 2.5.2-1": {"/usr/share/fonts/TTF/all-the-icons.ttf": "f0a1ecf206d49af401aec06945f13c81c5591df5e81d57598bb822c111d0c3e7", "/usr/share/licenses/ttf-all-the-icons/LICENSE": "838039edc5bce6c71f884fdda0f0ca82978d4e7b1da6354813ffe55a5648982f", "/var/log/pacman.log": "f09d8f3071bb41eb5fcee057388d775c41d604bf2cfe5428f8e60731ce878b5f"}, "4.3.1-1\nttf-all-the-icons 2.5.2-1": {"/usr/share/fonts/TTF/all-the-icons.ttf": "f0a1ecf206d49af401aec06945f13c81c5591df5e81d57598bb822c111d0c3e7", "/usr/share/licenses/ttf-all-the-icons/LICENSE": "838039edc5bce6c71f884fdda0f0ca82978d4e7b1da6354813ffe55a5648982f", "/var/log/pacman.log": "17652f79ba885934a72199ee8623e87f968b8ef96c2fe27a82a3c36c57b59e35"}, "2.5.2-1": {"/usr/share/fonts/TTF/all-the-icons.ttf": "f0a1ecf206d49af401aec06945f13c81c5591df5e81d57598bb822c111d0c3e7", "/usr/share/licenses/ttf-all-the-icons/LICENSE": "838039edc5bce6c71f884fdda0f0ca82978d4e7b1da6354813ffe55a5648982f", "/var/log/pacman.log": "e1938bd7a9aac0fa6b7c79186f295705c7ff94fab0751ee02d3e676c7d056a3d"}}
+{
+  "2017.44918-1\ntexlive-fontsextra 2017.44818-1\ntexlive-formatsextra 2017.44177-2\ntexlive-games 2017.44131-1\ntexlive-humanities 2017.44833-1\ntexlive-langextra 2017.44908-1\ntexlive-latexextra 2017.44907-1\ntexlive-music 2017.44885-1\ntexlive-pictures 2017.44899-1\ntexlive-pstricks 2017.44742-1\ntexlive-publishers 2017.44916-1\ntexlive-science 2017.44906-1\ntftp-hpa 5.2-6\nthe_silver_searcher 2.1.0-1\nthin-provisioning-tools 0.7.4-1\nthrust 1.8.2-1\ntinyxml2 5.0.1-1\ntortoisehg 4.3.1-1\ntree 1.7.0-2\ntslib 1.13-1\nttf-all-the-icons 2.5.2-1": {
+    "/usr/share/fonts/TTF/all-the-icons.ttf": "f0a1ecf206d49af401aec06945f13c81c5591df5e81d57598bb822c111d0c3e7",
+    "/usr/share/licenses/ttf-all-the-icons/LICENSE": "838039edc5bce6c71f884fdda0f0ca82978d4e7b1da6354813ffe55a5648982f",
+    "/var/log/pacman.log": "f09d8f3071bb41eb5fcee057388d775c41d604bf2cfe5428f8e60731ce878b5f"
+  },
+  "4.3.1-1\nttf-all-the-icons 2.5.2-1": {
+    "/usr/share/fonts/TTF/all-the-icons.ttf": "f0a1ecf206d49af401aec06945f13c81c5591df5e81d57598bb822c111d0c3e7",
+    "/usr/share/licenses/ttf-all-the-icons/LICENSE": "838039edc5bce6c71f884fdda0f0ca82978d4e7b1da6354813ffe55a5648982f",
+    "/var/log/pacman.log": "17652f79ba885934a72199ee8623e87f968b8ef96c2fe27a82a3c36c57b59e35"
+  },
+  "2.5.2-1": {
+    "/usr/share/fonts/TTF/all-the-icons.ttf": "f0a1ecf206d49af401aec06945f13c81c5591df5e81d57598bb822c111d0c3e7",
+    "/usr/share/licenses/ttf-all-the-icons/LICENSE": "838039edc5bce6c71f884fdda0f0ca82978d4e7b1da6354813ffe55a5648982f",
+    "/var/log/pacman.log": "e1938bd7a9aac0fa6b7c79186f295705c7ff94fab0751ee02d3e676c7d056a3d"
+  }
+}

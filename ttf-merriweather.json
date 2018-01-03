@@ -1,1 +1,14 @@
-{"1:2.002-1": {"/usr/share/fonts/TTF/Merriweather-Black.ttf": "dff1048499a2c245713dfa41e3683cfecfd15df757cc4cb20f85bceba7bfd58b", "/usr/share/fonts/TTF/Merriweather-BlackItalic.ttf": "42b5cdd80b293acb1d7a15958a2c2f8b6b95213709110777486763c75bc83ebf", "/usr/share/fonts/TTF/Merriweather-Bold.ttf": "55139769a87085bff777f68e3ecf92450c21a04c5ddd1e9e9528960ba4088c9f", "/usr/share/fonts/TTF/Merriweather-BoldItalic.ttf": "403b1bece3d70420e65c670315693e9bca255e9c95884d9cb2b334838e67b509", "/usr/share/fonts/TTF/Merriweather-Italic.ttf": "fc80dbac0ca9da894ae1801df9abe58f6dcca179ec4f8f6f7ea80fd13a1d387d", "/usr/share/fonts/TTF/Merriweather-Light.ttf": "d3ecc46bab128ed073ad9189bd7efdd2df455d8942ec056f14129bf35bcea7e5", "/usr/share/fonts/TTF/Merriweather-LightItalic.ttf": "8521c8eb542adf178b19c7ab7a0210fb4715fe68bb6ea578be129277b642c1f0", "/usr/share/fonts/TTF/Merriweather-Regular.ttf": "bc38fe756b3e259248183fc0b75ad81b02774f3ca68e5e544e925827b0186d40", "/usr/share/licenses/ttf-merriweather/LICENSE": "a7ba785ad99b6eae0444ab89910e512d4af9865937fddbcb5c72c4f59f55d6ad", "/var/log/pacman.log": "feb127f0f3b870b7dcde24b9e94dff9fd8e9b9f5aa86dc762930886d578988f6"}}
+{
+  "1:2.002-1": {
+    "/usr/share/fonts/TTF/Merriweather-Black.ttf": "dff1048499a2c245713dfa41e3683cfecfd15df757cc4cb20f85bceba7bfd58b",
+    "/usr/share/fonts/TTF/Merriweather-BlackItalic.ttf": "42b5cdd80b293acb1d7a15958a2c2f8b6b95213709110777486763c75bc83ebf",
+    "/usr/share/fonts/TTF/Merriweather-Bold.ttf": "55139769a87085bff777f68e3ecf92450c21a04c5ddd1e9e9528960ba4088c9f",
+    "/usr/share/fonts/TTF/Merriweather-BoldItalic.ttf": "403b1bece3d70420e65c670315693e9bca255e9c95884d9cb2b334838e67b509",
+    "/usr/share/fonts/TTF/Merriweather-Italic.ttf": "fc80dbac0ca9da894ae1801df9abe58f6dcca179ec4f8f6f7ea80fd13a1d387d",
+    "/usr/share/fonts/TTF/Merriweather-Light.ttf": "d3ecc46bab128ed073ad9189bd7efdd2df455d8942ec056f14129bf35bcea7e5",
+    "/usr/share/fonts/TTF/Merriweather-LightItalic.ttf": "8521c8eb542adf178b19c7ab7a0210fb4715fe68bb6ea578be129277b642c1f0",
+    "/usr/share/fonts/TTF/Merriweather-Regular.ttf": "bc38fe756b3e259248183fc0b75ad81b02774f3ca68e5e544e925827b0186d40",
+    "/usr/share/licenses/ttf-merriweather/LICENSE": "a7ba785ad99b6eae0444ab89910e512d4af9865937fddbcb5c72c4f59f55d6ad",
+    "/var/log/pacman.log": "feb127f0f3b870b7dcde24b9e94dff9fd8e9b9f5aa86dc762930886d578988f6"
+  }
+}

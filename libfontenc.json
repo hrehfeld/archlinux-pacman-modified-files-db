@@ -1,1 +1,11 @@
-{"1.1.3-1": {"/usr/include/X11/fonts/fontenc.h": "cc849b5afbeec7e22e72b2e1e57369ae764d3b04f43499e595b195e828e763e2", "/usr/share/licenses/libfontenc/COPYING": "a4dda7a643b517794bfa23dc9605da030055df38ac8a5b9e1905e690975a59c4", "/usr/lib/libfontenc.so.1": "f894d499721b83bd48931b4d2068f7f6da1103fcd4cfc4a3cabc6604df3f9017", "/usr/lib/libfontenc.so": "f894d499721b83bd48931b4d2068f7f6da1103fcd4cfc4a3cabc6604df3f9017", "/usr/lib/libfontenc.so.1.0.0": "f894d499721b83bd48931b4d2068f7f6da1103fcd4cfc4a3cabc6604df3f9017", "/usr/lib/pkgconfig/fontenc.pc": "a681725b823611db570269940d071a067cb996c897a2be6d61e0bbc5b84d9127", "/var/log/pacman.log": "d3aa33de497956ce88f13cbd31b5d92496fd106b8eaa402f11dbebd60c7ec4d7"}}
+{
+  "1.1.3-1": {
+    "/usr/include/X11/fonts/fontenc.h": "cc849b5afbeec7e22e72b2e1e57369ae764d3b04f43499e595b195e828e763e2",
+    "/usr/share/licenses/libfontenc/COPYING": "a4dda7a643b517794bfa23dc9605da030055df38ac8a5b9e1905e690975a59c4",
+    "/usr/lib/libfontenc.so.1": "f894d499721b83bd48931b4d2068f7f6da1103fcd4cfc4a3cabc6604df3f9017",
+    "/usr/lib/libfontenc.so": "f894d499721b83bd48931b4d2068f7f6da1103fcd4cfc4a3cabc6604df3f9017",
+    "/usr/lib/libfontenc.so.1.0.0": "f894d499721b83bd48931b4d2068f7f6da1103fcd4cfc4a3cabc6604df3f9017",
+    "/usr/lib/pkgconfig/fontenc.pc": "a681725b823611db570269940d071a067cb996c897a2be6d61e0bbc5b84d9127",
+    "/var/log/pacman.log": "d3aa33de497956ce88f13cbd31b5d92496fd106b8eaa402f11dbebd60c7ec4d7"
+  }
+}

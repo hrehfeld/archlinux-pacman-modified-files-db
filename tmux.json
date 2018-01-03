@@ -1,0 +1,8 @@
+{
+  "2.6-1": {
+    "/usr/bin/tmux": "9307ec9a62fa3badcda6c14054a880ba61e062e120b5daba9b1ef21be78de6e4",
+    "/usr/share/man/man1/tmux.1.gz": "aa7f31d46ddb0cc4bc8b88339bf1be468f927c3ed25592073d845a74e71962a4",
+    "/usr/share/licenses/tmux/LICENSE": "b5de80619e4884ced2dfe0a96020e85dcfb715a831ecdfdd7ce8c97b5a6ff2cc",
+    "/var/log/pacman.log": "bba692dadfb9f60c28b1afefbf488c7053dc5b8300c02cf401edc6e6b39c5469"
+  }
+}

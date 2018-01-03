@@ -1,1 +1,14 @@
-{"20171020-1": {"/usr/share/pacman/keyrings/archlinux.gpg": "aab84e124b25601987cff807dac715121c85f45c946086ba7fd7b34f3fc1c71c", "/usr/share/pacman/keyrings/archlinux-trusted": "85c653d9188851bc4d545db1504168a2b5ab1ac36c666e9a3a548c5c1dca64ba", "/usr/share/pacman/keyrings/archlinux-revoked": "4dfc337041e8ab7456ff9db46ac1cfe4a1b081f5cbfae72ee0a55587a2afd854", "/var/log/pacman.log": "eec5fb8767a7d1c1b2aaffb9c629a54812a80db646a56e70f2ffc9348fdd00dd"}, "20171213-1": {"/usr/share/pacman/keyrings/archlinux.gpg": "cd33827812d3e791ab4e17d485b6b90483780fd0a4213ade140c3b5719d7c46f", "/usr/share/pacman/keyrings/archlinux-trusted": "8ab578c21a376d0906a2b0c0d1d7be4f9569a7cbf471254c8f577ee259b7fc24", "/usr/share/pacman/keyrings/archlinux-revoked": "2c9a0a52965100fbbb1bfdd7346b3b2a9211e14c57f843d2d807bb82552774e3", "/var/log/pacman.log": "b27ac8035376245dd109d546e87ccf80e9e6b1e8c34f9cb58ed44242c031667b"}}
+{
+  "20171020-1": {
+    "/usr/share/pacman/keyrings/archlinux.gpg": "aab84e124b25601987cff807dac715121c85f45c946086ba7fd7b34f3fc1c71c",
+    "/usr/share/pacman/keyrings/archlinux-trusted": "85c653d9188851bc4d545db1504168a2b5ab1ac36c666e9a3a548c5c1dca64ba",
+    "/usr/share/pacman/keyrings/archlinux-revoked": "4dfc337041e8ab7456ff9db46ac1cfe4a1b081f5cbfae72ee0a55587a2afd854",
+    "/var/log/pacman.log": "eec5fb8767a7d1c1b2aaffb9c629a54812a80db646a56e70f2ffc9348fdd00dd"
+  },
+  "20171213-1": {
+    "/usr/share/pacman/keyrings/archlinux.gpg": "cd33827812d3e791ab4e17d485b6b90483780fd0a4213ade140c3b5719d7c46f",
+    "/usr/share/pacman/keyrings/archlinux-trusted": "8ab578c21a376d0906a2b0c0d1d7be4f9569a7cbf471254c8f577ee259b7fc24",
+    "/usr/share/pacman/keyrings/archlinux-revoked": "2c9a0a52965100fbbb1bfdd7346b3b2a9211e14c57f843d2d807bb82552774e3",
+    "/var/log/pacman.log": "b27ac8035376245dd109d546e87ccf80e9e6b1e8c34f9cb58ed44242c031667b"
+  }
+}

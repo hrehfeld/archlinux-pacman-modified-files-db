@@ -1,1 +1,11 @@
-{"r26.0.2-1\ndiscord-canary 0.0.27-1\ngit-hg-git 1-1": {"/var/log/pacman.log": "c9aca3b9a96edf82f5642ba1395166d1f43ba3c0cd67f8f454b94f9eef9ea6f2"}, "0.0.27-1\ngit-hg-git r155.bbd7058-1": {"/var/log/pacman.log": "33024eb7b2dfb56deea1d1c053bb7a8b451e4dd4ef25b72606263dcbdc8783f3"}, "1.1.2-2\ncryptsetup 1.7.5-2\ndevice-mapper 2.02.176-1\ngcc6 6.4.1-4\ngcc6-libs 6.4.1-4\ngit-hg-git r155.bbd7058-1\ngradle 4.3-1\ngtk-update-icon-cache 3.22.26-1\ngtk3 3.22.26-1\nimagemagick 6.9.9.22-1": {"/var/log/pacman.log": "70e6904d2338df272638de8c6a56badb7138bf623cb455b03c03c15aa84d861c"}}
+{
+  "r26.0.2-1\ndiscord-canary 0.0.27-1\ngit-hg-git 1-1": {
+    "/var/log/pacman.log": "c9aca3b9a96edf82f5642ba1395166d1f43ba3c0cd67f8f454b94f9eef9ea6f2"
+  },
+  "0.0.27-1\ngit-hg-git r155.bbd7058-1": {
+    "/var/log/pacman.log": "33024eb7b2dfb56deea1d1c053bb7a8b451e4dd4ef25b72606263dcbdc8783f3"
+  },
+  "1.1.2-2\ncryptsetup 1.7.5-2\ndevice-mapper 2.02.176-1\ngcc6 6.4.1-4\ngcc6-libs 6.4.1-4\ngit-hg-git r155.bbd7058-1\ngradle 4.3-1\ngtk-update-icon-cache 3.22.26-1\ngtk3 3.22.26-1\nimagemagick 6.9.9.22-1": {
+    "/var/log/pacman.log": "70e6904d2338df272638de8c6a56badb7138bf623cb455b03c03c15aa84d861c"
+  }
+}

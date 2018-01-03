@@ -1,1 +1,18 @@
-{"0.4.0.3-5": {"/usr/share/haskell/register/haskell-prelude-extras.sh": "6315bc2c35eee4c3eb4144b057c964a6508755b7164eb27902a14783ff068103", "/usr/share/haskell/unregister/haskell-prelude-extras.sh": "0cc01a1e7817e2b7d7e8fce068ae50e5deda7bff245edd3f6640e6eab0a2ac73", "/usr/share/licenses/haskell-prelude-extras/LICENSE": "d1798c5e47017e9dabb9478448bfb6a05b9ba1f3da7b7b5273899fe519370cde", "/usr/lib/libHSprelude-extras-0.4.0.3-E2TUDUJSI3wDl8mkUzsaKv-ghc8.2.1.so": "81982130d10dfee306839be62f2220133d0fd6a883e9e4abaed8e6b20de701cd", "/usr/lib/ghc-8.2.1/site-local/prelude-extras-0.4.0.3/Prelude/Extras.dyn_hi": "5c68c12053968e7f343b83d278d358af16d441110830247627373a40ecd6863e", "/var/log/pacman.log": "633e6dc531a1e8ecc11f7863f33cf28bc2fae45b5c97749998f41ab8302afe5b"}, "0.4.0.3-6": {"/usr/share/haskell/register/haskell-prelude-extras.sh": "6523f7ea4ce317f5e643568bd6e1eb08c11917a400af30cc91fba96c83b01f84", "/usr/share/haskell/unregister/haskell-prelude-extras.sh": "70584edd1f3707d3ae5f02e03400723232d7ea3003c577770fca706c0523a1ab", "/usr/share/licenses/haskell-prelude-extras/LICENSE": "d1798c5e47017e9dabb9478448bfb6a05b9ba1f3da7b7b5273899fe519370cde", "/usr/lib/libHSprelude-extras-0.4.0.3-2BTovQep0HPEQRrUv78ItR-ghc8.2.2.so": "e859b33ffea7c34106e0d8bdf48cd12a98bb8012f9f71104ecff1d889ad95b9a", "/usr/lib/ghc-8.2.2/site-local/prelude-extras-0.4.0.3/Prelude/Extras.dyn_hi": "d955557d73487607216360eb63717b1fd95c72a8946cbc1f971f4d0dedea75ff", "/var/log/pacman.log": "a048ba452570f95e33e8652e87e3f649190a1c2499a625dbf64db8c6f65cf2e1"}}
+{
+  "0.4.0.3-5": {
+    "/usr/share/haskell/register/haskell-prelude-extras.sh": "6315bc2c35eee4c3eb4144b057c964a6508755b7164eb27902a14783ff068103",
+    "/usr/share/haskell/unregister/haskell-prelude-extras.sh": "0cc01a1e7817e2b7d7e8fce068ae50e5deda7bff245edd3f6640e6eab0a2ac73",
+    "/usr/share/licenses/haskell-prelude-extras/LICENSE": "d1798c5e47017e9dabb9478448bfb6a05b9ba1f3da7b7b5273899fe519370cde",
+    "/usr/lib/libHSprelude-extras-0.4.0.3-E2TUDUJSI3wDl8mkUzsaKv-ghc8.2.1.so": "81982130d10dfee306839be62f2220133d0fd6a883e9e4abaed8e6b20de701cd",
+    "/usr/lib/ghc-8.2.1/site-local/prelude-extras-0.4.0.3/Prelude/Extras.dyn_hi": "5c68c12053968e7f343b83d278d358af16d441110830247627373a40ecd6863e",
+    "/var/log/pacman.log": "633e6dc531a1e8ecc11f7863f33cf28bc2fae45b5c97749998f41ab8302afe5b"
+  },
+  "0.4.0.3-6": {
+    "/usr/share/haskell/register/haskell-prelude-extras.sh": "6523f7ea4ce317f5e643568bd6e1eb08c11917a400af30cc91fba96c83b01f84",
+    "/usr/share/haskell/unregister/haskell-prelude-extras.sh": "70584edd1f3707d3ae5f02e03400723232d7ea3003c577770fca706c0523a1ab",
+    "/usr/share/licenses/haskell-prelude-extras/LICENSE": "d1798c5e47017e9dabb9478448bfb6a05b9ba1f3da7b7b5273899fe519370cde",
+    "/usr/lib/libHSprelude-extras-0.4.0.3-2BTovQep0HPEQRrUv78ItR-ghc8.2.2.so": "e859b33ffea7c34106e0d8bdf48cd12a98bb8012f9f71104ecff1d889ad95b9a",
+    "/usr/lib/ghc-8.2.2/site-local/prelude-extras-0.4.0.3/Prelude/Extras.dyn_hi": "d955557d73487607216360eb63717b1fd95c72a8946cbc1f971f4d0dedea75ff",
+    "/var/log/pacman.log": "a048ba452570f95e33e8652e87e3f649190a1c2499a625dbf64db8c6f65cf2e1"
+  }
+}

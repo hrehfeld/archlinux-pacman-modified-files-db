@@ -1,1 +1,12 @@
-{"5.0.3-1": {"/usr/lib/libXfixes.so.3": "4e2034dca58bedaa472db80d75ab4bab5f24dc3d0641dfcd88850bc9c30a04cf", "/usr/lib/libXfixes.so": "4e2034dca58bedaa472db80d75ab4bab5f24dc3d0641dfcd88850bc9c30a04cf", "/usr/lib/libXfixes.so.3.1.0": "4e2034dca58bedaa472db80d75ab4bab5f24dc3d0641dfcd88850bc9c30a04cf", "/usr/lib/pkgconfig/xfixes.pc": "a7c0dcee38448e460bc193255729ff67dcedd8537b925f65b546029c07bb26cc", "/usr/include/X11/extensions/Xfixes.h": "6f6f1059e06cdc72a909eeab831f4b6c70fd1b76ced02fb1836069734018c157", "/usr/share/man/man3/Xfixes.3.gz": "19e35ec42c4070ef42d9a381da78b9150fdda68a5e23b5d68e04ab606f19981e", "/usr/share/licenses/libxfixes/COPYING": "d64e671ffeb483d4543f98c842788ab34c77427e27d83d6b082065a4438d4885", "/var/log/pacman.log": "8548d8cc1ce5bd62a7e354fb6b014d4fb18b8f1fe038a8aadcb147c89b65df4d"}}
+{
+  "5.0.3-1": {
+    "/usr/lib/libXfixes.so.3": "4e2034dca58bedaa472db80d75ab4bab5f24dc3d0641dfcd88850bc9c30a04cf",
+    "/usr/lib/libXfixes.so": "4e2034dca58bedaa472db80d75ab4bab5f24dc3d0641dfcd88850bc9c30a04cf",
+    "/usr/lib/libXfixes.so.3.1.0": "4e2034dca58bedaa472db80d75ab4bab5f24dc3d0641dfcd88850bc9c30a04cf",
+    "/usr/lib/pkgconfig/xfixes.pc": "a7c0dcee38448e460bc193255729ff67dcedd8537b925f65b546029c07bb26cc",
+    "/usr/include/X11/extensions/Xfixes.h": "6f6f1059e06cdc72a909eeab831f4b6c70fd1b76ced02fb1836069734018c157",
+    "/usr/share/man/man3/Xfixes.3.gz": "19e35ec42c4070ef42d9a381da78b9150fdda68a5e23b5d68e04ab606f19981e",
+    "/usr/share/licenses/libxfixes/COPYING": "d64e671ffeb483d4543f98c842788ab34c77427e27d83d6b082065a4438d4885",
+    "/var/log/pacman.log": "8548d8cc1ce5bd62a7e354fb6b014d4fb18b8f1fe038a8aadcb147c89b65df4d"
+  }
+}

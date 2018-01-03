@@ -1,1 +1,24 @@
-{"1.18.0-3": {"/usr/share/licenses/yubikey-personalization/COPYING": "1cdaf0b36c0bd37bc3286caa0c6b34315d5dc89dca7f504f6642dd5c5efc08dd", "/usr/share/doc/yubikey-personalization/README": "3d0d77c457f8ca24d6fdc9ff22cce87f32b000f7b6b03823c718376c6e78d2f1", "/usr/share/man/man1/ykinfo.1.gz": "36da7d7067e8af903a101cac09bec590753dc2ba6826076a5796b90d1915f6a7", "/usr/share/man/man1/ykchalresp.1.gz": "c2bb61af67423a3cf14ab0534278c29f987517b9d6b99245b1009f01c1855471", "/usr/share/man/man1/ykpersonalize.1.gz": "7c88ee2988085e8827db6cb28a98b8081d8e926cb3f875973640f63cf05778bf", "/usr/lib/libykpers-1.so.1": "10074f89bcd15ca16800c252d32730a66097f0ba39b9afb0e29063a73859ed71", "/usr/lib/libykpers-1.so": "10074f89bcd15ca16800c252d32730a66097f0ba39b9afb0e29063a73859ed71", "/usr/lib/libykpers-1.so.1.18.0": "10074f89bcd15ca16800c252d32730a66097f0ba39b9afb0e29063a73859ed71", "/usr/lib/udev/rules.d/69-yubikey.rules": "f41538ca6429a4a39a323c2ade93687ca0afcc9d8be586a76c912986caeb1aa8", "/usr/lib/pkgconfig/ykpers-1.pc": "e51cc6d87e6990700bc5186a35ba14b357b3f735452527222fc98f1f1e378ffa", "/usr/include/ykpers-1/ykpers.h": "b19e91cdb9062aaf7be994389bc1dd2e9987104a1d3f70df6f3c663cdefd5199", "/usr/include/ykpers-1/ykpers-version.h": "0d0f27b8b1457cb7c06a83b45139b185e2a731da21dc98adba1bc01a0da4b75c", "/usr/include/ykpers-1/ykstatus.h": "579619abe3dd9b53546985b579103adb3e225c177ba3fadfa994a96e107ace5c", "/usr/include/ykpers-1/ykcore.h": "31519a6b5e27f7252d0cd2ce32e6db269ec3233d0d0f1367207d27a17f2bccd5", "/usr/include/ykpers-1/ykdef.h": "4542f6229d2c3707a07b3491003a2b1426ea3bae6bf71242e40a203a48a6632a", "/usr/include/ykpers-1/ykpbkdf2.h": "098d4389357a74f922437eee7ebe801320b114a7d4dbbbfc9b2bd9b390ed1db8", "/usr/bin/ykinfo": "22c1ff5358334b825d4a840ae356c0cd9253ad35464cc8439b090bd56a2784d2", "/usr/bin/ykchalresp": "12c8d2ca28bfc13d4e7eeb444a084deb054b1c0e4aa3cae2a0ba4aa32ad33f88", "/usr/bin/ykpersonalize": "98097cfa356e5008574b78c0b6acd7a6eea991f068e9358821650983e71359b4", "/var/log/pacman.log": "1ea8e94ba9cfc66dfee2c0274b6ee84656314ae7e53ead332c4bcfe9ea720eba"}}
+{
+  "1.18.0-3": {
+    "/usr/share/licenses/yubikey-personalization/COPYING": "1cdaf0b36c0bd37bc3286caa0c6b34315d5dc89dca7f504f6642dd5c5efc08dd",
+    "/usr/share/doc/yubikey-personalization/README": "3d0d77c457f8ca24d6fdc9ff22cce87f32b000f7b6b03823c718376c6e78d2f1",
+    "/usr/share/man/man1/ykinfo.1.gz": "36da7d7067e8af903a101cac09bec590753dc2ba6826076a5796b90d1915f6a7",
+    "/usr/share/man/man1/ykchalresp.1.gz": "c2bb61af67423a3cf14ab0534278c29f987517b9d6b99245b1009f01c1855471",
+    "/usr/share/man/man1/ykpersonalize.1.gz": "7c88ee2988085e8827db6cb28a98b8081d8e926cb3f875973640f63cf05778bf",
+    "/usr/lib/libykpers-1.so.1": "10074f89bcd15ca16800c252d32730a66097f0ba39b9afb0e29063a73859ed71",
+    "/usr/lib/libykpers-1.so": "10074f89bcd15ca16800c252d32730a66097f0ba39b9afb0e29063a73859ed71",
+    "/usr/lib/libykpers-1.so.1.18.0": "10074f89bcd15ca16800c252d32730a66097f0ba39b9afb0e29063a73859ed71",
+    "/usr/lib/udev/rules.d/69-yubikey.rules": "f41538ca6429a4a39a323c2ade93687ca0afcc9d8be586a76c912986caeb1aa8",
+    "/usr/lib/pkgconfig/ykpers-1.pc": "e51cc6d87e6990700bc5186a35ba14b357b3f735452527222fc98f1f1e378ffa",
+    "/usr/include/ykpers-1/ykpers.h": "b19e91cdb9062aaf7be994389bc1dd2e9987104a1d3f70df6f3c663cdefd5199",
+    "/usr/include/ykpers-1/ykpers-version.h": "0d0f27b8b1457cb7c06a83b45139b185e2a731da21dc98adba1bc01a0da4b75c",
+    "/usr/include/ykpers-1/ykstatus.h": "579619abe3dd9b53546985b579103adb3e225c177ba3fadfa994a96e107ace5c",
+    "/usr/include/ykpers-1/ykcore.h": "31519a6b5e27f7252d0cd2ce32e6db269ec3233d0d0f1367207d27a17f2bccd5",
+    "/usr/include/ykpers-1/ykdef.h": "4542f6229d2c3707a07b3491003a2b1426ea3bae6bf71242e40a203a48a6632a",
+    "/usr/include/ykpers-1/ykpbkdf2.h": "098d4389357a74f922437eee7ebe801320b114a7d4dbbbfc9b2bd9b390ed1db8",
+    "/usr/bin/ykinfo": "22c1ff5358334b825d4a840ae356c0cd9253ad35464cc8439b090bd56a2784d2",
+    "/usr/bin/ykchalresp": "12c8d2ca28bfc13d4e7eeb444a084deb054b1c0e4aa3cae2a0ba4aa32ad33f88",
+    "/usr/bin/ykpersonalize": "98097cfa356e5008574b78c0b6acd7a6eea991f068e9358821650983e71359b4",
+    "/var/log/pacman.log": "1ea8e94ba9cfc66dfee2c0274b6ee84656314ae7e53ead332c4bcfe9ea720eba"
+  }
+}

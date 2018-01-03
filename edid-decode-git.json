@@ -1,1 +1,8 @@
-{"r171.f56f329-1": {"/usr/bin/edid-decode": "06a64bb90fd30ddff5c6e95e5b90b3f1f76748caab5f57f6eda65fbf8b6f6ae3", "/usr/share/man/man1/edid-decode.1.gz": "781cb4dd4b7a26e25bb492b02477148e0f394a8acd8f6b23cfe44a51fbf4cf7a", "/usr/share/licenses/edid-decode-git/LICENSE": "efa384855281564a01a23b164c8052ac7888745358e0dfb0693ba50d76a67aad", "/var/log/pacman.log": "0f4697f64530e9c0c641ca76ad2f61caa19fb87418e44323c120b9423e2059e8"}}
+{
+  "r171.f56f329-1": {
+    "/usr/bin/edid-decode": "06a64bb90fd30ddff5c6e95e5b90b3f1f76748caab5f57f6eda65fbf8b6f6ae3",
+    "/usr/share/man/man1/edid-decode.1.gz": "781cb4dd4b7a26e25bb492b02477148e0f394a8acd8f6b23cfe44a51fbf4cf7a",
+    "/usr/share/licenses/edid-decode-git/LICENSE": "efa384855281564a01a23b164c8052ac7888745358e0dfb0693ba50d76a67aad",
+    "/var/log/pacman.log": "0f4697f64530e9c0c641ca76ad2f61caa19fb87418e44323c120b9423e2059e8"
+  }
+}

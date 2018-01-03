@@ -1,1 +1,10 @@
-{"0.4.2-3": {"/usr/share/licenses/compositeproto/COPYING": "ab587ca94282c1e60797ffe4a77aea195418387db20ec7e0c24cedf2c844f8c1", "/usr/share/doc/compositeproto/compositeproto.txt": "02ce2bc35aa47442bd82019a1a2d79ceb5f4a3366b129a695f32f13ddc308385", "/usr/lib/pkgconfig/compositeproto.pc": "35029f387c6301ad4503d7d7c1a75243c45d1ddab12b4c99f54bd144d2effbb6", "/usr/include/X11/extensions/composite.h": "173fda9614e3812ed2b27d5df05fbb581193e8289d7db09b25e0bf8acc6304f8", "/usr/include/X11/extensions/compositeproto.h": "fc7ad01650d02d5a3a629103430e24cd106d16e658f55069a12f983dd06e9dc8", "/var/log/pacman.log": "290ecd37408062d76154ef1a86759895519bfe140b572f4812737cb3cd8c8835"}}
+{
+  "0.4.2-3": {
+    "/usr/share/licenses/compositeproto/COPYING": "ab587ca94282c1e60797ffe4a77aea195418387db20ec7e0c24cedf2c844f8c1",
+    "/usr/share/doc/compositeproto/compositeproto.txt": "02ce2bc35aa47442bd82019a1a2d79ceb5f4a3366b129a695f32f13ddc308385",
+    "/usr/lib/pkgconfig/compositeproto.pc": "35029f387c6301ad4503d7d7c1a75243c45d1ddab12b4c99f54bd144d2effbb6",
+    "/usr/include/X11/extensions/composite.h": "173fda9614e3812ed2b27d5df05fbb581193e8289d7db09b25e0bf8acc6304f8",
+    "/usr/include/X11/extensions/compositeproto.h": "fc7ad01650d02d5a3a629103430e24cd106d16e658f55069a12f983dd06e9dc8",
+    "/var/log/pacman.log": "290ecd37408062d76154ef1a86759895519bfe140b572f4812737cb3cd8c8835"
+  }
+}

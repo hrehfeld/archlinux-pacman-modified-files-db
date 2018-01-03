@@ -1,1 +1,17 @@
-{"1.0.0-7": {"/usr/lib/libdv.so.4": "1fccad6bda7995d9061dbf9c0f99befd53106c5684b24a4f84a4c7b019c7fffd", "/usr/lib/libdv.so": "1fccad6bda7995d9061dbf9c0f99befd53106c5684b24a4f84a4c7b019c7fffd", "/usr/lib/libdv.so.4.0.3": "1fccad6bda7995d9061dbf9c0f99befd53106c5684b24a4f84a4c7b019c7fffd", "/usr/lib/pkgconfig/libdv.pc": "b0ff9a5838e15a3f8d40985bb10fc830b6080bf7f2666710294927a270defc7e", "/usr/include/libdv/dv_types.h": "f1ce3f759fb854d5b02f79e2a7ce4134fcd20946ef92c0f18d52d0c62b647105", "/usr/include/libdv/dv.h": "c8d92fcee2a799d55c399af09716f423b4a75905ce8723add0f7cbfeb47e8325", "/usr/share/man/man1/dubdv.1.gz": "ef88b2dc603475c4dd3a00e7d56f782d82a8c2c87039068c8358c1afe2718b58", "/usr/share/man/man1/dvconnect.1.gz": "f36d310655df84ca0246a1a99635ad50a0fc59cd563a445d7bfd84acc55b7429", "/usr/share/man/man1/encodedv.1.gz": "1c4a229be4dd17798c9f9b0178f505d39958b714c63c2a00203115ccbcd8a442", "/usr/bin/dubdv": "48f55cb81c23c49e0d599eceb6e366c12df5dde8b263cad52cb3aa27035276c2", "/usr/bin/dvconnect": "35d9e53624c8c03a600c7c3afc5246c3e441d036d3930190ac4891cdd45d929b", "/usr/bin/encodedv": "d6b73659059ce7eac162034b804c37fd58a6f25978d3ce409d0f1b3d6a5ee4de", "/var/log/pacman.log": "0543288f6b88f33dee95d26cced9e7d0e2a9b53289b05e4ed586cadf4162f5f2"}}
+{
+  "1.0.0-7": {
+    "/usr/lib/libdv.so.4": "1fccad6bda7995d9061dbf9c0f99befd53106c5684b24a4f84a4c7b019c7fffd",
+    "/usr/lib/libdv.so": "1fccad6bda7995d9061dbf9c0f99befd53106c5684b24a4f84a4c7b019c7fffd",
+    "/usr/lib/libdv.so.4.0.3": "1fccad6bda7995d9061dbf9c0f99befd53106c5684b24a4f84a4c7b019c7fffd",
+    "/usr/lib/pkgconfig/libdv.pc": "b0ff9a5838e15a3f8d40985bb10fc830b6080bf7f2666710294927a270defc7e",
+    "/usr/include/libdv/dv_types.h": "f1ce3f759fb854d5b02f79e2a7ce4134fcd20946ef92c0f18d52d0c62b647105",
+    "/usr/include/libdv/dv.h": "c8d92fcee2a799d55c399af09716f423b4a75905ce8723add0f7cbfeb47e8325",
+    "/usr/share/man/man1/dubdv.1.gz": "ef88b2dc603475c4dd3a00e7d56f782d82a8c2c87039068c8358c1afe2718b58",
+    "/usr/share/man/man1/dvconnect.1.gz": "f36d310655df84ca0246a1a99635ad50a0fc59cd563a445d7bfd84acc55b7429",
+    "/usr/share/man/man1/encodedv.1.gz": "1c4a229be4dd17798c9f9b0178f505d39958b714c63c2a00203115ccbcd8a442",
+    "/usr/bin/dubdv": "48f55cb81c23c49e0d599eceb6e366c12df5dde8b263cad52cb3aa27035276c2",
+    "/usr/bin/dvconnect": "35d9e53624c8c03a600c7c3afc5246c3e441d036d3930190ac4891cdd45d929b",
+    "/usr/bin/encodedv": "d6b73659059ce7eac162034b804c37fd58a6f25978d3ce409d0f1b3d6a5ee4de",
+    "/var/log/pacman.log": "0543288f6b88f33dee95d26cced9e7d0e2a9b53289b05e4ed586cadf4162f5f2"
+  }
+}

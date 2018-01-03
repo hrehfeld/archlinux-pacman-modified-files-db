@@ -1,1 +1,22 @@
-{"2.4.3-1": {"/usr/share/info/assuan.info.gz": "829a930a878ee5d8c4fbe20f60c6b046314b67cf4840a9bef51fcc85846e80e3", "/usr/share/aclocal/libassuan.m4": "221d974ab85915f6ab04bfd69b57e2520abe02d00358366e4e14f8f634aae03c", "/usr/lib/libassuan.so.0.7.3": "e13d196c9c3fca8e6e28ac2ad50732e31c25a0ab2a01d73de2c7801b0344080e", "/usr/lib/libassuan.so.0": "e13d196c9c3fca8e6e28ac2ad50732e31c25a0ab2a01d73de2c7801b0344080e", "/usr/lib/libassuan.so": "e13d196c9c3fca8e6e28ac2ad50732e31c25a0ab2a01d73de2c7801b0344080e", "/usr/include/assuan.h": "1e7f5d6bed4f9d515fb4a45b35736c864e98a928663b7a9f5590a0217b30aec3", "/usr/bin/libassuan-config": "6a81d29fa126a3bcbed983bdfa0d2e18df676e11cce36a831235928b79cc10ca", "/var/log/pacman.log": "4f16572be664c127bf111600a6ea4bd781d062f0d3d1de7a7da4b22c82e502b4"}, "2.5.1-1": {"/usr/include/assuan.h": "c5a827d2b9c2cc81796b2a656f996368f0615612aa0aaaf9cba20b9ec5b33221", "/usr/lib/libassuan.so": "629898572a425385e4d2bac63f4821ee9c931b21047849a24bb5c7f689ab7dfe", "/usr/lib/libassuan.so.0": "629898572a425385e4d2bac63f4821ee9c931b21047849a24bb5c7f689ab7dfe", "/usr/lib/libassuan.so.0.8.1": "629898572a425385e4d2bac63f4821ee9c931b21047849a24bb5c7f689ab7dfe", "/usr/share/aclocal/libassuan.m4": "cd8d080421a2ad03c22656eb1d47a50a58318ef3dc52dd0f9314e642dd9cdcf7", "/usr/share/info/assuan.info.gz": "aa24b9df69321d52e0de8d863d8d9f8663c9ee30dcd6de0c53b2f6f4e3fecc13", "/usr/bin/libassuan-config": "f471756d7adfdb1e5e18d02e8fbe555a2773cc37a92fa8a69d38b0fd974e8ca7", "/var/log/pacman.log": "e0a68a641ed05a0f9bdd5df136eaa61e4f3c424eba3cfcef68820e7fd6a9ed3a"}}
+{
+  "2.4.3-1": {
+    "/usr/share/info/assuan.info.gz": "829a930a878ee5d8c4fbe20f60c6b046314b67cf4840a9bef51fcc85846e80e3",
+    "/usr/share/aclocal/libassuan.m4": "221d974ab85915f6ab04bfd69b57e2520abe02d00358366e4e14f8f634aae03c",
+    "/usr/lib/libassuan.so.0.7.3": "e13d196c9c3fca8e6e28ac2ad50732e31c25a0ab2a01d73de2c7801b0344080e",
+    "/usr/lib/libassuan.so.0": "e13d196c9c3fca8e6e28ac2ad50732e31c25a0ab2a01d73de2c7801b0344080e",
+    "/usr/lib/libassuan.so": "e13d196c9c3fca8e6e28ac2ad50732e31c25a0ab2a01d73de2c7801b0344080e",
+    "/usr/include/assuan.h": "1e7f5d6bed4f9d515fb4a45b35736c864e98a928663b7a9f5590a0217b30aec3",
+    "/usr/bin/libassuan-config": "6a81d29fa126a3bcbed983bdfa0d2e18df676e11cce36a831235928b79cc10ca",
+    "/var/log/pacman.log": "4f16572be664c127bf111600a6ea4bd781d062f0d3d1de7a7da4b22c82e502b4"
+  },
+  "2.5.1-1": {
+    "/usr/include/assuan.h": "c5a827d2b9c2cc81796b2a656f996368f0615612aa0aaaf9cba20b9ec5b33221",
+    "/usr/lib/libassuan.so": "629898572a425385e4d2bac63f4821ee9c931b21047849a24bb5c7f689ab7dfe",
+    "/usr/lib/libassuan.so.0": "629898572a425385e4d2bac63f4821ee9c931b21047849a24bb5c7f689ab7dfe",
+    "/usr/lib/libassuan.so.0.8.1": "629898572a425385e4d2bac63f4821ee9c931b21047849a24bb5c7f689ab7dfe",
+    "/usr/share/aclocal/libassuan.m4": "cd8d080421a2ad03c22656eb1d47a50a58318ef3dc52dd0f9314e642dd9cdcf7",
+    "/usr/share/info/assuan.info.gz": "aa24b9df69321d52e0de8d863d8d9f8663c9ee30dcd6de0c53b2f6f4e3fecc13",
+    "/usr/bin/libassuan-config": "f471756d7adfdb1e5e18d02e8fbe555a2773cc37a92fa8a69d38b0fd974e8ca7",
+    "/var/log/pacman.log": "e0a68a641ed05a0f9bdd5df136eaa61e4f3c424eba3cfcef68820e7fd6a9ed3a"
+  }
+}

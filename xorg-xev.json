@@ -1,1 +1,8 @@
-{"1.2.2-1": {"/usr/share/licenses/xorg-xev/COPYING": "9b840f2e1900889124cc999f3158da2b6b07bf6d0d77bdbb01ce65d2e702dc83", "/usr/share/man/man1/xev.1.gz": "aca7285293628411ae0657d9d9bae8e531709762c8fe400179f6ea7550620990", "/usr/bin/xev": "e4ddf38c96a046c14241ed1422631dad628fcf022f37b642e304b950efdecceb", "/var/log/pacman.log": "4088808efcd75631a2bcc9e6af5107b3303ce0917646bda19321f1c3e5e7b440"}}
+{
+  "1.2.2-1": {
+    "/usr/share/licenses/xorg-xev/COPYING": "9b840f2e1900889124cc999f3158da2b6b07bf6d0d77bdbb01ce65d2e702dc83",
+    "/usr/share/man/man1/xev.1.gz": "aca7285293628411ae0657d9d9bae8e531709762c8fe400179f6ea7550620990",
+    "/usr/bin/xev": "e4ddf38c96a046c14241ed1422631dad628fcf022f37b642e304b950efdecceb",
+    "/var/log/pacman.log": "4088808efcd75631a2bcc9e6af5107b3303ce0917646bda19321f1c3e5e7b440"
+  }
+}

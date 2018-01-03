@@ -1,1 +1,25 @@
-{"1.0.0.r48.g7f5d877-1": {"/usr/bin/homeshick": "cd47cb9094b5172aad6410d8fb1df4abc70a7b9901757135fcc274ef898f7552", "/usr/bin/homeshick.csh": "4cc98b3001a8d40f703ab5b330e6afd8f671e858c00f23c034806fe9ada49317", "/usr/lib/homeshick/homeshick.sh": "71f0b65d1eb74589358445968775cb4af74d912910b9911b5cf72144e4763009", "/usr/lib/homeshick/homeshick.fish": "394dab4e8778153d649e245a5c0dc7b0175fcc53f72e83cd25b386a40feba258", "/usr/lib/homeshick/lib/exit_status.sh": "b5559424c76c06f4f65a0d89042b3ab3164ed5bfd162b498157db895b5dbb6c3", "/usr/lib/homeshick/lib/fs.sh": "de889f3dd161c44bc6a4277f9689dd13e538c3d061a94058f80fdb928b7e89b1", "/usr/lib/homeshick/lib/git.sh": "4688c6c0d045c6156e6967f1814c88afeaa0ea2853e7c01e732bff66bd9fa03b", "/usr/lib/homeshick/lib/log.sh": "49374cdc6c6a3efd39b61685439946a190dcbf994d31bdb612b0ef7bfa05061b", "/usr/lib/homeshick/lib/prompt.sh": "7bd93cc82321b626b714794da257be03cebf35e86cc58f1cb732c4176753ab15", "/usr/lib/homeshick/lib/submodule_files.sh": "9b36e740311f93d9caf1f0cca7572302996ec0c652096d91a56e5d7785b5f60b", "/usr/lib/homeshick/lib/commands/check.sh": "77990b2bfbada3975e775a3b7d660c6b6c25342de26bfb08ac3d524093812963", "/usr/lib/homeshick/lib/commands/clone.sh": "87d775cfe77125b2e1038e8327200cc3dc761ed93acf11a7d8e2dfeb934b14d9", "/usr/lib/homeshick/lib/commands/generate.sh": "1248d82283a792f4a66df04be2a7c012b3889dbc21333bd317dda2d967a9d4f3", "/usr/lib/homeshick/lib/commands/help.sh": "56a909711833ee7da019be58604c8e05738f1438a44175763058de6f2c9bb42b", "/usr/lib/homeshick/lib/commands/link.sh": "a2c2f4899e52a9ac57bfe6552c6094757634ae54736f3f18796f435ae74b512f", "/usr/lib/homeshick/lib/commands/list.sh": "d3edaf8200ebf078fd08567cb9b614b90b9c6403e4b1fe879c57f60b39cf46c7", "/usr/lib/homeshick/lib/commands/pull.sh": "36b6e49e0c5162da91c857392bed3c7f478847ebc71b43359d6c487edf1ce78c", "/usr/lib/homeshick/lib/commands/refresh.sh": "01385985762580f1a61989f8b1cb2cee961335e25492222e3e0cac49a573e933", "/usr/lib/homeshick/lib/commands/track.sh": "176d284f91eda4998863b6c5dffc345fa587eefa4cf7919f2778c5975f6bca4c", "/usr/share/licenses/homeshick-git/LICENSE": "6ac5069083c7108b26c0979b36e3017535632b70e46a384ac8e6889de3750c8a", "/var/log/pacman.log": "212e27a541301cb384516fd70c64a323323a4ff492018f308ee315b71c8adab5"}}
+{
+  "1.0.0.r48.g7f5d877-1": {
+    "/usr/bin/homeshick": "cd47cb9094b5172aad6410d8fb1df4abc70a7b9901757135fcc274ef898f7552",
+    "/usr/bin/homeshick.csh": "4cc98b3001a8d40f703ab5b330e6afd8f671e858c00f23c034806fe9ada49317",
+    "/usr/lib/homeshick/homeshick.sh": "71f0b65d1eb74589358445968775cb4af74d912910b9911b5cf72144e4763009",
+    "/usr/lib/homeshick/homeshick.fish": "394dab4e8778153d649e245a5c0dc7b0175fcc53f72e83cd25b386a40feba258",
+    "/usr/lib/homeshick/lib/exit_status.sh": "b5559424c76c06f4f65a0d89042b3ab3164ed5bfd162b498157db895b5dbb6c3",
+    "/usr/lib/homeshick/lib/fs.sh": "de889f3dd161c44bc6a4277f9689dd13e538c3d061a94058f80fdb928b7e89b1",
+    "/usr/lib/homeshick/lib/git.sh": "4688c6c0d045c6156e6967f1814c88afeaa0ea2853e7c01e732bff66bd9fa03b",
+    "/usr/lib/homeshick/lib/log.sh": "49374cdc6c6a3efd39b61685439946a190dcbf994d31bdb612b0ef7bfa05061b",
+    "/usr/lib/homeshick/lib/prompt.sh": "7bd93cc82321b626b714794da257be03cebf35e86cc58f1cb732c4176753ab15",
+    "/usr/lib/homeshick/lib/submodule_files.sh": "9b36e740311f93d9caf1f0cca7572302996ec0c652096d91a56e5d7785b5f60b",
+    "/usr/lib/homeshick/lib/commands/check.sh": "77990b2bfbada3975e775a3b7d660c6b6c25342de26bfb08ac3d524093812963",
+    "/usr/lib/homeshick/lib/commands/clone.sh": "87d775cfe77125b2e1038e8327200cc3dc761ed93acf11a7d8e2dfeb934b14d9",
+    "/usr/lib/homeshick/lib/commands/generate.sh": "1248d82283a792f4a66df04be2a7c012b3889dbc21333bd317dda2d967a9d4f3",
+    "/usr/lib/homeshick/lib/commands/help.sh": "56a909711833ee7da019be58604c8e05738f1438a44175763058de6f2c9bb42b",
+    "/usr/lib/homeshick/lib/commands/link.sh": "a2c2f4899e52a9ac57bfe6552c6094757634ae54736f3f18796f435ae74b512f",
+    "/usr/lib/homeshick/lib/commands/list.sh": "d3edaf8200ebf078fd08567cb9b614b90b9c6403e4b1fe879c57f60b39cf46c7",
+    "/usr/lib/homeshick/lib/commands/pull.sh": "36b6e49e0c5162da91c857392bed3c7f478847ebc71b43359d6c487edf1ce78c",
+    "/usr/lib/homeshick/lib/commands/refresh.sh": "01385985762580f1a61989f8b1cb2cee961335e25492222e3e0cac49a573e933",
+    "/usr/lib/homeshick/lib/commands/track.sh": "176d284f91eda4998863b6c5dffc345fa587eefa4cf7919f2778c5975f6bca4c",
+    "/usr/share/licenses/homeshick-git/LICENSE": "6ac5069083c7108b26c0979b36e3017535632b70e46a384ac8e6889de3750c8a",
+    "/var/log/pacman.log": "212e27a541301cb384516fd70c64a323323a4ff492018f308ee315b71c8adab5"
+  }
+}

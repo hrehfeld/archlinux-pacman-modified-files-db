@@ -1,1 +1,28 @@
-{"0.170-1": {"/usr/bin/eu-make-debug-archive": "c76dc490795597d62f8a13fe0476fa974e0afa18a2b7a2c34dfebd5f1831f406", "/usr/bin/eu-elfcompress": "37c86aee17a630ae8a1988e57449e61db0fed70c923faefecd1ecf0e52a0a2a9", "/usr/bin/eu-stack": "d6922e5c23a03f44a4dcd7c29e923a8597cb9a001ae83a9349e6894cc827c22d", "/usr/bin/eu-unstrip": "c7ccf67f140f51b14204c09f9d90b8a97553178aef2e352068ed519769b47b36", "/usr/bin/eu-ar": "cf3d7845a3f09320414f3740eb0984f7b5cf54e939dff56ed57e015f6989c818", "/usr/bin/eu-strings": "b8948f59a065e7b3fda1a15e9709729dabf6cb8f39637be84fd40c0ce94e3108", "/usr/bin/eu-ranlib": "b0397d6c54a0ef9c2cacfac5df581142adbdf25e375c6942bda30fa16421d558", "/usr/bin/eu-objdump": "8347ba291582f88e0e691dfdf03265fcf59b4d3f7fb18a9ecbd8534d481d65c8", "/usr/bin/eu-elfcmp": "2b587309186a4251859a7ee34ce49714a5c02df6bb6d92e885b8ef55fc9ac58c", "/usr/bin/eu-addr2line": "af8127eb76841e04ccabba767fe798b70b13fb8ba21b98ea961649f44da90504", "/usr/bin/eu-findtextrel": "a54752ef336611d2ce178de2636d3e9577fc8589e877fdfd0fe8b62ca4411933", "/usr/bin/eu-elflint": "7ca90131273d5867aa91876d7534aba55577b41a393affad6620683158f0b36c", "/usr/bin/eu-strip": "c43a08c8226db2c66e2e79a38cfc072dc474a10f53ef8c085b3d001e7eba3994", "/usr/bin/eu-size": "0e5cd895d754f42b8d226c86f2cc9b15251a6111ae1d83ad782e83de15eb6720", "/usr/bin/eu-nm": "abd3da27a73cda9e68a463938dbe6c8a04df4f9517104a5dbe6831f3c9981f80", "/usr/bin/eu-readelf": "9b937a1e751fca8f2d57a015e12cd61575b8403dc1d5c2d60621755c6a2d9a5e", "/usr/share/locale/de/LC_MESSAGES/elfutils.mo": "40792f5088a2a0070d503c436b90084cb1cb206aac1a36dfb9e882a4c5389c3e", "/usr/share/locale/es/LC_MESSAGES/elfutils.mo": "c5324cdfb25abc777a73b5b2269f1c80bbbe11b624067517556b9a1d81c04336", "/usr/share/locale/ja/LC_MESSAGES/elfutils.mo": "e4c45c97c66722f032cc34c06cbdeefe7164a48a1dc09b2976f31b99cee2c2e6", "/usr/share/locale/pl/LC_MESSAGES/elfutils.mo": "d29cb8916eac64bd75272097cc8257b2fc5f3dbc4051f0874d9c010a3564b6d8", "/usr/share/locale/uk/LC_MESSAGES/elfutils.mo": "16fb8bee5562a17f1b70c7a8c96e9586c23e29d7dba2fcdfe9bbbdc3f8b81f90", "/usr/share/locale/en@quot/LC_MESSAGES/elfutils.mo": "acba658c18137f581f8a45f031503b0103f4641a7147c3463a455a688dc5b828", "/usr/share/locale/en@boldquot/LC_MESSAGES/elfutils.mo": "afb9c71997479706aa31bc7db47df3cbc253fbee4fe507901ed0b5f80c093797", "/var/log/pacman.log": "80ea8029fd35053a8569f66b187216b24650d6eb76750f0d3ab7b9d0aa4c4ac9"}}
+{
+  "0.170-1": {
+    "/usr/bin/eu-make-debug-archive": "c76dc490795597d62f8a13fe0476fa974e0afa18a2b7a2c34dfebd5f1831f406",
+    "/usr/bin/eu-elfcompress": "37c86aee17a630ae8a1988e57449e61db0fed70c923faefecd1ecf0e52a0a2a9",
+    "/usr/bin/eu-stack": "d6922e5c23a03f44a4dcd7c29e923a8597cb9a001ae83a9349e6894cc827c22d",
+    "/usr/bin/eu-unstrip": "c7ccf67f140f51b14204c09f9d90b8a97553178aef2e352068ed519769b47b36",
+    "/usr/bin/eu-ar": "cf3d7845a3f09320414f3740eb0984f7b5cf54e939dff56ed57e015f6989c818",
+    "/usr/bin/eu-strings": "b8948f59a065e7b3fda1a15e9709729dabf6cb8f39637be84fd40c0ce94e3108",
+    "/usr/bin/eu-ranlib": "b0397d6c54a0ef9c2cacfac5df581142adbdf25e375c6942bda30fa16421d558",
+    "/usr/bin/eu-objdump": "8347ba291582f88e0e691dfdf03265fcf59b4d3f7fb18a9ecbd8534d481d65c8",
+    "/usr/bin/eu-elfcmp": "2b587309186a4251859a7ee34ce49714a5c02df6bb6d92e885b8ef55fc9ac58c",
+    "/usr/bin/eu-addr2line": "af8127eb76841e04ccabba767fe798b70b13fb8ba21b98ea961649f44da90504",
+    "/usr/bin/eu-findtextrel": "a54752ef336611d2ce178de2636d3e9577fc8589e877fdfd0fe8b62ca4411933",
+    "/usr/bin/eu-elflint": "7ca90131273d5867aa91876d7534aba55577b41a393affad6620683158f0b36c",
+    "/usr/bin/eu-strip": "c43a08c8226db2c66e2e79a38cfc072dc474a10f53ef8c085b3d001e7eba3994",
+    "/usr/bin/eu-size": "0e5cd895d754f42b8d226c86f2cc9b15251a6111ae1d83ad782e83de15eb6720",
+    "/usr/bin/eu-nm": "abd3da27a73cda9e68a463938dbe6c8a04df4f9517104a5dbe6831f3c9981f80",
+    "/usr/bin/eu-readelf": "9b937a1e751fca8f2d57a015e12cd61575b8403dc1d5c2d60621755c6a2d9a5e",
+    "/usr/share/locale/de/LC_MESSAGES/elfutils.mo": "40792f5088a2a0070d503c436b90084cb1cb206aac1a36dfb9e882a4c5389c3e",
+    "/usr/share/locale/es/LC_MESSAGES/elfutils.mo": "c5324cdfb25abc777a73b5b2269f1c80bbbe11b624067517556b9a1d81c04336",
+    "/usr/share/locale/ja/LC_MESSAGES/elfutils.mo": "e4c45c97c66722f032cc34c06cbdeefe7164a48a1dc09b2976f31b99cee2c2e6",
+    "/usr/share/locale/pl/LC_MESSAGES/elfutils.mo": "d29cb8916eac64bd75272097cc8257b2fc5f3dbc4051f0874d9c010a3564b6d8",
+    "/usr/share/locale/uk/LC_MESSAGES/elfutils.mo": "16fb8bee5562a17f1b70c7a8c96e9586c23e29d7dba2fcdfe9bbbdc3f8b81f90",
+    "/usr/share/locale/en@quot/LC_MESSAGES/elfutils.mo": "acba658c18137f581f8a45f031503b0103f4641a7147c3463a455a688dc5b828",
+    "/usr/share/locale/en@boldquot/LC_MESSAGES/elfutils.mo": "afb9c71997479706aa31bc7db47df3cbc253fbee4fe507901ed0b5f80c093797",
+    "/var/log/pacman.log": "80ea8029fd35053a8569f66b187216b24650d6eb76750f0d3ab7b9d0aa4c4ac9"
+  }
+}

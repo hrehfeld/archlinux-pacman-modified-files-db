@@ -1,1 +1,8 @@
-{"1.0.9-1": {"/usr/share/licenses/xorg-xmodmap/COPYING": "c149563cf2cb0ecfb1148b6eb8f604c62bed43452a0d0fbafb97286a97840f5c", "/usr/share/man/man1/xmodmap.1.gz": "37a775835a1c352b08754250f4812e1d806f3b12f5fb1707b6e829f3826f1d72", "/usr/bin/xmodmap": "d49d82f1e1efa42f37fbce8ff3e721c5b4319e61648b12d1211b21e53476e7b5", "/var/log/pacman.log": "ae0fba83da1c50e3df4be60c00162bfc89407602909df868278cba163611a7b4"}}
+{
+  "1.0.9-1": {
+    "/usr/share/licenses/xorg-xmodmap/COPYING": "c149563cf2cb0ecfb1148b6eb8f604c62bed43452a0d0fbafb97286a97840f5c",
+    "/usr/share/man/man1/xmodmap.1.gz": "37a775835a1c352b08754250f4812e1d806f3b12f5fb1707b6e829f3826f1d72",
+    "/usr/bin/xmodmap": "d49d82f1e1efa42f37fbce8ff3e721c5b4319e61648b12d1211b21e53476e7b5",
+    "/var/log/pacman.log": "ae0fba83da1c50e3df4be60c00162bfc89407602909df868278cba163611a7b4"
+  }
+}

@@ -1,1 +1,44 @@
-{"0.2.1.1-3": {"/usr/share/haskell/register/haskell-fsnotify.sh": "3dfdb262112a0579ac213b4dac3eb25b7c981549b8f54f213447e5156f66d816", "/usr/share/haskell/unregister/haskell-fsnotify.sh": "eb3ef79380f6885bdf937baa1de2b349389bdcb8c83b59f3be173933e6ae44d2", "/usr/share/licenses/haskell-fsnotify/LICENSE": "7d86c78b12cc2fd24e9e28caa48a7c3c816f313dbe684d95ffece5e79abc0f7c", "/usr/lib/libHSfsnotify-0.2.1.1-DlyPuusiJNu6JLzz0E0brN-ghc8.2.1.so": "7af483760fd182a1ea00274ed04e78af7484620e31ecae804c50812fa094556b", "/usr/lib/ghc-8.2.1/site-local/fsnotify-0.2.1.1/System/FSNotify.dyn_hi": "ceaa9fce1dc9eb4a59bba2f5702a140db4d591e34814ece33c8e3cfccd68bc80", "/usr/lib/ghc-8.2.1/site-local/fsnotify-0.2.1.1/System/FSNotify/Devel.dyn_hi": "db7a5752935432ecae42e8a36d0ae1554431bfda15781a94c71f93a477d233ad", "/usr/lib/ghc-8.2.1/site-local/fsnotify-0.2.1.1/System/FSNotify/Listener.dyn_hi": "3125ab135402f099911cb81a70dfcfa72e843018d8b4289f2936ceed3da4fab3", "/usr/lib/ghc-8.2.1/site-local/fsnotify-0.2.1.1/System/FSNotify/Path.dyn_hi": "5912503738e8faebac9d63653b6d29e4327f269a0d2265cdcd8b984353bd618a", "/usr/lib/ghc-8.2.1/site-local/fsnotify-0.2.1.1/System/FSNotify/Polling.dyn_hi": "1d59c67aedb80dc33fb6bbec9e866f15019df113997c5e2b5d1262b744c21c08", "/usr/lib/ghc-8.2.1/site-local/fsnotify-0.2.1.1/System/FSNotify/Types.dyn_hi": "0d279a910f7487759a2463ae8793a09d7195c7bdbd8ee756f525eb27cd19acbf", "/usr/lib/ghc-8.2.1/site-local/fsnotify-0.2.1.1/System/FSNotify/Linux.dyn_hi": "2c49e6dd0db53c1481ace61d84f8b375075c279916ffe66005d0e81db23ae8a6", "/var/log/pacman.log": "082a5e03e32d748047c5bf2cc61daccbfa5e8c46665f958113975b5eb664b49f"}, "0.2.1.1-4": {"/usr/share/haskell/register/haskell-fsnotify.sh": "b57973054037475207e24c328159b8654c24b6c5f16946d47bbbb92a564235fe", "/usr/share/haskell/unregister/haskell-fsnotify.sh": "197bab6228b44d6faddeb0b0f27504e4c953f8e0406c053752c13738121f1012", "/usr/share/licenses/haskell-fsnotify/LICENSE": "7d86c78b12cc2fd24e9e28caa48a7c3c816f313dbe684d95ffece5e79abc0f7c", "/usr/lib/libHSfsnotify-0.2.1.1-3lEv8IAzO35JCZpek7yECA-ghc8.2.2.so": "5a502b56e734f40a55b9fff128f9c00e63243d2a8fcf4877081e6caf9419a92f", "/usr/lib/ghc-8.2.2/site-local/fsnotify-0.2.1.1/System/FSNotify.dyn_hi": "b9307de42b80c903449a6b89a1b042a170f8f9911cbc10c354e41eeae7334d06", "/usr/lib/ghc-8.2.2/site-local/fsnotify-0.2.1.1/System/FSNotify/Devel.dyn_hi": "e4dc8f3e08392be6345bef62136eea0055f6a95220564e9bda2ae63ada165808", "/usr/lib/ghc-8.2.2/site-local/fsnotify-0.2.1.1/System/FSNotify/Listener.dyn_hi": "b90be1f62b047c5395c2ea5b90c482425df5edb6c1b0f45a75eb5e46c79f4b7b", "/usr/lib/ghc-8.2.2/site-local/fsnotify-0.2.1.1/System/FSNotify/Path.dyn_hi": "c2ab6e71027786513264be67d547779063b9d5ca8bde7088d62e2b0de5b33325", "/usr/lib/ghc-8.2.2/site-local/fsnotify-0.2.1.1/System/FSNotify/Polling.dyn_hi": "9ab87dd1ae1a36d742ba1e212ecdda83b5ed11a7695c8c729c64235e3dde2cb1", "/usr/lib/ghc-8.2.2/site-local/fsnotify-0.2.1.1/System/FSNotify/Types.dyn_hi": "b09b3a55f0349bcefdde9c29974b476e6c7c0c9446e5be8cd0aabf0d129024c1", "/usr/lib/ghc-8.2.2/site-local/fsnotify-0.2.1.1/System/FSNotify/Linux.dyn_hi": "83cbb26c216ee49818f2b0747f6092b556daba1569b8d44a4e7343b4aefeb1e5", "/var/log/pacman.log": "5aac16441cb6c296f0b1b79df5f1c00b10e9a1cc305a00322bac43a6a191d84f"}}
+{
+  "0.2.1.1-3": {
+    "/usr/share/haskell/register/haskell-fsnotify.sh": "3dfdb262112a0579ac213b4dac3eb25b7c981549b8f54f213447e5156f66d816",
+    "/usr/share/haskell/unregister/haskell-fsnotify.sh": "eb3ef79380f6885bdf937baa1de2b349389bdcb8c83b59f3be173933e6ae44d2",
+    "/usr/share/licenses/haskell-fsnotify/LICENSE": "7d86c78b12cc2fd24e9e28caa48a7c3c816f313dbe684d95ffece5e79abc0f7c",
+    "/usr/lib/libHSfsnotify-0.2.1.1-DlyPuusiJNu6JLzz0E0brN-ghc8.2.1.so": "7af483760fd182a1ea00274ed04e78af7484620e31ecae804c50812fa094556b",
+    "/usr/lib/ghc-8.2.1/site-local/fsnotify-0.2.1.1/System/FSNotify.dyn_hi": "ceaa9fce1dc9eb4a59bba2f5702a140db4d591e34814ece33c8e3cfccd68bc80",
+    "/usr/lib/ghc-8.2.1/site-local/fsnotify-0.2.1.1/System/FSNotify/Devel.dyn_hi": "db7a5752935432ecae42e8a36d0ae1554431bfda15781a94c71f93a477d233ad",
+    "/usr/lib/ghc-8.2.1/site-local/fsnotify-0.2.1.1/System/FSNotify/Listener.dyn_hi": "3125ab135402f099911cb81a70dfcfa72e843018d8b4289f2936ceed3da4fab3",
+    "/usr/lib/ghc-8.2.1/site-local/fsnotify-0.2.1.1/System/FSNotify/Path.dyn_hi": "5912503738e8faebac9d63653b6d29e4327f269a0d2265cdcd8b984353bd618a",
+    "/usr/lib/ghc-8.2.1/site-local/fsnotify-0.2.1.1/System/FSNotify/Polling.dyn_hi": "1d59c67aedb80dc33fb6bbec9e866f15019df113997c5e2b5d1262b744c21c08",
+    "/usr/lib/ghc-8.2.1/site-local/fsnotify-0.2.1.1/System/FSNotify/Types.dyn_hi": "0d279a910f7487759a2463ae8793a09d7195c7bdbd8ee756f525eb27cd19acbf",
+    "/usr/lib/ghc-8.2.1/site-local/fsnotify-0.2.1.1/System/FSNotify/Linux.dyn_hi": "2c49e6dd0db53c1481ace61d84f8b375075c279916ffe66005d0e81db23ae8a6",
+    "/var/log/pacman.log": "082a5e03e32d748047c5bf2cc61daccbfa5e8c46665f958113975b5eb664b49f"
+  },
+  "0.2.1.1-4": {
+    "/usr/share/haskell/register/haskell-fsnotify.sh": "b57973054037475207e24c328159b8654c24b6c5f16946d47bbbb92a564235fe",
+    "/usr/share/haskell/unregister/haskell-fsnotify.sh": "197bab6228b44d6faddeb0b0f27504e4c953f8e0406c053752c13738121f1012",
+    "/usr/share/licenses/haskell-fsnotify/LICENSE": "7d86c78b12cc2fd24e9e28caa48a7c3c816f313dbe684d95ffece5e79abc0f7c",
+    "/usr/lib/libHSfsnotify-0.2.1.1-3lEv8IAzO35JCZpek7yECA-ghc8.2.2.so": "5a502b56e734f40a55b9fff128f9c00e63243d2a8fcf4877081e6caf9419a92f",
+    "/usr/lib/ghc-8.2.2/site-local/fsnotify-0.2.1.1/System/FSNotify.dyn_hi": "b9307de42b80c903449a6b89a1b042a170f8f9911cbc10c354e41eeae7334d06",
+    "/usr/lib/ghc-8.2.2/site-local/fsnotify-0.2.1.1/System/FSNotify/Devel.dyn_hi": "e4dc8f3e08392be6345bef62136eea0055f6a95220564e9bda2ae63ada165808",
+    "/usr/lib/ghc-8.2.2/site-local/fsnotify-0.2.1.1/System/FSNotify/Listener.dyn_hi": "b90be1f62b047c5395c2ea5b90c482425df5edb6c1b0f45a75eb5e46c79f4b7b",
+    "/usr/lib/ghc-8.2.2/site-local/fsnotify-0.2.1.1/System/FSNotify/Path.dyn_hi": "c2ab6e71027786513264be67d547779063b9d5ca8bde7088d62e2b0de5b33325",
+    "/usr/lib/ghc-8.2.2/site-local/fsnotify-0.2.1.1/System/FSNotify/Polling.dyn_hi": "9ab87dd1ae1a36d742ba1e212ecdda83b5ed11a7695c8c729c64235e3dde2cb1",
+    "/usr/lib/ghc-8.2.2/site-local/fsnotify-0.2.1.1/System/FSNotify/Types.dyn_hi": "b09b3a55f0349bcefdde9c29974b476e6c7c0c9446e5be8cd0aabf0d129024c1",
+    "/usr/lib/ghc-8.2.2/site-local/fsnotify-0.2.1.1/System/FSNotify/Linux.dyn_hi": "83cbb26c216ee49818f2b0747f6092b556daba1569b8d44a4e7343b4aefeb1e5",
+    "/var/log/pacman.log": "5aac16441cb6c296f0b1b79df5f1c00b10e9a1cc305a00322bac43a6a191d84f"
+  },
+  "0.2.1.1-5": {
+    "/usr/share/haskell/register/haskell-fsnotify.sh": "5e1ad380a63fa57f20c4c128563706f92d8e0a44ada285a732f366d92b0b6013",
+    "/usr/share/haskell/unregister/haskell-fsnotify.sh": "197bab6228b44d6faddeb0b0f27504e4c953f8e0406c053752c13738121f1012",
+    "/usr/share/licenses/haskell-fsnotify/LICENSE": "7d86c78b12cc2fd24e9e28caa48a7c3c816f313dbe684d95ffece5e79abc0f7c",
+    "/usr/lib/libHSfsnotify-0.2.1.1-EZtpl2gvTXWELty8AoiZKP-ghc8.2.2.so": "333c6787eb930f916f6c26c1cd6d65bf315720c4d8aaf491cc9c220e261a90fc",
+    "/usr/lib/ghc-8.2.2/site-local/fsnotify-0.2.1.1/System/FSNotify.dyn_hi": "09e06cde00efa8e9fd0e83c9197f5dd3a0d3f5d3630f3bef5354c8c13fdbb0d1",
+    "/usr/lib/ghc-8.2.2/site-local/fsnotify-0.2.1.1/System/FSNotify/Devel.dyn_hi": "81bdda56414eb31b165ada8e055e5e88b7e7f804d285c4c7b2e4fa10b5bc9bd1",
+    "/usr/lib/ghc-8.2.2/site-local/fsnotify-0.2.1.1/System/FSNotify/Listener.dyn_hi": "42692f5ccb7d4880d8e664102c20301ebdc7c1292e815bd2d2df99869293edf0",
+    "/usr/lib/ghc-8.2.2/site-local/fsnotify-0.2.1.1/System/FSNotify/Path.dyn_hi": "64a509ca21d13e03f4c4b642a56cf88389997d2b14a48e703ed68446dcfb8737",
+    "/usr/lib/ghc-8.2.2/site-local/fsnotify-0.2.1.1/System/FSNotify/Polling.dyn_hi": "4bc039dd2f0135e273946458918416003428561f52782919c5f908df04a3b2ed",
+    "/usr/lib/ghc-8.2.2/site-local/fsnotify-0.2.1.1/System/FSNotify/Types.dyn_hi": "1d408a7e8c36401dcaa8dd98cf9ed3fa6d097991abd8be9742c02260a9656015",
+    "/usr/lib/ghc-8.2.2/site-local/fsnotify-0.2.1.1/System/FSNotify/Linux.dyn_hi": "e78d7d5b6ac315bbd0c0aed3b1d9692398d6dcc45116091090ea74c27c79c730",
+    "/var/log/pacman.log": "6377303a1e9a373c80e2677834c7b2da89db2deaca21849cd3c9381e382a7f2e"
+  }
+}

@@ -1,1 +1,7 @@
-{"1.51-2": {"/usr/share/man/man1/xdiskusage.1.gz": "9ab12d48ba632fc381505d48f9727af681aba242ee4f8b74a596147245a60030", "/usr/bin/xdiskusage": "129d88da63838042e330b1454a794f31e0f214e4e52ea28d5b8e7dd64e8c423e", "/var/log/pacman.log": "08e6a737a821c654c8899a390e78ab930f30f81bec6ed78885a6613e8634192d"}}
+{
+  "1.51-2": {
+    "/usr/share/man/man1/xdiskusage.1.gz": "9ab12d48ba632fc381505d48f9727af681aba242ee4f8b74a596147245a60030",
+    "/usr/bin/xdiskusage": "129d88da63838042e330b1454a794f31e0f214e4e52ea28d5b8e7dd64e8c423e",
+    "/var/log/pacman.log": "08e6a737a821c654c8899a390e78ab930f30f81bec6ed78885a6613e8634192d"
+  }
+}

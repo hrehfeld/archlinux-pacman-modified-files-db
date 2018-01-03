@@ -1,1 +1,12 @@
-{"1.0.4-2": {"/usr/bin/xkbbell": "5fa34bd7aaa58e645ffb8e27a7e65e42ab5fe9f2374a19996509c549c0bed1a1", "/usr/bin/xkbwatch": "a9e3e995afb3c6c001f4814e50e8c2dc6cd97a1a54964786414372ef580d7db4", "/usr/bin/xkbvleds": "a35743fa8d476c7342f47f9136a03914a3d39eefae8dcdbee5e420dbd073dbfe", "/usr/share/licenses/xorg-xkbutils/COPYING": "3d67b53c085de6d475705b60855b9277afac5d4c4ec531d0ffd1ef0d00571594", "/usr/share/man/man1/xkbwatch.1.gz": "4103d36d58294d692681ece8e636ef2d2b60449fb318a875ad6813c63d02b489", "/usr/share/man/man1/xkbvleds.1.gz": "c12f0d5aecc566a5b8df835f1200802d9db0eb99e62e5b6264525447a210316e", "/usr/share/man/man1/xkbbell.1.gz": "fdcd3035513ee08937cb3d52bd2556781a16a47df692f3a33e67269b3fc96c4b", "/var/log/pacman.log": "6c3079a0c38dc30f5cb579b3ec71ba5a19c35e931840f17be21fdcfb39e71948"}}
+{
+  "1.0.4-2": {
+    "/usr/bin/xkbbell": "5fa34bd7aaa58e645ffb8e27a7e65e42ab5fe9f2374a19996509c549c0bed1a1",
+    "/usr/bin/xkbwatch": "a9e3e995afb3c6c001f4814e50e8c2dc6cd97a1a54964786414372ef580d7db4",
+    "/usr/bin/xkbvleds": "a35743fa8d476c7342f47f9136a03914a3d39eefae8dcdbee5e420dbd073dbfe",
+    "/usr/share/licenses/xorg-xkbutils/COPYING": "3d67b53c085de6d475705b60855b9277afac5d4c4ec531d0ffd1ef0d00571594",
+    "/usr/share/man/man1/xkbwatch.1.gz": "4103d36d58294d692681ece8e636ef2d2b60449fb318a875ad6813c63d02b489",
+    "/usr/share/man/man1/xkbvleds.1.gz": "c12f0d5aecc566a5b8df835f1200802d9db0eb99e62e5b6264525447a210316e",
+    "/usr/share/man/man1/xkbbell.1.gz": "fdcd3035513ee08937cb3d52bd2556781a16a47df692f3a33e67269b3fc96c4b",
+    "/var/log/pacman.log": "6c3079a0c38dc30f5cb579b3ec71ba5a19c35e931840f17be21fdcfb39e71948"
+  }
+}

@@ -1,1 +1,18 @@
-{"387.22-1": {"/usr/lib/modules/extramodules-4.13-ARCH/nvidia-drm.ko.gz": "e40b05283f203d45be487d787438d7f50d733069ec64eeb075de7148925a00d2", "/usr/lib/modules/extramodules-4.13-ARCH/nvidia.ko.gz": "7c8ee716f6ec1492b64ec2b0447687b5fa68d1d613c24f1a4ff424e45d686e6a", "/usr/lib/modules/extramodules-4.13-ARCH/nvidia-modeset.ko.gz": "a18e95f97198da7eab301dd800537586855921b3f2fa2387736fff07fabc8038", "/usr/lib/modules/extramodules-4.13-ARCH/nvidia-uvm.ko.gz": "b02313a93bd2db4860b737481b899e9d8da85741e378fb987bb1d70810143ab1", "/usr/lib/modprobe.d/nvidia.conf": "b3dbf277d507c2a3659775968d3e57bd211b58927a62787706e0e1952e959dac", "/var/log/pacman.log": "f25735efe9abfa69e5fbef6b2046b274999c93240896007fa15737e358be5889"}, "387.34-1": {"/usr/lib/modules/extramodules-4.14-ARCH/nvidia-drm.ko.gz": "2ebaa1d2cc784b8aff040a9fb8fd23b4f366815c4f7e2526034270e7a0069e05", "/usr/lib/modules/extramodules-4.14-ARCH/nvidia.ko.gz": "1545b78e6913a986b1f41b3dd93bb0ebfd215513fc3792921474b04d82faec8c", "/usr/lib/modules/extramodules-4.14-ARCH/nvidia-modeset.ko.gz": "6283a8a840577872c4fb43ebafe5d885f969de114fe082205f75369d2c26ace9", "/usr/lib/modules/extramodules-4.14-ARCH/nvidia-uvm.ko.gz": "eb856be16f3c32cd61785e803baa605fc09651fb1aee69670a7e74400f45b0c4", "/usr/lib/modprobe.d/nvidia.conf": "b3dbf277d507c2a3659775968d3e57bd211b58927a62787706e0e1952e959dac", "/var/log/pacman.log": "b1a60f9503f08c1bce30af3bb58b807633cdfdf7e214f39111ade98b62216f7f"}}
+{
+  "387.22-1": {
+    "/usr/lib/modules/extramodules-4.13-ARCH/nvidia-drm.ko.gz": "e40b05283f203d45be487d787438d7f50d733069ec64eeb075de7148925a00d2",
+    "/usr/lib/modules/extramodules-4.13-ARCH/nvidia.ko.gz": "7c8ee716f6ec1492b64ec2b0447687b5fa68d1d613c24f1a4ff424e45d686e6a",
+    "/usr/lib/modules/extramodules-4.13-ARCH/nvidia-modeset.ko.gz": "a18e95f97198da7eab301dd800537586855921b3f2fa2387736fff07fabc8038",
+    "/usr/lib/modules/extramodules-4.13-ARCH/nvidia-uvm.ko.gz": "b02313a93bd2db4860b737481b899e9d8da85741e378fb987bb1d70810143ab1",
+    "/usr/lib/modprobe.d/nvidia.conf": "b3dbf277d507c2a3659775968d3e57bd211b58927a62787706e0e1952e959dac",
+    "/var/log/pacman.log": "f25735efe9abfa69e5fbef6b2046b274999c93240896007fa15737e358be5889"
+  },
+  "387.34-1": {
+    "/usr/lib/modules/extramodules-4.14-ARCH/nvidia-drm.ko.gz": "2ebaa1d2cc784b8aff040a9fb8fd23b4f366815c4f7e2526034270e7a0069e05",
+    "/usr/lib/modules/extramodules-4.14-ARCH/nvidia.ko.gz": "1545b78e6913a986b1f41b3dd93bb0ebfd215513fc3792921474b04d82faec8c",
+    "/usr/lib/modules/extramodules-4.14-ARCH/nvidia-modeset.ko.gz": "6283a8a840577872c4fb43ebafe5d885f969de114fe082205f75369d2c26ace9",
+    "/usr/lib/modules/extramodules-4.14-ARCH/nvidia-uvm.ko.gz": "eb856be16f3c32cd61785e803baa605fc09651fb1aee69670a7e74400f45b0c4",
+    "/usr/lib/modprobe.d/nvidia.conf": "b3dbf277d507c2a3659775968d3e57bd211b58927a62787706e0e1952e959dac",
+    "/var/log/pacman.log": "b1a60f9503f08c1bce30af3bb58b807633cdfdf7e214f39111ade98b62216f7f"
+  }
+}

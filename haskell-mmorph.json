@@ -1,1 +1,20 @@
-{"1.1.0-4": {"/usr/share/haskell/register/haskell-mmorph.sh": "b00822b7238cc7c351644447873522d510d7b4ab9439ee6d4a2ba0fa8eab8bb7", "/usr/share/haskell/unregister/haskell-mmorph.sh": "017512ba9c9b0f32cc1ec5fe9a5bb62ea303274c2dea41a7b55cb087cd9713e6", "/usr/share/licenses/haskell-mmorph/LICENSE": "94bfa67d6ee07772e41f72b443a47081dcf43d21adc960de577c172b8f660159", "/usr/lib/libHSmmorph-1.1.0-37w2Q5ydIlk2ujAQgXDANa-ghc8.2.1.so": "e38efbc9c2b3d9496aee357c31db9cf235fd41a1ec27cb642bd5aea934c005a4", "/usr/lib/ghc-8.2.1/site-local/mmorph-1.1.0/Control/Monad/Morph.dyn_hi": "bf6070e2a51e2c009ea3d121cefdf1893487dfc6a3a93ff394f6b650fd061222", "/usr/lib/ghc-8.2.1/site-local/mmorph-1.1.0/Control/Monad/Trans/Compose.dyn_hi": "e7fe37cdf3a2c656d08dfd8f9f21310e4c213812097fff3863c574ff828e4959", "/var/log/pacman.log": "350509be7ffcc4a4bfdb51b55e77f7c7af165c2ea089717af78bfe067431e21d"}, "1.1.0-5": {"/usr/share/haskell/register/haskell-mmorph.sh": "4250a142d24934023d080c5527594dfb8dcdbcbae496619a6df38801998c0ff6", "/usr/share/haskell/unregister/haskell-mmorph.sh": "6d4e90741110141c9ca292a4c9a0f31c2c15452c96b73dd8a9c0e9c57f0936e0", "/usr/share/licenses/haskell-mmorph/LICENSE": "94bfa67d6ee07772e41f72b443a47081dcf43d21adc960de577c172b8f660159", "/usr/lib/libHSmmorph-1.1.0-1S4lM6skb3zDTw2xDs9NDW-ghc8.2.2.so": "7beb5126e038d71b5743fa0d663df9c5b7f0284d245b3d92b54f58b6cc8de7c9", "/usr/lib/ghc-8.2.2/site-local/mmorph-1.1.0/Control/Monad/Morph.dyn_hi": "1bd051819a421e3a27fdc4542e78004e46763bb9b43b080fa343348ad68a92a9", "/usr/lib/ghc-8.2.2/site-local/mmorph-1.1.0/Control/Monad/Trans/Compose.dyn_hi": "6e5ff48f3e3181ad5414bed413fe3d3ce4d50693e1dfab5e1321241580f40fe6", "/var/log/pacman.log": "aa3de9143933d6e2685d26be414a20ee0ee9ed1d8b0d23d80b0dcce21baf7434"}}
+{
+  "1.1.0-4": {
+    "/usr/share/haskell/register/haskell-mmorph.sh": "b00822b7238cc7c351644447873522d510d7b4ab9439ee6d4a2ba0fa8eab8bb7",
+    "/usr/share/haskell/unregister/haskell-mmorph.sh": "017512ba9c9b0f32cc1ec5fe9a5bb62ea303274c2dea41a7b55cb087cd9713e6",
+    "/usr/share/licenses/haskell-mmorph/LICENSE": "94bfa67d6ee07772e41f72b443a47081dcf43d21adc960de577c172b8f660159",
+    "/usr/lib/libHSmmorph-1.1.0-37w2Q5ydIlk2ujAQgXDANa-ghc8.2.1.so": "e38efbc9c2b3d9496aee357c31db9cf235fd41a1ec27cb642bd5aea934c005a4",
+    "/usr/lib/ghc-8.2.1/site-local/mmorph-1.1.0/Control/Monad/Morph.dyn_hi": "bf6070e2a51e2c009ea3d121cefdf1893487dfc6a3a93ff394f6b650fd061222",
+    "/usr/lib/ghc-8.2.1/site-local/mmorph-1.1.0/Control/Monad/Trans/Compose.dyn_hi": "e7fe37cdf3a2c656d08dfd8f9f21310e4c213812097fff3863c574ff828e4959",
+    "/var/log/pacman.log": "350509be7ffcc4a4bfdb51b55e77f7c7af165c2ea089717af78bfe067431e21d"
+  },
+  "1.1.0-5": {
+    "/usr/share/haskell/register/haskell-mmorph.sh": "4250a142d24934023d080c5527594dfb8dcdbcbae496619a6df38801998c0ff6",
+    "/usr/share/haskell/unregister/haskell-mmorph.sh": "6d4e90741110141c9ca292a4c9a0f31c2c15452c96b73dd8a9c0e9c57f0936e0",
+    "/usr/share/licenses/haskell-mmorph/LICENSE": "94bfa67d6ee07772e41f72b443a47081dcf43d21adc960de577c172b8f660159",
+    "/usr/lib/libHSmmorph-1.1.0-1S4lM6skb3zDTw2xDs9NDW-ghc8.2.2.so": "7beb5126e038d71b5743fa0d663df9c5b7f0284d245b3d92b54f58b6cc8de7c9",
+    "/usr/lib/ghc-8.2.2/site-local/mmorph-1.1.0/Control/Monad/Morph.dyn_hi": "1bd051819a421e3a27fdc4542e78004e46763bb9b43b080fa343348ad68a92a9",
+    "/usr/lib/ghc-8.2.2/site-local/mmorph-1.1.0/Control/Monad/Trans/Compose.dyn_hi": "6e5ff48f3e3181ad5414bed413fe3d3ce4d50693e1dfab5e1321241580f40fe6",
+    "/var/log/pacman.log": "aa3de9143933d6e2685d26be414a20ee0ee9ed1d8b0d23d80b0dcce21baf7434"
+  }
+}

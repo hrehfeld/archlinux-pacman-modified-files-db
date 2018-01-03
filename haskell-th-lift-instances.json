@@ -1,1 +1,26 @@
-{"0.1.11-7": {"/usr/share/haskell/register/haskell-th-lift-instances.sh": "93ebac63b6645f3996fb6ff0069b29223c93afd8239a57b0f539c39086273790", "/usr/share/haskell/unregister/haskell-th-lift-instances.sh": "6cee47c30f332d98297c2b847e86358814545ffc3116a706d90a8d94efb7c2cb", "/usr/share/licenses/haskell-th-lift-instances/LICENSE": "279e8b294b88efe17e57fc8cb2b669836d32823c2b32d89b7f07f37c5b94b280", "/usr/lib/libHSth-lift-instances-0.1.11-297oHfmCY2o9ItcA48ZKUd-ghc8.2.1.so": "bfcadec748ce084e55ee506fa0e3078b5a4d290c9e394276479cf30b4dc75919", "/usr/lib/ghc-8.2.1/site-local/th-lift-instances-0.1.11/Instances/TH/Lift.dyn_hi": "9f5b9cf9790fe930c0313c9bb8afb1cfb71ad98dbbb182c270be4c7a49f86e7d", "/var/log/pacman.log": "e2cf494df362d8f61b71b14963142eba3d026ace65efbae1d337a80e646907d4"}, "0.1.11-8": {"/usr/share/haskell/register/haskell-th-lift-instances.sh": "90b9ce58109bb60e62cfca36c44b29d0409dc52b14fa6db42903a765827e4f3e", "/usr/share/haskell/unregister/haskell-th-lift-instances.sh": "dd6fbcf2338cdcd6737bddc0fb3d0e705c715a990066a1829a299ab01fada985", "/usr/share/licenses/haskell-th-lift-instances/LICENSE": "279e8b294b88efe17e57fc8cb2b669836d32823c2b32d89b7f07f37c5b94b280", "/usr/lib/libHSth-lift-instances-0.1.11-APth76Ghxq08bBicuHMIia-ghc8.2.2.so": "9ceec014e6c98266845185e6a55abb12e34dbb2fdf255c13014ed3dd9b1baf9a", "/usr/lib/ghc-8.2.2/site-local/th-lift-instances-0.1.11/Instances/TH/Lift.dyn_hi": "65a7b1f93a0165be1016700e9b8448fc2340cafa2266e7c6a9a9ff2c612db64b", "/var/log/pacman.log": "26dcc3bef1c245c8d6f27f93aaa9c1868013110100be9ba04baf961bb78b0541"}}
+{
+  "0.1.11-7": {
+    "/usr/share/haskell/register/haskell-th-lift-instances.sh": "93ebac63b6645f3996fb6ff0069b29223c93afd8239a57b0f539c39086273790",
+    "/usr/share/haskell/unregister/haskell-th-lift-instances.sh": "6cee47c30f332d98297c2b847e86358814545ffc3116a706d90a8d94efb7c2cb",
+    "/usr/share/licenses/haskell-th-lift-instances/LICENSE": "279e8b294b88efe17e57fc8cb2b669836d32823c2b32d89b7f07f37c5b94b280",
+    "/usr/lib/libHSth-lift-instances-0.1.11-297oHfmCY2o9ItcA48ZKUd-ghc8.2.1.so": "bfcadec748ce084e55ee506fa0e3078b5a4d290c9e394276479cf30b4dc75919",
+    "/usr/lib/ghc-8.2.1/site-local/th-lift-instances-0.1.11/Instances/TH/Lift.dyn_hi": "9f5b9cf9790fe930c0313c9bb8afb1cfb71ad98dbbb182c270be4c7a49f86e7d",
+    "/var/log/pacman.log": "e2cf494df362d8f61b71b14963142eba3d026ace65efbae1d337a80e646907d4"
+  },
+  "0.1.11-8": {
+    "/usr/share/haskell/register/haskell-th-lift-instances.sh": "90b9ce58109bb60e62cfca36c44b29d0409dc52b14fa6db42903a765827e4f3e",
+    "/usr/share/haskell/unregister/haskell-th-lift-instances.sh": "dd6fbcf2338cdcd6737bddc0fb3d0e705c715a990066a1829a299ab01fada985",
+    "/usr/share/licenses/haskell-th-lift-instances/LICENSE": "279e8b294b88efe17e57fc8cb2b669836d32823c2b32d89b7f07f37c5b94b280",
+    "/usr/lib/libHSth-lift-instances-0.1.11-APth76Ghxq08bBicuHMIia-ghc8.2.2.so": "9ceec014e6c98266845185e6a55abb12e34dbb2fdf255c13014ed3dd9b1baf9a",
+    "/usr/lib/ghc-8.2.2/site-local/th-lift-instances-0.1.11/Instances/TH/Lift.dyn_hi": "65a7b1f93a0165be1016700e9b8448fc2340cafa2266e7c6a9a9ff2c612db64b",
+    "/var/log/pacman.log": "26dcc3bef1c245c8d6f27f93aaa9c1868013110100be9ba04baf961bb78b0541"
+  },
+  "0.1.11-9": {
+    "/usr/share/haskell/register/haskell-th-lift-instances.sh": "55e34382679b5260ee761e9174fe1fdb747167452895947b14c4c1884cd09550",
+    "/usr/share/haskell/unregister/haskell-th-lift-instances.sh": "dd6fbcf2338cdcd6737bddc0fb3d0e705c715a990066a1829a299ab01fada985",
+    "/usr/share/licenses/haskell-th-lift-instances/LICENSE": "279e8b294b88efe17e57fc8cb2b669836d32823c2b32d89b7f07f37c5b94b280",
+    "/usr/lib/libHSth-lift-instances-0.1.11-GbnQOH2K7Mx6pX0wfMQd1l-ghc8.2.2.so": "c533721c0917b0b814c60a2863bf1efaed42bd8b919830d466b1fd879f536656",
+    "/usr/lib/ghc-8.2.2/site-local/th-lift-instances-0.1.11/Instances/TH/Lift.dyn_hi": "bccf9f51ec000cc05a7d501b439e88f0a4f415843c34e6b5957c35079b32429f",
+    "/var/log/pacman.log": "16ab19f1107f3b09cd399c4a099fa2888eb4d6498a986a09a20ad23c12b4684b"
+  }
+}

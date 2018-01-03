@@ -1,1 +1,15 @@
-{"0.7.1-2": {"/usr/lib/python3.6/site-packages/imagesize/__init__.py": "faa520f38b8097051d091515eb23b27416573e14e1cb2c6ed080f69a548e87b3", "/usr/lib/python3.6/site-packages/imagesize/get.py": "ebd2b795072137439595aaf614a6a3f278f8c00082a1b16fd8ef3daa5233a326", "/usr/lib/python3.6/site-packages/imagesize/__pycache__/__init__.cpython-36.pyc": "3bbaf02497af771ba3230a3e1ca0dfa6b8214e025ea5676d635929ee024f2987", "/usr/lib/python3.6/site-packages/imagesize/__pycache__/get.cpython-36.pyc": "6095bcf99b1a90839e9faa5de491c49b02d6a4d27a4dd638600d8ff512faa318", "/usr/lib/python3.6/site-packages/imagesize/__pycache__/__init__.cpython-36.opt-1.pyc": "3bbaf02497af771ba3230a3e1ca0dfa6b8214e025ea5676d635929ee024f2987", "/usr/lib/python3.6/site-packages/imagesize/__pycache__/get.cpython-36.opt-1.pyc": "87fb91b325bc3b780881d224b5add2281ffe4d0a5d1de0fe84b3e09265dd2adf", "/usr/lib/python3.6/site-packages/imagesize-0.7.1-py3.6.egg-info/top_level.txt": "fff8fa9258b3a0a09a664db55b6f9d29c400565769d28a5f1d5122122664e914", "/usr/lib/python3.6/site-packages/imagesize-0.7.1-py3.6.egg-info/SOURCES.txt": "b7b37671dc0ca28f6c58a210f0e3a04b56b014db0c48ce85beb88797ea4d9a34", "/usr/lib/python3.6/site-packages/imagesize-0.7.1-py3.6.egg-info/PKG-INFO": "482db1eaf9225cd7c8a0d1222143d43377edd2aabad20a908d9c4c3cc371b247", "/usr/lib/python3.6/site-packages/imagesize-0.7.1-py3.6.egg-info/dependency_links.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b", "/var/log/pacman.log": "8755b58eaf112cbd45673d8452bf19798147865800c59bd597c42637478d1bdf"}}
+{
+  "0.7.1-2": {
+    "/usr/lib/python3.6/site-packages/imagesize/__init__.py": "faa520f38b8097051d091515eb23b27416573e14e1cb2c6ed080f69a548e87b3",
+    "/usr/lib/python3.6/site-packages/imagesize/get.py": "ebd2b795072137439595aaf614a6a3f278f8c00082a1b16fd8ef3daa5233a326",
+    "/usr/lib/python3.6/site-packages/imagesize/__pycache__/__init__.cpython-36.pyc": "3bbaf02497af771ba3230a3e1ca0dfa6b8214e025ea5676d635929ee024f2987",
+    "/usr/lib/python3.6/site-packages/imagesize/__pycache__/get.cpython-36.pyc": "6095bcf99b1a90839e9faa5de491c49b02d6a4d27a4dd638600d8ff512faa318",
+    "/usr/lib/python3.6/site-packages/imagesize/__pycache__/__init__.cpython-36.opt-1.pyc": "3bbaf02497af771ba3230a3e1ca0dfa6b8214e025ea5676d635929ee024f2987",
+    "/usr/lib/python3.6/site-packages/imagesize/__pycache__/get.cpython-36.opt-1.pyc": "87fb91b325bc3b780881d224b5add2281ffe4d0a5d1de0fe84b3e09265dd2adf",
+    "/usr/lib/python3.6/site-packages/imagesize-0.7.1-py3.6.egg-info/top_level.txt": "fff8fa9258b3a0a09a664db55b6f9d29c400565769d28a5f1d5122122664e914",
+    "/usr/lib/python3.6/site-packages/imagesize-0.7.1-py3.6.egg-info/SOURCES.txt": "b7b37671dc0ca28f6c58a210f0e3a04b56b014db0c48ce85beb88797ea4d9a34",
+    "/usr/lib/python3.6/site-packages/imagesize-0.7.1-py3.6.egg-info/PKG-INFO": "482db1eaf9225cd7c8a0d1222143d43377edd2aabad20a908d9c4c3cc371b247",
+    "/usr/lib/python3.6/site-packages/imagesize-0.7.1-py3.6.egg-info/dependency_links.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "/var/log/pacman.log": "8755b58eaf112cbd45673d8452bf19798147865800c59bd597c42637478d1bdf"
+  }
+}

@@ -1,1 +1,23 @@
-{"0.4.4-2": {"/usr/include/X11/extensions/Xcomposite.h": "f617e9b88ff589a8b658ce011095fce4a08392d08def40596b24cef63cec9253", "/usr/share/licenses/libxcomposite/COPYING": "efa0219ed8485ac555c1a3fb82daf34539b2e0dcf4dadc99c01f1e39c69a4a68", "/usr/share/man/man3/XCompositeQueryVersion.3.gz": "d8c400a965301f19d33986600ef859ca97098b9ff79389499309fe16b2824bd4", "/usr/share/man/man3/Xcomposite.3.gz": "f9f14f1651eecf665ac3e10e0b82610ce74e1b1e222ee0e201fac60f11a95366", "/usr/share/man/man3/XCompositeUnredirectWindow.3.gz": "d8c400a965301f19d33986600ef859ca97098b9ff79389499309fe16b2824bd4", "/usr/share/man/man3/XCompositeNameWindowPixmap.3.gz": "d8c400a965301f19d33986600ef859ca97098b9ff79389499309fe16b2824bd4", "/usr/share/man/man3/XCompositeRedirectWindow.3.gz": "d8c400a965301f19d33986600ef859ca97098b9ff79389499309fe16b2824bd4", "/usr/share/man/man3/XCompositeUnredirectSubwindows.3.gz": "d8c400a965301f19d33986600ef859ca97098b9ff79389499309fe16b2824bd4", "/usr/share/man/man3/XCompositeReleaseOverlayWindow.3.gz": "d8c400a965301f19d33986600ef859ca97098b9ff79389499309fe16b2824bd4", "/usr/share/man/man3/XCompositeQueryExtension.3.gz": "d8c400a965301f19d33986600ef859ca97098b9ff79389499309fe16b2824bd4", "/usr/share/man/man3/XCompositeRedirectSubwindows.3.gz": "d8c400a965301f19d33986600ef859ca97098b9ff79389499309fe16b2824bd4", "/usr/share/man/man3/XCompositeGetOverlayWindow.3.gz": "d8c400a965301f19d33986600ef859ca97098b9ff79389499309fe16b2824bd4", "/usr/share/man/man3/XCompositeVersion.3.gz": "d8c400a965301f19d33986600ef859ca97098b9ff79389499309fe16b2824bd4", "/usr/share/man/man3/XCompositeCreateRegionFromBorderClip.3.gz": "d8c400a965301f19d33986600ef859ca97098b9ff79389499309fe16b2824bd4", "/usr/lib/libXcomposite.so.1": "1c695144ef52c42c190aa11c64b78fed7271f346033910935ccb72bce1fce051", "/usr/lib/libXcomposite.so": "1c695144ef52c42c190aa11c64b78fed7271f346033910935ccb72bce1fce051", "/usr/lib/libXcomposite.so.1.0.0": "1c695144ef52c42c190aa11c64b78fed7271f346033910935ccb72bce1fce051", "/usr/lib/pkgconfig/xcomposite.pc": "5f12ec714d4530696001501c947e06e6e70cb548b167b7355fbe99862f7b9b31", "/var/log/pacman.log": "db76a3627e136c0e27e87b335e6f474d25da3669e1100554230599ad4c6a39bb"}}
+{
+  "0.4.4-2": {
+    "/usr/include/X11/extensions/Xcomposite.h": "f617e9b88ff589a8b658ce011095fce4a08392d08def40596b24cef63cec9253",
+    "/usr/share/licenses/libxcomposite/COPYING": "efa0219ed8485ac555c1a3fb82daf34539b2e0dcf4dadc99c01f1e39c69a4a68",
+    "/usr/share/man/man3/XCompositeQueryVersion.3.gz": "d8c400a965301f19d33986600ef859ca97098b9ff79389499309fe16b2824bd4",
+    "/usr/share/man/man3/Xcomposite.3.gz": "f9f14f1651eecf665ac3e10e0b82610ce74e1b1e222ee0e201fac60f11a95366",
+    "/usr/share/man/man3/XCompositeUnredirectWindow.3.gz": "d8c400a965301f19d33986600ef859ca97098b9ff79389499309fe16b2824bd4",
+    "/usr/share/man/man3/XCompositeNameWindowPixmap.3.gz": "d8c400a965301f19d33986600ef859ca97098b9ff79389499309fe16b2824bd4",
+    "/usr/share/man/man3/XCompositeRedirectWindow.3.gz": "d8c400a965301f19d33986600ef859ca97098b9ff79389499309fe16b2824bd4",
+    "/usr/share/man/man3/XCompositeUnredirectSubwindows.3.gz": "d8c400a965301f19d33986600ef859ca97098b9ff79389499309fe16b2824bd4",
+    "/usr/share/man/man3/XCompositeReleaseOverlayWindow.3.gz": "d8c400a965301f19d33986600ef859ca97098b9ff79389499309fe16b2824bd4",
+    "/usr/share/man/man3/XCompositeQueryExtension.3.gz": "d8c400a965301f19d33986600ef859ca97098b9ff79389499309fe16b2824bd4",
+    "/usr/share/man/man3/XCompositeRedirectSubwindows.3.gz": "d8c400a965301f19d33986600ef859ca97098b9ff79389499309fe16b2824bd4",
+    "/usr/share/man/man3/XCompositeGetOverlayWindow.3.gz": "d8c400a965301f19d33986600ef859ca97098b9ff79389499309fe16b2824bd4",
+    "/usr/share/man/man3/XCompositeVersion.3.gz": "d8c400a965301f19d33986600ef859ca97098b9ff79389499309fe16b2824bd4",
+    "/usr/share/man/man3/XCompositeCreateRegionFromBorderClip.3.gz": "d8c400a965301f19d33986600ef859ca97098b9ff79389499309fe16b2824bd4",
+    "/usr/lib/libXcomposite.so.1": "1c695144ef52c42c190aa11c64b78fed7271f346033910935ccb72bce1fce051",
+    "/usr/lib/libXcomposite.so": "1c695144ef52c42c190aa11c64b78fed7271f346033910935ccb72bce1fce051",
+    "/usr/lib/libXcomposite.so.1.0.0": "1c695144ef52c42c190aa11c64b78fed7271f346033910935ccb72bce1fce051",
+    "/usr/lib/pkgconfig/xcomposite.pc": "5f12ec714d4530696001501c947e06e6e70cb548b167b7355fbe99862f7b9b31",
+    "/var/log/pacman.log": "db76a3627e136c0e27e87b335e6f474d25da3669e1100554230599ad4c6a39bb"
+  }
+}

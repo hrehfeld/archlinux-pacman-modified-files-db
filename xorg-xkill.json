@@ -1,1 +1,8 @@
-{"1.0.4-1": {"/usr/bin/xkill": "7015cd98aeb820705bab653c64e22a7d1ccefb6e140a5293295f34ec475a2225", "/usr/share/licenses/xorg-xkill/COPYING": "13306c3890e4c8710bc468dee0eba7f9677cd94c7a67d2d81fa932d4f635b21f", "/usr/share/man/man1/xkill.1.gz": "ac77e26dfba43bdf745e403aaabbbda1c66e6c201e7efff11c3ddd2336a5fb53", "/var/log/pacman.log": "7fcf6a647af668e2346e8c93bbba6168e31fe87ab36393910697e921d446bcb0"}}
+{
+  "1.0.4-1": {
+    "/usr/bin/xkill": "7015cd98aeb820705bab653c64e22a7d1ccefb6e140a5293295f34ec475a2225",
+    "/usr/share/licenses/xorg-xkill/COPYING": "13306c3890e4c8710bc468dee0eba7f9677cd94c7a67d2d81fa932d4f635b21f",
+    "/usr/share/man/man1/xkill.1.gz": "ac77e26dfba43bdf745e403aaabbbda1c66e6c201e7efff11c3ddd2336a5fb53",
+    "/var/log/pacman.log": "7fcf6a647af668e2346e8c93bbba6168e31fe87ab36393910697e921d446bcb0"
+  }
+}

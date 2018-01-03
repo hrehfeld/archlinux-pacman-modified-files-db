@@ -1,1 +1,25 @@
-{"6.7-2": {"/usr/include/cifsidmap.h": "f44f50ce7d64cce4bafde2f6045e5cae7033e036fe7190314a56e0227e556b9f", "/usr/share/man/man1/setcifsacl.1.gz": "47f0036c62e4c795e9a942b1f5ce6b94601a76ecf4fbc1690ea77a7df8d7bb39", "/usr/share/man/man1/getcifsacl.1.gz": "386b12de9e7cc3fefb0b8e4ae1f334127a41e99bf5b4182d68ef661323c63536", "/usr/share/man/man1/cifscreds.1.gz": "c8c176de7ae71fccd44eb450ecb09889b9b28780835f8f1761d068a39b84b0fb", "/usr/share/man/man8/pam_cifscreds.8.gz": "1bf5d168b89ddc976228a313c388c7c8fc9e043907b449f03ce700c6f9f3a345", "/usr/share/man/man8/idmapwb.8.gz": "c3eb504cbd79dab7b4a9c40a94eb5233b826dd4d76b38daf9aaa636a3ddfe5d6", "/usr/share/man/man8/cifs.idmap.8.gz": "258ea4a77fdd49c71d539b6378f9949be1a579667ee95c9a7890a9cb1c7b60ec", "/usr/share/man/man8/cifs.upcall.8.gz": "df9c3e4d3e1676c4ebc1183f7d5030c58d457c2248e09bbe2687dd6ef340f159", "/usr/share/man/man8/mount.cifs.8.gz": "0779ccfca992225a40defcec5660684c2375e0b222032ed013d75c34a5eaa2f4", "/usr/lib/cifs-utils/idmapwb.so": "f1ca7b8933bbf9f74fade78807aeb470ce29f270fe75e020011e0d6713565472", "/usr/lib/security/pam_cifscreds.so": "012442ba335ffa91600cc314225ccf8df40edfbfe8e4ab3ba83151df7f04d93e", "/usr/bin/setcifsacl": "d5d76dba72639110c921aa22cfa190aba9f81fcf48eb676cffa415bcb2761a85", "/usr/bin/getcifsacl": "05e4f8eabeb215b7e412354a807017d4846b436c1a6f8582e7af82375df8597c", "/usr/bin/cifscreds": "0b629ba52013ebdfa3788895466fc8588dcf134328fffc4fcde633efd96a4dd3", "/usr/bin/cifs.idmap": "4de7b59be7c8727d0f90918c91dbb9375cd7513514518e616fa62fd264d33261", "/usr/bin/cifs.upcall": "2105dd4bb297f0e37138c53098aca46ce11b3e93726b2c7d1b5af8708f9f16ee", "/usr/bin/mount.cifs": "16dbd3ce726294698e2eaf49d5c128987474e3d747b00715710a68738c515d93", "/var/log/pacman.log": "300da3821650c94674b56ec01c5a7772f95bbda13e2a67c45e1a906ccac50e42", "/etc/request-key.d/cifs.idmap.conf": "d4a4737bcad28f1b7d3e6be95b6a6b31f2a65551fe97d491c6ddbaec0fd7ffe4", "/etc/request-key.d/cifs.spnego.conf": "6915b8a0500816ba4dac2956480a247ded8b39d9c1d6bb5527320c9fcfc43a96", "/etc/cifs-utils/idmap-plugin": "f1ca7b8933bbf9f74fade78807aeb470ce29f270fe75e020011e0d6713565472"}}
+{
+  "6.7-2": {
+    "/usr/include/cifsidmap.h": "f44f50ce7d64cce4bafde2f6045e5cae7033e036fe7190314a56e0227e556b9f",
+    "/usr/share/man/man1/setcifsacl.1.gz": "47f0036c62e4c795e9a942b1f5ce6b94601a76ecf4fbc1690ea77a7df8d7bb39",
+    "/usr/share/man/man1/getcifsacl.1.gz": "386b12de9e7cc3fefb0b8e4ae1f334127a41e99bf5b4182d68ef661323c63536",
+    "/usr/share/man/man1/cifscreds.1.gz": "c8c176de7ae71fccd44eb450ecb09889b9b28780835f8f1761d068a39b84b0fb",
+    "/usr/share/man/man8/pam_cifscreds.8.gz": "1bf5d168b89ddc976228a313c388c7c8fc9e043907b449f03ce700c6f9f3a345",
+    "/usr/share/man/man8/idmapwb.8.gz": "c3eb504cbd79dab7b4a9c40a94eb5233b826dd4d76b38daf9aaa636a3ddfe5d6",
+    "/usr/share/man/man8/cifs.idmap.8.gz": "258ea4a77fdd49c71d539b6378f9949be1a579667ee95c9a7890a9cb1c7b60ec",
+    "/usr/share/man/man8/cifs.upcall.8.gz": "df9c3e4d3e1676c4ebc1183f7d5030c58d457c2248e09bbe2687dd6ef340f159",
+    "/usr/share/man/man8/mount.cifs.8.gz": "0779ccfca992225a40defcec5660684c2375e0b222032ed013d75c34a5eaa2f4",
+    "/usr/lib/cifs-utils/idmapwb.so": "f1ca7b8933bbf9f74fade78807aeb470ce29f270fe75e020011e0d6713565472",
+    "/usr/lib/security/pam_cifscreds.so": "012442ba335ffa91600cc314225ccf8df40edfbfe8e4ab3ba83151df7f04d93e",
+    "/usr/bin/setcifsacl": "d5d76dba72639110c921aa22cfa190aba9f81fcf48eb676cffa415bcb2761a85",
+    "/usr/bin/getcifsacl": "05e4f8eabeb215b7e412354a807017d4846b436c1a6f8582e7af82375df8597c",
+    "/usr/bin/cifscreds": "0b629ba52013ebdfa3788895466fc8588dcf134328fffc4fcde633efd96a4dd3",
+    "/usr/bin/cifs.idmap": "4de7b59be7c8727d0f90918c91dbb9375cd7513514518e616fa62fd264d33261",
+    "/usr/bin/cifs.upcall": "2105dd4bb297f0e37138c53098aca46ce11b3e93726b2c7d1b5af8708f9f16ee",
+    "/usr/bin/mount.cifs": "16dbd3ce726294698e2eaf49d5c128987474e3d747b00715710a68738c515d93",
+    "/var/log/pacman.log": "300da3821650c94674b56ec01c5a7772f95bbda13e2a67c45e1a906ccac50e42",
+    "/etc/request-key.d/cifs.idmap.conf": "d4a4737bcad28f1b7d3e6be95b6a6b31f2a65551fe97d491c6ddbaec0fd7ffe4",
+    "/etc/request-key.d/cifs.spnego.conf": "6915b8a0500816ba4dac2956480a247ded8b39d9c1d6bb5527320c9fcfc43a96",
+    "/etc/cifs-utils/idmap-plugin": "f1ca7b8933bbf9f74fade78807aeb470ce29f270fe75e020011e0d6713565472"
+  }
+}

@@ -1,1 +1,32 @@
-{"1.2.0.10-5": {"/usr/share/haskell/register/haskell-case-insensitive.sh": "5abc64e1f72134b387525a5ba0d9d65459f553559d80b6686c8f10137879d820", "/usr/share/haskell/unregister/haskell-case-insensitive.sh": "0243cba9037ddb2cf91b0515876abcc56666ac8773c772b132637532e18f2b14", "/usr/share/licenses/haskell-case-insensitive/LICENSE": "0d54a7110b8278011cbd3d7da1e1b7aea5641ad4439f69945ffd84d059a6eb80", "/usr/lib/libHScase-insensitive-1.2.0.10-G6p6xuzQuZQOyTREOVUmI-ghc8.2.1.so": "def31fd4af68b781d3c0fcc0f35b7b66de4e8fc40701d1d7a0ee3691035a73b0", "/usr/lib/ghc-8.2.1/site-local/case-insensitive-1.2.0.10/Data/CaseInsensitive.dyn_hi": "56ca92cb1711a980bd2495c9219ce841f3805e74b3aa5619ae9a4ebf84151303", "/usr/lib/ghc-8.2.1/site-local/case-insensitive-1.2.0.10/Data/CaseInsensitive/Unsafe.dyn_hi": "74cb26e24b3dcee3245979a6b46cf34bb4906c2515bb49f069ea7c2d64663dcc", "/usr/lib/ghc-8.2.1/site-local/case-insensitive-1.2.0.10/Data/CaseInsensitive/Internal.dyn_hi": "b144c14f1e4fab1450c1c165c4bd2dbc3dbf30603cb6f561d75b9456b3d992ae", "/var/log/pacman.log": "ec51eaa9f5bfee4fa1f5af6f59d341bf045dfeba2886e05efb0b75a127acf881"}, "1.2.0.10-6": {"/usr/share/haskell/register/haskell-case-insensitive.sh": "f8f3224c84875a15952e718058d71c661484c37b620103e5062691399e81f7e0", "/usr/share/haskell/unregister/haskell-case-insensitive.sh": "931e39c4099e25bd19361ef0bfad6ccce038d36623a8735bb8ea55c0fe9f2078", "/usr/share/licenses/haskell-case-insensitive/LICENSE": "0d54a7110b8278011cbd3d7da1e1b7aea5641ad4439f69945ffd84d059a6eb80", "/usr/lib/libHScase-insensitive-1.2.0.10-BoRVwnTiXXU9RJ6NEnu1BA-ghc8.2.2.so": "f95d0993d575ccd3fcf4a308a4788a001e0deef84f1a1e5ed602b7454e54e9a5", "/usr/lib/ghc-8.2.2/site-local/case-insensitive-1.2.0.10/Data/CaseInsensitive.dyn_hi": "e290a1a93d5fe5d34b300b22297fdb8374b09d31f83b283a2c926c42d6447677", "/usr/lib/ghc-8.2.2/site-local/case-insensitive-1.2.0.10/Data/CaseInsensitive/Unsafe.dyn_hi": "8f78b34e37f32972ca37ec7421abe221635e31d2e468e9fe3d9927971831f197", "/usr/lib/ghc-8.2.2/site-local/case-insensitive-1.2.0.10/Data/CaseInsensitive/Internal.dyn_hi": "511128e4bd388a44b023f59bf956c35e35f5f0de1a48d85d64667146c093e6f4", "/var/log/pacman.log": "3fd83a4508cdcdf77ccc491a9695f0dc1a5c755c71056da43454530d1ae8336c"}}
+{
+  "1.2.0.10-5": {
+    "/usr/share/haskell/register/haskell-case-insensitive.sh": "5abc64e1f72134b387525a5ba0d9d65459f553559d80b6686c8f10137879d820",
+    "/usr/share/haskell/unregister/haskell-case-insensitive.sh": "0243cba9037ddb2cf91b0515876abcc56666ac8773c772b132637532e18f2b14",
+    "/usr/share/licenses/haskell-case-insensitive/LICENSE": "0d54a7110b8278011cbd3d7da1e1b7aea5641ad4439f69945ffd84d059a6eb80",
+    "/usr/lib/libHScase-insensitive-1.2.0.10-G6p6xuzQuZQOyTREOVUmI-ghc8.2.1.so": "def31fd4af68b781d3c0fcc0f35b7b66de4e8fc40701d1d7a0ee3691035a73b0",
+    "/usr/lib/ghc-8.2.1/site-local/case-insensitive-1.2.0.10/Data/CaseInsensitive.dyn_hi": "56ca92cb1711a980bd2495c9219ce841f3805e74b3aa5619ae9a4ebf84151303",
+    "/usr/lib/ghc-8.2.1/site-local/case-insensitive-1.2.0.10/Data/CaseInsensitive/Unsafe.dyn_hi": "74cb26e24b3dcee3245979a6b46cf34bb4906c2515bb49f069ea7c2d64663dcc",
+    "/usr/lib/ghc-8.2.1/site-local/case-insensitive-1.2.0.10/Data/CaseInsensitive/Internal.dyn_hi": "b144c14f1e4fab1450c1c165c4bd2dbc3dbf30603cb6f561d75b9456b3d992ae",
+    "/var/log/pacman.log": "ec51eaa9f5bfee4fa1f5af6f59d341bf045dfeba2886e05efb0b75a127acf881"
+  },
+  "1.2.0.10-6": {
+    "/usr/share/haskell/register/haskell-case-insensitive.sh": "f8f3224c84875a15952e718058d71c661484c37b620103e5062691399e81f7e0",
+    "/usr/share/haskell/unregister/haskell-case-insensitive.sh": "931e39c4099e25bd19361ef0bfad6ccce038d36623a8735bb8ea55c0fe9f2078",
+    "/usr/share/licenses/haskell-case-insensitive/LICENSE": "0d54a7110b8278011cbd3d7da1e1b7aea5641ad4439f69945ffd84d059a6eb80",
+    "/usr/lib/libHScase-insensitive-1.2.0.10-BoRVwnTiXXU9RJ6NEnu1BA-ghc8.2.2.so": "f95d0993d575ccd3fcf4a308a4788a001e0deef84f1a1e5ed602b7454e54e9a5",
+    "/usr/lib/ghc-8.2.2/site-local/case-insensitive-1.2.0.10/Data/CaseInsensitive.dyn_hi": "e290a1a93d5fe5d34b300b22297fdb8374b09d31f83b283a2c926c42d6447677",
+    "/usr/lib/ghc-8.2.2/site-local/case-insensitive-1.2.0.10/Data/CaseInsensitive/Unsafe.dyn_hi": "8f78b34e37f32972ca37ec7421abe221635e31d2e468e9fe3d9927971831f197",
+    "/usr/lib/ghc-8.2.2/site-local/case-insensitive-1.2.0.10/Data/CaseInsensitive/Internal.dyn_hi": "511128e4bd388a44b023f59bf956c35e35f5f0de1a48d85d64667146c093e6f4",
+    "/var/log/pacman.log": "3fd83a4508cdcdf77ccc491a9695f0dc1a5c755c71056da43454530d1ae8336c"
+  },
+  "1.2.0.10-7": {
+    "/usr/share/haskell/register/haskell-case-insensitive.sh": "ee840a195af013b8c79b2d5ab252c22472408f45ce776835a77f925578d44044",
+    "/usr/share/haskell/unregister/haskell-case-insensitive.sh": "931e39c4099e25bd19361ef0bfad6ccce038d36623a8735bb8ea55c0fe9f2078",
+    "/usr/share/licenses/haskell-case-insensitive/LICENSE": "0d54a7110b8278011cbd3d7da1e1b7aea5641ad4439f69945ffd84d059a6eb80",
+    "/usr/lib/libHScase-insensitive-1.2.0.10-AWseT79MXu13ZYpcQBCANd-ghc8.2.2.so": "aa7cc11e75ecc02278c13485b5c49c96c2305365806e1d3c95ebdba82ed5a533",
+    "/usr/lib/ghc-8.2.2/site-local/case-insensitive-1.2.0.10/Data/CaseInsensitive.dyn_hi": "2dbfd50002dd95335ca261bdbb393e5292f7b972d7dc4be0ee86f6585e3e10e1",
+    "/usr/lib/ghc-8.2.2/site-local/case-insensitive-1.2.0.10/Data/CaseInsensitive/Unsafe.dyn_hi": "6aa63120d1eb6eb69560df35bdb72214f41d9c978af60e3034cf950a264c51dd",
+    "/usr/lib/ghc-8.2.2/site-local/case-insensitive-1.2.0.10/Data/CaseInsensitive/Internal.dyn_hi": "62c94d55bfc1d71397c9078cbc635e41d588b8950a16b0fcce3f6b90db3872de",
+    "/var/log/pacman.log": "702330f6fe4d1d6f167e9312540d08c0649acb746bb50fedda40d1d3b828a72a"
+  }
+}

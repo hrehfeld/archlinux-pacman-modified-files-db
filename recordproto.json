@@ -1,1 +1,11 @@
-{"1.14.2-2": {"/usr/include/X11/extensions/recordstr.h": "5c503dc572b8ff89c9f7734175db253af35d3b70da7ff3a1592ddd2e095846cb", "/usr/include/X11/extensions/recordproto.h": "209e35a06960112db6d656c406515ee9b2092a2eed57bec5908bb108b09f5c28", "/usr/include/X11/extensions/recordconst.h": "26c25d30e1e38ca7b3d91c9f79b72b4e084e50d81bc3a248494177dde285fd86", "/usr/lib/pkgconfig/recordproto.pc": "ba5e82a71fceb3ec3700511a416f66bf8580ef9d7b0f7043bee26cb55540b11e", "/usr/share/licenses/recordproto/COPYING": "ee10aee0f1697ffdbe870a39f037361d4f7136f2976bb7919a41b3f66407caee", "/usr/share/doc/recordproto/record.xml": "cd05f8057f4d89fe053b0bf959ea4570781a7c3c08e0782e7c8c3c52fc91b696", "/var/log/pacman.log": "24edbc14722444c76914ed64cb21e81ba528bde7b9b000776a804817fd31a129"}}
+{
+  "1.14.2-2": {
+    "/usr/include/X11/extensions/recordstr.h": "5c503dc572b8ff89c9f7734175db253af35d3b70da7ff3a1592ddd2e095846cb",
+    "/usr/include/X11/extensions/recordproto.h": "209e35a06960112db6d656c406515ee9b2092a2eed57bec5908bb108b09f5c28",
+    "/usr/include/X11/extensions/recordconst.h": "26c25d30e1e38ca7b3d91c9f79b72b4e084e50d81bc3a248494177dde285fd86",
+    "/usr/lib/pkgconfig/recordproto.pc": "ba5e82a71fceb3ec3700511a416f66bf8580ef9d7b0f7043bee26cb55540b11e",
+    "/usr/share/licenses/recordproto/COPYING": "ee10aee0f1697ffdbe870a39f037361d4f7136f2976bb7919a41b3f66407caee",
+    "/usr/share/doc/recordproto/record.xml": "cd05f8057f4d89fe053b0bf959ea4570781a7c3c08e0782e7c8c3c52fc91b696",
+    "/var/log/pacman.log": "24edbc14722444c76914ed64cb21e81ba528bde7b9b000776a804817fd31a129"
+  }
+}

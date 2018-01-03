@@ -1,1 +1,13 @@
-{"1.2.4-2": {"/usr/share/doc/dbus-python/tutorial.txt": "ec07ba75e08e60dea8ce81dff413657441c3965d829495d752204158879793b4", "/usr/share/doc/dbus-python/API_CHANGES.txt": "ff7277c8889e4b37664969b9e8176957d0a1f9d8d8edf31dca76b48c3ffc198e", "/usr/share/doc/dbus-python/HACKING.txt": "7e9ab5b66cea62f4859c3b31f511a655c254f91638ff7cc3a7da3f93e8ade956", "/usr/share/doc/dbus-python/PY3PORT.txt": "96df16464a89032d466913ce56f61aa5647bb0f5da6c3491cef6ffed34451ca8", "/usr/share/doc/dbus-python/README": "23e4bff3e0fd83a1c5fc4b1b672aeebd35b5fda7a466673073ded3d50fa08b33", "/usr/share/doc/dbus-python/NEWS": "e9a1c214fece61d0e3f85099466a74dc43729a2e210371337d053b37f21f111d", "/usr/include/dbus-1.0/dbus/dbus-python.h": "00ce7a06deed5c2399153922681dcb2159d68d89307492e7bd7c89be73ebfee2", "/usr/lib/pkgconfig/dbus-python.pc": "9e17a2abf2b6aa96efd1df22100f063bb2196ceca47efc43734764122a9aa8ff", "/var/log/pacman.log": "74479e3fc79cb2600f0ecb174632ef99a5ebbad3e6d08f2fd8a137bcae7656ce"}}
+{
+  "1.2.4-2": {
+    "/usr/share/doc/dbus-python/tutorial.txt": "ec07ba75e08e60dea8ce81dff413657441c3965d829495d752204158879793b4",
+    "/usr/share/doc/dbus-python/API_CHANGES.txt": "ff7277c8889e4b37664969b9e8176957d0a1f9d8d8edf31dca76b48c3ffc198e",
+    "/usr/share/doc/dbus-python/HACKING.txt": "7e9ab5b66cea62f4859c3b31f511a655c254f91638ff7cc3a7da3f93e8ade956",
+    "/usr/share/doc/dbus-python/PY3PORT.txt": "96df16464a89032d466913ce56f61aa5647bb0f5da6c3491cef6ffed34451ca8",
+    "/usr/share/doc/dbus-python/README": "23e4bff3e0fd83a1c5fc4b1b672aeebd35b5fda7a466673073ded3d50fa08b33",
+    "/usr/share/doc/dbus-python/NEWS": "e9a1c214fece61d0e3f85099466a74dc43729a2e210371337d053b37f21f111d",
+    "/usr/include/dbus-1.0/dbus/dbus-python.h": "00ce7a06deed5c2399153922681dcb2159d68d89307492e7bd7c89be73ebfee2",
+    "/usr/lib/pkgconfig/dbus-python.pc": "9e17a2abf2b6aa96efd1df22100f063bb2196ceca47efc43734764122a9aa8ff",
+    "/var/log/pacman.log": "74479e3fc79cb2600f0ecb174632ef99a5ebbad3e6d08f2fd8a137bcae7656ce"
+  }
+}

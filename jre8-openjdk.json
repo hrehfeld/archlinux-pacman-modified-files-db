@@ -1,1 +1,11 @@
-{"8.u144-1": {"/usr/lib/jvm/java-8-openjdk/jre/bin/policytool": "d6e36f67cc997e025f61716ceaa6f8438a6457339056140ce0a5b214cd067d19", "/usr/lib/jvm/java-8-openjdk/jre/lib/amd64/libsplashscreen.so": "3053fb8da4e7bed7fc3f20cc3b9a323fcf6186d0d4c829d10d05ae72a0662067", "/usr/lib/jvm/java-8-openjdk/jre/lib/amd64/libjsoundalsa.so": "ad5bb455a11411584e45e93aa5985907252eb00444adf5ebf2975afe9165c366", "/usr/lib/jvm/java-8-openjdk/jre/lib/amd64/libjsound.so": "d0237995c16075ddb230a3d206377628ea462b86ec19b6ad43577f93735a694a", "/usr/share/man/man1/policytool-openjdk8.1.gz": "3545ca55aa4fc2e68e712f202ab156e3431de408c9fbaba39fbe9f688980b8be", "/usr/share/man/ja/man1/policytool-openjdk8.1.gz": "45ce8b06e958e8bfde73016d67f14322bb33f2ac82398bc730e4a64a5059e5ce", "/var/log/pacman.log": "401f89d027ddcd4aa7bd92741cdbde8e100fef4b8934dde80b5ccf9f61466590"}}
+{
+  "8.u144-1": {
+    "/usr/lib/jvm/java-8-openjdk/jre/bin/policytool": "d6e36f67cc997e025f61716ceaa6f8438a6457339056140ce0a5b214cd067d19",
+    "/usr/lib/jvm/java-8-openjdk/jre/lib/amd64/libsplashscreen.so": "3053fb8da4e7bed7fc3f20cc3b9a323fcf6186d0d4c829d10d05ae72a0662067",
+    "/usr/lib/jvm/java-8-openjdk/jre/lib/amd64/libjsoundalsa.so": "ad5bb455a11411584e45e93aa5985907252eb00444adf5ebf2975afe9165c366",
+    "/usr/lib/jvm/java-8-openjdk/jre/lib/amd64/libjsound.so": "d0237995c16075ddb230a3d206377628ea462b86ec19b6ad43577f93735a694a",
+    "/usr/share/man/man1/policytool-openjdk8.1.gz": "3545ca55aa4fc2e68e712f202ab156e3431de408c9fbaba39fbe9f688980b8be",
+    "/usr/share/man/ja/man1/policytool-openjdk8.1.gz": "45ce8b06e958e8bfde73016d67f14322bb33f2ac82398bc730e4a64a5059e5ce",
+    "/var/log/pacman.log": "401f89d027ddcd4aa7bd92741cdbde8e100fef4b8934dde80b5ccf9f61466590"
+  }
+}

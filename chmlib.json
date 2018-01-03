@@ -1,1 +1,28 @@
-{"0.40-4": {"/usr/bin/test_chmLib": "721667345202e65d17ed66830eb7118b671ef0c5eae0a281795321526248e124", "/usr/bin/extract_chmLib": "8180209ac0572cfbf28e3186fc69b3cfb7d4efd9e154c9e4b0c4ada6442fac47", "/usr/bin/enumdir_chmLib": "03babdcd95b1625f42131b80fb87320e3d2a5d614bf459aed985e5b8bbe4a2c6", "/usr/bin/enum_chmLib": "e8ff5a49ff4a2a5b91a20c9a9173ad2ff721554d9934c1c4ea1716a258fc58c5", "/usr/bin/chm_http": "f77f56972ad93fad550c8d48b8b5c05b4bd75e89733378f3856d6e33f60f7a06", "/usr/include/lzx.h": "27117a1918fd2b8298d64f43155f75a47e2829490573bb6514eed2e5154dd487", "/usr/include/chm_lib.h": "bb02266854f83eb599528ea93728c183dd46b2f74cfde15fa6cc798f8907cbd2", "/usr/lib/libchm.so.0.0.0": "3392fb27d99702093d66c74356307b48fbc53a62586b33430f85024216c99c8e", "/usr/lib/libchm.so": "3392fb27d99702093d66c74356307b48fbc53a62586b33430f85024216c99c8e", "/usr/lib/libchm.so.0": "3392fb27d99702093d66c74356307b48fbc53a62586b33430f85024216c99c8e", "/var/log/pacman.log": "78cff856f97f70f1f1126593b0aa2af8dba8a2abb5981fc89198116e9a9540ee"}}
+{
+  "0.40-4": {
+    "/usr/bin/test_chmLib": "721667345202e65d17ed66830eb7118b671ef0c5eae0a281795321526248e124",
+    "/usr/bin/extract_chmLib": "8180209ac0572cfbf28e3186fc69b3cfb7d4efd9e154c9e4b0c4ada6442fac47",
+    "/usr/bin/enumdir_chmLib": "03babdcd95b1625f42131b80fb87320e3d2a5d614bf459aed985e5b8bbe4a2c6",
+    "/usr/bin/enum_chmLib": "e8ff5a49ff4a2a5b91a20c9a9173ad2ff721554d9934c1c4ea1716a258fc58c5",
+    "/usr/bin/chm_http": "f77f56972ad93fad550c8d48b8b5c05b4bd75e89733378f3856d6e33f60f7a06",
+    "/usr/include/lzx.h": "27117a1918fd2b8298d64f43155f75a47e2829490573bb6514eed2e5154dd487",
+    "/usr/include/chm_lib.h": "bb02266854f83eb599528ea93728c183dd46b2f74cfde15fa6cc798f8907cbd2",
+    "/usr/lib/libchm.so.0.0.0": "3392fb27d99702093d66c74356307b48fbc53a62586b33430f85024216c99c8e",
+    "/usr/lib/libchm.so": "3392fb27d99702093d66c74356307b48fbc53a62586b33430f85024216c99c8e",
+    "/usr/lib/libchm.so.0": "3392fb27d99702093d66c74356307b48fbc53a62586b33430f85024216c99c8e",
+    "/var/log/pacman.log": "78cff856f97f70f1f1126593b0aa2af8dba8a2abb5981fc89198116e9a9540ee"
+  },
+  "0.40-5": {
+    "/usr/include/lzx.h": "27117a1918fd2b8298d64f43155f75a47e2829490573bb6514eed2e5154dd487",
+    "/usr/include/chm_lib.h": "bb02266854f83eb599528ea93728c183dd46b2f74cfde15fa6cc798f8907cbd2",
+    "/usr/lib/libchm.so.0.0.0": "e9215c53b65b972e13ab9d524965e623fe6649a77e14df3f6ab270df61aec66a",
+    "/usr/lib/libchm.so": "e9215c53b65b972e13ab9d524965e623fe6649a77e14df3f6ab270df61aec66a",
+    "/usr/lib/libchm.so.0": "e9215c53b65b972e13ab9d524965e623fe6649a77e14df3f6ab270df61aec66a",
+    "/usr/bin/chm_http": "6d8d2ac50449b2d4d07a76d9e6c6658ba7e4ac5dba49a297cad47c1198e7a7e7",
+    "/usr/bin/enumdir_chmLib": "3d6bb6e657731830b194f7b25bdd6bdc21120548398773f99398fe4f533e0ccd",
+    "/usr/bin/extract_chmLib": "a4d72977ab0edf5c218e2ee77634b4bcbfff58c43cd47d9241a40826d1b1f579",
+    "/usr/bin/enum_chmLib": "e0893e36497150c493d46f005e2a807c5c8882ee5487f5bb7cbcab7d1e6ee581",
+    "/usr/bin/test_chmLib": "50386b8a6d0971d1e983402109445dda32538614f14788c2eb671d89a621dcdd",
+    "/var/log/pacman.log": "745eead1a853ea7e5b26dfd91d9079b272bfa1ea66aa141f2bab2cad92bfc578"
+  }
+}

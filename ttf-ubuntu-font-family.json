@@ -1,1 +1,21 @@
-{"0.83-3": {"/usr/share/fonts/TTF/Ubuntu-LI.ttf": "c5c2d884000930242b3052dd13f3bd250fe53e85b6f75046a53e92dd3de2b51c", "/usr/share/fonts/TTF/Ubuntu-MI.ttf": "810029281da01d548a914899ec643c4ae54ee9a165dfcf731f1aa8551b226350", "/usr/share/fonts/TTF/Ubuntu-RI.ttf": "0626647f11d9c911f934715d1060b590744887224601abaeb22ac8f582b57118", "/usr/share/fonts/TTF/UbuntuMono-B.ttf": "11f15c3a6bbd998a8695fdefb3475931c3789aa035d7546f2efe78e83b352f6b", "/usr/share/fonts/TTF/Ubuntu-B.ttf": "c90e629e932f768909bdce1481ccd259d8aff1490a4bc1cf94d5413492317336", "/usr/share/fonts/TTF/Ubuntu-R.ttf": "52c1afa489ae7bfd893af6cdd9f1af258005703600449e70d338caabcff507e5", "/usr/share/fonts/TTF/Ubuntu-C.ttf": "6c1f68d2e85832feae9ea30d2a6c0ea71ea623e8ea342bf00a414f6493ccf720", "/usr/share/fonts/TTF/UbuntuMono-BI.ttf": "bd255784bb87b5c41513a12a86f0f9cf061bce4e8256d3bfe7234611002e8f48", "/usr/share/fonts/TTF/UbuntuMono-R.ttf": "b35dd9d2131d5d83a9b87fe9ad22c6288fa3d17688d43302c14da29812417d63", "/usr/share/fonts/TTF/Ubuntu-L.ttf": "b7ec9b9f7cf293ecbc832e998ca4a802adeceb77c661c43ebd23eba1adc3e584", "/usr/share/fonts/TTF/Ubuntu-BI.ttf": "2c33de34d51065a5e56bae5e1c7c13cd128268b26569838a38db038e6ac9723d", "/usr/share/fonts/TTF/UbuntuMono-RI.ttf": "960b2bc286c2ff7d49073303858c65e1fc9013c17a971b61123b02c39454ef75", "/usr/share/fonts/TTF/Ubuntu-M.ttf": "e801a0867295367000c6dd3c337622ae4aaff85786ddbfbdb985ce774fe3cd62", "/usr/share/licenses/ttf-ubuntu-font-family/LICENCE": "2f0015108d68627bd788d313f529c21ff4da2c2c42a5e1f3883acc83480f9002", "/var/log/pacman.log": "4946483843580cdd15d716ba405638a82efd9e67276bfc16dc6d9b6da4aca8a0", "/etc/fonts/conf.avail/81-ubuntu.conf": "16e29b1b8d13edddb588e4470f6da4c15870a9a27dd25eb4553c2c575d6dc14e", "/etc/fonts/conf.d/81-ubuntu.conf": "16e29b1b8d13edddb588e4470f6da4c15870a9a27dd25eb4553c2c575d6dc14e"}}
+{
+  "0.83-3": {
+    "/usr/share/fonts/TTF/Ubuntu-LI.ttf": "c5c2d884000930242b3052dd13f3bd250fe53e85b6f75046a53e92dd3de2b51c",
+    "/usr/share/fonts/TTF/Ubuntu-MI.ttf": "810029281da01d548a914899ec643c4ae54ee9a165dfcf731f1aa8551b226350",
+    "/usr/share/fonts/TTF/Ubuntu-RI.ttf": "0626647f11d9c911f934715d1060b590744887224601abaeb22ac8f582b57118",
+    "/usr/share/fonts/TTF/UbuntuMono-B.ttf": "11f15c3a6bbd998a8695fdefb3475931c3789aa035d7546f2efe78e83b352f6b",
+    "/usr/share/fonts/TTF/Ubuntu-B.ttf": "c90e629e932f768909bdce1481ccd259d8aff1490a4bc1cf94d5413492317336",
+    "/usr/share/fonts/TTF/Ubuntu-R.ttf": "52c1afa489ae7bfd893af6cdd9f1af258005703600449e70d338caabcff507e5",
+    "/usr/share/fonts/TTF/Ubuntu-C.ttf": "6c1f68d2e85832feae9ea30d2a6c0ea71ea623e8ea342bf00a414f6493ccf720",
+    "/usr/share/fonts/TTF/UbuntuMono-BI.ttf": "bd255784bb87b5c41513a12a86f0f9cf061bce4e8256d3bfe7234611002e8f48",
+    "/usr/share/fonts/TTF/UbuntuMono-R.ttf": "b35dd9d2131d5d83a9b87fe9ad22c6288fa3d17688d43302c14da29812417d63",
+    "/usr/share/fonts/TTF/Ubuntu-L.ttf": "b7ec9b9f7cf293ecbc832e998ca4a802adeceb77c661c43ebd23eba1adc3e584",
+    "/usr/share/fonts/TTF/Ubuntu-BI.ttf": "2c33de34d51065a5e56bae5e1c7c13cd128268b26569838a38db038e6ac9723d",
+    "/usr/share/fonts/TTF/UbuntuMono-RI.ttf": "960b2bc286c2ff7d49073303858c65e1fc9013c17a971b61123b02c39454ef75",
+    "/usr/share/fonts/TTF/Ubuntu-M.ttf": "e801a0867295367000c6dd3c337622ae4aaff85786ddbfbdb985ce774fe3cd62",
+    "/usr/share/licenses/ttf-ubuntu-font-family/LICENCE": "2f0015108d68627bd788d313f529c21ff4da2c2c42a5e1f3883acc83480f9002",
+    "/var/log/pacman.log": "4946483843580cdd15d716ba405638a82efd9e67276bfc16dc6d9b6da4aca8a0",
+    "/etc/fonts/conf.avail/81-ubuntu.conf": "16e29b1b8d13edddb588e4470f6da4c15870a9a27dd25eb4553c2c575d6dc14e",
+    "/etc/fonts/conf.d/81-ubuntu.conf": "16e29b1b8d13edddb588e4470f6da4c15870a9a27dd25eb4553c2c575d6dc14e"
+  }
+}

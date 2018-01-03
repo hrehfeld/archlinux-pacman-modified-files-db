@@ -1,1 +1,12 @@
-{"0.10.6-1": {"/usr/lib/python2.7/site-packages/netifaces.so": "4066fd274df1cf9f6ca97d74b100df2d965f2030a42cd13682056c7db00ad2dd", "/usr/lib/python2.7/site-packages/netifaces-0.10.6-py2.7.egg-info/zip-safe": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b", "/usr/lib/python2.7/site-packages/netifaces-0.10.6-py2.7.egg-info/top_level.txt": "3ea313688b96b528e47501d7ea51f52e6a6fd9aa81518006a804c1f33dc0e934", "/usr/lib/python2.7/site-packages/netifaces-0.10.6-py2.7.egg-info/SOURCES.txt": "231e73b5adbbbe18d55e2815bb5cfdf896678e7b015e8d2da5607acc9a2e608f", "/usr/lib/python2.7/site-packages/netifaces-0.10.6-py2.7.egg-info/PKG-INFO": "7cba36e78d027d6ff1e077a2c9dcbd931ef9b1b9a820b1f08b7f59fce1eaa7cc", "/usr/lib/python2.7/site-packages/netifaces-0.10.6-py2.7.egg-info/dependency_links.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b", "/usr/share/licenses/python2-netifaces/LICENSE": "bbd392ffcef3a7575f1f801c88170724a9d07a22fa26b631921df49cf577d32e", "/var/log/pacman.log": "3363c25a4059ea0258faadd83c346145b61b42d3dee51119600711e63f5f2dd9"}}
+{
+  "0.10.6-1": {
+    "/usr/lib/python2.7/site-packages/netifaces.so": "4066fd274df1cf9f6ca97d74b100df2d965f2030a42cd13682056c7db00ad2dd",
+    "/usr/lib/python2.7/site-packages/netifaces-0.10.6-py2.7.egg-info/zip-safe": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "/usr/lib/python2.7/site-packages/netifaces-0.10.6-py2.7.egg-info/top_level.txt": "3ea313688b96b528e47501d7ea51f52e6a6fd9aa81518006a804c1f33dc0e934",
+    "/usr/lib/python2.7/site-packages/netifaces-0.10.6-py2.7.egg-info/SOURCES.txt": "231e73b5adbbbe18d55e2815bb5cfdf896678e7b015e8d2da5607acc9a2e608f",
+    "/usr/lib/python2.7/site-packages/netifaces-0.10.6-py2.7.egg-info/PKG-INFO": "7cba36e78d027d6ff1e077a2c9dcbd931ef9b1b9a820b1f08b7f59fce1eaa7cc",
+    "/usr/lib/python2.7/site-packages/netifaces-0.10.6-py2.7.egg-info/dependency_links.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "/usr/share/licenses/python2-netifaces/LICENSE": "bbd392ffcef3a7575f1f801c88170724a9d07a22fa26b631921df49cf577d32e",
+    "/var/log/pacman.log": "3363c25a4059ea0258faadd83c346145b61b42d3dee51119600711e63f5f2dd9"
+  }
+}

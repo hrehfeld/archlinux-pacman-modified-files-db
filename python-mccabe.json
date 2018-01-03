@@ -1,1 +1,15 @@
-{"0.6.1-1": {"/usr/lib/python3.6/site-packages/mccabe.py": "5cf332c1d42c846ff99d28dc91bf8eccdaa7090b9742fcb71530a5b292b01900", "/usr/lib/python3.6/site-packages/__pycache__/mccabe.cpython-36.pyc": "55d8137cf2135a3e1ec7d311a3f5a596785e11ab1b8b06749c692dc5c1faa9df", "/usr/lib/python3.6/site-packages/__pycache__/mccabe.cpython-36.opt-1.pyc": "37dd06988f7c59354a9d931d6cf622a819a37d04c6810b538127e56452262d3e", "/usr/lib/python3.6/site-packages/mccabe-0.6.1-py3.6.egg-info/SOURCES.txt": "70d96e663316f14036e3494adb221c4e7ba0ef7bad4a2c93b241fe02f64471f0", "/usr/lib/python3.6/site-packages/mccabe-0.6.1-py3.6.egg-info/top_level.txt": "db5717baa644fa5a5c7c0aaa00dbd7f448c8d440f5a7ccdc562bf4eb8bb744a0", "/usr/lib/python3.6/site-packages/mccabe-0.6.1-py3.6.egg-info/entry_points.txt": "376347d7cd865d35324e6f2bf1732069d6fd0be0916b9754af593c382f75b861", "/usr/lib/python3.6/site-packages/mccabe-0.6.1-py3.6.egg-info/dependency_links.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b", "/usr/lib/python3.6/site-packages/mccabe-0.6.1-py3.6.egg-info/not-zip-safe": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b", "/usr/lib/python3.6/site-packages/mccabe-0.6.1-py3.6.egg-info/PKG-INFO": "0b26e9ec4c0ac4d626c67082df1663a2f86488aa2dd5d1d5dfc5e7e0757707a3", "/usr/share/licenses/python-mccabe/LICENSE": "10fbc003cbaf8a6b3cf7195b80dac96c86daf390039b2abf6e7b6e735afd7d74", "/var/log/pacman.log": "b893e9c5e639469b5218f4c5dbffc4d11672b2656da53bebf48b71e6585b5d7a"}}
+{
+  "0.6.1-1": {
+    "/usr/lib/python3.6/site-packages/mccabe.py": "5cf332c1d42c846ff99d28dc91bf8eccdaa7090b9742fcb71530a5b292b01900",
+    "/usr/lib/python3.6/site-packages/__pycache__/mccabe.cpython-36.pyc": "55d8137cf2135a3e1ec7d311a3f5a596785e11ab1b8b06749c692dc5c1faa9df",
+    "/usr/lib/python3.6/site-packages/__pycache__/mccabe.cpython-36.opt-1.pyc": "37dd06988f7c59354a9d931d6cf622a819a37d04c6810b538127e56452262d3e",
+    "/usr/lib/python3.6/site-packages/mccabe-0.6.1-py3.6.egg-info/SOURCES.txt": "70d96e663316f14036e3494adb221c4e7ba0ef7bad4a2c93b241fe02f64471f0",
+    "/usr/lib/python3.6/site-packages/mccabe-0.6.1-py3.6.egg-info/top_level.txt": "db5717baa644fa5a5c7c0aaa00dbd7f448c8d440f5a7ccdc562bf4eb8bb744a0",
+    "/usr/lib/python3.6/site-packages/mccabe-0.6.1-py3.6.egg-info/entry_points.txt": "376347d7cd865d35324e6f2bf1732069d6fd0be0916b9754af593c382f75b861",
+    "/usr/lib/python3.6/site-packages/mccabe-0.6.1-py3.6.egg-info/dependency_links.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "/usr/lib/python3.6/site-packages/mccabe-0.6.1-py3.6.egg-info/not-zip-safe": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "/usr/lib/python3.6/site-packages/mccabe-0.6.1-py3.6.egg-info/PKG-INFO": "0b26e9ec4c0ac4d626c67082df1663a2f86488aa2dd5d1d5dfc5e7e0757707a3",
+    "/usr/share/licenses/python-mccabe/LICENSE": "10fbc003cbaf8a6b3cf7195b80dac96c86daf390039b2abf6e7b6e735afd7d74",
+    "/var/log/pacman.log": "b893e9c5e639469b5218f4c5dbffc4d11672b2656da53bebf48b71e6585b5d7a"
+  }
+}

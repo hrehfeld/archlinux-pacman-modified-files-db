@@ -1,1 +1,8 @@
-{"1.0.6-1": {"/usr/bin/xwd": "c3c1439f09cd1069b4fe865e847bf8deb2ea4bc188c932490cbf94fc4fbd69bc", "/usr/share/licenses/xorg-xwd/COPYING": "7cfda56afd92a1ecd2f23bd0064e01b5141053390d854785504adfe2c0fbd946", "/usr/share/man/man1/xwd.1.gz": "0c3e5767f44fa91d6b0a1224f3118188993e06819d81d9fa447e937923f06b0e", "/var/log/pacman.log": "2a9e2b9e14576c488a8258735365312c044e4e8e3f9c828c8f4b5b1b4660349b"}}
+{
+  "1.0.6-1": {
+    "/usr/bin/xwd": "c3c1439f09cd1069b4fe865e847bf8deb2ea4bc188c932490cbf94fc4fbd69bc",
+    "/usr/share/licenses/xorg-xwd/COPYING": "7cfda56afd92a1ecd2f23bd0064e01b5141053390d854785504adfe2c0fbd946",
+    "/usr/share/man/man1/xwd.1.gz": "0c3e5767f44fa91d6b0a1224f3118188993e06819d81d9fa447e937923f06b0e",
+    "/var/log/pacman.log": "2a9e2b9e14576c488a8258735365312c044e4e8e3f9c828c8f4b5b1b4660349b"
+  }
+}

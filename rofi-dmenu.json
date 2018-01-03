@@ -1,1 +1,6 @@
-{"1-1": {"/usr/bin/dmenu": "f1fbf3c1a742724c01ba2d4d073ca26abd9c89d637f913bbdceff5810beb9ef2", "/var/log/pacman.log": "c29c3b60979a04017dc0e4652574f2b075e2dda76ab17483e8b4c608dc64b212"}}
+{
+  "1-1": {
+    "/usr/bin/dmenu": "f1fbf3c1a742724c01ba2d4d073ca26abd9c89d637f913bbdceff5810beb9ef2",
+    "/var/log/pacman.log": "c29c3b60979a04017dc0e4652574f2b075e2dda76ab17483e8b4c608dc64b212"
+  }
+}

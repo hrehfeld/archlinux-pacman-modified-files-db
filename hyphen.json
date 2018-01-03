@@ -1,1 +1,11 @@
-{"2.8.8-1": {"/usr/include/hyphen.h": "b7bb5b3f006e9b11677efa01835aa24e4611c6d3bd4070fbcd755725dada3c2b", "/usr/share/licenses/hyphen/LICENSE": "8674da7542da10dec11e50a0d3cdad219a79de80f405bc54894fb20207944d94", "/usr/bin/substrings.pl": "b8b57883006990f0f342334d99f115490c9b6004e086457b3e353677dd6daa61", "/usr/lib/libhyphen.so.0.3.0": "d83d66df413d0be7f6a4cb6860b35eea2a73bc11a0650565abcaf4b0e1169299", "/usr/lib/libhyphen.so.0": "d83d66df413d0be7f6a4cb6860b35eea2a73bc11a0650565abcaf4b0e1169299", "/usr/lib/libhyphen.so": "d83d66df413d0be7f6a4cb6860b35eea2a73bc11a0650565abcaf4b0e1169299", "/var/log/pacman.log": "735eb311da63e39cff215d5e5a672ca68834c602c2b076ce1a3ed9e6d20e83ef"}}
+{
+  "2.8.8-1": {
+    "/usr/include/hyphen.h": "b7bb5b3f006e9b11677efa01835aa24e4611c6d3bd4070fbcd755725dada3c2b",
+    "/usr/share/licenses/hyphen/LICENSE": "8674da7542da10dec11e50a0d3cdad219a79de80f405bc54894fb20207944d94",
+    "/usr/bin/substrings.pl": "b8b57883006990f0f342334d99f115490c9b6004e086457b3e353677dd6daa61",
+    "/usr/lib/libhyphen.so.0.3.0": "d83d66df413d0be7f6a4cb6860b35eea2a73bc11a0650565abcaf4b0e1169299",
+    "/usr/lib/libhyphen.so.0": "d83d66df413d0be7f6a4cb6860b35eea2a73bc11a0650565abcaf4b0e1169299",
+    "/usr/lib/libhyphen.so": "d83d66df413d0be7f6a4cb6860b35eea2a73bc11a0650565abcaf4b0e1169299",
+    "/var/log/pacman.log": "735eb311da63e39cff215d5e5a672ca68834c602c2b076ce1a3ed9e6d20e83ef"
+  }
+}

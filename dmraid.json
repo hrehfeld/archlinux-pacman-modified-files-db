@@ -1,1 +1,28 @@
-{"1.0.0.rc16.3-10": {"/usr/include/dmraid/display.h": "7f215ae66d7f31270562eba31bf9fa5fa256e4ba029704eb34c5f8c719478666", "/usr/include/dmraid/locking.h": "0b60a8f98fdf07f29b623cf74a9345431b4fed97a24079d1acdcc1b91e5ae686", "/usr/include/dmraid/dmraid.h": "fa1582708911d989aea2a7307a315af4420fb580d6f772c4910674a4ac108f6c", "/usr/include/dmraid/lib_context.h": "4d61308c8d93aaa385bb2fafc6b67b369591801ebf5840305c717c7291dea657", "/usr/include/dmraid/dmreg.h": "4673e3bf6c466845c06e8b12dba7ccc995d6ec60e90de8d13e5a3620d1e8fbf3", "/usr/include/dmraid/metadata.h": "16fe0ee393b6a8f4177bf83c9da93bbae7c613ed8f5624a9844da743c73dfecf", "/usr/include/dmraid/reconfig.h": "ef0d2f5df0d07392677d0c90f0d2f4bc6a11d429e7b2aa50b6d71135484abea4", "/usr/include/dmraid/list.h": "040ce3123878e66e64fbbdf5cd15f6ae6f9d8fd8f5eba72dd54994cceba71021", "/usr/include/dmraid/misc.h": "d16fb812c026660748dfb4ea7fead7d192c81ee01ebef2598b53de7a4e107ab9", "/usr/include/dmraid/format.h": "de7f2f3e764b2667b5f75c6c7618d1835e751eb72fcca4fc02cb7c4ead5c15f8", "/usr/bin/dmraid": "4c4ed271ac78d4012f28fb85f9b83a1f1616280045d650c15099b9d4ebd17116", "/usr/bin/dmevent_tool": "1dcfdd0b22ecac8c3454e3d65016a75394e8529e3b50b4602821f20115421a50", "/usr/lib/libdmraid.so": "c92e0fe5a8ab587885f5b91a800bb3ef9ac04aed716543eb0185b03bafe1574d", "/usr/lib/libdmraid.so.1.0.0": "c92e0fe5a8ab587885f5b91a800bb3ef9ac04aed716543eb0185b03bafe1574d", "/usr/lib/libdmraid.so.1": "c92e0fe5a8ab587885f5b91a800bb3ef9ac04aed716543eb0185b03bafe1574d", "/usr/lib/libdmraid-events-isw.so": "21d6e64d73f61a6a4805d76e80fdeda20c164d116b5fb5a69511535fea6d1868", "/usr/lib/tmpfiles.d/dmraid.conf": "f00fa4462d83553d2fb769159a019b4d4898634e52b4a9bf796fe52b3b97f0cc", "/usr/lib/systemd/system/dmraid.service": "7d7c09d40e52a3596fe3ddb2c370a1b7c838530902f8395f5c12f8d07eaa2491", "/usr/lib/initcpio/install/dmraid": "6e74f7e1d66fbe5fc41560dfebb327eb31eb3104fec09985e388c2fe252d6575", "/usr/lib/initcpio/hooks/dmraid": "e74cdc82b59160d079594ce082980a3ae3561b5f6ecbdfdd30b7497b76373a2b", "/usr/lib/device-mapper/libdmraid-events-isw.so": "21d6e64d73f61a6a4805d76e80fdeda20c164d116b5fb5a69511535fea6d1868", "/usr/share/man/man8/dmraid.8.gz": "715e7f37364400e344af0d493d7ff7573709f7e76148e3ffe5923dd214e074b7", "/usr/share/man/man8/dmevent_tool.8.gz": "39d872aca54c07cad7808985dfabe609115dfc0fe9a9d0d8db85d6ed605ab70b", "/var/log/pacman.log": "d0cca3503feddb4df0f18e750849cc62a86e6e09fb85f1e9d862e334f029d74d"}}
+{
+  "1.0.0.rc16.3-10": {
+    "/usr/include/dmraid/display.h": "7f215ae66d7f31270562eba31bf9fa5fa256e4ba029704eb34c5f8c719478666",
+    "/usr/include/dmraid/locking.h": "0b60a8f98fdf07f29b623cf74a9345431b4fed97a24079d1acdcc1b91e5ae686",
+    "/usr/include/dmraid/dmraid.h": "fa1582708911d989aea2a7307a315af4420fb580d6f772c4910674a4ac108f6c",
+    "/usr/include/dmraid/lib_context.h": "4d61308c8d93aaa385bb2fafc6b67b369591801ebf5840305c717c7291dea657",
+    "/usr/include/dmraid/dmreg.h": "4673e3bf6c466845c06e8b12dba7ccc995d6ec60e90de8d13e5a3620d1e8fbf3",
+    "/usr/include/dmraid/metadata.h": "16fe0ee393b6a8f4177bf83c9da93bbae7c613ed8f5624a9844da743c73dfecf",
+    "/usr/include/dmraid/reconfig.h": "ef0d2f5df0d07392677d0c90f0d2f4bc6a11d429e7b2aa50b6d71135484abea4",
+    "/usr/include/dmraid/list.h": "040ce3123878e66e64fbbdf5cd15f6ae6f9d8fd8f5eba72dd54994cceba71021",
+    "/usr/include/dmraid/misc.h": "d16fb812c026660748dfb4ea7fead7d192c81ee01ebef2598b53de7a4e107ab9",
+    "/usr/include/dmraid/format.h": "de7f2f3e764b2667b5f75c6c7618d1835e751eb72fcca4fc02cb7c4ead5c15f8",
+    "/usr/bin/dmraid": "4c4ed271ac78d4012f28fb85f9b83a1f1616280045d650c15099b9d4ebd17116",
+    "/usr/bin/dmevent_tool": "1dcfdd0b22ecac8c3454e3d65016a75394e8529e3b50b4602821f20115421a50",
+    "/usr/lib/libdmraid.so": "c92e0fe5a8ab587885f5b91a800bb3ef9ac04aed716543eb0185b03bafe1574d",
+    "/usr/lib/libdmraid.so.1.0.0": "c92e0fe5a8ab587885f5b91a800bb3ef9ac04aed716543eb0185b03bafe1574d",
+    "/usr/lib/libdmraid.so.1": "c92e0fe5a8ab587885f5b91a800bb3ef9ac04aed716543eb0185b03bafe1574d",
+    "/usr/lib/libdmraid-events-isw.so": "21d6e64d73f61a6a4805d76e80fdeda20c164d116b5fb5a69511535fea6d1868",
+    "/usr/lib/tmpfiles.d/dmraid.conf": "f00fa4462d83553d2fb769159a019b4d4898634e52b4a9bf796fe52b3b97f0cc",
+    "/usr/lib/systemd/system/dmraid.service": "7d7c09d40e52a3596fe3ddb2c370a1b7c838530902f8395f5c12f8d07eaa2491",
+    "/usr/lib/initcpio/install/dmraid": "6e74f7e1d66fbe5fc41560dfebb327eb31eb3104fec09985e388c2fe252d6575",
+    "/usr/lib/initcpio/hooks/dmraid": "e74cdc82b59160d079594ce082980a3ae3561b5f6ecbdfdd30b7497b76373a2b",
+    "/usr/lib/device-mapper/libdmraid-events-isw.so": "21d6e64d73f61a6a4805d76e80fdeda20c164d116b5fb5a69511535fea6d1868",
+    "/usr/share/man/man8/dmraid.8.gz": "715e7f37364400e344af0d493d7ff7573709f7e76148e3ffe5923dd214e074b7",
+    "/usr/share/man/man8/dmevent_tool.8.gz": "39d872aca54c07cad7808985dfabe609115dfc0fe9a9d0d8db85d6ed605ab70b",
+    "/var/log/pacman.log": "d0cca3503feddb4df0f18e750849cc62a86e6e09fb85f1e9d862e334f029d74d"
+  }
+}

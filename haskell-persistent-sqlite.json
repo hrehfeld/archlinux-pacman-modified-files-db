@@ -1,1 +1,38 @@
-{"2.6.3-2": {"/usr/share/haskell/register/haskell-persistent-sqlite.sh": "6187c03df01fc0aa520662327d9e4ed8f25656026a4d744a11f2fb862a7af62d", "/usr/share/haskell/unregister/haskell-persistent-sqlite.sh": "e7537b12ee4de23307195f8e5b98044e5e566584df6762ecaa04aa5dcc3000e2", "/usr/share/licenses/haskell-persistent-sqlite/LICENSE": "bebc00cb81ab4a16c3f27768fad205a203d0d7b56944299808dc3c35b53e198d", "/usr/lib/libHSpersistent-sqlite-2.6.3-LJ82HzuzVVjCGqJzD72mfz-ghc8.2.1.so": "7839ecab29b22396497064f4a99e9513de54a78509c5504806541a64840c3631", "/usr/lib/ghc-8.2.1/site-local/persistent-sqlite-2.6.3/Database/Sqlite.dyn_hi": "949df4a6ac59bd4e50207b2f59654fb608cc82195fef84ec059ca64c1f616993", "/usr/lib/ghc-8.2.1/site-local/persistent-sqlite-2.6.3/Database/Persist/Sqlite.dyn_hi": "1c2f9067b8f31d898c468aff3e0b89576d54785256e8e050ed8c13b89bb416d2", "/var/log/pacman.log": "a3a81882536fc385996dde2f9c88acab1c31673d8c7d76b74325d0404784f116"}, "2.6.4-3": {"/usr/share/haskell/register/haskell-persistent-sqlite.sh": "119ee0f8ed2be910659cee0489e9fe0540d9a4d01c82d57d9b11fe7f3a893e86", "/usr/share/haskell/unregister/haskell-persistent-sqlite.sh": "bdb2c3c36470a7b4aca9fd4c009b24f0cf3e730dacac6d18fbfc8bc544dd4ad9", "/usr/share/licenses/haskell-persistent-sqlite/LICENSE": "bebc00cb81ab4a16c3f27768fad205a203d0d7b56944299808dc3c35b53e198d", "/usr/lib/libHSpersistent-sqlite-2.6.4-B63Dg4mTWvi1fsVexIt7Fy-ghc8.2.2.so": "be9d58c916920e570c16c77c18fe75d4748cb4c159aca48a692b634d27176df3", "/usr/lib/ghc-8.2.2/site-local/persistent-sqlite-2.6.4/Database/Sqlite.dyn_hi": "ca17d0daad94c17b5c238c689e633c6f63a8fef52383dc6eeb5d941feb1302a2", "/usr/lib/ghc-8.2.2/site-local/persistent-sqlite-2.6.4/Database/Persist/Sqlite.dyn_hi": "c10ce07a05e9dbb1268a94f9fded503767274b3c130e6bf1fd72f4cf15c3b3f7", "/var/log/pacman.log": "c6eccf715203d9fb6f1becf2b6e7d360395d83b1b8026ea7ce8476acbefcdfbe"}, "2.6.4-5": {"/usr/share/haskell/register/haskell-persistent-sqlite.sh": "35629854f8fccc22ec0c0cfb40c121080134547dfa5733c9dc94c9d04a75e542", "/usr/share/haskell/unregister/haskell-persistent-sqlite.sh": "bdb2c3c36470a7b4aca9fd4c009b24f0cf3e730dacac6d18fbfc8bc544dd4ad9", "/usr/share/licenses/haskell-persistent-sqlite/LICENSE": "bebc00cb81ab4a16c3f27768fad205a203d0d7b56944299808dc3c35b53e198d", "/usr/lib/libHSpersistent-sqlite-2.6.4-8fJ1gcOv3Tk2EMITElbJ2r-ghc8.2.2.so": "b065408af0054bc991e2635772bccf54e447989d7bf38474b61227a43f4c95aa", "/usr/lib/ghc-8.2.2/site-local/persistent-sqlite-2.6.4/Database/Sqlite.dyn_hi": "3eece5adfe22245f7feb174f37b325372f3879f8ede0c755fec549965eac05ca", "/usr/lib/ghc-8.2.2/site-local/persistent-sqlite-2.6.4/Database/Persist/Sqlite.dyn_hi": "a53db376354590be31c2e42ace0c62bd7fbab73007afcf173df070796f105995", "/var/log/pacman.log": "25c62ac6922a457bbccf57cf96db317863b40f4d2ad6d98309a7100e0c079ac5"}}
+{
+  "2.6.3-2": {
+    "/usr/share/haskell/register/haskell-persistent-sqlite.sh": "6187c03df01fc0aa520662327d9e4ed8f25656026a4d744a11f2fb862a7af62d",
+    "/usr/share/haskell/unregister/haskell-persistent-sqlite.sh": "e7537b12ee4de23307195f8e5b98044e5e566584df6762ecaa04aa5dcc3000e2",
+    "/usr/share/licenses/haskell-persistent-sqlite/LICENSE": "bebc00cb81ab4a16c3f27768fad205a203d0d7b56944299808dc3c35b53e198d",
+    "/usr/lib/libHSpersistent-sqlite-2.6.3-LJ82HzuzVVjCGqJzD72mfz-ghc8.2.1.so": "7839ecab29b22396497064f4a99e9513de54a78509c5504806541a64840c3631",
+    "/usr/lib/ghc-8.2.1/site-local/persistent-sqlite-2.6.3/Database/Sqlite.dyn_hi": "949df4a6ac59bd4e50207b2f59654fb608cc82195fef84ec059ca64c1f616993",
+    "/usr/lib/ghc-8.2.1/site-local/persistent-sqlite-2.6.3/Database/Persist/Sqlite.dyn_hi": "1c2f9067b8f31d898c468aff3e0b89576d54785256e8e050ed8c13b89bb416d2",
+    "/var/log/pacman.log": "a3a81882536fc385996dde2f9c88acab1c31673d8c7d76b74325d0404784f116"
+  },
+  "2.6.4-3": {
+    "/usr/share/haskell/register/haskell-persistent-sqlite.sh": "119ee0f8ed2be910659cee0489e9fe0540d9a4d01c82d57d9b11fe7f3a893e86",
+    "/usr/share/haskell/unregister/haskell-persistent-sqlite.sh": "bdb2c3c36470a7b4aca9fd4c009b24f0cf3e730dacac6d18fbfc8bc544dd4ad9",
+    "/usr/share/licenses/haskell-persistent-sqlite/LICENSE": "bebc00cb81ab4a16c3f27768fad205a203d0d7b56944299808dc3c35b53e198d",
+    "/usr/lib/libHSpersistent-sqlite-2.6.4-B63Dg4mTWvi1fsVexIt7Fy-ghc8.2.2.so": "be9d58c916920e570c16c77c18fe75d4748cb4c159aca48a692b634d27176df3",
+    "/usr/lib/ghc-8.2.2/site-local/persistent-sqlite-2.6.4/Database/Sqlite.dyn_hi": "ca17d0daad94c17b5c238c689e633c6f63a8fef52383dc6eeb5d941feb1302a2",
+    "/usr/lib/ghc-8.2.2/site-local/persistent-sqlite-2.6.4/Database/Persist/Sqlite.dyn_hi": "c10ce07a05e9dbb1268a94f9fded503767274b3c130e6bf1fd72f4cf15c3b3f7",
+    "/var/log/pacman.log": "c6eccf715203d9fb6f1becf2b6e7d360395d83b1b8026ea7ce8476acbefcdfbe"
+  },
+  "2.6.4-5": {
+    "/usr/share/haskell/register/haskell-persistent-sqlite.sh": "35629854f8fccc22ec0c0cfb40c121080134547dfa5733c9dc94c9d04a75e542",
+    "/usr/share/haskell/unregister/haskell-persistent-sqlite.sh": "bdb2c3c36470a7b4aca9fd4c009b24f0cf3e730dacac6d18fbfc8bc544dd4ad9",
+    "/usr/share/licenses/haskell-persistent-sqlite/LICENSE": "bebc00cb81ab4a16c3f27768fad205a203d0d7b56944299808dc3c35b53e198d",
+    "/usr/lib/libHSpersistent-sqlite-2.6.4-8fJ1gcOv3Tk2EMITElbJ2r-ghc8.2.2.so": "b065408af0054bc991e2635772bccf54e447989d7bf38474b61227a43f4c95aa",
+    "/usr/lib/ghc-8.2.2/site-local/persistent-sqlite-2.6.4/Database/Sqlite.dyn_hi": "3eece5adfe22245f7feb174f37b325372f3879f8ede0c755fec549965eac05ca",
+    "/usr/lib/ghc-8.2.2/site-local/persistent-sqlite-2.6.4/Database/Persist/Sqlite.dyn_hi": "a53db376354590be31c2e42ace0c62bd7fbab73007afcf173df070796f105995",
+    "/var/log/pacman.log": "25c62ac6922a457bbccf57cf96db317863b40f4d2ad6d98309a7100e0c079ac5"
+  },
+  "2.6.4-9": {
+    "/usr/share/haskell/register/haskell-persistent-sqlite.sh": "c77b0e36abda53a043f692d3d73ade4f1c6109a33e81cb744b77af78e19a8348",
+    "/usr/share/haskell/unregister/haskell-persistent-sqlite.sh": "bdb2c3c36470a7b4aca9fd4c009b24f0cf3e730dacac6d18fbfc8bc544dd4ad9",
+    "/usr/share/licenses/haskell-persistent-sqlite/LICENSE": "bebc00cb81ab4a16c3f27768fad205a203d0d7b56944299808dc3c35b53e198d",
+    "/usr/lib/libHSpersistent-sqlite-2.6.4-1Gq8MetGYwv32ClElYMhuE-ghc8.2.2.so": "7eede4f2e2af56c7c9d30f9447c076b5cf8f1311c71d6d68eb1cf36ff7e24731",
+    "/usr/lib/ghc-8.2.2/site-local/persistent-sqlite-2.6.4/Database/Sqlite.dyn_hi": "514f19d0d2dd79b534323e30a3a3260ee3b274fb5fa8c28d16d41b5c2b3431b5",
+    "/usr/lib/ghc-8.2.2/site-local/persistent-sqlite-2.6.4/Database/Persist/Sqlite.dyn_hi": "e21541a9d426b0ad004ce29a6379031fb4ba9c8acf9df45b6630347c41531a95",
+    "/var/log/pacman.log": "a80f91fc67bf2e4ac493f51e18a074b75958948cb19368c97e789c9016e70393"
+  }
+}

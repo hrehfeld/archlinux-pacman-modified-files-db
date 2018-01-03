@@ -1,1 +1,7 @@
-{"208-1": {"/usr/share/emacs/site-lisp/font-lock-plus/font-lock+.elc": "17187e0d4e7957719081fa30e19c8f0686c83feb6e80b6e76f14d1cce9fd152d", "/usr/share/emacs/site-lisp/font-lock-plus/font-lock+.el": "0dfd289a5994d4e1414a1cbd0725422347537fe785d19a673fa9e6a6cd0e6fbb", "/var/log/pacman.log": "ade0db8c3aee9cc15fd5854412b82a869885d9c13cca4dcfcc062c672b5d410f"}}
+{
+  "208-1": {
+    "/usr/share/emacs/site-lisp/font-lock-plus/font-lock+.elc": "17187e0d4e7957719081fa30e19c8f0686c83feb6e80b6e76f14d1cce9fd152d",
+    "/usr/share/emacs/site-lisp/font-lock-plus/font-lock+.el": "0dfd289a5994d4e1414a1cbd0725422347537fe785d19a673fa9e6a6cd0e6fbb",
+    "/var/log/pacman.log": "ade0db8c3aee9cc15fd5854412b82a869885d9c13cca4dcfcc062c672b5d410f"
+  }
+}

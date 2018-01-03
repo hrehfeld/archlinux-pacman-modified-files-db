@@ -1,1 +1,29 @@
-{"1.6.3-1": {"/usr/include/harfbuzz/hb-icu.h": "f2eaa478e7ecc533be912d75288e6fa8c2157191edbc03b2bd68c302bbcd0f6e", "/usr/lib/libharfbuzz-icu.so": "dc0bda7e1e851ec1f6edca1b93865507a5c01e05261726d245f6829e3c85fda5", "/usr/lib/libharfbuzz-icu.so.0": "dc0bda7e1e851ec1f6edca1b93865507a5c01e05261726d245f6829e3c85fda5", "/usr/lib/libharfbuzz-icu.so.0.10600.3": "dc0bda7e1e851ec1f6edca1b93865507a5c01e05261726d245f6829e3c85fda5", "/usr/lib/pkgconfig/harfbuzz-icu.pc": "63f798d33bc74f99b5bbf38161c5e314e49b233412fabd8adbaf042fd8c174c9", "/usr/share/licenses/harfbuzz-icu/COPYING": "2a886915de4f296cdae5ed67064f86dba01d0c55286d86e8487f2a5caaf40216", "/var/log/pacman.log": "3cf9167c5f86fff8a0f4afec62282b42fd0fda027807eb0a7c1eb466d763812e"}, "1.7.2-1": {"/usr/include/harfbuzz/hb-icu.h": "f2eaa478e7ecc533be912d75288e6fa8c2157191edbc03b2bd68c302bbcd0f6e", "/usr/lib/libharfbuzz-icu.so": "248799792185f875c17ffe35dd7b58e450e4760de1ed20c1363c5577a77881cd", "/usr/lib/libharfbuzz-icu.so.0": "248799792185f875c17ffe35dd7b58e450e4760de1ed20c1363c5577a77881cd", "/usr/lib/libharfbuzz-icu.so.0.10702.0": "248799792185f875c17ffe35dd7b58e450e4760de1ed20c1363c5577a77881cd", "/usr/lib/pkgconfig/harfbuzz-icu.pc": "8d893b0ee78ed3827fd20665f7f4de06c98269d68bd5eb3ee5190b811db85086", "/usr/share/licenses/harfbuzz-icu/COPYING": "2a886915de4f296cdae5ed67064f86dba01d0c55286d86e8487f2a5caaf40216", "/var/log/pacman.log": "b3845c5d9e374f00a877e7b68e1980a96b7f2c3b6b74bfaa9a77cb293ff0c15d"}}
+{
+  "1.6.3-1": {
+    "/usr/include/harfbuzz/hb-icu.h": "f2eaa478e7ecc533be912d75288e6fa8c2157191edbc03b2bd68c302bbcd0f6e",
+    "/usr/lib/libharfbuzz-icu.so": "dc0bda7e1e851ec1f6edca1b93865507a5c01e05261726d245f6829e3c85fda5",
+    "/usr/lib/libharfbuzz-icu.so.0": "dc0bda7e1e851ec1f6edca1b93865507a5c01e05261726d245f6829e3c85fda5",
+    "/usr/lib/libharfbuzz-icu.so.0.10600.3": "dc0bda7e1e851ec1f6edca1b93865507a5c01e05261726d245f6829e3c85fda5",
+    "/usr/lib/pkgconfig/harfbuzz-icu.pc": "63f798d33bc74f99b5bbf38161c5e314e49b233412fabd8adbaf042fd8c174c9",
+    "/usr/share/licenses/harfbuzz-icu/COPYING": "2a886915de4f296cdae5ed67064f86dba01d0c55286d86e8487f2a5caaf40216",
+    "/var/log/pacman.log": "3cf9167c5f86fff8a0f4afec62282b42fd0fda027807eb0a7c1eb466d763812e"
+  },
+  "1.7.2-1": {
+    "/usr/include/harfbuzz/hb-icu.h": "f2eaa478e7ecc533be912d75288e6fa8c2157191edbc03b2bd68c302bbcd0f6e",
+    "/usr/lib/libharfbuzz-icu.so": "248799792185f875c17ffe35dd7b58e450e4760de1ed20c1363c5577a77881cd",
+    "/usr/lib/libharfbuzz-icu.so.0": "248799792185f875c17ffe35dd7b58e450e4760de1ed20c1363c5577a77881cd",
+    "/usr/lib/libharfbuzz-icu.so.0.10702.0": "248799792185f875c17ffe35dd7b58e450e4760de1ed20c1363c5577a77881cd",
+    "/usr/lib/pkgconfig/harfbuzz-icu.pc": "8d893b0ee78ed3827fd20665f7f4de06c98269d68bd5eb3ee5190b811db85086",
+    "/usr/share/licenses/harfbuzz-icu/COPYING": "2a886915de4f296cdae5ed67064f86dba01d0c55286d86e8487f2a5caaf40216",
+    "/var/log/pacman.log": "b3845c5d9e374f00a877e7b68e1980a96b7f2c3b6b74bfaa9a77cb293ff0c15d"
+  },
+  "1.7.4-1": {
+    "/usr/include/harfbuzz/hb-icu.h": "f2eaa478e7ecc533be912d75288e6fa8c2157191edbc03b2bd68c302bbcd0f6e",
+    "/usr/lib/libharfbuzz-icu.so": "f862c5628e04cdbb923bf2a743bccdccb3516a4a5438fd91e50604b1c0b84e51",
+    "/usr/lib/libharfbuzz-icu.so.0": "f862c5628e04cdbb923bf2a743bccdccb3516a4a5438fd91e50604b1c0b84e51",
+    "/usr/lib/libharfbuzz-icu.so.0.10704.0": "f862c5628e04cdbb923bf2a743bccdccb3516a4a5438fd91e50604b1c0b84e51",
+    "/usr/lib/pkgconfig/harfbuzz-icu.pc": "bc7b4c5d7b02948e1a272646c839de8d863c48680e899d6613b51f60e6f59845",
+    "/usr/share/licenses/harfbuzz-icu/COPYING": "2a886915de4f296cdae5ed67064f86dba01d0c55286d86e8487f2a5caaf40216",
+    "/var/log/pacman.log": "643a1458fc3827d3ef0ef38f00d089f62241f5c9843f0da1853e4020d0a75a6c"
+  }
+}

@@ -1,1 +1,9 @@
-{"2.11-1": {"/usr/lib/libsigsegv.so.2": "d6fae1f1f29c3cd5266b3feb40dd8d71a20033a1de6a3adf3dc62d3ffec774d4", "/usr/lib/libsigsegv.so": "d6fae1f1f29c3cd5266b3feb40dd8d71a20033a1de6a3adf3dc62d3ffec774d4", "/usr/lib/libsigsegv.so.2.0.4": "d6fae1f1f29c3cd5266b3feb40dd8d71a20033a1de6a3adf3dc62d3ffec774d4", "/usr/include/sigsegv.h": "01fa303ba403f53dd97d3fa0965dafca240dd508ac24716c556f9bce64bc26ae", "/var/log/pacman.log": "98b2372b1480ded18d957764907b304a0592c682935fcf0ff7422209c4c0b7c5"}}
+{
+  "2.11-1": {
+    "/usr/lib/libsigsegv.so.2": "d6fae1f1f29c3cd5266b3feb40dd8d71a20033a1de6a3adf3dc62d3ffec774d4",
+    "/usr/lib/libsigsegv.so": "d6fae1f1f29c3cd5266b3feb40dd8d71a20033a1de6a3adf3dc62d3ffec774d4",
+    "/usr/lib/libsigsegv.so.2.0.4": "d6fae1f1f29c3cd5266b3feb40dd8d71a20033a1de6a3adf3dc62d3ffec774d4",
+    "/usr/include/sigsegv.h": "01fa303ba403f53dd97d3fa0965dafca240dd508ac24716c556f9bce64bc26ae",
+    "/var/log/pacman.log": "98b2372b1480ded18d957764907b304a0592c682935fcf0ff7422209c4c0b7c5"
+  }
+}

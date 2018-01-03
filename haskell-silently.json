@@ -1,1 +1,18 @@
-{"1.2.5-6": {"/usr/share/haskell/register/haskell-silently.sh": "c3d3d2b787a7ed329ca751701d235df0d5454ce960577f4f31afb2cc5d5a1aa3", "/usr/share/haskell/unregister/haskell-silently.sh": "ec6ca1108fb91e9447436dc6863b4045e93e7bb13b1d3ce8407f934de9dd268f", "/usr/share/licenses/haskell-silently/LICENSE": "f2e64a963b818cfaaa3192a8e078c987f0fea32338e032edcd5728c28de03878", "/usr/lib/libHSsilently-1.2.5-4d48ibUelDmLXErYHoAYYi-ghc8.2.1.so": "0d9b1d360286d0d669e60635e9b947ed6eb24afa2d000bad9e9e978eb50b6341", "/usr/lib/ghc-8.2.1/site-local/silently-1.2.5/System/IO/Silently.dyn_hi": "255ca5a9fab0904f90308b7ed28b3d70abbb7d5d2a584b7fa6bebe2aad301914", "/var/log/pacman.log": "43eb8dc631d1068b5138cc878ebb1dc0f3d586d318323094995f108983dd1a15"}, "1.2.5-7": {"/usr/share/haskell/register/haskell-silently.sh": "0c892fecb5c2b67117f66d9d8d5f4347fabe0b103df8ed33b5f6dc73058724bf", "/usr/share/haskell/unregister/haskell-silently.sh": "18a4e9e04ad52fd8bcee22d6b3c1a1d904556be9ff31c3087eae1ea968bd2306", "/usr/share/licenses/haskell-silently/LICENSE": "f2e64a963b818cfaaa3192a8e078c987f0fea32338e032edcd5728c28de03878", "/usr/lib/libHSsilently-1.2.5-A7WEXUoXcTh1TcbS3dokt3-ghc8.2.2.so": "d7cc7545c93d0cd8aae85c15ae0f040b46fcfbd9c7e8f372800b8b61df792bcb", "/usr/lib/ghc-8.2.2/site-local/silently-1.2.5/System/IO/Silently.dyn_hi": "689e6bc61623838d44b43f9b16145fe5782ed913c94dfdb90b0bf289301dca31", "/var/log/pacman.log": "5b501083b6a0c4e0b820363f5b40552a8d2827efe8ed34438499212a14046cc3"}}
+{
+  "1.2.5-6": {
+    "/usr/share/haskell/register/haskell-silently.sh": "c3d3d2b787a7ed329ca751701d235df0d5454ce960577f4f31afb2cc5d5a1aa3",
+    "/usr/share/haskell/unregister/haskell-silently.sh": "ec6ca1108fb91e9447436dc6863b4045e93e7bb13b1d3ce8407f934de9dd268f",
+    "/usr/share/licenses/haskell-silently/LICENSE": "f2e64a963b818cfaaa3192a8e078c987f0fea32338e032edcd5728c28de03878",
+    "/usr/lib/libHSsilently-1.2.5-4d48ibUelDmLXErYHoAYYi-ghc8.2.1.so": "0d9b1d360286d0d669e60635e9b947ed6eb24afa2d000bad9e9e978eb50b6341",
+    "/usr/lib/ghc-8.2.1/site-local/silently-1.2.5/System/IO/Silently.dyn_hi": "255ca5a9fab0904f90308b7ed28b3d70abbb7d5d2a584b7fa6bebe2aad301914",
+    "/var/log/pacman.log": "43eb8dc631d1068b5138cc878ebb1dc0f3d586d318323094995f108983dd1a15"
+  },
+  "1.2.5-7": {
+    "/usr/share/haskell/register/haskell-silently.sh": "0c892fecb5c2b67117f66d9d8d5f4347fabe0b103df8ed33b5f6dc73058724bf",
+    "/usr/share/haskell/unregister/haskell-silently.sh": "18a4e9e04ad52fd8bcee22d6b3c1a1d904556be9ff31c3087eae1ea968bd2306",
+    "/usr/share/licenses/haskell-silently/LICENSE": "f2e64a963b818cfaaa3192a8e078c987f0fea32338e032edcd5728c28de03878",
+    "/usr/lib/libHSsilently-1.2.5-A7WEXUoXcTh1TcbS3dokt3-ghc8.2.2.so": "d7cc7545c93d0cd8aae85c15ae0f040b46fcfbd9c7e8f372800b8b61df792bcb",
+    "/usr/lib/ghc-8.2.2/site-local/silently-1.2.5/System/IO/Silently.dyn_hi": "689e6bc61623838d44b43f9b16145fe5782ed913c94dfdb90b0bf289301dca31",
+    "/var/log/pacman.log": "5b501083b6a0c4e0b820363f5b40552a8d2827efe8ed34438499212a14046cc3"
+  }
+}

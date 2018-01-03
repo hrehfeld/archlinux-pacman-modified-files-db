@@ -1,1 +1,18 @@
-{"20171025-2": {"/usr/share/fonts/TTF/Arimo-BoldItalic.ttf": "3047db0688158ec0d8008af57299deca86a4994a408ab5133fea01327bad9040", "/usr/share/fonts/TTF/Arimo-Bold.ttf": "0b5422b854f9a76ff56f894dc76d440eaca6489c119168f00cd176a5a8617013", "/usr/share/fonts/TTF/Arimo-Italic.ttf": "22d2faa0ab0c82b3dff77b5bbb2698293b31199e4f5af72b4a70c3e64193e86f", "/usr/share/fonts/TTF/Arimo-Regular.ttf": "e9aae1ebba96d3a4137e5b355040506d025ee690db24213fcad650200dbbbf42", "/usr/share/fonts/TTF/Cousine-BoldItalic.ttf": "962bb1eef7239428b49884a19cdf0b24dfb015fe9b9fe9f3db790abe345a2c2d", "/usr/share/fonts/TTF/Cousine-Bold.ttf": "cc9745e76a63d8efbdfff37c5682923d6c41ad34395ead3d935a2ef941e77e6b", "/usr/share/fonts/TTF/Cousine-Italic.ttf": "fb45aaaf127ffd7904351d43d7ab18b483818e1f899fd6927d6938fd9b98ed7b", "/usr/share/fonts/TTF/Cousine-Regular.ttf": "51d70da771860bf4dfc8ee771929db70b9ade56ea72688e7daad635295f570df", "/usr/share/fonts/TTF/Tinos-BoldItalic.ttf": "0f2b27ec7378068b673c14f73802dc10f4e842f775f7e5052ad1d37ff1430e3d", "/usr/share/fonts/TTF/Tinos-Bold.ttf": "809688da0fe8e163c5c14d5548963dba949d1ca83efb473e8acc296c6fdc6818", "/usr/share/fonts/TTF/Tinos-Italic.ttf": "e9037c6b9481541319102b9d57c56f0a37427fa9442e214dc78d720632b0184c", "/usr/share/fonts/TTF/Tinos-Regular.ttf": "5921d0285d28a3541784b74bd623f04dab60992fce21cc1039ddc35ad8fff035", "/usr/share/licenses/ttf-croscore/LICENSE": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2", "/var/log/pacman.log": "11e947ca23c684267082c373a812ea637fd2c81ae7a190790eb13ebff200be52"}}
+{
+  "20171025-2": {
+    "/usr/share/fonts/TTF/Arimo-BoldItalic.ttf": "3047db0688158ec0d8008af57299deca86a4994a408ab5133fea01327bad9040",
+    "/usr/share/fonts/TTF/Arimo-Bold.ttf": "0b5422b854f9a76ff56f894dc76d440eaca6489c119168f00cd176a5a8617013",
+    "/usr/share/fonts/TTF/Arimo-Italic.ttf": "22d2faa0ab0c82b3dff77b5bbb2698293b31199e4f5af72b4a70c3e64193e86f",
+    "/usr/share/fonts/TTF/Arimo-Regular.ttf": "e9aae1ebba96d3a4137e5b355040506d025ee690db24213fcad650200dbbbf42",
+    "/usr/share/fonts/TTF/Cousine-BoldItalic.ttf": "962bb1eef7239428b49884a19cdf0b24dfb015fe9b9fe9f3db790abe345a2c2d",
+    "/usr/share/fonts/TTF/Cousine-Bold.ttf": "cc9745e76a63d8efbdfff37c5682923d6c41ad34395ead3d935a2ef941e77e6b",
+    "/usr/share/fonts/TTF/Cousine-Italic.ttf": "fb45aaaf127ffd7904351d43d7ab18b483818e1f899fd6927d6938fd9b98ed7b",
+    "/usr/share/fonts/TTF/Cousine-Regular.ttf": "51d70da771860bf4dfc8ee771929db70b9ade56ea72688e7daad635295f570df",
+    "/usr/share/fonts/TTF/Tinos-BoldItalic.ttf": "0f2b27ec7378068b673c14f73802dc10f4e842f775f7e5052ad1d37ff1430e3d",
+    "/usr/share/fonts/TTF/Tinos-Bold.ttf": "809688da0fe8e163c5c14d5548963dba949d1ca83efb473e8acc296c6fdc6818",
+    "/usr/share/fonts/TTF/Tinos-Italic.ttf": "e9037c6b9481541319102b9d57c56f0a37427fa9442e214dc78d720632b0184c",
+    "/usr/share/fonts/TTF/Tinos-Regular.ttf": "5921d0285d28a3541784b74bd623f04dab60992fce21cc1039ddc35ad8fff035",
+    "/usr/share/licenses/ttf-croscore/LICENSE": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2",
+    "/var/log/pacman.log": "11e947ca23c684267082c373a812ea637fd2c81ae7a190790eb13ebff200be52"
+  }
+}

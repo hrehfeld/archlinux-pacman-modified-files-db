@@ -1,1 +1,22 @@
-{"0.1.0-4": {"/usr/share/haskell/register/haskell-call-stack.sh": "d160b0f6398d01c13d6d47caf4ae5ded0733d65a270e00dbbfebe6a12479e824", "/usr/share/haskell/unregister/haskell-call-stack.sh": "cf8996ec235e5f0dfc701b3e2657657ee2591c3fd96f0c1f28a53d21cb2291c3", "/usr/share/licenses/haskell-call-stack/LICENSE": "116ede5d94d313644ddb5c9137bc24b19dc1dd8f58fc6a8476b594a0d80a01c8", "/usr/lib/libHScall-stack-0.1.0-9jal1kz08FU8PWnIBPoZ86-ghc8.2.1.so": "fb0edecabef47b15baa8841e12a46a6be27c685dddd0a05b0d11b8a3bb58d096", "/usr/lib/ghc-8.2.1/site-local/call-stack-0.1.0/Paths_call_stack.dyn_hi": "3c2e8b64ab90ff42d9f2419aabda1e3faa28d9d368b5c63a0da54f7232819b0c", "/usr/lib/ghc-8.2.1/site-local/call-stack-0.1.0/Data/CallStack.dyn_hi": "047b55787d56e16ad10ca92e45cc7b89d9135fce8f1fd982c8b1c18f4b45baf7", "/usr/lib/ghc-8.2.1/site-local/call-stack-0.1.0/Data/SrcLoc.dyn_hi": "9ded16766a61406ecf6bb2906d4031e442033397017d4ef41a86b7d053e3f8da", "/var/log/pacman.log": "cb5116740879e927b745865c3649d6c640aca88d846893a65bbcf933ecb4a6fe"}, "0.1.0-5": {"/usr/share/haskell/register/haskell-call-stack.sh": "d048488760bacb4bc00660307d968bb7f369e7a08846baa9069fafc56d522cce", "/usr/share/haskell/unregister/haskell-call-stack.sh": "66aaf7bf69a8995a4e4448a0ad8972ccc4b2c45687f127a83ffe6499b4d523e6", "/usr/share/licenses/haskell-call-stack/LICENSE": "116ede5d94d313644ddb5c9137bc24b19dc1dd8f58fc6a8476b594a0d80a01c8", "/usr/lib/libHScall-stack-0.1.0-BVjoAlBRe9FCSr5eFfllei-ghc8.2.2.so": "b3aea5e203d47fd76b1a0ba777c2871f070249abf23d35a860807129ed5d0763", "/usr/lib/ghc-8.2.2/site-local/call-stack-0.1.0/Paths_call_stack.dyn_hi": "959b389ecd027f969238d3a74a92c9adf74eb6ab0ed266d9bcb733677645c925", "/usr/lib/ghc-8.2.2/site-local/call-stack-0.1.0/Data/CallStack.dyn_hi": "60e236705b54e35937f8fa2854e7af1b2ba316e363821a77555fcefed21816b7", "/usr/lib/ghc-8.2.2/site-local/call-stack-0.1.0/Data/SrcLoc.dyn_hi": "f30900d1ee1a619dff70f4c064e2b940d5b6ea8f618f21f6b03f5991a3d3481e", "/var/log/pacman.log": "86d33ffb54063a70c8d87d03fbab710616f326d8907ef16ab90a6a1cf66b142a"}}
+{
+  "0.1.0-4": {
+    "/usr/share/haskell/register/haskell-call-stack.sh": "d160b0f6398d01c13d6d47caf4ae5ded0733d65a270e00dbbfebe6a12479e824",
+    "/usr/share/haskell/unregister/haskell-call-stack.sh": "cf8996ec235e5f0dfc701b3e2657657ee2591c3fd96f0c1f28a53d21cb2291c3",
+    "/usr/share/licenses/haskell-call-stack/LICENSE": "116ede5d94d313644ddb5c9137bc24b19dc1dd8f58fc6a8476b594a0d80a01c8",
+    "/usr/lib/libHScall-stack-0.1.0-9jal1kz08FU8PWnIBPoZ86-ghc8.2.1.so": "fb0edecabef47b15baa8841e12a46a6be27c685dddd0a05b0d11b8a3bb58d096",
+    "/usr/lib/ghc-8.2.1/site-local/call-stack-0.1.0/Paths_call_stack.dyn_hi": "3c2e8b64ab90ff42d9f2419aabda1e3faa28d9d368b5c63a0da54f7232819b0c",
+    "/usr/lib/ghc-8.2.1/site-local/call-stack-0.1.0/Data/CallStack.dyn_hi": "047b55787d56e16ad10ca92e45cc7b89d9135fce8f1fd982c8b1c18f4b45baf7",
+    "/usr/lib/ghc-8.2.1/site-local/call-stack-0.1.0/Data/SrcLoc.dyn_hi": "9ded16766a61406ecf6bb2906d4031e442033397017d4ef41a86b7d053e3f8da",
+    "/var/log/pacman.log": "cb5116740879e927b745865c3649d6c640aca88d846893a65bbcf933ecb4a6fe"
+  },
+  "0.1.0-5": {
+    "/usr/share/haskell/register/haskell-call-stack.sh": "d048488760bacb4bc00660307d968bb7f369e7a08846baa9069fafc56d522cce",
+    "/usr/share/haskell/unregister/haskell-call-stack.sh": "66aaf7bf69a8995a4e4448a0ad8972ccc4b2c45687f127a83ffe6499b4d523e6",
+    "/usr/share/licenses/haskell-call-stack/LICENSE": "116ede5d94d313644ddb5c9137bc24b19dc1dd8f58fc6a8476b594a0d80a01c8",
+    "/usr/lib/libHScall-stack-0.1.0-BVjoAlBRe9FCSr5eFfllei-ghc8.2.2.so": "b3aea5e203d47fd76b1a0ba777c2871f070249abf23d35a860807129ed5d0763",
+    "/usr/lib/ghc-8.2.2/site-local/call-stack-0.1.0/Paths_call_stack.dyn_hi": "959b389ecd027f969238d3a74a92c9adf74eb6ab0ed266d9bcb733677645c925",
+    "/usr/lib/ghc-8.2.2/site-local/call-stack-0.1.0/Data/CallStack.dyn_hi": "60e236705b54e35937f8fa2854e7af1b2ba316e363821a77555fcefed21816b7",
+    "/usr/lib/ghc-8.2.2/site-local/call-stack-0.1.0/Data/SrcLoc.dyn_hi": "f30900d1ee1a619dff70f4c064e2b940d5b6ea8f618f21f6b03f5991a3d3481e",
+    "/var/log/pacman.log": "86d33ffb54063a70c8d87d03fbab710616f326d8907ef16ab90a6a1cf66b142a"
+  }
+}

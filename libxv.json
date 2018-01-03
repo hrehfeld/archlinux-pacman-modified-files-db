@@ -1,1 +1,37 @@
-{"1.0.11-1": {"/usr/lib/libXv.so.1": "7286428a3c60560ce015a28f1ec9f6a5daa3d051a4d9737859cc2648c4678d0a", "/usr/lib/libXv.so": "7286428a3c60560ce015a28f1ec9f6a5daa3d051a4d9737859cc2648c4678d0a", "/usr/lib/libXv.so.1.0.0": "7286428a3c60560ce015a28f1ec9f6a5daa3d051a4d9737859cc2648c4678d0a", "/usr/lib/pkgconfig/xv.pc": "79c01ee1fd7fbfb26adb124dc45c19f9a3abab535a50fb0d8bff4f7fef38c0e3", "/usr/share/man/man3/XvVideoNotify.3.gz": "5bfc7f239bd1767a3c7033ac41c371ccbb55ba3db6ee7cc8b132484e463dadaa", "/usr/share/man/man3/XvUngrabPort.3.gz": "da1bc4e0cb734b5949167f353fe554941f544b9ec3bac8247e7e7e8b0f6a0611", "/usr/share/man/man3/XvStopVideo.3.gz": "1ee7d25fd567dd0c7e7f20ab66c5fbd501366f62bbcdeece8891658ee205f36e", "/usr/share/man/man3/XvShmPutImage.3.gz": "2ce1cb834b1479e027ae3f8c5f536e03d674bae166ac90d4b2d6f45883cb5b31", "/usr/share/man/man3/XvShmCreateImage.3.gz": "36f8bcd576d4a0bd4dbbdd026b02aa71a4663ac5291bd0ab7ad86c775d64514e", "/usr/share/man/man3/XvSetPortAttribute.3.gz": "02ddf720c9bd1f41300a8a1f87a19606de68bb2cacffd91cfa2dae72d00ee91a", "/usr/share/man/man3/XvSelectVideoNotify.3.gz": "eea9663c36f9cfa6e0b5496d41b723381f4101444174444a7ad0d31a355c2073", "/usr/share/man/man3/XvSelectPortNotify.3.gz": "c72f7d03d819afef81f33b76724fcac934515e898478c3d6e7bdbf549137a3d3", "/usr/share/man/man3/XvQueryPortAttributes.3.gz": "45cc407180a94684242d6c5cc526a9303b2a4adc54abb53e320177959595f6fa", "/usr/share/man/man3/XvQueryExtension.3.gz": "f0878cf729e5582697c4d4b53802e6305f8f2f0b945ae83193bb056957c4037a", "/usr/share/man/man3/XvQueryEncodings.3.gz": "e4053647e5a5d8498794b92667258f4b910a5a9ec58144b28e77bf1a0393d125", "/usr/share/man/man3/XvQueryBestSize.3.gz": "dfaa9c55de66d7d8dd4682b0f680a987c67a46209049409c3db0f22ebd0ac30c", "/usr/share/man/man3/XvQueryAdaptors.3.gz": "4791ca32e951b94b19e122575085321936f13b5cab2409d87e5318640ad832d8", "/usr/share/man/man3/XvPutVideo.3.gz": "fd34920f27d46256609d461b20478a925ff88b14724bca89fbf0a771ec5b1ccf", "/usr/share/man/man3/XvPutStill.3.gz": "bb30dcebd614271339de3f4898b6273c6f04fa6117c764cf5e350663cacdec2f", "/usr/share/man/man3/XvPutImage.3.gz": "9401d261643063983568f5a2935d40b3e5f2a5b0138f57bb451c92960ffddbed", "/usr/share/man/man3/XvPortNotify.3.gz": "e9404715b14b09d18c6e8ee0db307e67df2e5662c5dac3839c61237f1316fdd4", "/usr/share/man/man3/XvListImageFormats.3.gz": "d5eb610cde4b653a426955ae7584481d3dede5b53307ef2f9714907f3dd2aaf2", "/usr/share/man/man3/XvGrabPort.3.gz": "24ea907c8239b2326af12b1d82264db6cfb61ed97f7f2c613e858553b9919806", "/usr/share/man/man3/XvGetVideo.3.gz": "2cfa06123d876fe70bf4773f48f9f6af86d405c2158718be539ad2128316a24c", "/usr/share/man/man3/XvGetStill.3.gz": "1f3651aa5ebedc00f3b16387c21fa8e202df6c97cf0dd7548b63ebfa8f0ef175", "/usr/share/man/man3/XvGetPortAttribute.3.gz": "1521e9cb4cb34669052f2d5d952b4c5c084906a8d89352596bec0417992f440d", "/usr/share/man/man3/XvFreeEncodingInfo.3.gz": "7c4e4dab6788037c9cdefae106442bea806328a2613339a670fae47a1ec0fc98", "/usr/share/man/man3/XvFreeAdaptorInfo.3.gz": "0b60252c1324998557eb27f959befd089e0b83c83d7022e4e4a85a024a8822ae", "/usr/share/man/man3/XvCreateImage.3.gz": "0c48c72522a23aac354067396f870ec24b4cafc6faaa97cff631ab3bede7e975", "/usr/share/man/man3/Xv.3.gz": "206a6d513d9f7116f72dd42d9c8835d376940cea8d420e985c1b57001c441cf9", "/usr/share/licenses/libxv/COPYING": "4fac4d581d00f11c459d68b7cb970f3d4e5a5bbfb53784d85f59a90076280301", "/usr/include/X11/extensions/Xvlib.h": "c926b8f1bcdbb1684a5e7199e7d94de46427a2c5f756102f378f2ee79966f835", "/var/log/pacman.log": "0872d1599c4caefded25ff885d10e1665c93806b8dd8e9b73aaf7d09b62160cd"}}
+{
+  "1.0.11-1": {
+    "/usr/lib/libXv.so.1": "7286428a3c60560ce015a28f1ec9f6a5daa3d051a4d9737859cc2648c4678d0a",
+    "/usr/lib/libXv.so": "7286428a3c60560ce015a28f1ec9f6a5daa3d051a4d9737859cc2648c4678d0a",
+    "/usr/lib/libXv.so.1.0.0": "7286428a3c60560ce015a28f1ec9f6a5daa3d051a4d9737859cc2648c4678d0a",
+    "/usr/lib/pkgconfig/xv.pc": "79c01ee1fd7fbfb26adb124dc45c19f9a3abab535a50fb0d8bff4f7fef38c0e3",
+    "/usr/share/man/man3/XvVideoNotify.3.gz": "5bfc7f239bd1767a3c7033ac41c371ccbb55ba3db6ee7cc8b132484e463dadaa",
+    "/usr/share/man/man3/XvUngrabPort.3.gz": "da1bc4e0cb734b5949167f353fe554941f544b9ec3bac8247e7e7e8b0f6a0611",
+    "/usr/share/man/man3/XvStopVideo.3.gz": "1ee7d25fd567dd0c7e7f20ab66c5fbd501366f62bbcdeece8891658ee205f36e",
+    "/usr/share/man/man3/XvShmPutImage.3.gz": "2ce1cb834b1479e027ae3f8c5f536e03d674bae166ac90d4b2d6f45883cb5b31",
+    "/usr/share/man/man3/XvShmCreateImage.3.gz": "36f8bcd576d4a0bd4dbbdd026b02aa71a4663ac5291bd0ab7ad86c775d64514e",
+    "/usr/share/man/man3/XvSetPortAttribute.3.gz": "02ddf720c9bd1f41300a8a1f87a19606de68bb2cacffd91cfa2dae72d00ee91a",
+    "/usr/share/man/man3/XvSelectVideoNotify.3.gz": "eea9663c36f9cfa6e0b5496d41b723381f4101444174444a7ad0d31a355c2073",
+    "/usr/share/man/man3/XvSelectPortNotify.3.gz": "c72f7d03d819afef81f33b76724fcac934515e898478c3d6e7bdbf549137a3d3",
+    "/usr/share/man/man3/XvQueryPortAttributes.3.gz": "45cc407180a94684242d6c5cc526a9303b2a4adc54abb53e320177959595f6fa",
+    "/usr/share/man/man3/XvQueryExtension.3.gz": "f0878cf729e5582697c4d4b53802e6305f8f2f0b945ae83193bb056957c4037a",
+    "/usr/share/man/man3/XvQueryEncodings.3.gz": "e4053647e5a5d8498794b92667258f4b910a5a9ec58144b28e77bf1a0393d125",
+    "/usr/share/man/man3/XvQueryBestSize.3.gz": "dfaa9c55de66d7d8dd4682b0f680a987c67a46209049409c3db0f22ebd0ac30c",
+    "/usr/share/man/man3/XvQueryAdaptors.3.gz": "4791ca32e951b94b19e122575085321936f13b5cab2409d87e5318640ad832d8",
+    "/usr/share/man/man3/XvPutVideo.3.gz": "fd34920f27d46256609d461b20478a925ff88b14724bca89fbf0a771ec5b1ccf",
+    "/usr/share/man/man3/XvPutStill.3.gz": "bb30dcebd614271339de3f4898b6273c6f04fa6117c764cf5e350663cacdec2f",
+    "/usr/share/man/man3/XvPutImage.3.gz": "9401d261643063983568f5a2935d40b3e5f2a5b0138f57bb451c92960ffddbed",
+    "/usr/share/man/man3/XvPortNotify.3.gz": "e9404715b14b09d18c6e8ee0db307e67df2e5662c5dac3839c61237f1316fdd4",
+    "/usr/share/man/man3/XvListImageFormats.3.gz": "d5eb610cde4b653a426955ae7584481d3dede5b53307ef2f9714907f3dd2aaf2",
+    "/usr/share/man/man3/XvGrabPort.3.gz": "24ea907c8239b2326af12b1d82264db6cfb61ed97f7f2c613e858553b9919806",
+    "/usr/share/man/man3/XvGetVideo.3.gz": "2cfa06123d876fe70bf4773f48f9f6af86d405c2158718be539ad2128316a24c",
+    "/usr/share/man/man3/XvGetStill.3.gz": "1f3651aa5ebedc00f3b16387c21fa8e202df6c97cf0dd7548b63ebfa8f0ef175",
+    "/usr/share/man/man3/XvGetPortAttribute.3.gz": "1521e9cb4cb34669052f2d5d952b4c5c084906a8d89352596bec0417992f440d",
+    "/usr/share/man/man3/XvFreeEncodingInfo.3.gz": "7c4e4dab6788037c9cdefae106442bea806328a2613339a670fae47a1ec0fc98",
+    "/usr/share/man/man3/XvFreeAdaptorInfo.3.gz": "0b60252c1324998557eb27f959befd089e0b83c83d7022e4e4a85a024a8822ae",
+    "/usr/share/man/man3/XvCreateImage.3.gz": "0c48c72522a23aac354067396f870ec24b4cafc6faaa97cff631ab3bede7e975",
+    "/usr/share/man/man3/Xv.3.gz": "206a6d513d9f7116f72dd42d9c8835d376940cea8d420e985c1b57001c441cf9",
+    "/usr/share/licenses/libxv/COPYING": "4fac4d581d00f11c459d68b7cb970f3d4e5a5bbfb53784d85f59a90076280301",
+    "/usr/include/X11/extensions/Xvlib.h": "c926b8f1bcdbb1684a5e7199e7d94de46427a2c5f756102f378f2ee79966f835",
+    "/var/log/pacman.log": "0872d1599c4caefded25ff885d10e1665c93806b8dd8e9b73aaf7d09b62160cd"
+  }
+}

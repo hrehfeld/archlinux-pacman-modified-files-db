@@ -1,1 +1,14 @@
-{"0.2.6-3": {"/usr/lib/python3.6/site-packages/clonevirtualenv.py": "c2fce12bf8df9193af0b60cdd459499377b2d1b2ad734da3834ef258da98f0c0", "/usr/lib/python3.6/site-packages/__pycache__/clonevirtualenv.cpython-36.pyc": "bb3c1acfb45ef13082779b99dde6f9b07e10920ecc331d9eac5384fd5c2db7a9", "/usr/lib/python3.6/site-packages/__pycache__/clonevirtualenv.cpython-36.opt-1.pyc": "61d6002351b7b99a3066000e806899f39753f41f355248aef2ad13702c9fe44a", "/usr/lib/python3.6/site-packages/virtualenv_clone-0.2.6-py3.6.egg-info/top_level.txt": "ed4832acd02d165ea370676272150fd9ed2ff7446d68a216c3b8c3505109bf28", "/usr/lib/python3.6/site-packages/virtualenv_clone-0.2.6-py3.6.egg-info/SOURCES.txt": "515c009a8f3fbad5f85bfdbf599096985445412441471ae42c35fd94c207553c", "/usr/lib/python3.6/site-packages/virtualenv_clone-0.2.6-py3.6.egg-info/PKG-INFO": "7ca7f59bc73f30cfd31ade51b867f07fc455e571d8f75d9b02aad97674293457", "/usr/lib/python3.6/site-packages/virtualenv_clone-0.2.6-py3.6.egg-info/entry_points.txt": "93dc84e5779e4aa4eafa210f55c9a1811f8b244c2ad1b53d782927122b7dddb7", "/usr/lib/python3.6/site-packages/virtualenv_clone-0.2.6-py3.6.egg-info/dependency_links.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b", "/usr/bin/virtualenv-clone": "03e08288de1172dd77db0a9251443daa312743c46eee943fd2e82539cbee93f7", "/var/log/pacman.log": "20d97dca596a45751ed3974234c71c5204d53e8cc5bda8eae551a1f726b79432"}}
+{
+  "0.2.6-3": {
+    "/usr/lib/python3.6/site-packages/clonevirtualenv.py": "c2fce12bf8df9193af0b60cdd459499377b2d1b2ad734da3834ef258da98f0c0",
+    "/usr/lib/python3.6/site-packages/__pycache__/clonevirtualenv.cpython-36.pyc": "bb3c1acfb45ef13082779b99dde6f9b07e10920ecc331d9eac5384fd5c2db7a9",
+    "/usr/lib/python3.6/site-packages/__pycache__/clonevirtualenv.cpython-36.opt-1.pyc": "61d6002351b7b99a3066000e806899f39753f41f355248aef2ad13702c9fe44a",
+    "/usr/lib/python3.6/site-packages/virtualenv_clone-0.2.6-py3.6.egg-info/top_level.txt": "ed4832acd02d165ea370676272150fd9ed2ff7446d68a216c3b8c3505109bf28",
+    "/usr/lib/python3.6/site-packages/virtualenv_clone-0.2.6-py3.6.egg-info/SOURCES.txt": "515c009a8f3fbad5f85bfdbf599096985445412441471ae42c35fd94c207553c",
+    "/usr/lib/python3.6/site-packages/virtualenv_clone-0.2.6-py3.6.egg-info/PKG-INFO": "7ca7f59bc73f30cfd31ade51b867f07fc455e571d8f75d9b02aad97674293457",
+    "/usr/lib/python3.6/site-packages/virtualenv_clone-0.2.6-py3.6.egg-info/entry_points.txt": "93dc84e5779e4aa4eafa210f55c9a1811f8b244c2ad1b53d782927122b7dddb7",
+    "/usr/lib/python3.6/site-packages/virtualenv_clone-0.2.6-py3.6.egg-info/dependency_links.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "/usr/bin/virtualenv-clone": "03e08288de1172dd77db0a9251443daa312743c46eee943fd2e82539cbee93f7",
+    "/var/log/pacman.log": "20d97dca596a45751ed3974234c71c5204d53e8cc5bda8eae551a1f726b79432"
+  }
+}

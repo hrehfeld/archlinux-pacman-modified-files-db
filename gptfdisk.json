@@ -1,1 +1,15 @@
-{"1.0.3-1": {"/usr/bin/fixparts": "0bdb525c30538e200842345df949b320d5e7745056f7353dda40f9f9511441b2", "/usr/bin/sgdisk": "1412de83ff1be5d743cf7d530e70d6f5424f47ff3d8c3d33412c2add3f3a734f", "/usr/bin/cgdisk": "3a13cca8b007c75bacae761d141f4e50e5fd3654b96eff39eea76bb0dd72315c", "/usr/bin/gdisk": "1da86b8acd3a508a161f000fed918e698810dd496e8f8743ab326ea8489dc9ea", "/usr/share/doc/gdisk/README": "9ec5d4ab173d20f660eebeeadd21d912807656b4dbcfb3ea38cec50606d69e20", "/usr/share/doc/gdisk/NEWS": "200c41ed2c07fec5b3f1e52380a109f365eea1550b2732d33cab2c608180b57a", "/usr/share/man/man8/fixparts.8.gz": "d95c7b7f387523ab9152b62d2f8f72ac215c36da71c5b5bd597e62ef978f52af", "/usr/share/man/man8/sgdisk.8.gz": "b26033aa634d24c694e6b7da2368832310b212d5232a272dd67a2892715a361e", "/usr/share/man/man8/cgdisk.8.gz": "4bd21253c4373eeaf6103ff5d786c5a4e195971ca27947dcea8053b06349a6f3", "/usr/share/man/man8/gdisk.8.gz": "83f76001dedd572737c74b0eac69bb1c2a88a159b0dedac43e7a7ee62c9b08bc", "/var/log/pacman.log": "097da95f04b392fceb2864f9f900fc1dee4c25cc0037db92878b6c654ed052d1"}}
+{
+  "1.0.3-1": {
+    "/usr/bin/fixparts": "0bdb525c30538e200842345df949b320d5e7745056f7353dda40f9f9511441b2",
+    "/usr/bin/sgdisk": "1412de83ff1be5d743cf7d530e70d6f5424f47ff3d8c3d33412c2add3f3a734f",
+    "/usr/bin/cgdisk": "3a13cca8b007c75bacae761d141f4e50e5fd3654b96eff39eea76bb0dd72315c",
+    "/usr/bin/gdisk": "1da86b8acd3a508a161f000fed918e698810dd496e8f8743ab326ea8489dc9ea",
+    "/usr/share/doc/gdisk/README": "9ec5d4ab173d20f660eebeeadd21d912807656b4dbcfb3ea38cec50606d69e20",
+    "/usr/share/doc/gdisk/NEWS": "200c41ed2c07fec5b3f1e52380a109f365eea1550b2732d33cab2c608180b57a",
+    "/usr/share/man/man8/fixparts.8.gz": "d95c7b7f387523ab9152b62d2f8f72ac215c36da71c5b5bd597e62ef978f52af",
+    "/usr/share/man/man8/sgdisk.8.gz": "b26033aa634d24c694e6b7da2368832310b212d5232a272dd67a2892715a361e",
+    "/usr/share/man/man8/cgdisk.8.gz": "4bd21253c4373eeaf6103ff5d786c5a4e195971ca27947dcea8053b06349a6f3",
+    "/usr/share/man/man8/gdisk.8.gz": "83f76001dedd572737c74b0eac69bb1c2a88a159b0dedac43e7a7ee62c9b08bc",
+    "/var/log/pacman.log": "097da95f04b392fceb2864f9f900fc1dee4c25cc0037db92878b6c654ed052d1"
+  }
+}

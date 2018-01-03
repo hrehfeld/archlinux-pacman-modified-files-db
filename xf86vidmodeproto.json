@@ -1,1 +1,10 @@
-{"2.3.1-3": {"/usr/share/licenses/xf86vidmodeproto/COPYING": "942bb46a3503a708948491699171b00b9e0dfb47818d9268b160bccc5f51a4b9", "/usr/include/X11/extensions/xf86vmstr.h": "1c03a84d3f615c57b3b8ebbf028354ea5714c8f305ee51ac6478b406e4aba7bc", "/usr/include/X11/extensions/xf86vmproto.h": "0dbaf9cd6c83574497aba48d579aa7909f0e72899abf0d617ab695be5c7068cd", "/usr/include/X11/extensions/xf86vm.h": "261dc9129838246ed0725cdeb8129e9a90dd1560cf78cf9850352b09b2326349", "/usr/lib/pkgconfig/xf86vidmodeproto.pc": "b3b90277b279f0c6971aba7cfd60c54caa0f31ebf50bcf7e892f48d1acfbaff8", "/var/log/pacman.log": "2b3fd90699f3227223022b72e2d81b665079c87510e884b64869a0483408ec94"}}
+{
+  "2.3.1-3": {
+    "/usr/share/licenses/xf86vidmodeproto/COPYING": "942bb46a3503a708948491699171b00b9e0dfb47818d9268b160bccc5f51a4b9",
+    "/usr/include/X11/extensions/xf86vmstr.h": "1c03a84d3f615c57b3b8ebbf028354ea5714c8f305ee51ac6478b406e4aba7bc",
+    "/usr/include/X11/extensions/xf86vmproto.h": "0dbaf9cd6c83574497aba48d579aa7909f0e72899abf0d617ab695be5c7068cd",
+    "/usr/include/X11/extensions/xf86vm.h": "261dc9129838246ed0725cdeb8129e9a90dd1560cf78cf9850352b09b2326349",
+    "/usr/lib/pkgconfig/xf86vidmodeproto.pc": "b3b90277b279f0c6971aba7cfd60c54caa0f31ebf50bcf7e892f48d1acfbaff8",
+    "/var/log/pacman.log": "2b3fd90699f3227223022b72e2d81b665079c87510e884b64869a0483408ec94"
+  }
+}

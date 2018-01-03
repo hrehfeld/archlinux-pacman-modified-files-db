@@ -1,1 +1,31 @@
-{"5.3.4-2": {"/usr/include/lua.h": "818fd58f067404757b12c3cb1afe0f739fefe568cbc0b3cebee36dca022315bf", "/usr/include/lualib.h": "04f4579bc74efe75f5ba090301b449ef73b8d91564bda9bf392366a3f30f87d8", "/usr/include/lauxlib.h": "9b613daa702d789d59edb38d319c214072088fc70416977406110e44ad8224ff", "/usr/include/lua.hpp": "fd83f7e823cfbb03ac2da937ec83f01b4a6ddaac220a4fa1ffd6c6c3842c5890", "/usr/include/luaconf.h": "9fd78e23c108504cdf7d54e8b0ac1da30b1014d8598302605f10cd948e7af8cf", "/usr/bin/lua5.3": "dd543688101d41ab3c5246c53b38b247ea09424c3e8df8a1cda17a282ba71ea4", "/usr/bin/luac": "26a7324e2d3dc2bd5439c4287ed688499e0eac622276fbd42db88c37c333686d", "/usr/bin/luac5.3": "26a7324e2d3dc2bd5439c4287ed688499e0eac622276fbd42db88c37c333686d", "/usr/bin/lua": "dd543688101d41ab3c5246c53b38b247ea09424c3e8df8a1cda17a282ba71ea4", "/usr/share/man/man1/luac.1.gz": "fac0e667ae0e9ec3a49282e71d0c91854c67c3107bd04f2934758e80f9b4ed1e", "/usr/share/man/man1/lua.1.gz": "cf66dfe3b3c2812d370adf48351ac35bc8ff7d55383b5c640eb8152cd6f6620c", "/usr/share/licenses/lua/LICENSE": "142fb08b41a807b192b4b2c166696a1830a1c97967e5099ad0e579bf500e1da4", "/usr/share/doc/lua/lua.css": "5980792496a8387101a64b342f17621b8a3969a504c78fe0bba62bec39afd4ca", "/usr/share/doc/lua/manual.html": "97b85dde3eb7aded9697ec37a05a071cf7afddd2d57c0cc95f8430e2eb98fbe2", "/usr/share/doc/lua/index.css": "b6ef324ca66e9ffdafa9e5b5a1478a548aa20f3a23f264eb1bed6d21c1c7d039", "/usr/share/doc/lua/manual.css": "759bbd5b1935c43cc9ed427c9facd5fe259c5033a4ce0c05225175c36b07bb8c", "/usr/share/doc/lua/osi-certified-72x60.png": "9d6ed62bd2f453c986f1aa1ed9e8920572cc746b944320a9aa0993cea6f55248", "/usr/share/doc/lua/contents.html": "dbca8ea1902dd67b3b6aafa105667e4ca87d2229eecea2bafa56e0261a3e355b", "/usr/share/doc/lua/readme.html": "9a3f884e7c3a12d67750f455c14d46c6217959dce41ccbacd5cd845a869649b1", "/usr/share/doc/lua/logo.gif": "de4ca280a5561940ace4b1a72dc5bc1d96ac154e59c7ae32d98ddcde010baeaa", "/usr/lib/liblua.so.5.3.4": "70f9f245ab8271e072eca326b92e3dfd2b455a4c474c741e3fd35db619f4debb", "/usr/lib/liblua5.3.so": "70f9f245ab8271e072eca326b92e3dfd2b455a4c474c741e3fd35db619f4debb", "/usr/lib/liblua.so.5.3": "70f9f245ab8271e072eca326b92e3dfd2b455a4c474c741e3fd35db619f4debb", "/usr/lib/liblua.so": "70f9f245ab8271e072eca326b92e3dfd2b455a4c474c741e3fd35db619f4debb", "/usr/lib/pkgconfig/lua.pc": "a0589bf5c2c69f615ea3c9209dda77c58e732817cacfdee43eef8018965ba883", "/usr/lib/pkgconfig/lua53.pc": "a0589bf5c2c69f615ea3c9209dda77c58e732817cacfdee43eef8018965ba883", "/var/log/pacman.log": "1723c965f5108412d0787a5165d436d9fa78deb40f39da3f672f933eae5f8f56"}}
+{
+  "5.3.4-2": {
+    "/usr/include/lua.h": "818fd58f067404757b12c3cb1afe0f739fefe568cbc0b3cebee36dca022315bf",
+    "/usr/include/lualib.h": "04f4579bc74efe75f5ba090301b449ef73b8d91564bda9bf392366a3f30f87d8",
+    "/usr/include/lauxlib.h": "9b613daa702d789d59edb38d319c214072088fc70416977406110e44ad8224ff",
+    "/usr/include/lua.hpp": "fd83f7e823cfbb03ac2da937ec83f01b4a6ddaac220a4fa1ffd6c6c3842c5890",
+    "/usr/include/luaconf.h": "9fd78e23c108504cdf7d54e8b0ac1da30b1014d8598302605f10cd948e7af8cf",
+    "/usr/bin/lua5.3": "dd543688101d41ab3c5246c53b38b247ea09424c3e8df8a1cda17a282ba71ea4",
+    "/usr/bin/luac": "26a7324e2d3dc2bd5439c4287ed688499e0eac622276fbd42db88c37c333686d",
+    "/usr/bin/luac5.3": "26a7324e2d3dc2bd5439c4287ed688499e0eac622276fbd42db88c37c333686d",
+    "/usr/bin/lua": "dd543688101d41ab3c5246c53b38b247ea09424c3e8df8a1cda17a282ba71ea4",
+    "/usr/share/man/man1/luac.1.gz": "fac0e667ae0e9ec3a49282e71d0c91854c67c3107bd04f2934758e80f9b4ed1e",
+    "/usr/share/man/man1/lua.1.gz": "cf66dfe3b3c2812d370adf48351ac35bc8ff7d55383b5c640eb8152cd6f6620c",
+    "/usr/share/licenses/lua/LICENSE": "142fb08b41a807b192b4b2c166696a1830a1c97967e5099ad0e579bf500e1da4",
+    "/usr/share/doc/lua/lua.css": "5980792496a8387101a64b342f17621b8a3969a504c78fe0bba62bec39afd4ca",
+    "/usr/share/doc/lua/manual.html": "97b85dde3eb7aded9697ec37a05a071cf7afddd2d57c0cc95f8430e2eb98fbe2",
+    "/usr/share/doc/lua/index.css": "b6ef324ca66e9ffdafa9e5b5a1478a548aa20f3a23f264eb1bed6d21c1c7d039",
+    "/usr/share/doc/lua/manual.css": "759bbd5b1935c43cc9ed427c9facd5fe259c5033a4ce0c05225175c36b07bb8c",
+    "/usr/share/doc/lua/osi-certified-72x60.png": "9d6ed62bd2f453c986f1aa1ed9e8920572cc746b944320a9aa0993cea6f55248",
+    "/usr/share/doc/lua/contents.html": "dbca8ea1902dd67b3b6aafa105667e4ca87d2229eecea2bafa56e0261a3e355b",
+    "/usr/share/doc/lua/readme.html": "9a3f884e7c3a12d67750f455c14d46c6217959dce41ccbacd5cd845a869649b1",
+    "/usr/share/doc/lua/logo.gif": "de4ca280a5561940ace4b1a72dc5bc1d96ac154e59c7ae32d98ddcde010baeaa",
+    "/usr/lib/liblua.so.5.3.4": "70f9f245ab8271e072eca326b92e3dfd2b455a4c474c741e3fd35db619f4debb",
+    "/usr/lib/liblua5.3.so": "70f9f245ab8271e072eca326b92e3dfd2b455a4c474c741e3fd35db619f4debb",
+    "/usr/lib/liblua.so.5.3": "70f9f245ab8271e072eca326b92e3dfd2b455a4c474c741e3fd35db619f4debb",
+    "/usr/lib/liblua.so": "70f9f245ab8271e072eca326b92e3dfd2b455a4c474c741e3fd35db619f4debb",
+    "/usr/lib/pkgconfig/lua.pc": "a0589bf5c2c69f615ea3c9209dda77c58e732817cacfdee43eef8018965ba883",
+    "/usr/lib/pkgconfig/lua53.pc": "a0589bf5c2c69f615ea3c9209dda77c58e732817cacfdee43eef8018965ba883",
+    "/var/log/pacman.log": "1723c965f5108412d0787a5165d436d9fa78deb40f39da3f672f933eae5f8f56"
+  }
+}

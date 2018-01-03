@@ -1,1 +1,18 @@
-{"0.1.1.3-6": {"/usr/share/haskell/register/haskell-setenv.sh": "7e0338f6e1b2106369025b8789fffcd5db0bc4efbc95efc3b8561c61b319be11", "/usr/share/haskell/unregister/haskell-setenv.sh": "f734f358ee441883cf51937bc14548bb37e1778b63d3355f4e325dbc32d9361a", "/usr/share/licenses/haskell-setenv/LICENSE": "be1382cdb0ca8077041a7c77933f45c3db95676d9b927db6cbdac9b995fc22d5", "/usr/lib/libHSsetenv-0.1.1.3-BDKZw88F6QnHLVIxtB3r29-ghc8.2.1.so": "8b3e61321f02ea87e6c70e52618399c4328ae0a797fb67ae6b6b64f5c9e99c6f", "/usr/lib/ghc-8.2.1/site-local/setenv-0.1.1.3/System/SetEnv.dyn_hi": "71080381b0e46f497b0c0ac66f432029f38ffa3af75ad7d715c1ce88c9226cd6", "/var/log/pacman.log": "b2f11df1ad755f2ea891a0a2e8ccd2ceb92e1753470558c3aaa539e82d414357"}, "0.1.1.3-7": {"/usr/share/haskell/register/haskell-setenv.sh": "82dc7773a33affeff99c2d50357625b2def829290bb1eaabbe40567a9bd90280", "/usr/share/haskell/unregister/haskell-setenv.sh": "a8c45f7e7901b541f7f9a10f40ef0454ff5ea59292eac859ff235edbca27fe83", "/usr/share/licenses/haskell-setenv/LICENSE": "be1382cdb0ca8077041a7c77933f45c3db95676d9b927db6cbdac9b995fc22d5", "/usr/lib/libHSsetenv-0.1.1.3-4FEJPUU51wbJmlhCSZScDf-ghc8.2.2.so": "aa43bfd33e36c7d85057588f339f48b025911ad9c8d27c3ef9af84ce3e522d4b", "/usr/lib/ghc-8.2.2/site-local/setenv-0.1.1.3/System/SetEnv.dyn_hi": "529c6f53588aece770559e3813ed0209ada080093304a524bebe7d3e0eaff5f9", "/var/log/pacman.log": "200abd707eb5d76ced4932bb6450b1743c4edcc5e0ff26fb06edeb4a5fb9f57c"}}
+{
+  "0.1.1.3-6": {
+    "/usr/share/haskell/register/haskell-setenv.sh": "7e0338f6e1b2106369025b8789fffcd5db0bc4efbc95efc3b8561c61b319be11",
+    "/usr/share/haskell/unregister/haskell-setenv.sh": "f734f358ee441883cf51937bc14548bb37e1778b63d3355f4e325dbc32d9361a",
+    "/usr/share/licenses/haskell-setenv/LICENSE": "be1382cdb0ca8077041a7c77933f45c3db95676d9b927db6cbdac9b995fc22d5",
+    "/usr/lib/libHSsetenv-0.1.1.3-BDKZw88F6QnHLVIxtB3r29-ghc8.2.1.so": "8b3e61321f02ea87e6c70e52618399c4328ae0a797fb67ae6b6b64f5c9e99c6f",
+    "/usr/lib/ghc-8.2.1/site-local/setenv-0.1.1.3/System/SetEnv.dyn_hi": "71080381b0e46f497b0c0ac66f432029f38ffa3af75ad7d715c1ce88c9226cd6",
+    "/var/log/pacman.log": "b2f11df1ad755f2ea891a0a2e8ccd2ceb92e1753470558c3aaa539e82d414357"
+  },
+  "0.1.1.3-7": {
+    "/usr/share/haskell/register/haskell-setenv.sh": "82dc7773a33affeff99c2d50357625b2def829290bb1eaabbe40567a9bd90280",
+    "/usr/share/haskell/unregister/haskell-setenv.sh": "a8c45f7e7901b541f7f9a10f40ef0454ff5ea59292eac859ff235edbca27fe83",
+    "/usr/share/licenses/haskell-setenv/LICENSE": "be1382cdb0ca8077041a7c77933f45c3db95676d9b927db6cbdac9b995fc22d5",
+    "/usr/lib/libHSsetenv-0.1.1.3-4FEJPUU51wbJmlhCSZScDf-ghc8.2.2.so": "aa43bfd33e36c7d85057588f339f48b025911ad9c8d27c3ef9af84ce3e522d4b",
+    "/usr/lib/ghc-8.2.2/site-local/setenv-0.1.1.3/System/SetEnv.dyn_hi": "529c6f53588aece770559e3813ed0209ada080093304a524bebe7d3e0eaff5f9",
+    "/var/log/pacman.log": "200abd707eb5d76ced4932bb6450b1743c4edcc5e0ff26fb06edeb4a5fb9f57c"
+  }
+}

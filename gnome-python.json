@@ -1,1 +1,6 @@
-{"2.28.1-10": {"/usr/lib/pkgconfig/gnome-python-2.0.pc": "42fc4d0bd579f887ad9a631961fea6322e586602c389ccd92d6f59b7d3f53533", "/var/log/pacman.log": "8ed4775fcf50e48226954085af8ce7c157e317005b25acdc00f96dc913afd1ae"}}
+{
+  "2.28.1-10": {
+    "/usr/lib/pkgconfig/gnome-python-2.0.pc": "42fc4d0bd579f887ad9a631961fea6322e586602c389ccd92d6f59b7d3f53533",
+    "/var/log/pacman.log": "8ed4775fcf50e48226954085af8ce7c157e317005b25acdc00f96dc913afd1ae"
+  }
+}

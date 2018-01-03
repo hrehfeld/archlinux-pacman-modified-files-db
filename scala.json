@@ -1,1 +1,26 @@
-{"2.12.4-1": {"/usr/bin/scalac": "8c0b563ea6823ba07ace70d9420b250ece1c0a711667bb874b1a02c610def81b", "/usr/bin/scalap": "52e666e7ad3685d0c0044018c13aa2eec48ed79db88dff0b7e72739ebc3d1c1c", "/usr/bin/scaladoc": "6e8984e60f912dd741b51f9f827e9f6a90f626c34b6e6c11459da69bab817f8f", "/usr/bin/scala": "c06a4289d90b6abed8acf13f2c5542cac2ec3e32f655e2418a0bf0a9e36ae7e9", "/usr/bin/fsc": "e18053f4f9a039f6dcf096bfcbda09975a0bce1cc26eb67bb441b7766729cdd7", "/usr/share/licenses/scala/LICENSE.md": "4c04ac7a33e3d824bead8cb5330f658e98bfd1360046a70c055c872db51ca933", "/usr/share/scala/lib/scala-xml_2.12-1.0.6.jar": "7cc3b6ceb56e879cb977e8e043f4bfe2e062f78795efd7efa09f85003cb3230a", "/usr/share/scala/lib/jline.jar": "4f347bc90d6f5ce61c0f8928d44a7b993275ceaa7d7f237714518a9bdd5003ce", "/usr/share/scala/lib/scalap.jar": "8bdd467455fc198a61b6f1d049d9e0b3f91668f550c46f89815adb3428862d3e", "/usr/share/scala/lib/scala-library.jar": "b7e182136a387988a0b81ae32a3ce9b369783d49b0b8e8874aa46249ec2630ec", "/usr/share/scala/lib/scala-compiler.jar": "7e03dc7562614fb1de0ed8224322cd1390f96d4f564e4260729a953360aca15d", "/usr/share/scala/lib/scala-reflect.jar": "78a37fea4da036cf63e9c44977ce4e9c6f75d79037ddacdbf222bdab87ab3f7f", "/usr/share/scala/lib/scala-repl-jline.jar": "2e9b7ac7916c3ff2e940353664b0211912b493a643d8fffdc57557a0dbb417cc", "/usr/share/scala/lib/scala-compiler-doc.jar": "fdc5639ded8eb7bf1d64d0a15d2e9604148821f29c78dbf57774bb6fa04a6a79", "/usr/share/scala/lib/scala-swing_2.12-2.0.0.jar": "5103d5760d4750c9250f384ed6f46de13d9e8d6d2c110a0c96f358b507e00fc5", "/usr/share/scala/lib/scala-repl-jline-embedded.jar": "ffe65583ecf5a3db0cc82a6881aad072f8059212a1787be968226fdbeb187dc6", "/usr/share/scala/bin/scalac": "8c0b563ea6823ba07ace70d9420b250ece1c0a711667bb874b1a02c610def81b", "/usr/share/scala/bin/scalap": "52e666e7ad3685d0c0044018c13aa2eec48ed79db88dff0b7e72739ebc3d1c1c", "/usr/share/scala/bin/scaladoc": "6e8984e60f912dd741b51f9f827e9f6a90f626c34b6e6c11459da69bab817f8f", "/usr/share/scala/bin/scala": "c06a4289d90b6abed8acf13f2c5542cac2ec3e32f655e2418a0bf0a9e36ae7e9", "/usr/share/scala/bin/fsc": "e18053f4f9a039f6dcf096bfcbda09975a0bce1cc26eb67bb441b7766729cdd7", "/var/log/pacman.log": "a69ff591908b737cd37fe0db29d366ec2c94eae3f04b4aec45348d06cca09e05"}}
+{
+  "2.12.4-1": {
+    "/usr/bin/scalac": "8c0b563ea6823ba07ace70d9420b250ece1c0a711667bb874b1a02c610def81b",
+    "/usr/bin/scalap": "52e666e7ad3685d0c0044018c13aa2eec48ed79db88dff0b7e72739ebc3d1c1c",
+    "/usr/bin/scaladoc": "6e8984e60f912dd741b51f9f827e9f6a90f626c34b6e6c11459da69bab817f8f",
+    "/usr/bin/scala": "c06a4289d90b6abed8acf13f2c5542cac2ec3e32f655e2418a0bf0a9e36ae7e9",
+    "/usr/bin/fsc": "e18053f4f9a039f6dcf096bfcbda09975a0bce1cc26eb67bb441b7766729cdd7",
+    "/usr/share/licenses/scala/LICENSE.md": "4c04ac7a33e3d824bead8cb5330f658e98bfd1360046a70c055c872db51ca933",
+    "/usr/share/scala/lib/scala-xml_2.12-1.0.6.jar": "7cc3b6ceb56e879cb977e8e043f4bfe2e062f78795efd7efa09f85003cb3230a",
+    "/usr/share/scala/lib/jline.jar": "4f347bc90d6f5ce61c0f8928d44a7b993275ceaa7d7f237714518a9bdd5003ce",
+    "/usr/share/scala/lib/scalap.jar": "8bdd467455fc198a61b6f1d049d9e0b3f91668f550c46f89815adb3428862d3e",
+    "/usr/share/scala/lib/scala-library.jar": "b7e182136a387988a0b81ae32a3ce9b369783d49b0b8e8874aa46249ec2630ec",
+    "/usr/share/scala/lib/scala-compiler.jar": "7e03dc7562614fb1de0ed8224322cd1390f96d4f564e4260729a953360aca15d",
+    "/usr/share/scala/lib/scala-reflect.jar": "78a37fea4da036cf63e9c44977ce4e9c6f75d79037ddacdbf222bdab87ab3f7f",
+    "/usr/share/scala/lib/scala-repl-jline.jar": "2e9b7ac7916c3ff2e940353664b0211912b493a643d8fffdc57557a0dbb417cc",
+    "/usr/share/scala/lib/scala-compiler-doc.jar": "fdc5639ded8eb7bf1d64d0a15d2e9604148821f29c78dbf57774bb6fa04a6a79",
+    "/usr/share/scala/lib/scala-swing_2.12-2.0.0.jar": "5103d5760d4750c9250f384ed6f46de13d9e8d6d2c110a0c96f358b507e00fc5",
+    "/usr/share/scala/lib/scala-repl-jline-embedded.jar": "ffe65583ecf5a3db0cc82a6881aad072f8059212a1787be968226fdbeb187dc6",
+    "/usr/share/scala/bin/scalac": "8c0b563ea6823ba07ace70d9420b250ece1c0a711667bb874b1a02c610def81b",
+    "/usr/share/scala/bin/scalap": "52e666e7ad3685d0c0044018c13aa2eec48ed79db88dff0b7e72739ebc3d1c1c",
+    "/usr/share/scala/bin/scaladoc": "6e8984e60f912dd741b51f9f827e9f6a90f626c34b6e6c11459da69bab817f8f",
+    "/usr/share/scala/bin/scala": "c06a4289d90b6abed8acf13f2c5542cac2ec3e32f655e2418a0bf0a9e36ae7e9",
+    "/usr/share/scala/bin/fsc": "e18053f4f9a039f6dcf096bfcbda09975a0bce1cc26eb67bb441b7766729cdd7",
+    "/var/log/pacman.log": "a69ff591908b737cd37fe0db29d366ec2c94eae3f04b4aec45348d06cca09e05"
+  }
+}

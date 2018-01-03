@@ -1,1 +1,30 @@
-{"1.8.1-1": {"/usr/include/gcrypt.h": "5bd293396a165dc1480697d5d98dd3aea0dfcbc959b42c719996280f91985fb8", "/usr/share/aclocal/libgcrypt.m4": "aea174f3ff37889fff1a569b9ae22249178f73fdf6f41fdf8296ad66ec952287", "/usr/share/man/man1/hmac256.1.gz": "2ac193dbbac319fe1ec79f996cb04c48e311c49878c8b9b1d0844a37754f4eab", "/usr/share/info/gcrypt.info.gz": "7b7960736b5cca44648495edf2abfb96ee39d8d3165873b0dbb7175e14bc3abb", "/usr/bin/hmac256": "f0bb39da1143e383aa1703cd1dffceea09f065ad22478c2b28c8f097795ee07d", "/usr/bin/libgcrypt-config": "4d53bbbf9605b354f8822cffeb242c4064e81c22f169f83cd927eebf2f97819e", "/usr/bin/dumpsexp": "948f82ecad777934874e3933bc6a20e42cceca7df3c42d37365ac717c7a8b6c5", "/usr/bin/mpicalc": "c3aede02289c9e6f825d200fe1c2088f6994f1aac7a87301265a9fc6527bddda", "/usr/lib/libgcrypt.so.20": "8741ca1d12acbc3f009c9aa85f05d1b85be65eed917c470c4b4657440d621ad9", "/usr/lib/libgcrypt.so": "8741ca1d12acbc3f009c9aa85f05d1b85be65eed917c470c4b4657440d621ad9", "/usr/lib/libgcrypt.so.20.2.1": "8741ca1d12acbc3f009c9aa85f05d1b85be65eed917c470c4b4657440d621ad9", "/var/log/pacman.log": "aeb1ff76a24d98f22103f114b315f08218728d9e4c3a9ca50c19dcfe1b6b8109"}}
+{
+  "1.8.1-1": {
+    "/usr/include/gcrypt.h": "5bd293396a165dc1480697d5d98dd3aea0dfcbc959b42c719996280f91985fb8",
+    "/usr/share/aclocal/libgcrypt.m4": "aea174f3ff37889fff1a569b9ae22249178f73fdf6f41fdf8296ad66ec952287",
+    "/usr/share/man/man1/hmac256.1.gz": "2ac193dbbac319fe1ec79f996cb04c48e311c49878c8b9b1d0844a37754f4eab",
+    "/usr/share/info/gcrypt.info.gz": "7b7960736b5cca44648495edf2abfb96ee39d8d3165873b0dbb7175e14bc3abb",
+    "/usr/bin/hmac256": "f0bb39da1143e383aa1703cd1dffceea09f065ad22478c2b28c8f097795ee07d",
+    "/usr/bin/libgcrypt-config": "4d53bbbf9605b354f8822cffeb242c4064e81c22f169f83cd927eebf2f97819e",
+    "/usr/bin/dumpsexp": "948f82ecad777934874e3933bc6a20e42cceca7df3c42d37365ac717c7a8b6c5",
+    "/usr/bin/mpicalc": "c3aede02289c9e6f825d200fe1c2088f6994f1aac7a87301265a9fc6527bddda",
+    "/usr/lib/libgcrypt.so.20": "8741ca1d12acbc3f009c9aa85f05d1b85be65eed917c470c4b4657440d621ad9",
+    "/usr/lib/libgcrypt.so": "8741ca1d12acbc3f009c9aa85f05d1b85be65eed917c470c4b4657440d621ad9",
+    "/usr/lib/libgcrypt.so.20.2.1": "8741ca1d12acbc3f009c9aa85f05d1b85be65eed917c470c4b4657440d621ad9",
+    "/var/log/pacman.log": "aeb1ff76a24d98f22103f114b315f08218728d9e4c3a9ca50c19dcfe1b6b8109"
+  },
+  "1.8.2-1": {
+    "/usr/include/gcrypt.h": "c551496c215c37bac942a45f024267243efb8b0310102824e49b43cba3ada347",
+    "/usr/share/aclocal/libgcrypt.m4": "aea174f3ff37889fff1a569b9ae22249178f73fdf6f41fdf8296ad66ec952287",
+    "/usr/share/man/man1/hmac256.1.gz": "803fff42af53fa5993747262ddaf7bab7fad124ade2ca4c54147726820fb9593",
+    "/usr/share/info/gcrypt.info.gz": "a250f8e68ddcf75d9d3595280b4d0db396b306a7f559c1b411e36f8054f95c92",
+    "/usr/bin/hmac256": "120d3936d417e606154c840334f92e6f6659823b15854e55d4f5a08846a40ca6",
+    "/usr/bin/libgcrypt-config": "eac09031fe3b41663248d63f0babcb4bf66053d7b8288ae7891507b03a257575",
+    "/usr/bin/dumpsexp": "57c8ea7b974fccf551f47781456cc87aa891386c8264cc94231048049bea8fd6",
+    "/usr/bin/mpicalc": "5391e271e6b39ec3bb2703c01a9ddc662b91147f10e82550ba21667b813546c5",
+    "/usr/lib/libgcrypt.so.20.2.2": "fff13613ac01612e33630a4431bc9d7e582c6df2c1b95daac88ba5cf9f46878c",
+    "/usr/lib/libgcrypt.so.20": "fff13613ac01612e33630a4431bc9d7e582c6df2c1b95daac88ba5cf9f46878c",
+    "/usr/lib/libgcrypt.so": "fff13613ac01612e33630a4431bc9d7e582c6df2c1b95daac88ba5cf9f46878c",
+    "/var/log/pacman.log": "54caf2de1ddbae20d3bb20991badaa6e3b2a27787c828f27d39e2bc5a6086f4b"
+  }
+}

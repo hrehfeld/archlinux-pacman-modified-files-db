@@ -1,1 +1,16 @@
-{"v1.1.0.r5.gfbc3ebe-1": {"/usr/bin/metastore": "1c71aacc1ea2e3f776066c613d4154e648728587787745a20b3018a1a6e5c0d8", "/usr/share/doc/metastore/AUTHORS": "1b4bd730e79324845647acb1e5d4dfb59569124aee16a2483ab4553bf78ce8b2", "/usr/share/doc/metastore/FILEFORMAT": "9979d128ef8e0e0a023d6ad2c76d1256471d583cf12e1ed17690dc7a4f22cbf2", "/usr/share/doc/metastore/LICENSE.GPLv2": "ab15fd526bd8dd18a9e77ebc139656bf4d33e97fc7238cd11bf60e2b9b8666c6", "/usr/share/doc/metastore/NEWS": "a3a898c40b1d9f7bd997e940166e98e7a9759a9a682e2ceaae62c79b5398a14f", "/usr/share/doc/metastore/README": "32460db8ae369dc371476d4a1ea2f91fe10c037eacf5c8cbca7f6ac74aeab914", "/usr/share/doc/metastore/metastore.txt": "c2280c991158b631b3b646f161b4c97fc36da11c2877b97fce6dc0cbd36f1068", "/usr/share/doc/metastore/examples/git-metapull": "d46b59c5f13c01fcd6ecc24ff1c224f14692e70028df362433df0a6879d5c31a", "/usr/share/doc/metastore/examples/hooks/post-checkout": "09f51ebf300fe4d025808d289cc5b38a1448440d195867e0b92df600b69e8d3e", "/usr/share/doc/metastore/examples/hooks/pre-commit": "b2affde7e60e3f240fc26d66d0028ada12e57375fea1503f8fd460867b4a8cab", "/usr/share/man/man1/metastore.1.gz": "afb9ce7bdc6d1054c9935ee722ea647b603648585b3a42b8adcb84ae1d7ef5b9", "/var/log/pacman.log": "34819810f0dca5658dee67151c4ff5069858e46f698e22948d620fe332a29a5e"}}
+{
+  "v1.1.0.r5.gfbc3ebe-1": {
+    "/usr/bin/metastore": "1c71aacc1ea2e3f776066c613d4154e648728587787745a20b3018a1a6e5c0d8",
+    "/usr/share/doc/metastore/AUTHORS": "1b4bd730e79324845647acb1e5d4dfb59569124aee16a2483ab4553bf78ce8b2",
+    "/usr/share/doc/metastore/FILEFORMAT": "9979d128ef8e0e0a023d6ad2c76d1256471d583cf12e1ed17690dc7a4f22cbf2",
+    "/usr/share/doc/metastore/LICENSE.GPLv2": "ab15fd526bd8dd18a9e77ebc139656bf4d33e97fc7238cd11bf60e2b9b8666c6",
+    "/usr/share/doc/metastore/NEWS": "a3a898c40b1d9f7bd997e940166e98e7a9759a9a682e2ceaae62c79b5398a14f",
+    "/usr/share/doc/metastore/README": "32460db8ae369dc371476d4a1ea2f91fe10c037eacf5c8cbca7f6ac74aeab914",
+    "/usr/share/doc/metastore/metastore.txt": "c2280c991158b631b3b646f161b4c97fc36da11c2877b97fce6dc0cbd36f1068",
+    "/usr/share/doc/metastore/examples/git-metapull": "d46b59c5f13c01fcd6ecc24ff1c224f14692e70028df362433df0a6879d5c31a",
+    "/usr/share/doc/metastore/examples/hooks/post-checkout": "09f51ebf300fe4d025808d289cc5b38a1448440d195867e0b92df600b69e8d3e",
+    "/usr/share/doc/metastore/examples/hooks/pre-commit": "b2affde7e60e3f240fc26d66d0028ada12e57375fea1503f8fd460867b4a8cab",
+    "/usr/share/man/man1/metastore.1.gz": "afb9ce7bdc6d1054c9935ee722ea647b603648585b3a42b8adcb84ae1d7ef5b9",
+    "/var/log/pacman.log": "34819810f0dca5658dee67151c4ff5069858e46f698e22948d620fe332a29a5e"
+  }
+}

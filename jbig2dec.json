@@ -1,0 +1,11 @@
+{
+  "0.14-1": {
+    "/usr/share/man/man1/jbig2dec.1.gz": "9159fc8c10d5306b9f8c5e38d00a89b43c9d1bc8d0f0efd5dd11decc176817a8",
+    "/usr/lib/libjbig2dec.so.0.0.0": "3c00cb8a129421ccc1aa778b62e902830293813c86107310a3de839b98d0ec2f",
+    "/usr/lib/libjbig2dec.so": "3c00cb8a129421ccc1aa778b62e902830293813c86107310a3de839b98d0ec2f",
+    "/usr/lib/libjbig2dec.so.0": "3c00cb8a129421ccc1aa778b62e902830293813c86107310a3de839b98d0ec2f",
+    "/usr/bin/jbig2dec": "fbdc24d625eb5f36b9b6402d7b26b1cdbf560b00768f9c46da4277486ee53268",
+    "/usr/include/jbig2.h": "8ef6f5df3bbaabc79fb17706bb987d916aa9562e1462d95b7636d1f24d3cc537",
+    "/var/log/pacman.log": "a32a214baa28d663e2ea3af25898df3437f4bc1693a43e9310c2f364cb5e31a5"
+  }
+}

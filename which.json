@@ -1,1 +1,8 @@
-{"2.21-2": {"/usr/bin/which": "17846b94b013f4c4a4f3e547b04c83dbda8bf7fee560c78ad6901306d577f4ec", "/usr/share/man/man1/which.1.gz": "95ef9c5327663da3ec7c03aa551db263cd70ae29610fb4e1a0bcc63819a78024", "/usr/share/info/which.info.gz": "8988a093da686883ae98dc0ad35d91e339c6f58fdc00ccf830dba107672d709b", "/var/log/pacman.log": "f76a958ac085288c0bb7d38d75ad7a7173acdd5d0dd3a5c965baf75e69aefc6c"}}
+{
+  "2.21-2": {
+    "/usr/bin/which": "17846b94b013f4c4a4f3e547b04c83dbda8bf7fee560c78ad6901306d577f4ec",
+    "/usr/share/man/man1/which.1.gz": "95ef9c5327663da3ec7c03aa551db263cd70ae29610fb4e1a0bcc63819a78024",
+    "/usr/share/info/which.info.gz": "8988a093da686883ae98dc0ad35d91e339c6f58fdc00ccf830dba107672d709b",
+    "/var/log/pacman.log": "f76a958ac085288c0bb7d38d75ad7a7173acdd5d0dd3a5c965baf75e69aefc6c"
+  }
+}

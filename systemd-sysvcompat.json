@@ -1,1 +1,29 @@
-{"235.38-1": {"/usr/share/man/man8/shutdown.8.gz": "13148abe51e21b2f21a3b49389d8ebd4e2efe32d731022bf87936baa808e5a08", "/usr/share/man/man8/runlevel.8.gz": "3b01bc5c92377a352c1b5115a4880194750e758e37f5515253b21b0530679cab", "/usr/share/man/man8/poweroff.8.gz": "26d92483dbe9d806773f249634f7cc28a7c11785aacbdffb352a0456ca1a2dde", "/usr/share/man/man8/reboot.8.gz": "26d92483dbe9d806773f249634f7cc28a7c11785aacbdffb352a0456ca1a2dde", "/usr/share/man/man8/halt.8.gz": "163e0de52b3f37f152bd078e26088448a44608edecf9990508bb430e5083bce6", "/usr/share/man/man8/telinit.8.gz": "09facfd382644c06c6338bf580c53e6ce18366d98ef9793bb2d3f1706ec1c771", "/var/log/pacman.log": "d6ef777b27cef90b6f01d82f715f5ed48f4131e2a228977383d21d2fd4faadde"}, "235.38-4": {"/usr/share/man/man8/shutdown.8.gz": "13148abe51e21b2f21a3b49389d8ebd4e2efe32d731022bf87936baa808e5a08", "/usr/share/man/man8/runlevel.8.gz": "3b01bc5c92377a352c1b5115a4880194750e758e37f5515253b21b0530679cab", "/usr/share/man/man8/poweroff.8.gz": "26d92483dbe9d806773f249634f7cc28a7c11785aacbdffb352a0456ca1a2dde", "/usr/share/man/man8/reboot.8.gz": "26d92483dbe9d806773f249634f7cc28a7c11785aacbdffb352a0456ca1a2dde", "/usr/share/man/man8/halt.8.gz": "163e0de52b3f37f152bd078e26088448a44608edecf9990508bb430e5083bce6", "/usr/share/man/man8/telinit.8.gz": "09facfd382644c06c6338bf580c53e6ce18366d98ef9793bb2d3f1706ec1c771", "/var/log/pacman.log": "3b0a22fe9d0973b9d50de3fac126d5e6253166540052ba146fa378b6be6db155"}}
+{
+  "235.38-1": {
+    "/usr/share/man/man8/shutdown.8.gz": "13148abe51e21b2f21a3b49389d8ebd4e2efe32d731022bf87936baa808e5a08",
+    "/usr/share/man/man8/runlevel.8.gz": "3b01bc5c92377a352c1b5115a4880194750e758e37f5515253b21b0530679cab",
+    "/usr/share/man/man8/poweroff.8.gz": "26d92483dbe9d806773f249634f7cc28a7c11785aacbdffb352a0456ca1a2dde",
+    "/usr/share/man/man8/reboot.8.gz": "26d92483dbe9d806773f249634f7cc28a7c11785aacbdffb352a0456ca1a2dde",
+    "/usr/share/man/man8/halt.8.gz": "163e0de52b3f37f152bd078e26088448a44608edecf9990508bb430e5083bce6",
+    "/usr/share/man/man8/telinit.8.gz": "09facfd382644c06c6338bf580c53e6ce18366d98ef9793bb2d3f1706ec1c771",
+    "/var/log/pacman.log": "d6ef777b27cef90b6f01d82f715f5ed48f4131e2a228977383d21d2fd4faadde"
+  },
+  "235.38-4": {
+    "/usr/share/man/man8/shutdown.8.gz": "13148abe51e21b2f21a3b49389d8ebd4e2efe32d731022bf87936baa808e5a08",
+    "/usr/share/man/man8/runlevel.8.gz": "3b01bc5c92377a352c1b5115a4880194750e758e37f5515253b21b0530679cab",
+    "/usr/share/man/man8/poweroff.8.gz": "26d92483dbe9d806773f249634f7cc28a7c11785aacbdffb352a0456ca1a2dde",
+    "/usr/share/man/man8/reboot.8.gz": "26d92483dbe9d806773f249634f7cc28a7c11785aacbdffb352a0456ca1a2dde",
+    "/usr/share/man/man8/halt.8.gz": "163e0de52b3f37f152bd078e26088448a44608edecf9990508bb430e5083bce6",
+    "/usr/share/man/man8/telinit.8.gz": "09facfd382644c06c6338bf580c53e6ce18366d98ef9793bb2d3f1706ec1c771",
+    "/var/log/pacman.log": "3b0a22fe9d0973b9d50de3fac126d5e6253166540052ba146fa378b6be6db155"
+  },
+  "236.0-2": {
+    "/usr/share/man/man8/shutdown.8.gz": "e2fd869311689cf92146aef1fcd82d97beb62ca52679a24abfe20a9ed2a0d89b",
+    "/usr/share/man/man8/runlevel.8.gz": "8984bf9f97b2e1b04bdcecf2d1ac75d537470d6573e28899ad52aa4a241b1407",
+    "/usr/share/man/man8/poweroff.8.gz": "26d92483dbe9d806773f249634f7cc28a7c11785aacbdffb352a0456ca1a2dde",
+    "/usr/share/man/man8/reboot.8.gz": "26d92483dbe9d806773f249634f7cc28a7c11785aacbdffb352a0456ca1a2dde",
+    "/usr/share/man/man8/halt.8.gz": "a6eb482323e4661c2a012e1997653365189785571c2771ef437961f344b17fe8",
+    "/usr/share/man/man8/telinit.8.gz": "6f78c3d8d3017f38f8bf409b8f65fc3ecdada0d6571b0e4922b526270117905d",
+    "/var/log/pacman.log": "43c0a130649838d6b38584c9bcbf9b1b5f2465467c76e07f40403c1fb8b00677"
+  }
+}

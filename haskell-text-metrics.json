@@ -1,1 +1,26 @@
-{"0.3.0-2": {"/usr/share/haskell/register/haskell-text-metrics.sh": "c0f87e46c4e0c15d66e52c0dfd4d4f6e2af3e45c032b741ea30396195ba4b262", "/usr/share/haskell/unregister/haskell-text-metrics.sh": "28772ce180efa0d51a26d8134581adac4b9f840c9d1386c4078cf50a398d16bd", "/usr/share/licenses/haskell-text-metrics/LICENSE.md": "fb0bf8f509d946fe0a199d16804d3c2f6e1c95a6df04d9792fb07c1c392a8655", "/usr/lib/libHStext-metrics-0.3.0-2fIKce8VPEVDGlWFdZY2tk-ghc8.2.1.so": "61689eb6280362e4b876a3e1364bb3881e4ed1c3c44609fa674603dca0a639a5", "/usr/lib/ghc-8.2.1/site-local/text-metrics-0.3.0/Data/Text/Metrics.dyn_hi": "e13e8f102253ed52460da4fb485ac039c9a50a2479a5d526674ddf318e0da6b4", "/var/log/pacman.log": "783ffcda2815e35190970a481ae09423eb7ccea871eab412e0a3b588cf068ab9"}, "0.3.0-3": {"/usr/share/haskell/register/haskell-text-metrics.sh": "e6a2be2eb403fc8c0945033a355947ca82c7ec273b372009110cc861bb9856f0", "/usr/share/haskell/unregister/haskell-text-metrics.sh": "6c878ae48cf9aef6fe91251097d2cb3658ecbbc126ce9946ac37cb8fd2ac0f78", "/usr/share/licenses/haskell-text-metrics/LICENSE.md": "fb0bf8f509d946fe0a199d16804d3c2f6e1c95a6df04d9792fb07c1c392a8655", "/usr/lib/libHStext-metrics-0.3.0-6oTyrOg5i2o4fgXnFHjSGt-ghc8.2.2.so": "7edb2091c4355705d9dbf6e27202a1b13fd825e7a181b000011301522a8ca963", "/usr/lib/ghc-8.2.2/site-local/text-metrics-0.3.0/Data/Text/Metrics.dyn_hi": "ed62ae4c4115391864ec7e98aa9663acde67a7a04e5956ab3f20a6fe95b489b9", "/var/log/pacman.log": "5cbcbb5727b279f73eb77be6f8f9e12a20a504908c54703a9e66c2ce39586af8"}}
+{
+  "0.3.0-2": {
+    "/usr/share/haskell/register/haskell-text-metrics.sh": "c0f87e46c4e0c15d66e52c0dfd4d4f6e2af3e45c032b741ea30396195ba4b262",
+    "/usr/share/haskell/unregister/haskell-text-metrics.sh": "28772ce180efa0d51a26d8134581adac4b9f840c9d1386c4078cf50a398d16bd",
+    "/usr/share/licenses/haskell-text-metrics/LICENSE.md": "fb0bf8f509d946fe0a199d16804d3c2f6e1c95a6df04d9792fb07c1c392a8655",
+    "/usr/lib/libHStext-metrics-0.3.0-2fIKce8VPEVDGlWFdZY2tk-ghc8.2.1.so": "61689eb6280362e4b876a3e1364bb3881e4ed1c3c44609fa674603dca0a639a5",
+    "/usr/lib/ghc-8.2.1/site-local/text-metrics-0.3.0/Data/Text/Metrics.dyn_hi": "e13e8f102253ed52460da4fb485ac039c9a50a2479a5d526674ddf318e0da6b4",
+    "/var/log/pacman.log": "783ffcda2815e35190970a481ae09423eb7ccea871eab412e0a3b588cf068ab9"
+  },
+  "0.3.0-3": {
+    "/usr/share/haskell/register/haskell-text-metrics.sh": "e6a2be2eb403fc8c0945033a355947ca82c7ec273b372009110cc861bb9856f0",
+    "/usr/share/haskell/unregister/haskell-text-metrics.sh": "6c878ae48cf9aef6fe91251097d2cb3658ecbbc126ce9946ac37cb8fd2ac0f78",
+    "/usr/share/licenses/haskell-text-metrics/LICENSE.md": "fb0bf8f509d946fe0a199d16804d3c2f6e1c95a6df04d9792fb07c1c392a8655",
+    "/usr/lib/libHStext-metrics-0.3.0-6oTyrOg5i2o4fgXnFHjSGt-ghc8.2.2.so": "7edb2091c4355705d9dbf6e27202a1b13fd825e7a181b000011301522a8ca963",
+    "/usr/lib/ghc-8.2.2/site-local/text-metrics-0.3.0/Data/Text/Metrics.dyn_hi": "ed62ae4c4115391864ec7e98aa9663acde67a7a04e5956ab3f20a6fe95b489b9",
+    "/var/log/pacman.log": "5cbcbb5727b279f73eb77be6f8f9e12a20a504908c54703a9e66c2ce39586af8"
+  },
+  "0.3.0-4": {
+    "/usr/share/haskell/register/haskell-text-metrics.sh": "c721fbb97a490768d7564797cc98254c4ad8450377d27d933a39063c975df938",
+    "/usr/share/haskell/unregister/haskell-text-metrics.sh": "6c878ae48cf9aef6fe91251097d2cb3658ecbbc126ce9946ac37cb8fd2ac0f78",
+    "/usr/share/licenses/haskell-text-metrics/LICENSE.md": "fb0bf8f509d946fe0a199d16804d3c2f6e1c95a6df04d9792fb07c1c392a8655",
+    "/usr/lib/libHStext-metrics-0.3.0-FDxATb53U0D25DaBchqZg3-ghc8.2.2.so": "77e844d3ef936f9fa5071b7bc0de08db27bf9b0754e51dd508ea2b3261f2f203",
+    "/usr/lib/ghc-8.2.2/site-local/text-metrics-0.3.0/Data/Text/Metrics.dyn_hi": "c49832f56396a3b702300506e037c2914012910d4c99fafbe186813394ea442f",
+    "/var/log/pacman.log": "7bb0dba7aacf19aafba6f6d18c8065803e2f2e940dfc12cbf3d177cb9f3a774c"
+  }
+}

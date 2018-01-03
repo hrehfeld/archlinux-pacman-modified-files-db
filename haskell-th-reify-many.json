@@ -1,1 +1,29 @@
-{"0.1.8-4": {"/usr/share/haskell/register/haskell-th-reify-many.sh": "7f82c11ec1432d9dcbd5d59148ffa2ab5d1f70f690672b505f127c49f6d882bf", "/usr/share/haskell/unregister/haskell-th-reify-many.sh": "2619af3dc6086ec127df3538b8fb386110163d92a9e9b142670be26f4da7c0ae", "/usr/share/licenses/haskell-th-reify-many/LICENSE": "e90d799f56a2110b89660020a9a83610504d8475355be7c5ace388d3000c31b4", "/usr/lib/libHSth-reify-many-0.1.8-2EU3p7u6hSnJov2AT7SGAa-ghc8.2.1.so": "12741cf00a22e5e7cb45285ea01c4a6c11b7c13ddc057167255f4a43b0144b4d", "/usr/lib/ghc-8.2.1/site-local/th-reify-many-0.1.8/Language/Haskell/TH/ReifyMany.dyn_hi": "cf6162d5cfc680d8c3a80a4dcedede42882f53b1e7a80116669af7c1d1ed2add", "/usr/lib/ghc-8.2.1/site-local/th-reify-many-0.1.8/Language/Haskell/TH/ReifyMany/Internal.dyn_hi": "c95c373cbb8ff34a28af4a7eede8f84f7e40389ae4911962fe7e69d232717652", "/var/log/pacman.log": "59927d3b3fb43b2cfa8472a981dca18344bfe343196e94d5074d4ac633432b8b"}, "0.1.8-5": {"/usr/share/haskell/register/haskell-th-reify-many.sh": "864d368152e12a5c93af28b1890c35b2283584dbdaed6df6001463ea65750776", "/usr/share/haskell/unregister/haskell-th-reify-many.sh": "7c2a307893e65f554215e95e8006da8b00cfffd338cd7111c7ea7cf369fe49bf", "/usr/share/licenses/haskell-th-reify-many/LICENSE": "e90d799f56a2110b89660020a9a83610504d8475355be7c5ace388d3000c31b4", "/usr/lib/libHSth-reify-many-0.1.8-DGCao0sZekU2vOuQlCjVQL-ghc8.2.2.so": "9e00181734986068beaa9176ab6cd06695af5135bc9f35ef18102b3c051724fe", "/usr/lib/ghc-8.2.2/site-local/th-reify-many-0.1.8/Language/Haskell/TH/ReifyMany.dyn_hi": "b59a04dae35f4631241841122d7961f15fbe5c97bd5a8d11291171ba92e720bc", "/usr/lib/ghc-8.2.2/site-local/th-reify-many-0.1.8/Language/Haskell/TH/ReifyMany/Internal.dyn_hi": "dbe2deef0b01a8bc39dd2d1948ce341734943efca4c65199e72e07443a035f46", "/var/log/pacman.log": "d17597a240b19a4d47ddb342fbbe6a23511a8cde16b2ae3abf088da8fb250b68"}}
+{
+  "0.1.8-4": {
+    "/usr/share/haskell/register/haskell-th-reify-many.sh": "7f82c11ec1432d9dcbd5d59148ffa2ab5d1f70f690672b505f127c49f6d882bf",
+    "/usr/share/haskell/unregister/haskell-th-reify-many.sh": "2619af3dc6086ec127df3538b8fb386110163d92a9e9b142670be26f4da7c0ae",
+    "/usr/share/licenses/haskell-th-reify-many/LICENSE": "e90d799f56a2110b89660020a9a83610504d8475355be7c5ace388d3000c31b4",
+    "/usr/lib/libHSth-reify-many-0.1.8-2EU3p7u6hSnJov2AT7SGAa-ghc8.2.1.so": "12741cf00a22e5e7cb45285ea01c4a6c11b7c13ddc057167255f4a43b0144b4d",
+    "/usr/lib/ghc-8.2.1/site-local/th-reify-many-0.1.8/Language/Haskell/TH/ReifyMany.dyn_hi": "cf6162d5cfc680d8c3a80a4dcedede42882f53b1e7a80116669af7c1d1ed2add",
+    "/usr/lib/ghc-8.2.1/site-local/th-reify-many-0.1.8/Language/Haskell/TH/ReifyMany/Internal.dyn_hi": "c95c373cbb8ff34a28af4a7eede8f84f7e40389ae4911962fe7e69d232717652",
+    "/var/log/pacman.log": "59927d3b3fb43b2cfa8472a981dca18344bfe343196e94d5074d4ac633432b8b"
+  },
+  "0.1.8-5": {
+    "/usr/share/haskell/register/haskell-th-reify-many.sh": "864d368152e12a5c93af28b1890c35b2283584dbdaed6df6001463ea65750776",
+    "/usr/share/haskell/unregister/haskell-th-reify-many.sh": "7c2a307893e65f554215e95e8006da8b00cfffd338cd7111c7ea7cf369fe49bf",
+    "/usr/share/licenses/haskell-th-reify-many/LICENSE": "e90d799f56a2110b89660020a9a83610504d8475355be7c5ace388d3000c31b4",
+    "/usr/lib/libHSth-reify-many-0.1.8-DGCao0sZekU2vOuQlCjVQL-ghc8.2.2.so": "9e00181734986068beaa9176ab6cd06695af5135bc9f35ef18102b3c051724fe",
+    "/usr/lib/ghc-8.2.2/site-local/th-reify-many-0.1.8/Language/Haskell/TH/ReifyMany.dyn_hi": "b59a04dae35f4631241841122d7961f15fbe5c97bd5a8d11291171ba92e720bc",
+    "/usr/lib/ghc-8.2.2/site-local/th-reify-many-0.1.8/Language/Haskell/TH/ReifyMany/Internal.dyn_hi": "dbe2deef0b01a8bc39dd2d1948ce341734943efca4c65199e72e07443a035f46",
+    "/var/log/pacman.log": "d17597a240b19a4d47ddb342fbbe6a23511a8cde16b2ae3abf088da8fb250b68"
+  },
+  "0.1.8-6": {
+    "/usr/share/haskell/register/haskell-th-reify-many.sh": "cf23317762d66576fd30b7e981174c670e2bd334d35b2e81313d4c84f1c93f55",
+    "/usr/share/haskell/unregister/haskell-th-reify-many.sh": "7c2a307893e65f554215e95e8006da8b00cfffd338cd7111c7ea7cf369fe49bf",
+    "/usr/share/licenses/haskell-th-reify-many/LICENSE": "e90d799f56a2110b89660020a9a83610504d8475355be7c5ace388d3000c31b4",
+    "/usr/lib/libHSth-reify-many-0.1.8-5GXK75rgh5BpNIIzzPuB7-ghc8.2.2.so": "df09ab8af4cc319a701d0c305cd1c5fe5a9274c37b2b3c03557d393092d80434",
+    "/usr/lib/ghc-8.2.2/site-local/th-reify-many-0.1.8/Language/Haskell/TH/ReifyMany.dyn_hi": "e2e78e671dd2a156e368fde8045702fc0d061e39e42267d5390cd07439b3f103",
+    "/usr/lib/ghc-8.2.2/site-local/th-reify-many-0.1.8/Language/Haskell/TH/ReifyMany/Internal.dyn_hi": "e2f7735caa184716d9daeedfa067c0d147f79689a0a18fad0eace48c756ce1c6",
+    "/var/log/pacman.log": "a9cd877797aa16c047de87bec612250ed9ea547eb0284808e3782434e78bf9f7"
+  }
+}

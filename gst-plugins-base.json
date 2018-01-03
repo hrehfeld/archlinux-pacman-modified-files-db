@@ -1,1 +1,24 @@
-{"1.12.3-1": {"/usr/lib/gstreamer-1.0/libgstvorbis.so": "3648d96d1de13fd053d45220bb2b09e8dcaa0189e6b04cc267ee4cf080f25c9f", "/usr/lib/gstreamer-1.0/libgsttheora.so": "dbcb66be68172ad8300975dee60c8d4d2a5885c17978ef48435db515bfebb63a", "/usr/lib/gstreamer-1.0/libgstpango.so": "7069467fc83d1ccff6bd42ce23c158ff1f916744106d885b9e8d8fe2e25f27b8", "/usr/lib/gstreamer-1.0/libgstopus.so": "b01f62d92acac3092744f61644da98f8244e636745053bf2539cdf9cc60b620a", "/usr/lib/gstreamer-1.0/libgstogg.so": "a6c2dae5e8703d87fe37d731efc791841c636d760205f99b25acb8b6c386e02e", "/usr/lib/gstreamer-1.0/libgstlibvisual.so": "87141e8afa8c65d433e4f75722e5fe56ed4a047c1f498ef130ae897c335a5b18", "/usr/lib/gstreamer-1.0/libgstcdparanoia.so": "505f6666c734dd78fb434c6bef91263e7529e34703e1589cb3cedfe0e75fe12a", "/usr/lib/gstreamer-1.0/libgstalsa.so": "e99ad4b70e837e7442ca7bc929e6c000388111fe2ce546bdfc83cad96c9e3736", "/var/log/pacman.log": "41791139220c95b1b73cf954943f1ca37d91e78ebae629f2fb26eb5da84f641b"}, "1.12.4-1": {"/usr/lib/gstreamer-1.0/libgstvorbis.so": "6fb60c3bd23b3d5215d72ee89bdd4971a2c48e686f040ca0751100cfef570071", "/usr/lib/gstreamer-1.0/libgsttheora.so": "687751ad392af214938bb109be53c228bc10ef96f608570b8bea3f4fcbb4ed3b", "/usr/lib/gstreamer-1.0/libgstpango.so": "9f3ff4ad6626c07168270dd1480a07e8c2be37442450022e2df1ff4a2a39bf08", "/usr/lib/gstreamer-1.0/libgstopus.so": "5973a9d6aca205a43a6257ff337458933cf5151416b63ac29589014cd60a8cf8", "/usr/lib/gstreamer-1.0/libgstogg.so": "f2f88ea3bf7a8538bb1712fd959030cd79dffc9c7dcd156425e008a78d52e82e", "/usr/lib/gstreamer-1.0/libgstlibvisual.so": "4db0a30bd3bea77b448ba2c18d05f386af81523a769a32842c8396d11eb8c454", "/usr/lib/gstreamer-1.0/libgstcdparanoia.so": "c14e5d9f949d30dffef05146bdcf4fec8504b2a4a32159d2fd9f0ef366a71249", "/usr/lib/gstreamer-1.0/libgstalsa.so": "d24635f94a849bca7c411a084b05166b7a6a3885a6ff71295fb2b131eea8f676", "/var/log/pacman.log": "7f1576d0ece0f708b61966a11b1b32e89f5ad734b46cae86b757793aea0207ec"}}
+{
+  "1.12.3-1": {
+    "/usr/lib/gstreamer-1.0/libgstvorbis.so": "3648d96d1de13fd053d45220bb2b09e8dcaa0189e6b04cc267ee4cf080f25c9f",
+    "/usr/lib/gstreamer-1.0/libgsttheora.so": "dbcb66be68172ad8300975dee60c8d4d2a5885c17978ef48435db515bfebb63a",
+    "/usr/lib/gstreamer-1.0/libgstpango.so": "7069467fc83d1ccff6bd42ce23c158ff1f916744106d885b9e8d8fe2e25f27b8",
+    "/usr/lib/gstreamer-1.0/libgstopus.so": "b01f62d92acac3092744f61644da98f8244e636745053bf2539cdf9cc60b620a",
+    "/usr/lib/gstreamer-1.0/libgstogg.so": "a6c2dae5e8703d87fe37d731efc791841c636d760205f99b25acb8b6c386e02e",
+    "/usr/lib/gstreamer-1.0/libgstlibvisual.so": "87141e8afa8c65d433e4f75722e5fe56ed4a047c1f498ef130ae897c335a5b18",
+    "/usr/lib/gstreamer-1.0/libgstcdparanoia.so": "505f6666c734dd78fb434c6bef91263e7529e34703e1589cb3cedfe0e75fe12a",
+    "/usr/lib/gstreamer-1.0/libgstalsa.so": "e99ad4b70e837e7442ca7bc929e6c000388111fe2ce546bdfc83cad96c9e3736",
+    "/var/log/pacman.log": "41791139220c95b1b73cf954943f1ca37d91e78ebae629f2fb26eb5da84f641b"
+  },
+  "1.12.4-1": {
+    "/usr/lib/gstreamer-1.0/libgstvorbis.so": "6fb60c3bd23b3d5215d72ee89bdd4971a2c48e686f040ca0751100cfef570071",
+    "/usr/lib/gstreamer-1.0/libgsttheora.so": "687751ad392af214938bb109be53c228bc10ef96f608570b8bea3f4fcbb4ed3b",
+    "/usr/lib/gstreamer-1.0/libgstpango.so": "9f3ff4ad6626c07168270dd1480a07e8c2be37442450022e2df1ff4a2a39bf08",
+    "/usr/lib/gstreamer-1.0/libgstopus.so": "5973a9d6aca205a43a6257ff337458933cf5151416b63ac29589014cd60a8cf8",
+    "/usr/lib/gstreamer-1.0/libgstogg.so": "f2f88ea3bf7a8538bb1712fd959030cd79dffc9c7dcd156425e008a78d52e82e",
+    "/usr/lib/gstreamer-1.0/libgstlibvisual.so": "4db0a30bd3bea77b448ba2c18d05f386af81523a769a32842c8396d11eb8c454",
+    "/usr/lib/gstreamer-1.0/libgstcdparanoia.so": "c14e5d9f949d30dffef05146bdcf4fec8504b2a4a32159d2fd9f0ef366a71249",
+    "/usr/lib/gstreamer-1.0/libgstalsa.so": "d24635f94a849bca7c411a084b05166b7a6a3885a6ff71295fb2b131eea8f676",
+    "/var/log/pacman.log": "7f1576d0ece0f708b61966a11b1b32e89f5ad734b46cae86b757793aea0207ec"
+  }
+}

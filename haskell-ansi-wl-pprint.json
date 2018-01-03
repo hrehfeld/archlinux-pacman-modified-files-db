@@ -1,1 +1,20 @@
-{"0.6.8.1-3": {"/usr/share/haskell/register/haskell-ansi-wl-pprint.sh": "825972cf82c81d6c944ec41c65a947e03a5fa162642483946cd6ee80aeb477ab", "/usr/share/haskell/unregister/haskell-ansi-wl-pprint.sh": "f67f0036d054a4c023bdffb1a81a8b72cec92fcbe2901ecbef7a22768883850f", "/usr/share/licenses/haskell-ansi-wl-pprint/LICENSE": "59f0a9fac99c12098a3dde108db3b12da7562ebc6a29665884fc79c7f6b26231", "/usr/lib/libHSansi-wl-pprint-0.6.8.1-80vSxm39oopFZHdKk9kEEk-ghc8.2.1.so": "8a320c82305e0320dddd3c54454bb9dde60f6b50e5a1bef7cb9b90ae7202af9e", "/usr/lib/ghc-8.2.1/site-local/ansi-wl-pprint-0.6.8.1/Text/PrettyPrint/ANSI/Leijen.dyn_hi": "6a1f434561c7e840017857c85e93756d492076505c26a9d800150f36001dbd7d", "/usr/lib/ghc-8.2.1/site-local/ansi-wl-pprint-0.6.8.1/Text/PrettyPrint/ANSI/Leijen/Internal.dyn_hi": "66248cc6e64806c4b689503ba838acb480c978088deb5559c80f7d5ef76a0aae", "/var/log/pacman.log": "0709a209a4317d18253f7e74d3da1499cd05d7ceafb1a7ea3850ef9692197dda"}, "0.6.8.1-5": {"/usr/share/haskell/register/haskell-ansi-wl-pprint.sh": "89858c3c7f078e4400fca3decbbb0293742f14721793cb06f0f59bb5da8ddb67", "/usr/share/haskell/unregister/haskell-ansi-wl-pprint.sh": "92a881517a2ce6e1947532df71c76e8b48887c0295a50a45e0cfa479545d62e1", "/usr/share/licenses/haskell-ansi-wl-pprint/LICENSE": "59f0a9fac99c12098a3dde108db3b12da7562ebc6a29665884fc79c7f6b26231", "/usr/lib/libHSansi-wl-pprint-0.6.8.1-9l3rnzSYKfWCCaU64ZOSjB-ghc8.2.2.so": "e57de0c8fd4442f25de93240e09293472bb75a34ffd4b62e97a1e258ce97e591", "/usr/lib/ghc-8.2.2/site-local/ansi-wl-pprint-0.6.8.1/Text/PrettyPrint/ANSI/Leijen.dyn_hi": "3ec53a2b0a8a8cb5457c5484ffb09cf572da50d303ef94c975d123de580b8946", "/usr/lib/ghc-8.2.2/site-local/ansi-wl-pprint-0.6.8.1/Text/PrettyPrint/ANSI/Leijen/Internal.dyn_hi": "df32bc14f29699b2303b4587e4239cecd9ce6d5d2d07bd57b52ad7430be2e6a0", "/var/log/pacman.log": "50489bbc5568bbde3d991f419a17a8000381097a8e81e81507a756a8d6fce922"}}
+{
+  "0.6.8.1-3": {
+    "/usr/share/haskell/register/haskell-ansi-wl-pprint.sh": "825972cf82c81d6c944ec41c65a947e03a5fa162642483946cd6ee80aeb477ab",
+    "/usr/share/haskell/unregister/haskell-ansi-wl-pprint.sh": "f67f0036d054a4c023bdffb1a81a8b72cec92fcbe2901ecbef7a22768883850f",
+    "/usr/share/licenses/haskell-ansi-wl-pprint/LICENSE": "59f0a9fac99c12098a3dde108db3b12da7562ebc6a29665884fc79c7f6b26231",
+    "/usr/lib/libHSansi-wl-pprint-0.6.8.1-80vSxm39oopFZHdKk9kEEk-ghc8.2.1.so": "8a320c82305e0320dddd3c54454bb9dde60f6b50e5a1bef7cb9b90ae7202af9e",
+    "/usr/lib/ghc-8.2.1/site-local/ansi-wl-pprint-0.6.8.1/Text/PrettyPrint/ANSI/Leijen.dyn_hi": "6a1f434561c7e840017857c85e93756d492076505c26a9d800150f36001dbd7d",
+    "/usr/lib/ghc-8.2.1/site-local/ansi-wl-pprint-0.6.8.1/Text/PrettyPrint/ANSI/Leijen/Internal.dyn_hi": "66248cc6e64806c4b689503ba838acb480c978088deb5559c80f7d5ef76a0aae",
+    "/var/log/pacman.log": "0709a209a4317d18253f7e74d3da1499cd05d7ceafb1a7ea3850ef9692197dda"
+  },
+  "0.6.8.1-5": {
+    "/usr/share/haskell/register/haskell-ansi-wl-pprint.sh": "89858c3c7f078e4400fca3decbbb0293742f14721793cb06f0f59bb5da8ddb67",
+    "/usr/share/haskell/unregister/haskell-ansi-wl-pprint.sh": "92a881517a2ce6e1947532df71c76e8b48887c0295a50a45e0cfa479545d62e1",
+    "/usr/share/licenses/haskell-ansi-wl-pprint/LICENSE": "59f0a9fac99c12098a3dde108db3b12da7562ebc6a29665884fc79c7f6b26231",
+    "/usr/lib/libHSansi-wl-pprint-0.6.8.1-9l3rnzSYKfWCCaU64ZOSjB-ghc8.2.2.so": "e57de0c8fd4442f25de93240e09293472bb75a34ffd4b62e97a1e258ce97e591",
+    "/usr/lib/ghc-8.2.2/site-local/ansi-wl-pprint-0.6.8.1/Text/PrettyPrint/ANSI/Leijen.dyn_hi": "3ec53a2b0a8a8cb5457c5484ffb09cf572da50d303ef94c975d123de580b8946",
+    "/usr/lib/ghc-8.2.2/site-local/ansi-wl-pprint-0.6.8.1/Text/PrettyPrint/ANSI/Leijen/Internal.dyn_hi": "df32bc14f29699b2303b4587e4239cecd9ce6d5d2d07bd57b52ad7430be2e6a0",
+    "/var/log/pacman.log": "50489bbc5568bbde3d991f419a17a8000381097a8e81e81507a756a8d6fce922"
+  }
+}

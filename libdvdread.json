@@ -1,1 +1,25 @@
-{"5.0.4-1": {"/usr/lib/libdvdread.so.4.2.0": "1525acb415dc6fa041889a78668af409a42ecde7eaf92af8e34ad927b761c1b2", "/usr/lib/libdvdread.so": "1525acb415dc6fa041889a78668af409a42ecde7eaf92af8e34ad927b761c1b2", "/usr/lib/libdvdread.so.4": "1525acb415dc6fa041889a78668af409a42ecde7eaf92af8e34ad927b761c1b2", "/usr/lib/pkgconfig/dvdread.pc": "ddd86607b1fefbabfcb439d490dc26acad7c83a7095aa6b7a2f1bb11ceb65eaf", "/usr/include/dvdread/version.h": "d550189e2f834b0a2ee10334ad5de0cd65d94fdaca80a0c847e468c7f837e736", "/usr/include/dvdread/nav_types.h": "219f43f907f1b9542c97c49851b704411575f48b50b9476fa6c38f5459080323", "/usr/include/dvdread/nav_read.h": "ba0d975fc103fa9cbbb7e46eaab70e716e9611009971cf01e02f68c3c2990d49", "/usr/include/dvdread/nav_print.h": "4f22fa0f3252595265e9c7dddecfd74971e35897c4cf1550afe932fa7b650019", "/usr/include/dvdread/ifo_types.h": "2a1b04132d77a122fd3896f9109dc7118a0454c8a66744e8f5b7ee26a48e8b0f", "/usr/include/dvdread/ifo_read.h": "90dc2339001fa01d191495edcac2a7dee6e5cfd06825a6abe3c3e627afbbff33", "/usr/include/dvdread/ifo_print.h": "9af38d226916c2e1d45891c004e9ee750f9bf1cdc367f0a1d39536156cd44281", "/usr/include/dvdread/dvd_udf.h": "0accf5d2e318332a3871d871f01ece6053f1ef655e2744e753f3a855c791e02b", "/usr/include/dvdread/dvd_reader.h": "63647ee7d0c78e844a3fca0d5e886ce24e02cb57ff0107ceceea358870da476a", "/usr/include/dvdread/bitreader.h": "3f1daaecbb4a0021a6794ecd4d7badf41c129f2b9f79c495ac7f29819abf20cf", "/usr/share/doc/libdvdread/TODO": "7ba2ff0371c9ea0169480d05e847a1a4f2dc84ba8ece8c098f905964b08af9a5", "/usr/share/doc/libdvdread/README": "db846cf5c6841f723e22ccc5c56136d0b6b8a0db10e72715e96e09b7902a0c33", "/usr/share/doc/libdvdread/NEWS": "d1410963c0aa7091f01839d1b3388ce11595c9eafa4160be53ed1e19d323c92f", "/usr/share/doc/libdvdread/COPYING": "d6cb0e9e560f51085556949a84af12b79a00f10ab8b66c752537faf7cd665572", "/usr/share/doc/libdvdread/ChangeLog": "a6f430fca1b0e7214f8773eeb80e2d12751b9d34ab86a8eb43dde988e8df1997", "/usr/share/doc/libdvdread/AUTHORS": "3fd7711478cf52ab83630cf14ea4bf77c597a6a5513cf7f8e4c2678ecb36fbe9", "/var/log/pacman.log": "24abe9446edc5e94c5c5631ba3e10b499285fd413ed09e9abb6e2acb69abf4eb"}}
+{
+  "5.0.4-1": {
+    "/usr/lib/libdvdread.so.4.2.0": "1525acb415dc6fa041889a78668af409a42ecde7eaf92af8e34ad927b761c1b2",
+    "/usr/lib/libdvdread.so": "1525acb415dc6fa041889a78668af409a42ecde7eaf92af8e34ad927b761c1b2",
+    "/usr/lib/libdvdread.so.4": "1525acb415dc6fa041889a78668af409a42ecde7eaf92af8e34ad927b761c1b2",
+    "/usr/lib/pkgconfig/dvdread.pc": "ddd86607b1fefbabfcb439d490dc26acad7c83a7095aa6b7a2f1bb11ceb65eaf",
+    "/usr/include/dvdread/version.h": "d550189e2f834b0a2ee10334ad5de0cd65d94fdaca80a0c847e468c7f837e736",
+    "/usr/include/dvdread/nav_types.h": "219f43f907f1b9542c97c49851b704411575f48b50b9476fa6c38f5459080323",
+    "/usr/include/dvdread/nav_read.h": "ba0d975fc103fa9cbbb7e46eaab70e716e9611009971cf01e02f68c3c2990d49",
+    "/usr/include/dvdread/nav_print.h": "4f22fa0f3252595265e9c7dddecfd74971e35897c4cf1550afe932fa7b650019",
+    "/usr/include/dvdread/ifo_types.h": "2a1b04132d77a122fd3896f9109dc7118a0454c8a66744e8f5b7ee26a48e8b0f",
+    "/usr/include/dvdread/ifo_read.h": "90dc2339001fa01d191495edcac2a7dee6e5cfd06825a6abe3c3e627afbbff33",
+    "/usr/include/dvdread/ifo_print.h": "9af38d226916c2e1d45891c004e9ee750f9bf1cdc367f0a1d39536156cd44281",
+    "/usr/include/dvdread/dvd_udf.h": "0accf5d2e318332a3871d871f01ece6053f1ef655e2744e753f3a855c791e02b",
+    "/usr/include/dvdread/dvd_reader.h": "63647ee7d0c78e844a3fca0d5e886ce24e02cb57ff0107ceceea358870da476a",
+    "/usr/include/dvdread/bitreader.h": "3f1daaecbb4a0021a6794ecd4d7badf41c129f2b9f79c495ac7f29819abf20cf",
+    "/usr/share/doc/libdvdread/TODO": "7ba2ff0371c9ea0169480d05e847a1a4f2dc84ba8ece8c098f905964b08af9a5",
+    "/usr/share/doc/libdvdread/README": "db846cf5c6841f723e22ccc5c56136d0b6b8a0db10e72715e96e09b7902a0c33",
+    "/usr/share/doc/libdvdread/NEWS": "d1410963c0aa7091f01839d1b3388ce11595c9eafa4160be53ed1e19d323c92f",
+    "/usr/share/doc/libdvdread/COPYING": "d6cb0e9e560f51085556949a84af12b79a00f10ab8b66c752537faf7cd665572",
+    "/usr/share/doc/libdvdread/ChangeLog": "a6f430fca1b0e7214f8773eeb80e2d12751b9d34ab86a8eb43dde988e8df1997",
+    "/usr/share/doc/libdvdread/AUTHORS": "3fd7711478cf52ab83630cf14ea4bf77c597a6a5513cf7f8e4c2678ecb36fbe9",
+    "/var/log/pacman.log": "24abe9446edc5e94c5c5631ba3e10b499285fd413ed09e9abb6e2acb69abf4eb"
+  }
+}

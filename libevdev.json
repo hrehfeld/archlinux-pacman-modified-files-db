@@ -1,1 +1,16 @@
-{"1.5.7-1": {"/usr/include/libevdev-1.0/libevdev/libevdev.h": "c610d7444575057a0c473ce8aee6ff917cfdcb98c2cd85bb42916535785034a6", "/usr/include/libevdev-1.0/libevdev/libevdev-uinput.h": "3581ceb28ab065464dea0c5013d3152869382deeb5c8b087c0b3541a03b1f139", "/usr/share/licenses/libevdev/COPYING": "f063d1279b31e73007e1c54493391818b4cb5f9162d590120397e0347b932137", "/usr/share/man/man3/libevdev.3.gz": "6a5cb160dd39da8662c1f4cfcb4ebe410d79f96e76c46a9cbf3e6912cd1f9cf1", "/usr/bin/touchpad-edge-detector": "0de8a1019040b8747e46b737459a38796736bdf1f8dc0b2a13ea205303a26654", "/usr/bin/mouse-dpi-tool": "e8065eda0eff96436fa442a4ad6e253d4efbefb753aabda89a6eaf0b2553ff38", "/usr/bin/libevdev-tweak-device": "a045f70d391ef8c166a80681c9d2e1a58ea379ba31399ad9c99ada4c924bac41", "/usr/lib/libevdev.so": "7744e7d4fa863dce63684708422ed5773970f82942cb23eda0bf75ec767335fa", "/usr/lib/libevdev.so.2.1.19": "7744e7d4fa863dce63684708422ed5773970f82942cb23eda0bf75ec767335fa", "/usr/lib/libevdev.so.2": "7744e7d4fa863dce63684708422ed5773970f82942cb23eda0bf75ec767335fa", "/usr/lib/pkgconfig/libevdev.pc": "df2163d79c541ca71d5b424bc0f99deefdf291f148f853b35f0442391bfd0568", "/var/log/pacman.log": "e1a2316125093696fe4202b69e59f29a9f0310950a83b7272710741700f4b1f4"}}
+{
+  "1.5.7-1": {
+    "/usr/include/libevdev-1.0/libevdev/libevdev.h": "c610d7444575057a0c473ce8aee6ff917cfdcb98c2cd85bb42916535785034a6",
+    "/usr/include/libevdev-1.0/libevdev/libevdev-uinput.h": "3581ceb28ab065464dea0c5013d3152869382deeb5c8b087c0b3541a03b1f139",
+    "/usr/share/licenses/libevdev/COPYING": "f063d1279b31e73007e1c54493391818b4cb5f9162d590120397e0347b932137",
+    "/usr/share/man/man3/libevdev.3.gz": "6a5cb160dd39da8662c1f4cfcb4ebe410d79f96e76c46a9cbf3e6912cd1f9cf1",
+    "/usr/bin/touchpad-edge-detector": "0de8a1019040b8747e46b737459a38796736bdf1f8dc0b2a13ea205303a26654",
+    "/usr/bin/mouse-dpi-tool": "e8065eda0eff96436fa442a4ad6e253d4efbefb753aabda89a6eaf0b2553ff38",
+    "/usr/bin/libevdev-tweak-device": "a045f70d391ef8c166a80681c9d2e1a58ea379ba31399ad9c99ada4c924bac41",
+    "/usr/lib/libevdev.so": "7744e7d4fa863dce63684708422ed5773970f82942cb23eda0bf75ec767335fa",
+    "/usr/lib/libevdev.so.2.1.19": "7744e7d4fa863dce63684708422ed5773970f82942cb23eda0bf75ec767335fa",
+    "/usr/lib/libevdev.so.2": "7744e7d4fa863dce63684708422ed5773970f82942cb23eda0bf75ec767335fa",
+    "/usr/lib/pkgconfig/libevdev.pc": "df2163d79c541ca71d5b424bc0f99deefdf291f148f853b35f0442391bfd0568",
+    "/var/log/pacman.log": "e1a2316125093696fe4202b69e59f29a9f0310950a83b7272710741700f4b1f4"
+  }
+}

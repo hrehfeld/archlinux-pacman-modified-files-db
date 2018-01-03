@@ -1,1 +1,10 @@
-{"0.11.1-3": {"/usr/share/licenses/renderproto/COPYING": "9e48921a94da36d7a69fe71809223ee0bb46370db9842dccdeeb55b5a9946872", "/usr/share/doc/renderproto/renderproto.txt": "573184b255b8ce040fca8d80b7257d56468bff7e131bfcc914975cb7ff5bd152", "/usr/lib/pkgconfig/renderproto.pc": "0351f9faa21f1d530a84331a0e6c33292db7766a2f40e719e29ba7b4d5da29ad", "/usr/include/X11/extensions/renderproto.h": "f34edcf5d8f289b810596ba7f646c4d07e14aa50590a11e1462993e5bccd732c", "/usr/include/X11/extensions/render.h": "ef3f4aede97e1143656f9169868429d3b180fb8dfb0cbd4aa853e4f9a97a7a52", "/var/log/pacman.log": "6f7f6d0ccebe9b82a3faafc9cec535d932f750573776772e8b7b3455073c212d"}}
+{
+  "0.11.1-3": {
+    "/usr/share/licenses/renderproto/COPYING": "9e48921a94da36d7a69fe71809223ee0bb46370db9842dccdeeb55b5a9946872",
+    "/usr/share/doc/renderproto/renderproto.txt": "573184b255b8ce040fca8d80b7257d56468bff7e131bfcc914975cb7ff5bd152",
+    "/usr/lib/pkgconfig/renderproto.pc": "0351f9faa21f1d530a84331a0e6c33292db7766a2f40e719e29ba7b4d5da29ad",
+    "/usr/include/X11/extensions/renderproto.h": "f34edcf5d8f289b810596ba7f646c4d07e14aa50590a11e1462993e5bccd732c",
+    "/usr/include/X11/extensions/render.h": "ef3f4aede97e1143656f9169868429d3b180fb8dfb0cbd4aa853e4f9a97a7a52",
+    "/var/log/pacman.log": "6f7f6d0ccebe9b82a3faafc9cec535d932f750573776772e8b7b3455073c212d"
+  }
+}

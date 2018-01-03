@@ -1,1 +1,17 @@
-{"1.2.0-1": {"/usr/include/X11/extensions/XRes.h": "ec855e4c9c3ed8f3425b2aaf51b18a3f2bf5a94a64c5af02a95bcd6dd2385ae4", "/usr/share/licenses/libxres/COPYING": "0d7300168f85833ea2564835f66a61e036ede90b33e76c06a7b4078096fedbcc", "/usr/share/man/man3/XResQueryExtension.3.gz": "6f905e8ecc8ab6f43e35e5ce7213081820699198aa0a14242294453d52c68d49", "/usr/share/man/man3/XRes.3.gz": "42a5196fa1779ef84d75a9a724e33fbc6160d7687aed91acb3613edbcc0aa431", "/usr/share/man/man3/XResQueryClients.3.gz": "6f905e8ecc8ab6f43e35e5ce7213081820699198aa0a14242294453d52c68d49", "/usr/share/man/man3/XResQueryClientPixmapBytes.3.gz": "6f905e8ecc8ab6f43e35e5ce7213081820699198aa0a14242294453d52c68d49", "/usr/share/man/man3/XResQueryClientResources.3.gz": "6f905e8ecc8ab6f43e35e5ce7213081820699198aa0a14242294453d52c68d49", "/usr/share/man/man3/XResQueryVersion.3.gz": "6f905e8ecc8ab6f43e35e5ce7213081820699198aa0a14242294453d52c68d49", "/usr/lib/libXRes.so.1": "9e2142d5f46aa98fc489a0688c5dd4e964233df5755ef6f9e6ccc0eeed1cd132", "/usr/lib/libXRes.so.1.0.0": "9e2142d5f46aa98fc489a0688c5dd4e964233df5755ef6f9e6ccc0eeed1cd132", "/usr/lib/libXRes.so": "9e2142d5f46aa98fc489a0688c5dd4e964233df5755ef6f9e6ccc0eeed1cd132", "/usr/lib/pkgconfig/xres.pc": "f73b485d43ed620b6c0e8f9bea27f584ac66b389671976a91d928a5214adbce5", "/var/log/pacman.log": "a2d214a36b5751d498ba23e3b0ae259344d0382bdfb951df9d5f237fe7c633ab"}}
+{
+  "1.2.0-1": {
+    "/usr/include/X11/extensions/XRes.h": "ec855e4c9c3ed8f3425b2aaf51b18a3f2bf5a94a64c5af02a95bcd6dd2385ae4",
+    "/usr/share/licenses/libxres/COPYING": "0d7300168f85833ea2564835f66a61e036ede90b33e76c06a7b4078096fedbcc",
+    "/usr/share/man/man3/XResQueryExtension.3.gz": "6f905e8ecc8ab6f43e35e5ce7213081820699198aa0a14242294453d52c68d49",
+    "/usr/share/man/man3/XRes.3.gz": "42a5196fa1779ef84d75a9a724e33fbc6160d7687aed91acb3613edbcc0aa431",
+    "/usr/share/man/man3/XResQueryClients.3.gz": "6f905e8ecc8ab6f43e35e5ce7213081820699198aa0a14242294453d52c68d49",
+    "/usr/share/man/man3/XResQueryClientPixmapBytes.3.gz": "6f905e8ecc8ab6f43e35e5ce7213081820699198aa0a14242294453d52c68d49",
+    "/usr/share/man/man3/XResQueryClientResources.3.gz": "6f905e8ecc8ab6f43e35e5ce7213081820699198aa0a14242294453d52c68d49",
+    "/usr/share/man/man3/XResQueryVersion.3.gz": "6f905e8ecc8ab6f43e35e5ce7213081820699198aa0a14242294453d52c68d49",
+    "/usr/lib/libXRes.so.1": "9e2142d5f46aa98fc489a0688c5dd4e964233df5755ef6f9e6ccc0eeed1cd132",
+    "/usr/lib/libXRes.so.1.0.0": "9e2142d5f46aa98fc489a0688c5dd4e964233df5755ef6f9e6ccc0eeed1cd132",
+    "/usr/lib/libXRes.so": "9e2142d5f46aa98fc489a0688c5dd4e964233df5755ef6f9e6ccc0eeed1cd132",
+    "/usr/lib/pkgconfig/xres.pc": "f73b485d43ed620b6c0e8f9bea27f584ac66b389671976a91d928a5214adbce5",
+    "/var/log/pacman.log": "a2d214a36b5751d498ba23e3b0ae259344d0382bdfb951df9d5f237fe7c633ab"
+  }
+}

@@ -1,1 +1,26 @@
-{"5.0.0-1": {"/usr/lib/libLLVM-5.0.0.so": "ef1d06b8a314e97dcd09c5d931deb93aa8dd6721dd79b19fbb3500c90923d8e7", "/usr/lib/libLLVM.so": "ef1d06b8a314e97dcd09c5d931deb93aa8dd6721dd79b19fbb3500c90923d8e7", "/usr/lib/libLTO.so": "220f69efae348221ae9dd5456aaef981b833410f1adb6ad0405349f25f230376", "/usr/lib/libLTO.so.5": "220f69efae348221ae9dd5456aaef981b833410f1adb6ad0405349f25f230376", "/usr/lib/LLVMgold.so": "d846a06c12f14a5dad5f7f134a5b67d28277277787b99bbe3710c5eb1f0c410d", "/usr/lib/libLTO.so.5.0.0": "220f69efae348221ae9dd5456aaef981b833410f1adb6ad0405349f25f230376", "/usr/lib/libLLVM-5.0.so": "ef1d06b8a314e97dcd09c5d931deb93aa8dd6721dd79b19fbb3500c90923d8e7", "/usr/lib/bfd-plugins/LLVMgold.so": "d846a06c12f14a5dad5f7f134a5b67d28277277787b99bbe3710c5eb1f0c410d", "/usr/share/licenses/llvm-libs/LICENSE": "abd4d8794808bacb1eb6924d49efafd9ab6eef88faaaeb5d3cfa13ee3670d672", "/var/log/pacman.log": "3855befeba398a10f325f0e609961e1d14e80984ddde5fedffa25a3bcf08dce7"}}
+{
+  "5.0.0-1": {
+    "/usr/lib/libLLVM-5.0.0.so": "ef1d06b8a314e97dcd09c5d931deb93aa8dd6721dd79b19fbb3500c90923d8e7",
+    "/usr/lib/libLLVM.so": "ef1d06b8a314e97dcd09c5d931deb93aa8dd6721dd79b19fbb3500c90923d8e7",
+    "/usr/lib/libLTO.so": "220f69efae348221ae9dd5456aaef981b833410f1adb6ad0405349f25f230376",
+    "/usr/lib/libLTO.so.5": "220f69efae348221ae9dd5456aaef981b833410f1adb6ad0405349f25f230376",
+    "/usr/lib/LLVMgold.so": "d846a06c12f14a5dad5f7f134a5b67d28277277787b99bbe3710c5eb1f0c410d",
+    "/usr/lib/libLTO.so.5.0.0": "220f69efae348221ae9dd5456aaef981b833410f1adb6ad0405349f25f230376",
+    "/usr/lib/libLLVM-5.0.so": "ef1d06b8a314e97dcd09c5d931deb93aa8dd6721dd79b19fbb3500c90923d8e7",
+    "/usr/lib/bfd-plugins/LLVMgold.so": "d846a06c12f14a5dad5f7f134a5b67d28277277787b99bbe3710c5eb1f0c410d",
+    "/usr/share/licenses/llvm-libs/LICENSE": "abd4d8794808bacb1eb6924d49efafd9ab6eef88faaaeb5d3cfa13ee3670d672",
+    "/var/log/pacman.log": "3855befeba398a10f325f0e609961e1d14e80984ddde5fedffa25a3bcf08dce7"
+  },
+  "5.0.1-1": {
+    "/usr/share/licenses/llvm-libs/LICENSE": "abd4d8794808bacb1eb6924d49efafd9ab6eef88faaaeb5d3cfa13ee3670d672",
+    "/usr/lib/LLVMgold.so": "6d181d84b6621c1effa5f7f120f3ca964ce739f7e8b3c6447fce3dfb14fc598e",
+    "/usr/lib/libLTO.so.5.0.1": "70308ec91ed6398902d7385e7b6439f02b4091ea7083fa46aae95c12fc4ca27a",
+    "/usr/lib/libLLVM-5.0.so": "b4ea5387dfb4e73c14775a3e5ed7adf19d954ab1751a1bb75c9d3b4ca5e35abb",
+    "/usr/lib/libLTO.so.5": "70308ec91ed6398902d7385e7b6439f02b4091ea7083fa46aae95c12fc4ca27a",
+    "/usr/lib/libLTO.so": "70308ec91ed6398902d7385e7b6439f02b4091ea7083fa46aae95c12fc4ca27a",
+    "/usr/lib/libLLVM.so": "b4ea5387dfb4e73c14775a3e5ed7adf19d954ab1751a1bb75c9d3b4ca5e35abb",
+    "/usr/lib/libLLVM-5.0.1.so": "b4ea5387dfb4e73c14775a3e5ed7adf19d954ab1751a1bb75c9d3b4ca5e35abb",
+    "/usr/lib/bfd-plugins/LLVMgold.so": "6d181d84b6621c1effa5f7f120f3ca964ce739f7e8b3c6447fce3dfb14fc598e",
+    "/var/log/pacman.log": "a16cb5630f83a4209b9689430329850f4ea0b9d138c7b0b312668df705147f71"
+  }
+}

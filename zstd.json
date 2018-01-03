@@ -1,1 +1,24 @@
-{"1.3.2-1": {"/usr/lib/libzstd.so.1": "7b8b4ece66811d10a9a92eb42342c4afd3446111fffbf441be62beafcaa3ecc5", "/usr/lib/libzstd.so": "7b8b4ece66811d10a9a92eb42342c4afd3446111fffbf441be62beafcaa3ecc5", "/usr/lib/libzstd.so.1.3.2": "7b8b4ece66811d10a9a92eb42342c4afd3446111fffbf441be62beafcaa3ecc5", "/usr/lib/pkgconfig/libzstd.pc": "e110b04e3dd785819af21eb8a04153e9079f7e76d6f5a45a3a5bfc440913c4f3", "/usr/include/zstd.h": "4b71e31d959bd9342e630b8f6434347c360d14680cbb246b41965678dfa68843", "/usr/include/zstd_errors.h": "c04fac1b096be587d4fe89ac1a13c6b34aafd4c4729c3ca19fd4b01fb5c1d8b7", "/usr/include/zbuff.h": "e1aa0c84dd40cfcf5a23e8dea5c376f9da626eeed902667fe0f8cbceb673840f", "/usr/include/zdict.h": "853e7a4710530eb995eef8dbbb5e0257f5fb1479cbd9085ed65f4b8da17f169d", "/usr/bin/zstdcat": "2474b8113df89da90a694965421e6a0aaa763b6c532633552683208d50e5e2ab", "/usr/bin/unzstd": "2474b8113df89da90a694965421e6a0aaa763b6c532633552683208d50e5e2ab", "/usr/bin/zstdless": "d088aa04d1e60fa093bbe0a8c5defd71cff7aec4333a7b4cd774a5ced40eece3", "/usr/bin/zstdgrep": "7cc07665ec07016ef9bfd2c18412f30bccbeeef3ec708adc63e4fe086b281ac5", "/usr/bin/pzstd": "6ce6159d137cbfc175844976c4507e4eb1c91a837cecd72aa8c60243fc9376c3", "/usr/bin/zstdmt": "2474b8113df89da90a694965421e6a0aaa763b6c532633552683208d50e5e2ab", "/usr/bin/zstd": "2474b8113df89da90a694965421e6a0aaa763b6c532633552683208d50e5e2ab", "/usr/share/man/man1/unzstd.1.gz": "ecfe23cf00b10f13dd8433bdc3cafc57588f7df95fefdd91ba81539d604c52d4", "/usr/share/man/man1/zstdcat.1.gz": "ecfe23cf00b10f13dd8433bdc3cafc57588f7df95fefdd91ba81539d604c52d4", "/usr/share/man/man1/zstd.1.gz": "ecfe23cf00b10f13dd8433bdc3cafc57588f7df95fefdd91ba81539d604c52d4", "/usr/share/licenses/zstd/LICENSE": "2c1a7fa704df8f3a606f6fc010b8b5aaebf403f3aeec339a12048f1ba7331a0b", "/var/log/pacman.log": "3c36231704b194791727b96d1756f927555349e3adbefeb3b6487ab30536e725"}}
+{
+  "1.3.2-1": {
+    "/usr/lib/libzstd.so.1": "7b8b4ece66811d10a9a92eb42342c4afd3446111fffbf441be62beafcaa3ecc5",
+    "/usr/lib/libzstd.so": "7b8b4ece66811d10a9a92eb42342c4afd3446111fffbf441be62beafcaa3ecc5",
+    "/usr/lib/libzstd.so.1.3.2": "7b8b4ece66811d10a9a92eb42342c4afd3446111fffbf441be62beafcaa3ecc5",
+    "/usr/lib/pkgconfig/libzstd.pc": "e110b04e3dd785819af21eb8a04153e9079f7e76d6f5a45a3a5bfc440913c4f3",
+    "/usr/include/zstd.h": "4b71e31d959bd9342e630b8f6434347c360d14680cbb246b41965678dfa68843",
+    "/usr/include/zstd_errors.h": "c04fac1b096be587d4fe89ac1a13c6b34aafd4c4729c3ca19fd4b01fb5c1d8b7",
+    "/usr/include/zbuff.h": "e1aa0c84dd40cfcf5a23e8dea5c376f9da626eeed902667fe0f8cbceb673840f",
+    "/usr/include/zdict.h": "853e7a4710530eb995eef8dbbb5e0257f5fb1479cbd9085ed65f4b8da17f169d",
+    "/usr/bin/zstdcat": "2474b8113df89da90a694965421e6a0aaa763b6c532633552683208d50e5e2ab",
+    "/usr/bin/unzstd": "2474b8113df89da90a694965421e6a0aaa763b6c532633552683208d50e5e2ab",
+    "/usr/bin/zstdless": "d088aa04d1e60fa093bbe0a8c5defd71cff7aec4333a7b4cd774a5ced40eece3",
+    "/usr/bin/zstdgrep": "7cc07665ec07016ef9bfd2c18412f30bccbeeef3ec708adc63e4fe086b281ac5",
+    "/usr/bin/pzstd": "6ce6159d137cbfc175844976c4507e4eb1c91a837cecd72aa8c60243fc9376c3",
+    "/usr/bin/zstdmt": "2474b8113df89da90a694965421e6a0aaa763b6c532633552683208d50e5e2ab",
+    "/usr/bin/zstd": "2474b8113df89da90a694965421e6a0aaa763b6c532633552683208d50e5e2ab",
+    "/usr/share/man/man1/unzstd.1.gz": "ecfe23cf00b10f13dd8433bdc3cafc57588f7df95fefdd91ba81539d604c52d4",
+    "/usr/share/man/man1/zstdcat.1.gz": "ecfe23cf00b10f13dd8433bdc3cafc57588f7df95fefdd91ba81539d604c52d4",
+    "/usr/share/man/man1/zstd.1.gz": "ecfe23cf00b10f13dd8433bdc3cafc57588f7df95fefdd91ba81539d604c52d4",
+    "/usr/share/licenses/zstd/LICENSE": "2c1a7fa704df8f3a606f6fc010b8b5aaebf403f3aeec339a12048f1ba7331a0b",
+    "/var/log/pacman.log": "3c36231704b194791727b96d1756f927555349e3adbefeb3b6487ab30536e725"
+  }
+}

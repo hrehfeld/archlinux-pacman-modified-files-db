@@ -1,1 +1,20 @@
-{"0.5.3-3": {"/usr/share/haskell/register/haskell-distributive.sh": "175c215e5c22a85e290565e6be98b9ad6013a072696a2b38f522d5ad80673b8b", "/usr/share/haskell/unregister/haskell-distributive.sh": "a2308752e73a1c8a088fc2a38a45625a346de40b31b86029b8fd7b942f635d84", "/usr/share/licenses/haskell-distributive/LICENSE": "7d94212fab30a5dd88ff193657043cf9c3df8353380ad4c7de6bc10b45d6fed8", "/usr/lib/libHSdistributive-0.5.3-99ryfobDi0e5qzYasSVH5G-ghc8.2.1.so": "66c952418d1fde3b0b75c296deba718ad4377a153259817bede0f0113b861176", "/usr/lib/ghc-8.2.1/site-local/distributive-0.5.3/Data/Distributive.dyn_hi": "4021d9513fd832cf1701c8048e6ce31dd3a7819bee6af58f1c7fe490d1f37d99", "/usr/lib/ghc-8.2.1/site-local/distributive-0.5.3/Data/Distributive/Generic.dyn_hi": "556662b4744f75fddca4ea7a09a5df21ae6f066480bdeb53b2d9aae3fcaace47", "/var/log/pacman.log": "7f74db082c40b110b5586a35d6b05645a8067d86258f2a4bd9334e7403df20e5"}, "0.5.3-4": {"/usr/share/haskell/register/haskell-distributive.sh": "b3ec0e8cd6e3da83d7b24717f15753929fd477239aa0c0f6de487511b6873b00", "/usr/share/haskell/unregister/haskell-distributive.sh": "9f6d69bac1a10717c0d3bc0b6e8f1b404e8c6fb1d10220c5e6a98e5cadec4533", "/usr/share/licenses/haskell-distributive/LICENSE": "7d94212fab30a5dd88ff193657043cf9c3df8353380ad4c7de6bc10b45d6fed8", "/usr/lib/libHSdistributive-0.5.3-3QQWO3yfOScASLf5zUz2JE-ghc8.2.2.so": "56c27249adfb856f3e318eab13a21eba5bddf0e48ee060b9b90b7a2d6b0818d1", "/usr/lib/ghc-8.2.2/site-local/distributive-0.5.3/Data/Distributive.dyn_hi": "7a0192b649089c1e68aba65f3dd589f7092880098a502440dbfa7497c91e9681", "/usr/lib/ghc-8.2.2/site-local/distributive-0.5.3/Data/Distributive/Generic.dyn_hi": "b5251b837850aa0bf6817fb6780cee81d10f2a1900fb0ab97ea00d412ffe68ee", "/var/log/pacman.log": "64ee674e628a20f69ac6e8812976587ad529cd937f3ccf00f8e4ea66664f2e75"}}
+{
+  "0.5.3-3": {
+    "/usr/share/haskell/register/haskell-distributive.sh": "175c215e5c22a85e290565e6be98b9ad6013a072696a2b38f522d5ad80673b8b",
+    "/usr/share/haskell/unregister/haskell-distributive.sh": "a2308752e73a1c8a088fc2a38a45625a346de40b31b86029b8fd7b942f635d84",
+    "/usr/share/licenses/haskell-distributive/LICENSE": "7d94212fab30a5dd88ff193657043cf9c3df8353380ad4c7de6bc10b45d6fed8",
+    "/usr/lib/libHSdistributive-0.5.3-99ryfobDi0e5qzYasSVH5G-ghc8.2.1.so": "66c952418d1fde3b0b75c296deba718ad4377a153259817bede0f0113b861176",
+    "/usr/lib/ghc-8.2.1/site-local/distributive-0.5.3/Data/Distributive.dyn_hi": "4021d9513fd832cf1701c8048e6ce31dd3a7819bee6af58f1c7fe490d1f37d99",
+    "/usr/lib/ghc-8.2.1/site-local/distributive-0.5.3/Data/Distributive/Generic.dyn_hi": "556662b4744f75fddca4ea7a09a5df21ae6f066480bdeb53b2d9aae3fcaace47",
+    "/var/log/pacman.log": "7f74db082c40b110b5586a35d6b05645a8067d86258f2a4bd9334e7403df20e5"
+  },
+  "0.5.3-4": {
+    "/usr/share/haskell/register/haskell-distributive.sh": "b3ec0e8cd6e3da83d7b24717f15753929fd477239aa0c0f6de487511b6873b00",
+    "/usr/share/haskell/unregister/haskell-distributive.sh": "9f6d69bac1a10717c0d3bc0b6e8f1b404e8c6fb1d10220c5e6a98e5cadec4533",
+    "/usr/share/licenses/haskell-distributive/LICENSE": "7d94212fab30a5dd88ff193657043cf9c3df8353380ad4c7de6bc10b45d6fed8",
+    "/usr/lib/libHSdistributive-0.5.3-3QQWO3yfOScASLf5zUz2JE-ghc8.2.2.so": "56c27249adfb856f3e318eab13a21eba5bddf0e48ee060b9b90b7a2d6b0818d1",
+    "/usr/lib/ghc-8.2.2/site-local/distributive-0.5.3/Data/Distributive.dyn_hi": "7a0192b649089c1e68aba65f3dd589f7092880098a502440dbfa7497c91e9681",
+    "/usr/lib/ghc-8.2.2/site-local/distributive-0.5.3/Data/Distributive/Generic.dyn_hi": "b5251b837850aa0bf6817fb6780cee81d10f2a1900fb0ab97ea00d412ffe68ee",
+    "/var/log/pacman.log": "64ee674e628a20f69ac6e8812976587ad529cd937f3ccf00f8e4ea66664f2e75"
+  }
+}

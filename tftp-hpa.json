@@ -1,1 +1,13 @@
-{"5.2-6": {"/usr/bin/in.tftpd": "357ba4f2a1926d9d8549b87e3f67b348b5a1abcb2d064957454dccf458ed5dac", "/usr/bin/tftp": "e1964ab6862778411b7784eee99444f85021fb56a6a8e916ab035d9c6fa05617", "/usr/share/man/man1/tftp.1.gz": "b42a9271946cb538c5a0009c3a45c730f5a6f163b10bfa7357d9bd069a13c20b", "/usr/share/man/man8/in.tftpd.8.gz": "71a7a5a9142348b4384abf71c2bccbf7b73e62708f643b7b29cc340cfe9a40e6", "/usr/share/licenses/tftp-hpa/LICENSE": "628639fd20f1716bfd71a8bc4bf983fd16eb004cc1ec5a4abf99e6618cfcb870", "/usr/lib/systemd/system/tftpd.service": "da79f8d3791daa91624677d4b3ace91b63965c87c6791e3ce0155637609c6cb1", "/usr/lib/systemd/system/tftpd.socket": "22af7da2cb61a119cfcba65f740ff0a35157204218dcbdbf13e14dbf74043ff2", "/var/log/pacman.log": "160c1cbbcbf675b893117cb782d8bf6cb45827c97d1e83a238e523fc9e0e68d9", "/etc/conf.d/tftpd": "f4bbc89a460da40f0914ebf55edce0306090e11073ea31f6ffc11d62b527ece4"}}
+{
+  "5.2-6": {
+    "/usr/bin/in.tftpd": "357ba4f2a1926d9d8549b87e3f67b348b5a1abcb2d064957454dccf458ed5dac",
+    "/usr/bin/tftp": "e1964ab6862778411b7784eee99444f85021fb56a6a8e916ab035d9c6fa05617",
+    "/usr/share/man/man1/tftp.1.gz": "b42a9271946cb538c5a0009c3a45c730f5a6f163b10bfa7357d9bd069a13c20b",
+    "/usr/share/man/man8/in.tftpd.8.gz": "71a7a5a9142348b4384abf71c2bccbf7b73e62708f643b7b29cc340cfe9a40e6",
+    "/usr/share/licenses/tftp-hpa/LICENSE": "628639fd20f1716bfd71a8bc4bf983fd16eb004cc1ec5a4abf99e6618cfcb870",
+    "/usr/lib/systemd/system/tftpd.service": "da79f8d3791daa91624677d4b3ace91b63965c87c6791e3ce0155637609c6cb1",
+    "/usr/lib/systemd/system/tftpd.socket": "22af7da2cb61a119cfcba65f740ff0a35157204218dcbdbf13e14dbf74043ff2",
+    "/var/log/pacman.log": "160c1cbbcbf675b893117cb782d8bf6cb45827c97d1e83a238e523fc9e0e68d9",
+    "/etc/conf.d/tftpd": "f4bbc89a460da40f0914ebf55edce0306090e11073ea31f6ffc11d62b527ece4"
+  }
+}

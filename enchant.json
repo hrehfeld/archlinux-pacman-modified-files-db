@@ -1,1 +1,39 @@
-{"1.6.1-2": {"/usr/lib/libenchant.so.1": "161d1b60eea997e97143747bee9703ebcbb6d48c64d6b0aafbc11426d98dd35a", "/usr/lib/libenchant.so": "161d1b60eea997e97143747bee9703ebcbb6d48c64d6b0aafbc11426d98dd35a", "/usr/lib/libenchant.so.1.6.1": "161d1b60eea997e97143747bee9703ebcbb6d48c64d6b0aafbc11426d98dd35a", "/usr/lib/enchant/libenchant_voikko.so": "7f3c2e52fba6eb61f9228cf34079445c81a2c832b7d5794666576f7cbfc04576", "/usr/lib/enchant/libenchant_hspell.so": "fc6dd63035f484ab306aa0cd3e8354009f1c88e5407787acde6a69f52de3115e", "/usr/lib/enchant/libenchant_myspell.so": "218b264afbf8648a5e30597db7ee96503a75d11d86efcdd264d8bf4821faf104", "/usr/lib/enchant/libenchant_aspell.so": "cd90970a93d60f479649cc3239701ab7ebf565f3ab3aac00886d06b5e03ac0a9", "/usr/lib/pkgconfig/enchant.pc": "bba571f9bd3a278ed7bea34d66b8f38e40634f359f8a8771fda12752cfed5587", "/usr/include/enchant/enchant.h": "0547ee1e6d99d0438695ac5c248f4816dedd0b0b0a5286c588869eba460f53c5", "/usr/include/enchant/enchant-provider.h": "09d7004df2644368fc5ee66177025ba24342d4303c1f351fb40ccc5dc7008e0c", "/usr/include/enchant/enchant++.h": "f491e57a91cac50cecdb15ca8916246db6e0bbc51d12c1b2cc2bfa523f873bb2", "/usr/bin/enchant": "7f4029654d9657ea911d72f21a40fc339611e011a98fae82542fa3629b247f45", "/usr/bin/enchant-lsmod": "82b00eb38a2a01027ee18d59fe3054d11b5eadfcbfda54cc8dc584b668562002", "/usr/share/man/man1/enchant.1.gz": "8f3578a1efe844a2411b7b8d5bd421f058e9363c5f72018bdd6dedbb9909408e", "/usr/share/enchant/enchant.ordering": "6824633f523baf6da5a8848f6edb7a7df16dfb3144c12c03be8985319ffad407", "/var/log/pacman.log": "8afb37daa72735d74f163aa13eb9f7c5788891bf78fdb02f1b12160a762e7cd9"}, "2.1.2-3": {"/usr/include/enchant/enchant.h": "c77a38527d44cc83a3ca4d5d57c4d291a63863d67a1c266539d381c8230ee9e8", "/usr/include/enchant/enchant-provider.h": "209197953744055cad4e4f4b04c0c21b7cdc8624052a821fb354e801238fe172", "/usr/include/enchant/enchant++.h": "0ac53d0a6822bdf07a6c535fa0f1df4760a186ef40604f7febd9f89ca99fc1dd", "/usr/lib/libenchant.so.2": "501f161213bd8f73ebdf5e24ca945161374a59592449f8ed0bc8c49b53241413", "/usr/lib/libenchant.so": "501f161213bd8f73ebdf5e24ca945161374a59592449f8ed0bc8c49b53241413", "/usr/lib/libenchant.so.2.1.2": "501f161213bd8f73ebdf5e24ca945161374a59592449f8ed0bc8c49b53241413", "/usr/lib/enchant/enchant_voikko.so": "bc7b87747aba5b09606eec552734f1375be74bb229e5b4188b5fcecec7e8dc38", "/usr/lib/enchant/enchant_hunspell.so": "5e3e7674cf43459476c009277cd1e7fb25ea740023d450a2384f790d77649ea1", "/usr/lib/enchant/enchant_hspell.so": "bc882807da1d21ebd4618d804b6af98628b0b6f6431bc68a0b11a78f723cb666", "/usr/lib/enchant/enchant_aspell.so": "171cef4e48f468ad872bec2102e20cc915ba2fb3889ab681c16275ae6cf88d9a", "/usr/lib/pkgconfig/enchant.pc": "f3b7f839c7b5634ad7b186605261a816623fac46e862a26ade219604e55871de", "/usr/share/enchant/enchant.ordering": "ab34ee37c7ffdef3a36ff5a0623d097f2a4dc1f52c3b60ea3545ecc00a39057c", "/usr/share/man/man1/enchant-lsmod.1.gz": "c0186406fed5f4602ae9bda10b280a21d2ccc10991d44c4f985609104b9a2a3b", "/usr/share/man/man1/enchant.1.gz": "d20d3cd185289e404b68c775b767314f17de0ce3072173e42ace605333fc3531", "/usr/bin/enchant": "ab123fbcbc496af994a5726dc0341aaefb66c36db0b43840a6012db3fd80e8b1", "/usr/bin/enchant-lsmod": "c38a3ea806dee9843f205f6d259606b4482fd9aa266d9ca0197a80045b93f650", "/var/log/pacman.log": "eda1568e74550c1df85892df5f9dd3ce81a821c2b7ad7706c67e1df870aee772"}}
+{
+  "1.6.1-2": {
+    "/usr/lib/libenchant.so.1": "161d1b60eea997e97143747bee9703ebcbb6d48c64d6b0aafbc11426d98dd35a",
+    "/usr/lib/libenchant.so": "161d1b60eea997e97143747bee9703ebcbb6d48c64d6b0aafbc11426d98dd35a",
+    "/usr/lib/libenchant.so.1.6.1": "161d1b60eea997e97143747bee9703ebcbb6d48c64d6b0aafbc11426d98dd35a",
+    "/usr/lib/enchant/libenchant_voikko.so": "7f3c2e52fba6eb61f9228cf34079445c81a2c832b7d5794666576f7cbfc04576",
+    "/usr/lib/enchant/libenchant_hspell.so": "fc6dd63035f484ab306aa0cd3e8354009f1c88e5407787acde6a69f52de3115e",
+    "/usr/lib/enchant/libenchant_myspell.so": "218b264afbf8648a5e30597db7ee96503a75d11d86efcdd264d8bf4821faf104",
+    "/usr/lib/enchant/libenchant_aspell.so": "cd90970a93d60f479649cc3239701ab7ebf565f3ab3aac00886d06b5e03ac0a9",
+    "/usr/lib/pkgconfig/enchant.pc": "bba571f9bd3a278ed7bea34d66b8f38e40634f359f8a8771fda12752cfed5587",
+    "/usr/include/enchant/enchant.h": "0547ee1e6d99d0438695ac5c248f4816dedd0b0b0a5286c588869eba460f53c5",
+    "/usr/include/enchant/enchant-provider.h": "09d7004df2644368fc5ee66177025ba24342d4303c1f351fb40ccc5dc7008e0c",
+    "/usr/include/enchant/enchant++.h": "f491e57a91cac50cecdb15ca8916246db6e0bbc51d12c1b2cc2bfa523f873bb2",
+    "/usr/bin/enchant": "7f4029654d9657ea911d72f21a40fc339611e011a98fae82542fa3629b247f45",
+    "/usr/bin/enchant-lsmod": "82b00eb38a2a01027ee18d59fe3054d11b5eadfcbfda54cc8dc584b668562002",
+    "/usr/share/man/man1/enchant.1.gz": "8f3578a1efe844a2411b7b8d5bd421f058e9363c5f72018bdd6dedbb9909408e",
+    "/usr/share/enchant/enchant.ordering": "6824633f523baf6da5a8848f6edb7a7df16dfb3144c12c03be8985319ffad407",
+    "/var/log/pacman.log": "8afb37daa72735d74f163aa13eb9f7c5788891bf78fdb02f1b12160a762e7cd9"
+  },
+  "2.1.2-3": {
+    "/usr/include/enchant/enchant.h": "c77a38527d44cc83a3ca4d5d57c4d291a63863d67a1c266539d381c8230ee9e8",
+    "/usr/include/enchant/enchant-provider.h": "209197953744055cad4e4f4b04c0c21b7cdc8624052a821fb354e801238fe172",
+    "/usr/include/enchant/enchant++.h": "0ac53d0a6822bdf07a6c535fa0f1df4760a186ef40604f7febd9f89ca99fc1dd",
+    "/usr/lib/libenchant.so.2": "501f161213bd8f73ebdf5e24ca945161374a59592449f8ed0bc8c49b53241413",
+    "/usr/lib/libenchant.so": "501f161213bd8f73ebdf5e24ca945161374a59592449f8ed0bc8c49b53241413",
+    "/usr/lib/libenchant.so.2.1.2": "501f161213bd8f73ebdf5e24ca945161374a59592449f8ed0bc8c49b53241413",
+    "/usr/lib/enchant/enchant_voikko.so": "bc7b87747aba5b09606eec552734f1375be74bb229e5b4188b5fcecec7e8dc38",
+    "/usr/lib/enchant/enchant_hunspell.so": "5e3e7674cf43459476c009277cd1e7fb25ea740023d450a2384f790d77649ea1",
+    "/usr/lib/enchant/enchant_hspell.so": "bc882807da1d21ebd4618d804b6af98628b0b6f6431bc68a0b11a78f723cb666",
+    "/usr/lib/enchant/enchant_aspell.so": "171cef4e48f468ad872bec2102e20cc915ba2fb3889ab681c16275ae6cf88d9a",
+    "/usr/lib/pkgconfig/enchant.pc": "f3b7f839c7b5634ad7b186605261a816623fac46e862a26ade219604e55871de",
+    "/usr/share/enchant/enchant.ordering": "ab34ee37c7ffdef3a36ff5a0623d097f2a4dc1f52c3b60ea3545ecc00a39057c",
+    "/usr/share/man/man1/enchant-lsmod.1.gz": "c0186406fed5f4602ae9bda10b280a21d2ccc10991d44c4f985609104b9a2a3b",
+    "/usr/share/man/man1/enchant.1.gz": "d20d3cd185289e404b68c775b767314f17de0ce3072173e42ace605333fc3531",
+    "/usr/bin/enchant": "ab123fbcbc496af994a5726dc0341aaefb66c36db0b43840a6012db3fd80e8b1",
+    "/usr/bin/enchant-lsmod": "c38a3ea806dee9843f205f6d259606b4482fd9aa266d9ca0197a80045b93f650",
+    "/var/log/pacman.log": "eda1568e74550c1df85892df5f9dd3ce81a821c2b7ad7706c67e1df870aee772"
+  }
+}

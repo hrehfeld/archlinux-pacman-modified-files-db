@@ -1,1 +1,10 @@
-{"5.0+9+g4292ec1-1": {"/usr/share/doc/fixesproto/fixesproto.txt": "d7d3df9e3576ce3783b7159d2ff40ed9b79f685d8f31e7cdf585f0606d5a66f1", "/usr/share/licenses/fixesproto/COPYING": "65cb0b867b00fb27f066a37353713b265645b3301146562570d7638ed2ddd548", "/usr/lib/pkgconfig/fixesproto.pc": "ef4a3f598ef915c006b45412b02d847a8ab9bf51c5474768e9232f120a91de0d", "/usr/include/X11/extensions/xfixesproto.h": "9c16d981a7b2c0310a7ab144518fbee96a7175bb59e3c282a10b334d37c2e78a", "/usr/include/X11/extensions/xfixeswire.h": "63baa4419d9b4a7fc2466bf5bdd2c4543dc99ed2693d4173491891623c777628", "/var/log/pacman.log": "454c8052ee507db809dc8f5bb17f019f617243ef784f341881e2bdf7cce315f9"}}
+{
+  "5.0+9+g4292ec1-1": {
+    "/usr/share/doc/fixesproto/fixesproto.txt": "d7d3df9e3576ce3783b7159d2ff40ed9b79f685d8f31e7cdf585f0606d5a66f1",
+    "/usr/share/licenses/fixesproto/COPYING": "65cb0b867b00fb27f066a37353713b265645b3301146562570d7638ed2ddd548",
+    "/usr/lib/pkgconfig/fixesproto.pc": "ef4a3f598ef915c006b45412b02d847a8ab9bf51c5474768e9232f120a91de0d",
+    "/usr/include/X11/extensions/xfixesproto.h": "9c16d981a7b2c0310a7ab144518fbee96a7175bb59e3c282a10b334d37c2e78a",
+    "/usr/include/X11/extensions/xfixeswire.h": "63baa4419d9b4a7fc2466bf5bdd2c4543dc99ed2693d4173491891623c777628",
+    "/var/log/pacman.log": "454c8052ee507db809dc8f5bb17f019f617243ef784f341881e2bdf7cce315f9"
+  }
+}

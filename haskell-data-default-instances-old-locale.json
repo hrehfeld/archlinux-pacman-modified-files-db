@@ -1,1 +1,18 @@
-{"0.0.1-17": {"/usr/share/haskell/register/haskell-data-default-instances-old-locale.sh": "d54f41b45665e450a2222d3d8e85e71edc85fcfa6462f8a81931ebea786e0b47", "/usr/share/haskell/unregister/haskell-data-default-instances-old-locale.sh": "c7c4c7df6a702f6cd0dc154c494be08c8de0bc33528b226a0c107cc218965815", "/usr/share/licenses/haskell-data-default-instances-old-locale/LICENSE": "9287b59c798c900647a7459537ceddcba3189ad3d387dd854daf42e34f1ad6d2", "/usr/lib/libHSdata-default-instances-old-locale-0.0.1-Ld3C1Dh4jJQJP1h0gbWAfW-ghc8.2.1.so": "4f5abde908118cc6c69c3df0b267f3fd1f1a038ea598cb012368c99d866e7f23", "/usr/lib/ghc-8.2.1/site-local/data-default-instances-old-locale-0.0.1/Data/Default/Instances/OldLocale.dyn_hi": "2c0544475b81bbb4d4fa749cfe8d8f7833457ccdc18ecc1efbc805b30145e262", "/var/log/pacman.log": "e552395222e96de0faaeb43e9a4f48ca5e576d211d607f758e0356b2d78b2d69"}, "0.0.1-18": {"/usr/share/haskell/register/haskell-data-default-instances-old-locale.sh": "593ff2c3209461873736ded412e63bf1afd5068521578940a6bd04181526af34", "/usr/share/haskell/unregister/haskell-data-default-instances-old-locale.sh": "d8e7fd161ee3a4329c62ac6686f4c897da143739b850dbe6278c7d50198d0043", "/usr/share/licenses/haskell-data-default-instances-old-locale/LICENSE": "9287b59c798c900647a7459537ceddcba3189ad3d387dd854daf42e34f1ad6d2", "/usr/lib/libHSdata-default-instances-old-locale-0.0.1-6ZFLKy4Vvcz8xFOlvSUR6g-ghc8.2.2.so": "fc472ad550b9e558a07857d75e0f92f228b6051c236da6abbfc5f16316a96a9f", "/usr/lib/ghc-8.2.2/site-local/data-default-instances-old-locale-0.0.1/Data/Default/Instances/OldLocale.dyn_hi": "b5cb96392e0a9bbeac96b16286d7f72c053887bf51e9fa5fd0832ab2a9b4c39e", "/var/log/pacman.log": "118e7e81a1fb003878de211294868bd629e8a89420cb67ea9684212ae5976e26"}}
+{
+  "0.0.1-17": {
+    "/usr/share/haskell/register/haskell-data-default-instances-old-locale.sh": "d54f41b45665e450a2222d3d8e85e71edc85fcfa6462f8a81931ebea786e0b47",
+    "/usr/share/haskell/unregister/haskell-data-default-instances-old-locale.sh": "c7c4c7df6a702f6cd0dc154c494be08c8de0bc33528b226a0c107cc218965815",
+    "/usr/share/licenses/haskell-data-default-instances-old-locale/LICENSE": "9287b59c798c900647a7459537ceddcba3189ad3d387dd854daf42e34f1ad6d2",
+    "/usr/lib/libHSdata-default-instances-old-locale-0.0.1-Ld3C1Dh4jJQJP1h0gbWAfW-ghc8.2.1.so": "4f5abde908118cc6c69c3df0b267f3fd1f1a038ea598cb012368c99d866e7f23",
+    "/usr/lib/ghc-8.2.1/site-local/data-default-instances-old-locale-0.0.1/Data/Default/Instances/OldLocale.dyn_hi": "2c0544475b81bbb4d4fa749cfe8d8f7833457ccdc18ecc1efbc805b30145e262",
+    "/var/log/pacman.log": "e552395222e96de0faaeb43e9a4f48ca5e576d211d607f758e0356b2d78b2d69"
+  },
+  "0.0.1-18": {
+    "/usr/share/haskell/register/haskell-data-default-instances-old-locale.sh": "593ff2c3209461873736ded412e63bf1afd5068521578940a6bd04181526af34",
+    "/usr/share/haskell/unregister/haskell-data-default-instances-old-locale.sh": "d8e7fd161ee3a4329c62ac6686f4c897da143739b850dbe6278c7d50198d0043",
+    "/usr/share/licenses/haskell-data-default-instances-old-locale/LICENSE": "9287b59c798c900647a7459537ceddcba3189ad3d387dd854daf42e34f1ad6d2",
+    "/usr/lib/libHSdata-default-instances-old-locale-0.0.1-6ZFLKy4Vvcz8xFOlvSUR6g-ghc8.2.2.so": "fc472ad550b9e558a07857d75e0f92f228b6051c236da6abbfc5f16316a96a9f",
+    "/usr/lib/ghc-8.2.2/site-local/data-default-instances-old-locale-0.0.1/Data/Default/Instances/OldLocale.dyn_hi": "b5cb96392e0a9bbeac96b16286d7f72c053887bf51e9fa5fd0832ab2a9b4c39e",
+    "/var/log/pacman.log": "118e7e81a1fb003878de211294868bd629e8a89420cb67ea9684212ae5976e26"
+  }
+}

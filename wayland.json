@@ -1,1 +1,35 @@
-{"1.14.0-1": {"/usr/bin/wayland-scanner": "4bdeef5014a35e48e34bb2336afacb4d165018642736b11cb697802a4a7fbe87", "/usr/lib/libwayland-cursor.so.0.0.0": "913f98042f772637b5c5eaa9cb1c620522497b45fd74ecb28944517319d5413f", "/usr/lib/libwayland-client.so.0.3.0": "000de934ccc7c0466448aeaf347d23cfc1c094c55cd98b91b78b2e7d2b30ce51", "/usr/lib/libwayland-server.so.0.1.0": "57f3cbfc14e90400b960d2e4d1eee4db2d4608d5b498abd315081359769334ce", "/usr/lib/libwayland-cursor.so": "913f98042f772637b5c5eaa9cb1c620522497b45fd74ecb28944517319d5413f", "/usr/lib/libwayland-cursor.so.0": "913f98042f772637b5c5eaa9cb1c620522497b45fd74ecb28944517319d5413f", "/usr/lib/libwayland-client.so": "000de934ccc7c0466448aeaf347d23cfc1c094c55cd98b91b78b2e7d2b30ce51", "/usr/lib/libwayland-client.so.0": "000de934ccc7c0466448aeaf347d23cfc1c094c55cd98b91b78b2e7d2b30ce51", "/usr/lib/libwayland-server.so": "57f3cbfc14e90400b960d2e4d1eee4db2d4608d5b498abd315081359769334ce", "/usr/lib/libwayland-server.so.0": "57f3cbfc14e90400b960d2e4d1eee4db2d4608d5b498abd315081359769334ce", "/usr/lib/pkgconfig/wayland-cursor.pc": "a946ef45719154f1a789f98d62c4e0e0e4193d17107c9ceb81c1a86b02697f9d", "/usr/lib/pkgconfig/wayland-server.pc": "f5bbed25955578fae97607f67bc81d851e02be5f57ed1807bb2f72f5593ecd31", "/usr/lib/pkgconfig/wayland-client.pc": "2ef2e2cc8d413592c502caac19f5928e969a9ad96b1ac4fe8327bba81e337a69", "/usr/lib/pkgconfig/wayland-scanner.pc": "cbadb9b73fc63e2859c58d0a18a2f128175a0569df91de0e0346d12c8b2e38b8", "/usr/include/wayland-client-protocol.h": "b43984650e24db2b30be84e42ba51ab9a10589c69d74720ed19600347a588098", "/usr/include/wayland-server-protocol.h": "86b456c99fb2778e3ac3365738b6600bbeda587d155c9a6b50e4a9a29217075c", "/usr/include/wayland-cursor.h": "a65d2dc70a741cfc2e9db0f05bf902dfbc78d4b01559b4294bd07b6d5b1b7f26", "/usr/include/wayland-version.h": "bed7bb277eab241f0e1bb3638e715bf6da14da9a88528a378df59ef7d9361fa1", "/usr/include/wayland-egl-core.h": "07cd540e327a028066da1dc79dc25126641509857a4478560471540cf1b35c42", "/usr/include/wayland-egl.h": "e33be2aa8a700a508d175106c12ea5713faf1c9d9f189d6f8af951849a504abd", "/usr/include/wayland-client-core.h": "4ccc69bd4892d5346ea4d478f188dea9b9fde143c5510870aa49211ebe709fe6", "/usr/include/wayland-client.h": "e9dd1fb014aa6ad848cb7d241cc223b1a70fc0b17fed5997262024e4c05532f7", "/usr/include/wayland-server-core.h": "33b6503b8dfda141e69952d6274127ee8cbdf6614f281346e63ee688a9f9790f", "/usr/include/wayland-server.h": "906ec5cfecba1c23de8c13dee5db4fa9ad4859383dcf26755c9b433d34f124ab", "/usr/include/wayland-util.h": "7f98adf521316bd6fe7f047895c13748f9c1aebe0180ee22412b2c71202749d1", "/usr/share/licenses/wayland/COPYING": "6eefcb023622a463168a5c20add95fd24a38c7482622a9254a23b99b7c153061", "/usr/share/wayland/wayland.dtd": "a447eb4e5b49c078faab679f667cb9b7eeef35f72db1dfea56d6b7f576da79dc", "/usr/share/wayland/wayland.xml": "12d4745d7370e4dfd1c7ea9cfd5353bc09ab6a1e36efc746723639f99a6c9a2b", "/usr/share/wayland/wayland-scanner.mk": "52ef37bda9424a5c9d5b621c68156bb3c729b276564a2dc6d4389cb3b24b551b", "/usr/share/aclocal/wayland-scanner.m4": "bff12097500915cec1d946e462d046e7c57740329c707e5a03313f572c157b24", "/var/log/pacman.log": "f7dd7c1576315a34d9993e2076927ff27e528f0a334020df831ecadcbdf0a7a3"}}
+{
+  "1.14.0-1": {
+    "/usr/bin/wayland-scanner": "4bdeef5014a35e48e34bb2336afacb4d165018642736b11cb697802a4a7fbe87",
+    "/usr/lib/libwayland-cursor.so.0.0.0": "913f98042f772637b5c5eaa9cb1c620522497b45fd74ecb28944517319d5413f",
+    "/usr/lib/libwayland-client.so.0.3.0": "000de934ccc7c0466448aeaf347d23cfc1c094c55cd98b91b78b2e7d2b30ce51",
+    "/usr/lib/libwayland-server.so.0.1.0": "57f3cbfc14e90400b960d2e4d1eee4db2d4608d5b498abd315081359769334ce",
+    "/usr/lib/libwayland-cursor.so": "913f98042f772637b5c5eaa9cb1c620522497b45fd74ecb28944517319d5413f",
+    "/usr/lib/libwayland-cursor.so.0": "913f98042f772637b5c5eaa9cb1c620522497b45fd74ecb28944517319d5413f",
+    "/usr/lib/libwayland-client.so": "000de934ccc7c0466448aeaf347d23cfc1c094c55cd98b91b78b2e7d2b30ce51",
+    "/usr/lib/libwayland-client.so.0": "000de934ccc7c0466448aeaf347d23cfc1c094c55cd98b91b78b2e7d2b30ce51",
+    "/usr/lib/libwayland-server.so": "57f3cbfc14e90400b960d2e4d1eee4db2d4608d5b498abd315081359769334ce",
+    "/usr/lib/libwayland-server.so.0": "57f3cbfc14e90400b960d2e4d1eee4db2d4608d5b498abd315081359769334ce",
+    "/usr/lib/pkgconfig/wayland-cursor.pc": "a946ef45719154f1a789f98d62c4e0e0e4193d17107c9ceb81c1a86b02697f9d",
+    "/usr/lib/pkgconfig/wayland-server.pc": "f5bbed25955578fae97607f67bc81d851e02be5f57ed1807bb2f72f5593ecd31",
+    "/usr/lib/pkgconfig/wayland-client.pc": "2ef2e2cc8d413592c502caac19f5928e969a9ad96b1ac4fe8327bba81e337a69",
+    "/usr/lib/pkgconfig/wayland-scanner.pc": "cbadb9b73fc63e2859c58d0a18a2f128175a0569df91de0e0346d12c8b2e38b8",
+    "/usr/include/wayland-client-protocol.h": "b43984650e24db2b30be84e42ba51ab9a10589c69d74720ed19600347a588098",
+    "/usr/include/wayland-server-protocol.h": "86b456c99fb2778e3ac3365738b6600bbeda587d155c9a6b50e4a9a29217075c",
+    "/usr/include/wayland-cursor.h": "a65d2dc70a741cfc2e9db0f05bf902dfbc78d4b01559b4294bd07b6d5b1b7f26",
+    "/usr/include/wayland-version.h": "bed7bb277eab241f0e1bb3638e715bf6da14da9a88528a378df59ef7d9361fa1",
+    "/usr/include/wayland-egl-core.h": "07cd540e327a028066da1dc79dc25126641509857a4478560471540cf1b35c42",
+    "/usr/include/wayland-egl.h": "e33be2aa8a700a508d175106c12ea5713faf1c9d9f189d6f8af951849a504abd",
+    "/usr/include/wayland-client-core.h": "4ccc69bd4892d5346ea4d478f188dea9b9fde143c5510870aa49211ebe709fe6",
+    "/usr/include/wayland-client.h": "e9dd1fb014aa6ad848cb7d241cc223b1a70fc0b17fed5997262024e4c05532f7",
+    "/usr/include/wayland-server-core.h": "33b6503b8dfda141e69952d6274127ee8cbdf6614f281346e63ee688a9f9790f",
+    "/usr/include/wayland-server.h": "906ec5cfecba1c23de8c13dee5db4fa9ad4859383dcf26755c9b433d34f124ab",
+    "/usr/include/wayland-util.h": "7f98adf521316bd6fe7f047895c13748f9c1aebe0180ee22412b2c71202749d1",
+    "/usr/share/licenses/wayland/COPYING": "6eefcb023622a463168a5c20add95fd24a38c7482622a9254a23b99b7c153061",
+    "/usr/share/wayland/wayland.dtd": "a447eb4e5b49c078faab679f667cb9b7eeef35f72db1dfea56d6b7f576da79dc",
+    "/usr/share/wayland/wayland.xml": "12d4745d7370e4dfd1c7ea9cfd5353bc09ab6a1e36efc746723639f99a6c9a2b",
+    "/usr/share/wayland/wayland-scanner.mk": "52ef37bda9424a5c9d5b621c68156bb3c729b276564a2dc6d4389cb3b24b551b",
+    "/usr/share/aclocal/wayland-scanner.m4": "bff12097500915cec1d946e462d046e7c57740329c707e5a03313f572c157b24",
+    "/var/log/pacman.log": "f7dd7c1576315a34d9993e2076927ff27e528f0a334020df831ecadcbdf0a7a3"
+  }
+}

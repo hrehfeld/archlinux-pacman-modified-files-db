@@ -1,1 +1,12 @@
-{"5.2.1-2": {"/usr/share/licenses/python-feedparser/license": "3adcffa23e565106bd6af3aacc5d03cf7948073791c842037181683c61f4163f", "/usr/lib/python3.6/site-packages/feedparser.py": "671121fbc44b829ddb0438191215abc438d8c3071d7281340509e09106cd2f12", "/usr/lib/python3.6/site-packages/feedparser-5.2.1-py3.6.egg-info/SOURCES.txt": "6b6cafc3b4eeb5b1d0d7f1ea32a3c79b52e7e87357dbc874688bc1d2315bcc07", "/usr/lib/python3.6/site-packages/feedparser-5.2.1-py3.6.egg-info/top_level.txt": "57c38cc8e15f396238e9e9b613e486a48cb0b8f64462d30f39c3ee6bf833bd49", "/usr/lib/python3.6/site-packages/feedparser-5.2.1-py3.6.egg-info/dependency_links.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b", "/usr/lib/python3.6/site-packages/feedparser-5.2.1-py3.6.egg-info/PKG-INFO": "646be94f5a59c15f429c99ca526f81dac9558412d346ff727884ca7deb2ba09d", "/usr/lib/python3.6/site-packages/__pycache__/feedparser.cpython-36.pyc": "bea44f802ffb81ca0a198acfa6d6c62454f0d9b9869d981c987ce79de5a2c204", "/var/log/pacman.log": "65fd8001dd7ef0437eded212e755dfbf431829bfcea539521672fec49efc33f5"}}
+{
+  "5.2.1-2": {
+    "/usr/share/licenses/python-feedparser/license": "3adcffa23e565106bd6af3aacc5d03cf7948073791c842037181683c61f4163f",
+    "/usr/lib/python3.6/site-packages/feedparser.py": "671121fbc44b829ddb0438191215abc438d8c3071d7281340509e09106cd2f12",
+    "/usr/lib/python3.6/site-packages/feedparser-5.2.1-py3.6.egg-info/SOURCES.txt": "6b6cafc3b4eeb5b1d0d7f1ea32a3c79b52e7e87357dbc874688bc1d2315bcc07",
+    "/usr/lib/python3.6/site-packages/feedparser-5.2.1-py3.6.egg-info/top_level.txt": "57c38cc8e15f396238e9e9b613e486a48cb0b8f64462d30f39c3ee6bf833bd49",
+    "/usr/lib/python3.6/site-packages/feedparser-5.2.1-py3.6.egg-info/dependency_links.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "/usr/lib/python3.6/site-packages/feedparser-5.2.1-py3.6.egg-info/PKG-INFO": "646be94f5a59c15f429c99ca526f81dac9558412d346ff727884ca7deb2ba09d",
+    "/usr/lib/python3.6/site-packages/__pycache__/feedparser.cpython-36.pyc": "bea44f802ffb81ca0a198acfa6d6c62454f0d9b9869d981c987ce79de5a2c204",
+    "/var/log/pacman.log": "65fd8001dd7ef0437eded212e755dfbf431829bfcea539521672fec49efc33f5"
+  }
+}

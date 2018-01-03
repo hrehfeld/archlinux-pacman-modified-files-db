@@ -1,1 +1,10 @@
-{"2017.01.22-2": {"/usr/share/hunspell/en_US.dic": "8cbce08a66fcd4dd32eadcff2def2653b94863c2e2be1851c6e612558153b076", "/usr/share/hunspell/en_US.aff": "c7a8c4d08c29d237880844b1623099f59092602f189be38ce3912e457ff38bc1", "/usr/share/myspell/dicts/en_US.aff": "c7a8c4d08c29d237880844b1623099f59092602f189be38ce3912e457ff38bc1", "/usr/share/myspell/dicts/en_US.dic": "8cbce08a66fcd4dd32eadcff2def2653b94863c2e2be1851c6e612558153b076", "/usr/share/licenses/hunspell-en_US/Copyright_en_US": "6b4502d9d948c6d0d339226a24da3cc59d6a11b41f2221c104f1aa64fdd58cde", "/var/log/pacman.log": "b6d32dd3ed470423981ef65265f401d7d8166562630a46d6b7c20c4dd7a1a860"}}
+{
+  "2017.01.22-2": {
+    "/usr/share/hunspell/en_US.dic": "8cbce08a66fcd4dd32eadcff2def2653b94863c2e2be1851c6e612558153b076",
+    "/usr/share/hunspell/en_US.aff": "c7a8c4d08c29d237880844b1623099f59092602f189be38ce3912e457ff38bc1",
+    "/usr/share/myspell/dicts/en_US.aff": "c7a8c4d08c29d237880844b1623099f59092602f189be38ce3912e457ff38bc1",
+    "/usr/share/myspell/dicts/en_US.dic": "8cbce08a66fcd4dd32eadcff2def2653b94863c2e2be1851c6e612558153b076",
+    "/usr/share/licenses/hunspell-en_US/Copyright_en_US": "6b4502d9d948c6d0d339226a24da3cc59d6a11b41f2221c104f1aa64fdd58cde",
+    "/var/log/pacman.log": "b6d32dd3ed470423981ef65265f401d7d8166562630a46d6b7c20c4dd7a1a860"
+  }
+}

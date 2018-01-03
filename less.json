@@ -1,1 +1,11 @@
-{"487-1": {"/usr/share/man/man1/lessecho.1.gz": "020d396a5b680e8ca8bf67ea21b86f56fac542950a12fc93b9a18daafe0bc874", "/usr/share/man/man1/lesskey.1.gz": "5d6d50ae400939043cb50cd1d7416db886c00e9b0699b7ce4961ab99bacb79f1", "/usr/share/man/man1/less.1.gz": "3372a2f406418f437fd90a7f0937d9dec44af1f2bfb8082375fd65e4eef217e1", "/usr/bin/lessecho": "2963f6191688067eb36617657b9972e05b23b9c3ab16562ab4733a77dbbe2036", "/usr/bin/lesskey": "c899d72521cf51bc2978bfd1f6faa743f7ecd325b7fd67a1914d0d30ca0a1855", "/usr/bin/less": "29e41c0b269a5be4cc2e1ab324eae4f78893e74e4e1d267b6e1893c4fb9b79b0", "/var/log/pacman.log": "90b5d37242d67e4c8348b35ada38fad3df826c784839158391fbdb1d1e58cea2"}}
+{
+  "487-1": {
+    "/usr/share/man/man1/lessecho.1.gz": "020d396a5b680e8ca8bf67ea21b86f56fac542950a12fc93b9a18daafe0bc874",
+    "/usr/share/man/man1/lesskey.1.gz": "5d6d50ae400939043cb50cd1d7416db886c00e9b0699b7ce4961ab99bacb79f1",
+    "/usr/share/man/man1/less.1.gz": "3372a2f406418f437fd90a7f0937d9dec44af1f2bfb8082375fd65e4eef217e1",
+    "/usr/bin/lessecho": "2963f6191688067eb36617657b9972e05b23b9c3ab16562ab4733a77dbbe2036",
+    "/usr/bin/lesskey": "c899d72521cf51bc2978bfd1f6faa743f7ecd325b7fd67a1914d0d30ca0a1855",
+    "/usr/bin/less": "29e41c0b269a5be4cc2e1ab324eae4f78893e74e4e1d267b6e1893c4fb9b79b0",
+    "/var/log/pacman.log": "90b5d37242d67e4c8348b35ada38fad3df826c784839158391fbdb1d1e58cea2"
+  }
+}

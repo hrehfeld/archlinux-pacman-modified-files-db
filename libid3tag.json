@@ -1,1 +1,10 @@
-{"0.15.1b-8": {"/usr/lib/libid3tag.so.0.3.0": "f9c15a690f5cbb6b1a33f00d310c69ca249df2c972b8e13890232c33bfb53caa", "/usr/lib/libid3tag.so.0": "f9c15a690f5cbb6b1a33f00d310c69ca249df2c972b8e13890232c33bfb53caa", "/usr/lib/libid3tag.so": "f9c15a690f5cbb6b1a33f00d310c69ca249df2c972b8e13890232c33bfb53caa", "/usr/lib/pkgconfig/id3tag.pc": "06cfc4f15288a43b00c34eebc780a27ea2c79b18ff6f33a6a9ad376bf84d9140", "/usr/include/id3tag.h": "a1e084cb2a9cbb1698b9ed5ea4de7fc5bd23f31996ccb66fbbde7ffb4243362c", "/var/log/pacman.log": "119c3473e6bab0bf8d6308dea6d85025e25a6236276d49eacbdf54b936fef320"}}
+{
+  "0.15.1b-8": {
+    "/usr/lib/libid3tag.so.0.3.0": "f9c15a690f5cbb6b1a33f00d310c69ca249df2c972b8e13890232c33bfb53caa",
+    "/usr/lib/libid3tag.so.0": "f9c15a690f5cbb6b1a33f00d310c69ca249df2c972b8e13890232c33bfb53caa",
+    "/usr/lib/libid3tag.so": "f9c15a690f5cbb6b1a33f00d310c69ca249df2c972b8e13890232c33bfb53caa",
+    "/usr/lib/pkgconfig/id3tag.pc": "06cfc4f15288a43b00c34eebc780a27ea2c79b18ff6f33a6a9ad376bf84d9140",
+    "/usr/include/id3tag.h": "a1e084cb2a9cbb1698b9ed5ea4de7fc5bd23f31996ccb66fbbde7ffb4243362c",
+    "/var/log/pacman.log": "119c3473e6bab0bf8d6308dea6d85025e25a6236276d49eacbdf54b936fef320"
+  }
+}

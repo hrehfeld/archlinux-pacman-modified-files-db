@@ -1,1 +1,27 @@
-{"0.4.3.0-5": {"/usr/share/haskell/register/haskell-th-expand-syns.sh": "a9e4d6a964f480e264d645649a4b0333dfb18c57e4c5330183dac71729d53147", "/usr/share/haskell/unregister/haskell-th-expand-syns.sh": "5ddbb9e3423f64c6d15551229608a622fad7c494605ea1b0386aa3804539a563", "/usr/share/licenses/haskell-th-expand-syns/LICENSE": "414645545bef15e147a7668c1e92d63b15af71fe0aaf61e15be283df1d62b09d", "/usr/lib/libHSth-expand-syns-0.4.3.0-JDBZDC3Ms6l7I9rZsNlego-ghc8.2.1.so": "2f478d96867689865afbc6643b3fa028db095a26600c5820bc4f8e5e0098d592", "/usr/lib/ghc-8.2.1/site-local/th-expand-syns-0.4.3.0/Language/Haskell/TH/ExpandSyns.dyn_hi": "91d59af13a0d631d7b691a7a2a80642a0587805385006773781d035faa0d32f4", "/var/log/pacman.log": "87aa3b46cdd2b2e5bc4c5d5abb12d3c0d2538886de72475e6f31cb76ce44b13b"}, "0.4.3.0-6": {"/usr/share/haskell/register/haskell-th-expand-syns.sh": "84133d74f49c0517783677102a8e50ed05f9771e060196f813cbcc87bc5e7d6d", "/usr/share/haskell/unregister/haskell-th-expand-syns.sh": "74ac593658138ad1e26324640d8434f403b67715cc285e320e6d29a58fcbaf81", "/usr/share/licenses/haskell-th-expand-syns/LICENSE": "414645545bef15e147a7668c1e92d63b15af71fe0aaf61e15be283df1d62b09d", "/usr/lib/libHSth-expand-syns-0.4.3.0-VxrlkjIeMXK2b9BrI2cQH-ghc8.2.2.so": "3cc79aec2cfee763dff88e10841afb8b23a2d589ec7cf9d3ed97d66d3cdaed7a", "/usr/lib/ghc-8.2.2/site-local/th-expand-syns-0.4.3.0/Language/Haskell/TH/ExpandSyns.dyn_hi": "ae711f961ca3f329fe280fa663d30e92e85e0e4d732d16508fbdc676559e3416", "/var/log/pacman.log": "1963d214fc8409329af702c9af3c82a0ff323be6d118d87a4e2cb74db604bb14"}}
+{
+  "0.4.3.0-5": {
+    "/usr/share/haskell/register/haskell-th-expand-syns.sh": "a9e4d6a964f480e264d645649a4b0333dfb18c57e4c5330183dac71729d53147",
+    "/usr/share/haskell/unregister/haskell-th-expand-syns.sh": "5ddbb9e3423f64c6d15551229608a622fad7c494605ea1b0386aa3804539a563",
+    "/usr/share/licenses/haskell-th-expand-syns/LICENSE": "414645545bef15e147a7668c1e92d63b15af71fe0aaf61e15be283df1d62b09d",
+    "/usr/lib/libHSth-expand-syns-0.4.3.0-JDBZDC3Ms6l7I9rZsNlego-ghc8.2.1.so": "2f478d96867689865afbc6643b3fa028db095a26600c5820bc4f8e5e0098d592",
+    "/usr/lib/ghc-8.2.1/site-local/th-expand-syns-0.4.3.0/Language/Haskell/TH/ExpandSyns.dyn_hi": "91d59af13a0d631d7b691a7a2a80642a0587805385006773781d035faa0d32f4",
+    "/var/log/pacman.log": "87aa3b46cdd2b2e5bc4c5d5abb12d3c0d2538886de72475e6f31cb76ce44b13b"
+  },
+  "0.4.3.0-6": {
+    "/usr/share/haskell/register/haskell-th-expand-syns.sh": "84133d74f49c0517783677102a8e50ed05f9771e060196f813cbcc87bc5e7d6d",
+    "/usr/share/haskell/unregister/haskell-th-expand-syns.sh": "74ac593658138ad1e26324640d8434f403b67715cc285e320e6d29a58fcbaf81",
+    "/usr/share/licenses/haskell-th-expand-syns/LICENSE": "414645545bef15e147a7668c1e92d63b15af71fe0aaf61e15be283df1d62b09d",
+    "/usr/lib/libHSth-expand-syns-0.4.3.0-VxrlkjIeMXK2b9BrI2cQH-ghc8.2.2.so": "3cc79aec2cfee763dff88e10841afb8b23a2d589ec7cf9d3ed97d66d3cdaed7a",
+    "/usr/lib/ghc-8.2.2/site-local/th-expand-syns-0.4.3.0/Language/Haskell/TH/ExpandSyns.dyn_hi": "ae711f961ca3f329fe280fa663d30e92e85e0e4d732d16508fbdc676559e3416",
+    "/var/log/pacman.log": "1963d214fc8409329af702c9af3c82a0ff323be6d118d87a4e2cb74db604bb14"
+  },
+  "0.4.4.0-1": {
+    "/usr/share/haskell/register/haskell-th-expand-syns.sh": "6b043f0d707d9d55ff0936ce16ce644062704c28e16afeb2336a9cfab2237fd6",
+    "/usr/share/haskell/unregister/haskell-th-expand-syns.sh": "5c8c607a42159a52ef86173eaa2c15319e1acd62bc329b8ca08d85ef953f1c3f",
+    "/usr/share/licenses/haskell-th-expand-syns/LICENSE": "414645545bef15e147a7668c1e92d63b15af71fe0aaf61e15be283df1d62b09d",
+    "/usr/lib/libHSth-expand-syns-0.4.4.0-3kFGYL0IHLbFlT4ybVKmjP-ghc8.2.2.so": "85abbe817eb68267e863e78bed1a736220a94bb4ef72a72246cb5c1eb46d604b",
+    "/usr/lib/ghc-8.2.2/site-local/th-expand-syns-0.4.4.0/Language/Haskell/TH/ExpandSyns.dyn_hi": "98b410e97cb48017ae449c0ac7c08044756a7434e4649c24c0fda55ef9768df7",
+    "/usr/lib/ghc-8.2.2/site-local/th-expand-syns-0.4.4.0/Language/Haskell/TH/ExpandSyns/SemigroupCompat.dyn_hi": "3d430dacc8cec6404481136b55cfcca7719d8d55621df9667a550e905e5b14ac",
+    "/var/log/pacman.log": "1cd9181c353c0c0cb98b2ea088f624cd768c490e00a98b30568ffbd303240690"
+  }
+}

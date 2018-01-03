@@ -1,1 +1,11 @@
-{"0.9.3-7": {"/usr/include/ofa1/ofa.h": "6522c52ceffefad906d46cb7183dbc170450613387b1f48da7c4a6d3c8781586", "/usr/lib/libofa.so.0": "4bf975547ce41fe47d8b49216345b6fcdab2a6a450bd424da36dbb5100d9e5ae", "/usr/lib/libofa.so": "4bf975547ce41fe47d8b49216345b6fcdab2a6a450bd424da36dbb5100d9e5ae", "/usr/lib/libofa.so.0.0.0": "4bf975547ce41fe47d8b49216345b6fcdab2a6a450bd424da36dbb5100d9e5ae", "/usr/lib/pkgconfig/libofa.pc": "3e205b3e2e3747b5c6fa2e4a670f663f2178b5e12f4439aea24dc3d95a14a980", "/usr/share/licenses/libofa/LICENSE": "0b13f359e849b6d53afdfad4368b0802ab0a947ddc9c3d6c65202c053a456337", "/var/log/pacman.log": "23849b291d9da7329d0046f681fcbbe05a84b3984332d1778964ddd4c6248140"}}
+{
+  "0.9.3-7": {
+    "/usr/include/ofa1/ofa.h": "6522c52ceffefad906d46cb7183dbc170450613387b1f48da7c4a6d3c8781586",
+    "/usr/lib/libofa.so.0": "4bf975547ce41fe47d8b49216345b6fcdab2a6a450bd424da36dbb5100d9e5ae",
+    "/usr/lib/libofa.so": "4bf975547ce41fe47d8b49216345b6fcdab2a6a450bd424da36dbb5100d9e5ae",
+    "/usr/lib/libofa.so.0.0.0": "4bf975547ce41fe47d8b49216345b6fcdab2a6a450bd424da36dbb5100d9e5ae",
+    "/usr/lib/pkgconfig/libofa.pc": "3e205b3e2e3747b5c6fa2e4a670f663f2178b5e12f4439aea24dc3d95a14a980",
+    "/usr/share/licenses/libofa/LICENSE": "0b13f359e849b6d53afdfad4368b0802ab0a947ddc9c3d6c65202c053a456337",
+    "/var/log/pacman.log": "23849b291d9da7329d0046f681fcbbe05a84b3984332d1778964ddd4c6248140"
+  }
+}

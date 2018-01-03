@@ -1,1 +1,20 @@
-{"0.0.5-5": {"/usr/lib/libdca.so.0": "c69e2b48eb134706c42facb995819b24765fb4f1ea5f89cd48c6a38f8fad5ec2", "/usr/lib/libdca.so": "c69e2b48eb134706c42facb995819b24765fb4f1ea5f89cd48c6a38f8fad5ec2", "/usr/lib/libdca.so.0.0.0": "c69e2b48eb134706c42facb995819b24765fb4f1ea5f89cd48c6a38f8fad5ec2", "/usr/lib/pkgconfig/libdca.pc": "ba4c0be59ea06046c44b34e87b4c6625be3244c06417df13a653c6dc0c8d3994", "/usr/lib/pkgconfig/libdts.pc": "a87bd8fa974451aa8225cad6fc26a7102537120a520b4118fb7b3da3adced69e", "/usr/bin/dtsdec": "078d2bdb02a6eb537e28e9e6b22203deeb254d984556cfcff73e1efafe3d4490", "/usr/bin/extract_dts": "078d2bdb02a6eb537e28e9e6b22203deeb254d984556cfcff73e1efafe3d4490", "/usr/bin/extract_dca": "b22fe108d5c39944aec2826b130420520b3b1fe32295ebb2d79d721343e78d6b", "/usr/bin/dcadec": "8a09a422b654612e4cca6c6e1cc0eb81429ac83cb4a9677a6eb231accbdf170c", "/usr/share/man/man1/dtsdec.1.gz": "3eab0466a281102c66e3db5b93a3dd0edb1b72cac1faa3e5a234f258459e0053", "/usr/share/man/man1/extract_dts.1.gz": "5585116712e42e726ad364f219447ab4f460f50b993d4c322fd6c707009937cc", "/usr/share/man/man1/extract_dca.1.gz": "5585116712e42e726ad364f219447ab4f460f50b993d4c322fd6c707009937cc", "/usr/share/man/man1/dcadec.1.gz": "3eab0466a281102c66e3db5b93a3dd0edb1b72cac1faa3e5a234f258459e0053", "/usr/include/dca.h": "63e38b43570c1b3a08a5346fd69d583585ab24581045d00336d04becd076171e", "/usr/include/dts.h": "6832465f76b17da41bedd77b99a282992c72600cfdf2463e7c782485d0e36236", "/var/log/pacman.log": "65428d381fd3645bc6b8c7f6ec9a4374b15f7108c2938671ec56abdedb358523"}}
+{
+  "0.0.5-5": {
+    "/usr/lib/libdca.so.0": "c69e2b48eb134706c42facb995819b24765fb4f1ea5f89cd48c6a38f8fad5ec2",
+    "/usr/lib/libdca.so": "c69e2b48eb134706c42facb995819b24765fb4f1ea5f89cd48c6a38f8fad5ec2",
+    "/usr/lib/libdca.so.0.0.0": "c69e2b48eb134706c42facb995819b24765fb4f1ea5f89cd48c6a38f8fad5ec2",
+    "/usr/lib/pkgconfig/libdca.pc": "ba4c0be59ea06046c44b34e87b4c6625be3244c06417df13a653c6dc0c8d3994",
+    "/usr/lib/pkgconfig/libdts.pc": "a87bd8fa974451aa8225cad6fc26a7102537120a520b4118fb7b3da3adced69e",
+    "/usr/bin/dtsdec": "078d2bdb02a6eb537e28e9e6b22203deeb254d984556cfcff73e1efafe3d4490",
+    "/usr/bin/extract_dts": "078d2bdb02a6eb537e28e9e6b22203deeb254d984556cfcff73e1efafe3d4490",
+    "/usr/bin/extract_dca": "b22fe108d5c39944aec2826b130420520b3b1fe32295ebb2d79d721343e78d6b",
+    "/usr/bin/dcadec": "8a09a422b654612e4cca6c6e1cc0eb81429ac83cb4a9677a6eb231accbdf170c",
+    "/usr/share/man/man1/dtsdec.1.gz": "3eab0466a281102c66e3db5b93a3dd0edb1b72cac1faa3e5a234f258459e0053",
+    "/usr/share/man/man1/extract_dts.1.gz": "5585116712e42e726ad364f219447ab4f460f50b993d4c322fd6c707009937cc",
+    "/usr/share/man/man1/extract_dca.1.gz": "5585116712e42e726ad364f219447ab4f460f50b993d4c322fd6c707009937cc",
+    "/usr/share/man/man1/dcadec.1.gz": "3eab0466a281102c66e3db5b93a3dd0edb1b72cac1faa3e5a234f258459e0053",
+    "/usr/include/dca.h": "63e38b43570c1b3a08a5346fd69d583585ab24581045d00336d04becd076171e",
+    "/usr/include/dts.h": "6832465f76b17da41bedd77b99a282992c72600cfdf2463e7c782485d0e36236",
+    "/var/log/pacman.log": "65428d381fd3645bc6b8c7f6ec9a4374b15f7108c2938671ec56abdedb358523"
+  }
+}

@@ -1,1 +1,18 @@
-{"3.7.1-2": {"/usr/lib/libblas.so.3": "beffca19ca4edef869261182d949bf87460ed367f88d26c7ddca8058620c522c", "/usr/lib/libblas.so": "beffca19ca4edef869261182d949bf87460ed367f88d26c7ddca8058620c522c", "/usr/lib/libblas.so.3.7.1": "beffca19ca4edef869261182d949bf87460ed367f88d26c7ddca8058620c522c", "/usr/lib/pkgconfig/blas.pc": "71af435723d093fd462cc46249303dee9da55cebb77097fc229c57941e3f0689", "/usr/share/licenses/blas/LICENSE.blas": "2420cd1331c5754071966389b26e6196c5cb086a2ade0080953af62e0c6d4107", "/var/log/pacman.log": "63d66f698c7b2708b95c9bd8110ace1809afed25e8db85a6c4590184dbd067a7"}, "3.8.0-1": {"/usr/lib/libblas.so.3": "9dca47ea2c695fa78d3f82d48db9d2971ed01210fa3b3eca4b1b29bcdfd18073", "/usr/lib/libblas.so": "9dca47ea2c695fa78d3f82d48db9d2971ed01210fa3b3eca4b1b29bcdfd18073", "/usr/lib/libblas.so.3.8.0": "9dca47ea2c695fa78d3f82d48db9d2971ed01210fa3b3eca4b1b29bcdfd18073", "/usr/lib/pkgconfig/blas.pc": "bea7dcf21cc55d738f434938de61895fb88213053bb0b3109f0fbe4b8d1fd096", "/usr/share/licenses/blas/LICENSE.blas": "2420cd1331c5754071966389b26e6196c5cb086a2ade0080953af62e0c6d4107", "/var/log/pacman.log": "199182ca0b4e9ded05485324c1ca505a4a87175bd5de0bace5289dd538a86cda"}}
+{
+  "3.7.1-2": {
+    "/usr/lib/libblas.so.3": "beffca19ca4edef869261182d949bf87460ed367f88d26c7ddca8058620c522c",
+    "/usr/lib/libblas.so": "beffca19ca4edef869261182d949bf87460ed367f88d26c7ddca8058620c522c",
+    "/usr/lib/libblas.so.3.7.1": "beffca19ca4edef869261182d949bf87460ed367f88d26c7ddca8058620c522c",
+    "/usr/lib/pkgconfig/blas.pc": "71af435723d093fd462cc46249303dee9da55cebb77097fc229c57941e3f0689",
+    "/usr/share/licenses/blas/LICENSE.blas": "2420cd1331c5754071966389b26e6196c5cb086a2ade0080953af62e0c6d4107",
+    "/var/log/pacman.log": "63d66f698c7b2708b95c9bd8110ace1809afed25e8db85a6c4590184dbd067a7"
+  },
+  "3.8.0-1": {
+    "/usr/lib/libblas.so.3": "9dca47ea2c695fa78d3f82d48db9d2971ed01210fa3b3eca4b1b29bcdfd18073",
+    "/usr/lib/libblas.so": "9dca47ea2c695fa78d3f82d48db9d2971ed01210fa3b3eca4b1b29bcdfd18073",
+    "/usr/lib/libblas.so.3.8.0": "9dca47ea2c695fa78d3f82d48db9d2971ed01210fa3b3eca4b1b29bcdfd18073",
+    "/usr/lib/pkgconfig/blas.pc": "bea7dcf21cc55d738f434938de61895fb88213053bb0b3109f0fbe4b8d1fd096",
+    "/usr/share/licenses/blas/LICENSE.blas": "2420cd1331c5754071966389b26e6196c5cb086a2ade0080953af62e0c6d4107",
+    "/var/log/pacman.log": "199182ca0b4e9ded05485324c1ca505a4a87175bd5de0bace5289dd538a86cda"
+  }
+}

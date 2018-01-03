@@ -1,0 +1,16 @@
+{
+  "0.35-1": {
+    "/usr/include/ijs/ijs.h": "46a949cbe17caed6c578d6abcc31ea9b59c5372be469e578f02704e3de3224d0",
+    "/usr/include/ijs/ijs_server.h": "7bde0ecbbcaa4e4079965c0392bb3045f7387939848fe0300a583befaac612e4",
+    "/usr/include/ijs/ijs_client.h": "15bbcc6fc3985771541565a27dce5cc0c8574434331e7cbc2cc5c61d4afe8e54",
+    "/usr/share/doc/ijs/ijs_spec.pdf": "a1a0cb8987b5367fa431e4f0dc56ee9c1f510fc5d69d8a64f55f3b56d91060f4",
+    "/usr/share/man/man1/ijs-config.1.gz": "93d37f879b50c44c694985dbb68c734d3a4829beceeb1012af86ec60742404e7",
+    "/usr/lib/libijs.so": "0cb0321cb4775e748ae1c48e9eb03e247ae55647264b8c8a5f52ac83d079673a",
+    "/usr/lib/libijs-0.35.so": "0cb0321cb4775e748ae1c48e9eb03e247ae55647264b8c8a5f52ac83d079673a",
+    "/usr/lib/pkgconfig/ijs.pc": "9f38791e736508755f29d61d146bee0d15d106bb07a94d55e56455ec1009314a",
+    "/usr/bin/ijs-config": "4ca4f03183726c5b885216dda0450754149677517c772fcf4a282c509c363989",
+    "/usr/bin/ijs_client_example": "25d6e537bf3f48f85ef12bd869ccf47393c76ea23c60562f72642e170767cefa",
+    "/usr/bin/ijs_server_example": "6a603c1fd4cdd851e94b4163f1e7f0db258446390b0296c6eddc2bf5b82b3cf1",
+    "/var/log/pacman.log": "563ff227d312a0527d8a0a9ddeea63b78a13ad3c4453967b69a2c49089631c34"
+  }
+}

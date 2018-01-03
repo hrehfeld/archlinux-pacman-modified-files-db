@@ -1,1 +1,26 @@
-{"1.10.3-1": {"/usr/share/qemu/vgabios-vmware.bin": "652006cc445e7c2615635971a9231410d8f8490ef4c3b1c68965e4125e399594", "/usr/share/qemu/bios-256k.bin": "1401f14aa5fb95f61381e0f8846f8686b2869ee4bd03b15ad689458c3cb6c033", "/usr/share/qemu/bios.bin": "fd624553b263c52a4d93596475c677623c68ae23398ddc4642ae0c9f7e6da22c", "/usr/share/qemu/vgabios-cirrus.bin": "e4c04db320d063cdc543e4ea460de83a02b44095e35f9b6a3978f0cee736f576", "/usr/share/qemu/vgabios-qxl.bin": "8debc8cb416cff48bef6389da74d6695f15e645e0f0b095f13114c8956c393a6", "/usr/share/qemu/bios-coreboot.bin": "4c3e6a22b64ee959b58ae413e10aeed7c38ee2187aa8559fea862ae7aa39814d", "/usr/share/qemu/vgabios-isavga.bin": "94deebe38ff6e77556734b59a75a4e1f45b9975fcc4528266045448d6964495e", "/usr/share/qemu/vgabios-stdvga.bin": "39eafa52bd42f17383054d0dcbc875bee3c39d950f76506b917163ba84e6380a", "/usr/share/qemu/bios-csm.bin": "5d053cbb3aca88a7468b2f47ebcc50c86114e0cbd3ebe05f271d5fbad7aa4ede", "/var/log/pacman.log": "2a1c076c2c6c33bdfb90785c1eb70cf2e70ce6c8df50e7c4f8cbeef6e8e6f863"}, "1.11.0-1": {"/usr/share/qemu/bios-256k.bin": "42a0ff442c513148db42911c3c1236213f510611a1966d4d19167d09a27941b6", "/usr/share/qemu/vgabios-cirrus.bin": "09e823c92d9884cc4633ac99a5509f44facf24df742e2eeb2f393c2932729f8f", "/usr/share/qemu/vgabios-vmware.bin": "efa412e6ada370b58c9022843cbcdfad2485a026664e2c3abc4c358b78289e2d", "/usr/share/qemu/vgabios-qxl.bin": "ec4f8114b6b52d4823dbb45a9561a0b1de5c0c081c00cd85319bfbd5278bb176", "/usr/share/qemu/vgabios-isavga.bin": "720948bf34c712e8e2172210e26c5bc9b6240f5c9177f7eafd099b063702da4d", "/usr/share/qemu/bios.bin": "0b60468010ab96a8db7611fbec353b53e701951a394d2a7f5c5abe81675c807e", "/usr/share/qemu/vgabios-stdvga.bin": "3ae4083e93f1404ddc2689ccac39a8a205a0855ca7098f6922ca92581e452d88", "/usr/share/qemu/bios-csm.bin": "26d0fd15dbac5460ab371f807970bb0e0c1324104d2175b9166ae50e8a7903a5", "/usr/share/qemu/bios-coreboot.bin": "9384106048673c67dad9cd176d939dd21ee232a656fa4c5e4acb87184748df8a", "/var/log/pacman.log": "2a5cc4140f18731a88dad8501139ee7d5016b807ee374a2f5290fbd017914009"}}
+{
+  "1.10.3-1": {
+    "/usr/share/qemu/vgabios-vmware.bin": "652006cc445e7c2615635971a9231410d8f8490ef4c3b1c68965e4125e399594",
+    "/usr/share/qemu/bios-256k.bin": "1401f14aa5fb95f61381e0f8846f8686b2869ee4bd03b15ad689458c3cb6c033",
+    "/usr/share/qemu/bios.bin": "fd624553b263c52a4d93596475c677623c68ae23398ddc4642ae0c9f7e6da22c",
+    "/usr/share/qemu/vgabios-cirrus.bin": "e4c04db320d063cdc543e4ea460de83a02b44095e35f9b6a3978f0cee736f576",
+    "/usr/share/qemu/vgabios-qxl.bin": "8debc8cb416cff48bef6389da74d6695f15e645e0f0b095f13114c8956c393a6",
+    "/usr/share/qemu/bios-coreboot.bin": "4c3e6a22b64ee959b58ae413e10aeed7c38ee2187aa8559fea862ae7aa39814d",
+    "/usr/share/qemu/vgabios-isavga.bin": "94deebe38ff6e77556734b59a75a4e1f45b9975fcc4528266045448d6964495e",
+    "/usr/share/qemu/vgabios-stdvga.bin": "39eafa52bd42f17383054d0dcbc875bee3c39d950f76506b917163ba84e6380a",
+    "/usr/share/qemu/bios-csm.bin": "5d053cbb3aca88a7468b2f47ebcc50c86114e0cbd3ebe05f271d5fbad7aa4ede",
+    "/var/log/pacman.log": "2a1c076c2c6c33bdfb90785c1eb70cf2e70ce6c8df50e7c4f8cbeef6e8e6f863"
+  },
+  "1.11.0-1": {
+    "/usr/share/qemu/bios-256k.bin": "42a0ff442c513148db42911c3c1236213f510611a1966d4d19167d09a27941b6",
+    "/usr/share/qemu/vgabios-cirrus.bin": "09e823c92d9884cc4633ac99a5509f44facf24df742e2eeb2f393c2932729f8f",
+    "/usr/share/qemu/vgabios-vmware.bin": "efa412e6ada370b58c9022843cbcdfad2485a026664e2c3abc4c358b78289e2d",
+    "/usr/share/qemu/vgabios-qxl.bin": "ec4f8114b6b52d4823dbb45a9561a0b1de5c0c081c00cd85319bfbd5278bb176",
+    "/usr/share/qemu/vgabios-isavga.bin": "720948bf34c712e8e2172210e26c5bc9b6240f5c9177f7eafd099b063702da4d",
+    "/usr/share/qemu/bios.bin": "0b60468010ab96a8db7611fbec353b53e701951a394d2a7f5c5abe81675c807e",
+    "/usr/share/qemu/vgabios-stdvga.bin": "3ae4083e93f1404ddc2689ccac39a8a205a0855ca7098f6922ca92581e452d88",
+    "/usr/share/qemu/bios-csm.bin": "26d0fd15dbac5460ab371f807970bb0e0c1324104d2175b9166ae50e8a7903a5",
+    "/usr/share/qemu/bios-coreboot.bin": "9384106048673c67dad9cd176d939dd21ee232a656fa4c5e4acb87184748df8a",
+    "/var/log/pacman.log": "2a5cc4140f18731a88dad8501139ee7d5016b807ee374a2f5290fbd017914009"
+  }
+}

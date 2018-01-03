@@ -1,1 +1,27 @@
-{"0.1.9-1": {"/usr/include/samplerate.h": "8594197c83c390291e76a3a862ca62c0970f0b1871cc8bd97d8ba04d2901f9a2", "/usr/lib/libsamplerate.so.0": "a4deeab5da078bf849372c8704c218673b55c0f74642ef211834420568eeb45a", "/usr/lib/libsamplerate.so": "a4deeab5da078bf849372c8704c218673b55c0f74642ef211834420568eeb45a", "/usr/lib/libsamplerate.so.0.1.8": "a4deeab5da078bf849372c8704c218673b55c0f74642ef211834420568eeb45a", "/usr/lib/pkgconfig/samplerate.pc": "c5e6c447cd6be0bcb260302970c5fdbf44cef8bd89f552aa25ea11b08effbc7b", "/usr/share/doc/libsamplerate0-dev/html/SRC.png": "1eb21d2890118cf1b78a36b7b710ac2105890c3bb0a53c1631221a8a3b62472d", "/usr/share/doc/libsamplerate0-dev/html/SRC.css": "91b53d84804ee196649ffef5bc06febcdec55ffc881222bea10937c2fcfc906e", "/usr/share/doc/libsamplerate0-dev/html/index.html": "6e0efd779a3587efd895e19ec7363c046a0f0748b6ed1dab84f544e571540667", "/usr/share/doc/libsamplerate0-dev/html/license.html": "f7430d2b9e1f4df1b328bc8baa19df6a752142488e336d79acc69cd55ab32b1a", "/usr/share/doc/libsamplerate0-dev/html/history.html": "96dffd4bd9659af3a5968fb98df140546702a58342ab0f4664025d6096088b82", "/usr/share/doc/libsamplerate0-dev/html/download.html": "c518df7b0c12f3286a64c2b401312f27fdc95b0bafda041873a1e7ac5f97bc38", "/usr/share/doc/libsamplerate0-dev/html/lists.html": "e49fd5c97ca038d9183dcd26c5a2ed900a08d0a907f543ea584a3468aa80d72d", "/usr/share/doc/libsamplerate0-dev/html/quality.html": "63c0132e0d933742d7a4fe9d8dfc872e9568f8268036b3694458075b8176f56f", "/usr/share/doc/libsamplerate0-dev/html/win32.html": "471c0a9c3f2189f38ebd1590bdb1cc4236f3d8ceb7876e993b7c9334f9851320", "/usr/share/doc/libsamplerate0-dev/html/faq.html": "b12fa2095356da0022ab10ec8c85a8c464fe0d7d509f8704b23b1e7ada31ad82", "/usr/share/doc/libsamplerate0-dev/html/api.html": "8197453d29284cf44a35740faf8d809e257d7ade4a47e2ca8304a9f99912ef1e", "/usr/share/doc/libsamplerate0-dev/html/api_simple.html": "1a3a1d253fa67357f446d57165d0ba743ff1461f7266004ab4bb209cd23b31e2", "/usr/share/doc/libsamplerate0-dev/html/api_callback.html": "1571ff630222bf7c4b733604c6ab26fa3d95abac9b3ee5c9a1da37782873b058", "/usr/share/doc/libsamplerate0-dev/html/api_full.html": "411486a5bb1bc5a6445f27f878f6d5b4b552527e54181016ed336ef93499cefc", "/usr/share/doc/libsamplerate0-dev/html/api_misc.html": "94e0c1b715ad0a695ab99f27754591ca5f047d04d404f4b4abe5d3ec1901482c", "/usr/share/licenses/libsamplerate/LICENSE": "2c1f76ce2effdddb425018405d5690c0b1ab4e6976e35296b0a6db65c5e1a55d", "/usr/bin/sndfile-resample": "16d3227ba8f1ac7fb91e56aae0eb4ca2166c535121e0c71db19a07b93b221d4b", "/var/log/pacman.log": "89dc2e2cf529358725c51ab429f2aa11dd181ce1675c2fc8109dad6282ae7207"}}
+{
+  "0.1.9-1": {
+    "/usr/include/samplerate.h": "8594197c83c390291e76a3a862ca62c0970f0b1871cc8bd97d8ba04d2901f9a2",
+    "/usr/lib/libsamplerate.so.0": "a4deeab5da078bf849372c8704c218673b55c0f74642ef211834420568eeb45a",
+    "/usr/lib/libsamplerate.so": "a4deeab5da078bf849372c8704c218673b55c0f74642ef211834420568eeb45a",
+    "/usr/lib/libsamplerate.so.0.1.8": "a4deeab5da078bf849372c8704c218673b55c0f74642ef211834420568eeb45a",
+    "/usr/lib/pkgconfig/samplerate.pc": "c5e6c447cd6be0bcb260302970c5fdbf44cef8bd89f552aa25ea11b08effbc7b",
+    "/usr/share/doc/libsamplerate0-dev/html/SRC.png": "1eb21d2890118cf1b78a36b7b710ac2105890c3bb0a53c1631221a8a3b62472d",
+    "/usr/share/doc/libsamplerate0-dev/html/SRC.css": "91b53d84804ee196649ffef5bc06febcdec55ffc881222bea10937c2fcfc906e",
+    "/usr/share/doc/libsamplerate0-dev/html/index.html": "6e0efd779a3587efd895e19ec7363c046a0f0748b6ed1dab84f544e571540667",
+    "/usr/share/doc/libsamplerate0-dev/html/license.html": "f7430d2b9e1f4df1b328bc8baa19df6a752142488e336d79acc69cd55ab32b1a",
+    "/usr/share/doc/libsamplerate0-dev/html/history.html": "96dffd4bd9659af3a5968fb98df140546702a58342ab0f4664025d6096088b82",
+    "/usr/share/doc/libsamplerate0-dev/html/download.html": "c518df7b0c12f3286a64c2b401312f27fdc95b0bafda041873a1e7ac5f97bc38",
+    "/usr/share/doc/libsamplerate0-dev/html/lists.html": "e49fd5c97ca038d9183dcd26c5a2ed900a08d0a907f543ea584a3468aa80d72d",
+    "/usr/share/doc/libsamplerate0-dev/html/quality.html": "63c0132e0d933742d7a4fe9d8dfc872e9568f8268036b3694458075b8176f56f",
+    "/usr/share/doc/libsamplerate0-dev/html/win32.html": "471c0a9c3f2189f38ebd1590bdb1cc4236f3d8ceb7876e993b7c9334f9851320",
+    "/usr/share/doc/libsamplerate0-dev/html/faq.html": "b12fa2095356da0022ab10ec8c85a8c464fe0d7d509f8704b23b1e7ada31ad82",
+    "/usr/share/doc/libsamplerate0-dev/html/api.html": "8197453d29284cf44a35740faf8d809e257d7ade4a47e2ca8304a9f99912ef1e",
+    "/usr/share/doc/libsamplerate0-dev/html/api_simple.html": "1a3a1d253fa67357f446d57165d0ba743ff1461f7266004ab4bb209cd23b31e2",
+    "/usr/share/doc/libsamplerate0-dev/html/api_callback.html": "1571ff630222bf7c4b733604c6ab26fa3d95abac9b3ee5c9a1da37782873b058",
+    "/usr/share/doc/libsamplerate0-dev/html/api_full.html": "411486a5bb1bc5a6445f27f878f6d5b4b552527e54181016ed336ef93499cefc",
+    "/usr/share/doc/libsamplerate0-dev/html/api_misc.html": "94e0c1b715ad0a695ab99f27754591ca5f047d04d404f4b4abe5d3ec1901482c",
+    "/usr/share/licenses/libsamplerate/LICENSE": "2c1f76ce2effdddb425018405d5690c0b1ab4e6976e35296b0a6db65c5e1a55d",
+    "/usr/bin/sndfile-resample": "16d3227ba8f1ac7fb91e56aae0eb4ca2166c535121e0c71db19a07b93b221d4b",
+    "/var/log/pacman.log": "89dc2e2cf529358725c51ab429f2aa11dd181ce1675c2fc8109dad6282ae7207"
+  }
+}

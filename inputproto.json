@@ -1,1 +1,15 @@
-{"2.3.2-1": {"/usr/include/X11/extensions/XIproto.h": "e2ae818dca0a9fa077cd5ffd9afbe057ba4cf28c189c6e0ac94462262b91bf63", "/usr/include/X11/extensions/XI2.h": "b879bb384dbbf151099fb28044defa5ea8c832bbd6dab8ae0ece0f410fe19f08", "/usr/include/X11/extensions/XI.h": "c456e8e0f6a03f7f5bf505d7626791f97856db7edc42fa806876b63356e0e272", "/usr/include/X11/extensions/XI2proto.h": "f91fbf973eaa44480197bdf7eb189d2a839f4be8145f5e108d2f0fddd44f1b4a", "/usr/share/licenses/inputproto/COPYING": "5e083a2ace0215a6084c877c023a6079952ba803d692488203ba4269196debe3", "/usr/share/doc/inputproto/XIproto.html": "97157b20683deb4ce62e48d67d00dd48f5e1bbd2c25a7754f6a32bdcb8aad149", "/usr/share/doc/inputproto/XIproto.txt": "98bea90df3b48ee0f23a66846de7082811ec2b926c22895c0abb12987ba6c670", "/usr/share/doc/inputproto/XI2proto.html": "6d0a036033d852246021487e8bdc07583fdba6d7f0e1c5a7a606972516c57dab", "/usr/share/doc/inputproto/XI2proto.txt": "b37a80c46d07d79505bf14658a19c0ae56110f75f38408e09f6d4d79d5b5559f", "/usr/lib/pkgconfig/inputproto.pc": "2477e11a2c5915ff8f2009835f02fa94b962fdaeaf7e8f2fad2c1e4dde87c257", "/var/log/pacman.log": "971af0bbefb804190e84ff76d7160c57ed7f0d0680f64d8a2916e6c67c169e8b"}}
+{
+  "2.3.2-1": {
+    "/usr/include/X11/extensions/XIproto.h": "e2ae818dca0a9fa077cd5ffd9afbe057ba4cf28c189c6e0ac94462262b91bf63",
+    "/usr/include/X11/extensions/XI2.h": "b879bb384dbbf151099fb28044defa5ea8c832bbd6dab8ae0ece0f410fe19f08",
+    "/usr/include/X11/extensions/XI.h": "c456e8e0f6a03f7f5bf505d7626791f97856db7edc42fa806876b63356e0e272",
+    "/usr/include/X11/extensions/XI2proto.h": "f91fbf973eaa44480197bdf7eb189d2a839f4be8145f5e108d2f0fddd44f1b4a",
+    "/usr/share/licenses/inputproto/COPYING": "5e083a2ace0215a6084c877c023a6079952ba803d692488203ba4269196debe3",
+    "/usr/share/doc/inputproto/XIproto.html": "97157b20683deb4ce62e48d67d00dd48f5e1bbd2c25a7754f6a32bdcb8aad149",
+    "/usr/share/doc/inputproto/XIproto.txt": "98bea90df3b48ee0f23a66846de7082811ec2b926c22895c0abb12987ba6c670",
+    "/usr/share/doc/inputproto/XI2proto.html": "6d0a036033d852246021487e8bdc07583fdba6d7f0e1c5a7a606972516c57dab",
+    "/usr/share/doc/inputproto/XI2proto.txt": "b37a80c46d07d79505bf14658a19c0ae56110f75f38408e09f6d4d79d5b5559f",
+    "/usr/lib/pkgconfig/inputproto.pc": "2477e11a2c5915ff8f2009835f02fa94b962fdaeaf7e8f2fad2c1e4dde87c257",
+    "/var/log/pacman.log": "971af0bbefb804190e84ff76d7160c57ed7f0d0680f64d8a2916e6c67c169e8b"
+  }
+}

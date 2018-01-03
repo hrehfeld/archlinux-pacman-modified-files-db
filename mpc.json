@@ -1,1 +1,16 @@
-{"0.28-1": {"/usr/share/man/man1/mpc.1.gz": "700c1845be9256f716e4edb94ed676efb08ef13eda1a52cc71bd59b987a190ea", "/usr/share/doc/mpc/mppledit": "9bb5c2c7f494b3ef5122f01cae364bc00471607120e9f6e45118eb9632ef1dd8", "/usr/share/doc/mpc/mpd-pls-handler.sh": "c5f894828831c299cc2d89e8305965cbfe9837055d9d80276494be7fc00e3b35", "/usr/share/doc/mpc/mpd-m3u-handler.sh": "ba30afeb9ee7ed29db76e49e6019240275ec311d53f3e84f8453da3ed17d219f", "/usr/share/doc/mpc/mpc-completion.bash": "09ad5a9ece0ebf33d36b4593dd1a847351526d511e1bd41e01d6c1ba658cbf1d", "/usr/share/doc/mpc/README": "0dd1555098bed3405075541cbc1d7f73444499129a971e7fc8a5d7b9a820c423", "/usr/share/doc/mpc/NEWS": "71d1a72375a51a80ad682b700009f23ce5f7d4794f1e574ae3a74bed6743fd08", "/usr/share/doc/mpc/COPYING": "ab15fd526bd8dd18a9e77ebc139656bf4d33e97fc7238cd11bf60e2b9b8666c6", "/usr/share/doc/mpc/AUTHORS": "3283784cbc5bacaac03b412c3642d637b0df519d9d30d7b7926771b1ea61b746", "/usr/share/bash-completion/completions/mpc": "09ad5a9ece0ebf33d36b4593dd1a847351526d511e1bd41e01d6c1ba658cbf1d", "/usr/bin/mpc": "dfd34be81b0de55fae931ba20bdeb0f9418960282efbf4f28a2697e1939224a5", "/var/log/pacman.log": "7ec9b3be3a74e4e805a4ce8086aaf63334dfd991b22dec3ce9700afe3c44f156"}}
+{
+  "0.28-1": {
+    "/usr/share/man/man1/mpc.1.gz": "700c1845be9256f716e4edb94ed676efb08ef13eda1a52cc71bd59b987a190ea",
+    "/usr/share/doc/mpc/mppledit": "9bb5c2c7f494b3ef5122f01cae364bc00471607120e9f6e45118eb9632ef1dd8",
+    "/usr/share/doc/mpc/mpd-pls-handler.sh": "c5f894828831c299cc2d89e8305965cbfe9837055d9d80276494be7fc00e3b35",
+    "/usr/share/doc/mpc/mpd-m3u-handler.sh": "ba30afeb9ee7ed29db76e49e6019240275ec311d53f3e84f8453da3ed17d219f",
+    "/usr/share/doc/mpc/mpc-completion.bash": "09ad5a9ece0ebf33d36b4593dd1a847351526d511e1bd41e01d6c1ba658cbf1d",
+    "/usr/share/doc/mpc/README": "0dd1555098bed3405075541cbc1d7f73444499129a971e7fc8a5d7b9a820c423",
+    "/usr/share/doc/mpc/NEWS": "71d1a72375a51a80ad682b700009f23ce5f7d4794f1e574ae3a74bed6743fd08",
+    "/usr/share/doc/mpc/COPYING": "ab15fd526bd8dd18a9e77ebc139656bf4d33e97fc7238cd11bf60e2b9b8666c6",
+    "/usr/share/doc/mpc/AUTHORS": "3283784cbc5bacaac03b412c3642d637b0df519d9d30d7b7926771b1ea61b746",
+    "/usr/share/bash-completion/completions/mpc": "09ad5a9ece0ebf33d36b4593dd1a847351526d511e1bd41e01d6c1ba658cbf1d",
+    "/usr/bin/mpc": "dfd34be81b0de55fae931ba20bdeb0f9418960282efbf4f28a2697e1939224a5",
+    "/var/log/pacman.log": "7ec9b3be3a74e4e805a4ce8086aaf63334dfd991b22dec3ce9700afe3c44f156"
+  }
+}

@@ -1,1 +1,22 @@
-{"1.13.3-1": {"/usr/lib/python3.6/site-packages/pycairo-1.13.3-py3.6.egg-info": "b6f3e8064a01a9eece263340e292486ddfe0d2b2018c256ee6c06d26e9d11dc1", "/usr/lib/python3.6/site-packages/cairo/__init__.py": "3d7fc31e167df2c055e154a6e15136144c82ff3c13a4f01f45ccee2f107338c5", "/usr/lib/python3.6/site-packages/cairo/_cairo.cpython-36m-x86_64-linux-gnu.so": "7d2c0f37882cc351b30fba6937559bac6de88ac67f744383516a8ac110d57775", "/usr/lib/python3.6/site-packages/cairo/__pycache__/__init__.cpython-36.pyc": "e21699e48b04f624b5d2eff53c21ebabf01d57a87a8ecdad734d086072b5f5c9", "/usr/lib/python3.6/site-packages/cairo/__pycache__/__init__.cpython-36.opt-1.pyc": "e21699e48b04f624b5d2eff53c21ebabf01d57a87a8ecdad734d086072b5f5c9", "/usr/lib/pkgconfig/py3cairo.pc": "382e276a06761fd4add818629e78d72504e54a03e6b38c2ce414e29f3f30c032", "/usr/include/pycairo/py3cairo.h": "14c4e25acf291cea4b68d69dfa78efeaff678bf30dee6651b562d5701ef01ef7", "/var/log/pacman.log": "8c6a54a9cbe3d52276880e1afa37ae811dbafc9b48dec903acd871958380f993"}, "1.15.4-1": {"/usr/lib/python3.6/site-packages/pycairo-1.15.4-py3.6.egg-info": "cf1f8a2705afb5732b1c55d332300072f6a4bf08da6ceeb57a7c4ea69e71bc52", "/usr/lib/python3.6/site-packages/cairo/__init__.py": "3d7fc31e167df2c055e154a6e15136144c82ff3c13a4f01f45ccee2f107338c5", "/usr/lib/python3.6/site-packages/cairo/_cairo.cpython-36m-x86_64-linux-gnu.so": "3611aa22884a5e4b0b7b885fc0eae2cd906715909c53a171d976c682d9f84eed", "/usr/lib/python3.6/site-packages/cairo/__pycache__/__init__.cpython-36.pyc": "ca00a0dcc90945dc8568c7ff79b6547a3f583343b786d2eb960f4b5486c17c20", "/usr/lib/python3.6/site-packages/cairo/__pycache__/__init__.cpython-36.opt-1.pyc": "ca00a0dcc90945dc8568c7ff79b6547a3f583343b786d2eb960f4b5486c17c20", "/usr/include/pycairo/py3cairo.h": "4d33c9c1a37729b8d73ea21fb49245475d85126ccfdee333eeef63a13c3d3061", "/usr/share/pkgconfig/py3cairo.pc": "ac8f5ab702106086846852ee740b61b7d6a6c8b62dd4a7a7122e720849545e46", "/var/log/pacman.log": "502a794049214f236ba71adccc3925cfe081baa9047e0430568731c4da9452df"}}
+{
+  "1.13.3-1": {
+    "/usr/lib/python3.6/site-packages/pycairo-1.13.3-py3.6.egg-info": "b6f3e8064a01a9eece263340e292486ddfe0d2b2018c256ee6c06d26e9d11dc1",
+    "/usr/lib/python3.6/site-packages/cairo/__init__.py": "3d7fc31e167df2c055e154a6e15136144c82ff3c13a4f01f45ccee2f107338c5",
+    "/usr/lib/python3.6/site-packages/cairo/_cairo.cpython-36m-x86_64-linux-gnu.so": "7d2c0f37882cc351b30fba6937559bac6de88ac67f744383516a8ac110d57775",
+    "/usr/lib/python3.6/site-packages/cairo/__pycache__/__init__.cpython-36.pyc": "e21699e48b04f624b5d2eff53c21ebabf01d57a87a8ecdad734d086072b5f5c9",
+    "/usr/lib/python3.6/site-packages/cairo/__pycache__/__init__.cpython-36.opt-1.pyc": "e21699e48b04f624b5d2eff53c21ebabf01d57a87a8ecdad734d086072b5f5c9",
+    "/usr/lib/pkgconfig/py3cairo.pc": "382e276a06761fd4add818629e78d72504e54a03e6b38c2ce414e29f3f30c032",
+    "/usr/include/pycairo/py3cairo.h": "14c4e25acf291cea4b68d69dfa78efeaff678bf30dee6651b562d5701ef01ef7",
+    "/var/log/pacman.log": "8c6a54a9cbe3d52276880e1afa37ae811dbafc9b48dec903acd871958380f993"
+  },
+  "1.15.4-1": {
+    "/usr/lib/python3.6/site-packages/pycairo-1.15.4-py3.6.egg-info": "cf1f8a2705afb5732b1c55d332300072f6a4bf08da6ceeb57a7c4ea69e71bc52",
+    "/usr/lib/python3.6/site-packages/cairo/__init__.py": "3d7fc31e167df2c055e154a6e15136144c82ff3c13a4f01f45ccee2f107338c5",
+    "/usr/lib/python3.6/site-packages/cairo/_cairo.cpython-36m-x86_64-linux-gnu.so": "3611aa22884a5e4b0b7b885fc0eae2cd906715909c53a171d976c682d9f84eed",
+    "/usr/lib/python3.6/site-packages/cairo/__pycache__/__init__.cpython-36.pyc": "ca00a0dcc90945dc8568c7ff79b6547a3f583343b786d2eb960f4b5486c17c20",
+    "/usr/lib/python3.6/site-packages/cairo/__pycache__/__init__.cpython-36.opt-1.pyc": "ca00a0dcc90945dc8568c7ff79b6547a3f583343b786d2eb960f4b5486c17c20",
+    "/usr/include/pycairo/py3cairo.h": "4d33c9c1a37729b8d73ea21fb49245475d85126ccfdee333eeef63a13c3d3061",
+    "/usr/share/pkgconfig/py3cairo.pc": "ac8f5ab702106086846852ee740b61b7d6a6c8b62dd4a7a7122e720849545e46",
+    "/var/log/pacman.log": "502a794049214f236ba71adccc3925cfe081baa9047e0430568731c4da9452df"
+  }
+}

@@ -1,1 +1,26 @@
-{"0.1.0.1-5": {"/usr/share/haskell/register/haskell-regex-applicative-text.sh": "39721b65081bd440627fc71ccceaee0395a25699eea152ef8a30632f1ca837ff", "/usr/share/haskell/unregister/haskell-regex-applicative-text.sh": "1bffc27de023cc58f52c645dec72edbf6d209a2224099a825f5f60cff7209982", "/usr/share/licenses/haskell-regex-applicative-text/LICENSE": "eef5ffdb683ddc4f93095f3a222f2d29b109c0e3dcb4dc46e1ed3b984e61391a", "/usr/lib/libHSregex-applicative-text-0.1.0.1-1ImOGC9RpgP20T31hHKekk-ghc8.2.1.so": "f0a11ab73e66d1c535c4d27de0a3c7756a0bd9912d6014a8ec27c4ea7801c2e7", "/usr/lib/ghc-8.2.1/site-local/regex-applicative-text-0.1.0.1/Text/Regex/Applicative/Text.dyn_hi": "1766c68e22336dba3088bbf11f25ece2b5bab4a1afe4e1d291c362635ef23b66", "/var/log/pacman.log": "f022bdd63e74b8e57e1a284f2e74d8604572dcd5e9c9149c1d148cf5ce4525aa"}, "0.1.0.1-6": {"/usr/share/haskell/register/haskell-regex-applicative-text.sh": "b46e03a6190250aa65b5721c3703ec562ca937b8e277b8bf155ca717a739292a", "/usr/share/haskell/unregister/haskell-regex-applicative-text.sh": "b61842e36a8dcaef18ce75f01c11510f9736a4243c776fcac0628364a4859172", "/usr/share/licenses/haskell-regex-applicative-text/LICENSE": "eef5ffdb683ddc4f93095f3a222f2d29b109c0e3dcb4dc46e1ed3b984e61391a", "/usr/lib/libHSregex-applicative-text-0.1.0.1-4WgyAPydJGDKdvgOZMONt-ghc8.2.2.so": "6722f95b10780309c504378ad2d51a1f9a958524537a37308cbe345617dbaf3a", "/usr/lib/ghc-8.2.2/site-local/regex-applicative-text-0.1.0.1/Text/Regex/Applicative/Text.dyn_hi": "2ac0e3bb96823cacbe28ab7a6542c8fdb213205c3176b86db2d9abfcd21153c5", "/var/log/pacman.log": "9f8d3febda681c2e2f1718b8b55e4cfcca85a89f29804ed8faabc31dfc72412c"}}
+{
+  "0.1.0.1-5": {
+    "/usr/share/haskell/register/haskell-regex-applicative-text.sh": "39721b65081bd440627fc71ccceaee0395a25699eea152ef8a30632f1ca837ff",
+    "/usr/share/haskell/unregister/haskell-regex-applicative-text.sh": "1bffc27de023cc58f52c645dec72edbf6d209a2224099a825f5f60cff7209982",
+    "/usr/share/licenses/haskell-regex-applicative-text/LICENSE": "eef5ffdb683ddc4f93095f3a222f2d29b109c0e3dcb4dc46e1ed3b984e61391a",
+    "/usr/lib/libHSregex-applicative-text-0.1.0.1-1ImOGC9RpgP20T31hHKekk-ghc8.2.1.so": "f0a11ab73e66d1c535c4d27de0a3c7756a0bd9912d6014a8ec27c4ea7801c2e7",
+    "/usr/lib/ghc-8.2.1/site-local/regex-applicative-text-0.1.0.1/Text/Regex/Applicative/Text.dyn_hi": "1766c68e22336dba3088bbf11f25ece2b5bab4a1afe4e1d291c362635ef23b66",
+    "/var/log/pacman.log": "f022bdd63e74b8e57e1a284f2e74d8604572dcd5e9c9149c1d148cf5ce4525aa"
+  },
+  "0.1.0.1-6": {
+    "/usr/share/haskell/register/haskell-regex-applicative-text.sh": "b46e03a6190250aa65b5721c3703ec562ca937b8e277b8bf155ca717a739292a",
+    "/usr/share/haskell/unregister/haskell-regex-applicative-text.sh": "b61842e36a8dcaef18ce75f01c11510f9736a4243c776fcac0628364a4859172",
+    "/usr/share/licenses/haskell-regex-applicative-text/LICENSE": "eef5ffdb683ddc4f93095f3a222f2d29b109c0e3dcb4dc46e1ed3b984e61391a",
+    "/usr/lib/libHSregex-applicative-text-0.1.0.1-4WgyAPydJGDKdvgOZMONt-ghc8.2.2.so": "6722f95b10780309c504378ad2d51a1f9a958524537a37308cbe345617dbaf3a",
+    "/usr/lib/ghc-8.2.2/site-local/regex-applicative-text-0.1.0.1/Text/Regex/Applicative/Text.dyn_hi": "2ac0e3bb96823cacbe28ab7a6542c8fdb213205c3176b86db2d9abfcd21153c5",
+    "/var/log/pacman.log": "9f8d3febda681c2e2f1718b8b55e4cfcca85a89f29804ed8faabc31dfc72412c"
+  },
+  "0.1.0.1-7": {
+    "/usr/share/haskell/register/haskell-regex-applicative-text.sh": "6556e296d21aa9d3fe986275ccb61bee0ebf9d550f7e91608d32efc29828cfc1",
+    "/usr/share/haskell/unregister/haskell-regex-applicative-text.sh": "b61842e36a8dcaef18ce75f01c11510f9736a4243c776fcac0628364a4859172",
+    "/usr/share/licenses/haskell-regex-applicative-text/LICENSE": "eef5ffdb683ddc4f93095f3a222f2d29b109c0e3dcb4dc46e1ed3b984e61391a",
+    "/usr/lib/libHSregex-applicative-text-0.1.0.1-Id6MEO698SW3W0izxZ7hIu-ghc8.2.2.so": "041fd46cba9b3c3266a6b373f296a365e6becd840c8d8de80ed60d5b93a990c4",
+    "/usr/lib/ghc-8.2.2/site-local/regex-applicative-text-0.1.0.1/Text/Regex/Applicative/Text.dyn_hi": "1b1d26eb4a8a4c9e0910a20605f4c79e7337f5ea96f682c5cfa0be2ee6d5d738",
+    "/var/log/pacman.log": "9f84e3791eb5cabde136159567babaccae01e50b9d24dbcb68bf4656685397ad"
+  }
+}

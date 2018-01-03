@@ -1,1 +1,10 @@
-{"1.0.4-2": {"/usr/share/licenses/xorg-xpr/COPYING": "5e8ff9b5d3fc86b5d0bc5957c9ee0aa1a6d0fb9a6b116aae70762b628a0d5069", "/usr/share/man/man1/xpr.1.gz": "c860317d932bca99dc0bee4789590f067b07622f24bbb074f3d77caabe3e61f7", "/usr/share/man/man1/xdpr.1.gz": "87c09add06e158a13350e7c11616dc399aaa1433e827b03b595f7c4ebf1a7460", "/usr/bin/xpr": "0aaa1934fa276ae1393d9bd5935788e00cde4fea1d814d91197b9ac78933a4ab", "/usr/bin/xdpr": "87b7a3dcd736b951445b0ea898c361294ddce1756cb56eaae0f2d76164b005ee", "/var/log/pacman.log": "ca727105cc3c64852ce8a8cb5ef5fef539c9e01258552500e91f118aa53f1690"}}
+{
+  "1.0.4-2": {
+    "/usr/share/licenses/xorg-xpr/COPYING": "5e8ff9b5d3fc86b5d0bc5957c9ee0aa1a6d0fb9a6b116aae70762b628a0d5069",
+    "/usr/share/man/man1/xpr.1.gz": "c860317d932bca99dc0bee4789590f067b07622f24bbb074f3d77caabe3e61f7",
+    "/usr/share/man/man1/xdpr.1.gz": "87c09add06e158a13350e7c11616dc399aaa1433e827b03b595f7c4ebf1a7460",
+    "/usr/bin/xpr": "0aaa1934fa276ae1393d9bd5935788e00cde4fea1d814d91197b9ac78933a4ab",
+    "/usr/bin/xdpr": "87b7a3dcd736b951445b0ea898c361294ddce1756cb56eaae0f2d76164b005ee",
+    "/var/log/pacman.log": "ca727105cc3c64852ce8a8cb5ef5fef539c9e01258552500e91f118aa53f1690"
+  }
+}

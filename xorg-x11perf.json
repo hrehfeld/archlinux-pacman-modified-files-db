@@ -1,1 +1,15 @@
-{"1.6.0-1": {"/usr/share/licenses/xorg-x11perf/COPYING": "f467ff659142e2eb4cb7275c48c789d249af398b09a405d3e181dcc339b3b922", "/usr/share/man/man1/x11perf.1.gz": "f9d19bf26b6e49798c6c8e60c1317b561f968a6bc189f9f530ca039157a835c5", "/usr/share/man/man1/x11perfcomp.1.gz": "248b6bc11d6be7f97bf2cb6e8683e2b3d8cca086ce447ffbd118266296102206", "/usr/share/man/man1/Xmark.1.gz": "ff883d0c69a5cdfa4201a916a54b73c0a904f9c3ac8350a84cba20025cd68cba", "/usr/bin/x11perfcomp": "d7cdd74e6ed01c9cce579fa629a63fcab4b20ac5b07fe6ef7432358eb09d5748", "/usr/bin/x11perf": "564c858a34958693972a5741f1618e90e8cd7e463032b5305a0003e41fdae5d2", "/usr/lib/X11/x11perfcomp/fillblnk": "512fb7049f745b3478a046ca444e3083a581b892ad76f5be3751c681af11b8a2", "/usr/lib/X11/x11perfcomp/perfratio": "bc901610c6d3ae52878baa093f82eae38bc0379a2afa63166ac5f75f4661b2e0", "/usr/lib/X11/x11perfcomp/Xmark": "a08bd87379c82427950321f4a11702d27ac8a476e02474fabfaac9d18caa752d", "/usr/lib/X11/x11perfcomp/perfboth": "389d7135bb1247461ccbb68f385f3bd0b82ff3ba6ac089deb2778b48fb48d042", "/var/log/pacman.log": "9a3caa458ecbc285d6a7d9ec97dbde49052183bf063bbd19cf91cbfd2582454d"}}
+{
+  "1.6.0-1": {
+    "/usr/share/licenses/xorg-x11perf/COPYING": "f467ff659142e2eb4cb7275c48c789d249af398b09a405d3e181dcc339b3b922",
+    "/usr/share/man/man1/x11perf.1.gz": "f9d19bf26b6e49798c6c8e60c1317b561f968a6bc189f9f530ca039157a835c5",
+    "/usr/share/man/man1/x11perfcomp.1.gz": "248b6bc11d6be7f97bf2cb6e8683e2b3d8cca086ce447ffbd118266296102206",
+    "/usr/share/man/man1/Xmark.1.gz": "ff883d0c69a5cdfa4201a916a54b73c0a904f9c3ac8350a84cba20025cd68cba",
+    "/usr/bin/x11perfcomp": "d7cdd74e6ed01c9cce579fa629a63fcab4b20ac5b07fe6ef7432358eb09d5748",
+    "/usr/bin/x11perf": "564c858a34958693972a5741f1618e90e8cd7e463032b5305a0003e41fdae5d2",
+    "/usr/lib/X11/x11perfcomp/fillblnk": "512fb7049f745b3478a046ca444e3083a581b892ad76f5be3751c681af11b8a2",
+    "/usr/lib/X11/x11perfcomp/perfratio": "bc901610c6d3ae52878baa093f82eae38bc0379a2afa63166ac5f75f4661b2e0",
+    "/usr/lib/X11/x11perfcomp/Xmark": "a08bd87379c82427950321f4a11702d27ac8a476e02474fabfaac9d18caa752d",
+    "/usr/lib/X11/x11perfcomp/perfboth": "389d7135bb1247461ccbb68f385f3bd0b82ff3ba6ac089deb2778b48fb48d042",
+    "/var/log/pacman.log": "9a3caa458ecbc285d6a7d9ec97dbde49052183bf063bbd19cf91cbfd2582454d"
+  }
+}

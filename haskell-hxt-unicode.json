@@ -1,1 +1,26 @@
-{"9.0.2.4-4": {"/usr/share/haskell/register/haskell-hxt-unicode.sh": "641a7d6296f45cd8dfdcb68341320e79c3c169183836b2a2049a879e94c2957f", "/usr/share/haskell/unregister/haskell-hxt-unicode.sh": "08218233ad8a21d1c8ea25d071843fd9678fb144a8979a95ef44921bf029eae1", "/usr/share/licenses/haskell-hxt-unicode/LICENSE": "22c700b849c7ace87b9edab1c767058f90a73123064898aa6cea653430913805", "/usr/lib/libHShxt-unicode-9.0.2.4-HrCDROnPAej3zADTzj2LSZ-ghc8.2.1.so": "4a1025d028e41ef113aa61854adea121d321ff7599a399cddfc2abc717f9ffb4", "/usr/lib/ghc-8.2.1/site-local/hxt-unicode-9.0.2.4/Data/Char/IsoLatinTables.dyn_hi": "a53b799576b4f938f679b85b7db41ed4e61418767d6e8b53e89fc9cdd5c28a31", "/usr/lib/ghc-8.2.1/site-local/hxt-unicode-9.0.2.4/Data/String/EncodingNames.dyn_hi": "4c4d5ca56cc2b567b8b03125f54f17cc87ceaabb8149844cbf5e94affcffbb7a", "/usr/lib/ghc-8.2.1/site-local/hxt-unicode-9.0.2.4/Data/String/UTF8.dyn_hi": "db8d60a76b643f6aceacfc5857dbc75604b184c804eb122d95d10c5a133dab19", "/usr/lib/ghc-8.2.1/site-local/hxt-unicode-9.0.2.4/Data/String/UTF8Decoding.dyn_hi": "39ae80882defc522ef4dba85df4ab9e9aff2fa46444db4cf968efe1af954ed6f", "/usr/lib/ghc-8.2.1/site-local/hxt-unicode-9.0.2.4/Data/String/Unicode.dyn_hi": "5c4d06320e506423e0f69f0b38b4b3618c1768c2aed19e9cd42b8f58dba5e2c6", "/var/log/pacman.log": "e19871531a47f835b34366b49482ba6fbb6c6831bc254f67001c2021b768a7df"}, "9.0.2.4-5": {"/usr/share/haskell/register/haskell-hxt-unicode.sh": "04fa04db2ad1dab1b0727dae93dbbe4b606932d9c4290b4c4a5933ba0186682d", "/usr/share/haskell/unregister/haskell-hxt-unicode.sh": "eeef50a3231e5604aa7f6072a8b73a4a9070877e4ed0e87c68f68050d1a694e9", "/usr/share/licenses/haskell-hxt-unicode/LICENSE": "22c700b849c7ace87b9edab1c767058f90a73123064898aa6cea653430913805", "/usr/lib/libHShxt-unicode-9.0.2.4-JQmH0brCxMfxlpeXEYE5-ghc8.2.2.so": "2836cb944816abd75f653fca410f78e68540a68b9dd9d41eceab05b704aef7a4", "/usr/lib/ghc-8.2.2/site-local/hxt-unicode-9.0.2.4/Data/Char/IsoLatinTables.dyn_hi": "adf3c67cb3fe58a80cba28c11e58420a4ba840f258a0a38e551d9174b05d4cf2", "/usr/lib/ghc-8.2.2/site-local/hxt-unicode-9.0.2.4/Data/String/EncodingNames.dyn_hi": "c25aa9df33ace28e8d1fc061c290a8c9bd77cee5aa127dac554a1747fa30cd9a", "/usr/lib/ghc-8.2.2/site-local/hxt-unicode-9.0.2.4/Data/String/UTF8.dyn_hi": "980f2330ba9f4a6ee0151c1acd4bcd551b35e7e90865efb674abb85c1d40e338", "/usr/lib/ghc-8.2.2/site-local/hxt-unicode-9.0.2.4/Data/String/UTF8Decoding.dyn_hi": "1abca1147a73e0bba408fee3cf418d8e93013387dec7cf44a72fb203876a46ec", "/usr/lib/ghc-8.2.2/site-local/hxt-unicode-9.0.2.4/Data/String/Unicode.dyn_hi": "69c367b8e1665efff9b66ca60468ecbbecf99216eefea8c96bbd8592b492db51", "/var/log/pacman.log": "9eaa288b863ba8f86850c96eaa2a27425d31ff2965356f5ae60316ada64e782d"}}
+{
+  "9.0.2.4-4": {
+    "/usr/share/haskell/register/haskell-hxt-unicode.sh": "641a7d6296f45cd8dfdcb68341320e79c3c169183836b2a2049a879e94c2957f",
+    "/usr/share/haskell/unregister/haskell-hxt-unicode.sh": "08218233ad8a21d1c8ea25d071843fd9678fb144a8979a95ef44921bf029eae1",
+    "/usr/share/licenses/haskell-hxt-unicode/LICENSE": "22c700b849c7ace87b9edab1c767058f90a73123064898aa6cea653430913805",
+    "/usr/lib/libHShxt-unicode-9.0.2.4-HrCDROnPAej3zADTzj2LSZ-ghc8.2.1.so": "4a1025d028e41ef113aa61854adea121d321ff7599a399cddfc2abc717f9ffb4",
+    "/usr/lib/ghc-8.2.1/site-local/hxt-unicode-9.0.2.4/Data/Char/IsoLatinTables.dyn_hi": "a53b799576b4f938f679b85b7db41ed4e61418767d6e8b53e89fc9cdd5c28a31",
+    "/usr/lib/ghc-8.2.1/site-local/hxt-unicode-9.0.2.4/Data/String/EncodingNames.dyn_hi": "4c4d5ca56cc2b567b8b03125f54f17cc87ceaabb8149844cbf5e94affcffbb7a",
+    "/usr/lib/ghc-8.2.1/site-local/hxt-unicode-9.0.2.4/Data/String/UTF8.dyn_hi": "db8d60a76b643f6aceacfc5857dbc75604b184c804eb122d95d10c5a133dab19",
+    "/usr/lib/ghc-8.2.1/site-local/hxt-unicode-9.0.2.4/Data/String/UTF8Decoding.dyn_hi": "39ae80882defc522ef4dba85df4ab9e9aff2fa46444db4cf968efe1af954ed6f",
+    "/usr/lib/ghc-8.2.1/site-local/hxt-unicode-9.0.2.4/Data/String/Unicode.dyn_hi": "5c4d06320e506423e0f69f0b38b4b3618c1768c2aed19e9cd42b8f58dba5e2c6",
+    "/var/log/pacman.log": "e19871531a47f835b34366b49482ba6fbb6c6831bc254f67001c2021b768a7df"
+  },
+  "9.0.2.4-5": {
+    "/usr/share/haskell/register/haskell-hxt-unicode.sh": "04fa04db2ad1dab1b0727dae93dbbe4b606932d9c4290b4c4a5933ba0186682d",
+    "/usr/share/haskell/unregister/haskell-hxt-unicode.sh": "eeef50a3231e5604aa7f6072a8b73a4a9070877e4ed0e87c68f68050d1a694e9",
+    "/usr/share/licenses/haskell-hxt-unicode/LICENSE": "22c700b849c7ace87b9edab1c767058f90a73123064898aa6cea653430913805",
+    "/usr/lib/libHShxt-unicode-9.0.2.4-JQmH0brCxMfxlpeXEYE5-ghc8.2.2.so": "2836cb944816abd75f653fca410f78e68540a68b9dd9d41eceab05b704aef7a4",
+    "/usr/lib/ghc-8.2.2/site-local/hxt-unicode-9.0.2.4/Data/Char/IsoLatinTables.dyn_hi": "adf3c67cb3fe58a80cba28c11e58420a4ba840f258a0a38e551d9174b05d4cf2",
+    "/usr/lib/ghc-8.2.2/site-local/hxt-unicode-9.0.2.4/Data/String/EncodingNames.dyn_hi": "c25aa9df33ace28e8d1fc061c290a8c9bd77cee5aa127dac554a1747fa30cd9a",
+    "/usr/lib/ghc-8.2.2/site-local/hxt-unicode-9.0.2.4/Data/String/UTF8.dyn_hi": "980f2330ba9f4a6ee0151c1acd4bcd551b35e7e90865efb674abb85c1d40e338",
+    "/usr/lib/ghc-8.2.2/site-local/hxt-unicode-9.0.2.4/Data/String/UTF8Decoding.dyn_hi": "1abca1147a73e0bba408fee3cf418d8e93013387dec7cf44a72fb203876a46ec",
+    "/usr/lib/ghc-8.2.2/site-local/hxt-unicode-9.0.2.4/Data/String/Unicode.dyn_hi": "69c367b8e1665efff9b66ca60468ecbbecf99216eefea8c96bbd8592b492db51",
+    "/var/log/pacman.log": "9eaa288b863ba8f86850c96eaa2a27425d31ff2965356f5ae60316ada64e782d"
+  }
+}

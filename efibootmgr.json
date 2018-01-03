@@ -1,1 +1,7 @@
-{"15-1": {"/usr/bin/efibootmgr": "10801237d0097053695526b86b34cc848b6151904679a9cbcd543aebb7f43322", "/usr/share/man/man8/efibootmgr.8.gz": "e65d302e2aec47a3825e96f54f809384dc21e2a02dc0158d176cd71718945d99", "/var/log/pacman.log": "a5aaf75b8d1d3722945276bce67444d835c9c51a680af31ee4de088d9942b194"}}
+{
+  "15-1": {
+    "/usr/bin/efibootmgr": "10801237d0097053695526b86b34cc848b6151904679a9cbcd543aebb7f43322",
+    "/usr/share/man/man8/efibootmgr.8.gz": "e65d302e2aec47a3825e96f54f809384dc21e2a02dc0158d176cd71718945d99",
+    "/var/log/pacman.log": "a5aaf75b8d1d3722945276bce67444d835c9c51a680af31ee4de088d9942b194"
+  }
+}

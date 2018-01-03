@@ -1,1 +1,36 @@
-{"1.0.1-1": {"/usr/lib/python3.6/site-packages/cssselect/__init__.py": "f38f8e692335cd7b1672b6e488ef3d44583951689b7f2f8359d0e0fa2010954e", "/usr/lib/python3.6/site-packages/cssselect/parser.py": "92df17ba511220af1ab52ca9b8d0a02843c9972561dfea0a0d9c8d036edd4540", "/usr/lib/python3.6/site-packages/cssselect/xpath.py": "d206d166fabcb381504f80da5edcd00de64a879c831251602776379555a9a7f1", "/usr/lib/python3.6/site-packages/cssselect/__pycache__/__init__.cpython-36.pyc": "1b5305597762297cfc9ee492c054302c8f83351826da98b8a81f34e7c8506cc9", "/usr/lib/python3.6/site-packages/cssselect/__pycache__/parser.cpython-36.pyc": "05364256c3c09a4cf207431294aab035ee7acd8419ee66504c00477a47fed0aa", "/usr/lib/python3.6/site-packages/cssselect/__pycache__/xpath.cpython-36.pyc": "632781b7068fd049aff6bb02663eaae6eace57e0d800093e30f3d160f7822bb2", "/usr/lib/python3.6/site-packages/cssselect/__pycache__/__init__.cpython-36.opt-1.pyc": "1b5305597762297cfc9ee492c054302c8f83351826da98b8a81f34e7c8506cc9", "/usr/lib/python3.6/site-packages/cssselect/__pycache__/parser.cpython-36.opt-1.pyc": "504e89d8996652bccea2e9feccd6d1f7b3ff39877fa282e4d350be88729d9fe2", "/usr/lib/python3.6/site-packages/cssselect/__pycache__/xpath.cpython-36.opt-1.pyc": "d10f453cc6a7c1d422da1987bb26d1ad90af18f40816c1c5f3ab8219d46e6435", "/usr/lib/python3.6/site-packages/cssselect-1.0.1-py3.6.egg-info/SOURCES.txt": "41763b6f7989b35c3d1ece6834c4f7753dea62ea213e1474c6c6460748fbf67f", "/usr/lib/python3.6/site-packages/cssselect-1.0.1-py3.6.egg-info/top_level.txt": "18a2b752dbbf71ea20e822b6ed55cd75bca2a869e8c89a37f7bd052e8e497545", "/usr/lib/python3.6/site-packages/cssselect-1.0.1-py3.6.egg-info/dependency_links.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b", "/usr/lib/python3.6/site-packages/cssselect-1.0.1-py3.6.egg-info/PKG-INFO": "60e4aa7f149b7cec5a23fd83c28199687d25a328f7e1208ca9e427fb27d97d70", "/usr/share/licenses/python-cssselect/LICENSE": "5c8da9f744e0afba81a48c9b5dbe73048f798b3287d6f1af8a05ee08ebb10892", "/var/log/pacman.log": "fdbbccf9182912c79def93b49d45063fb3cb7ad4c1fffe4f4ed23b3386a22a87"}}
+{
+  "1.0.1-1": {
+    "/usr/lib/python3.6/site-packages/cssselect/__init__.py": "f38f8e692335cd7b1672b6e488ef3d44583951689b7f2f8359d0e0fa2010954e",
+    "/usr/lib/python3.6/site-packages/cssselect/parser.py": "92df17ba511220af1ab52ca9b8d0a02843c9972561dfea0a0d9c8d036edd4540",
+    "/usr/lib/python3.6/site-packages/cssselect/xpath.py": "d206d166fabcb381504f80da5edcd00de64a879c831251602776379555a9a7f1",
+    "/usr/lib/python3.6/site-packages/cssselect/__pycache__/__init__.cpython-36.pyc": "1b5305597762297cfc9ee492c054302c8f83351826da98b8a81f34e7c8506cc9",
+    "/usr/lib/python3.6/site-packages/cssselect/__pycache__/parser.cpython-36.pyc": "05364256c3c09a4cf207431294aab035ee7acd8419ee66504c00477a47fed0aa",
+    "/usr/lib/python3.6/site-packages/cssselect/__pycache__/xpath.cpython-36.pyc": "632781b7068fd049aff6bb02663eaae6eace57e0d800093e30f3d160f7822bb2",
+    "/usr/lib/python3.6/site-packages/cssselect/__pycache__/__init__.cpython-36.opt-1.pyc": "1b5305597762297cfc9ee492c054302c8f83351826da98b8a81f34e7c8506cc9",
+    "/usr/lib/python3.6/site-packages/cssselect/__pycache__/parser.cpython-36.opt-1.pyc": "504e89d8996652bccea2e9feccd6d1f7b3ff39877fa282e4d350be88729d9fe2",
+    "/usr/lib/python3.6/site-packages/cssselect/__pycache__/xpath.cpython-36.opt-1.pyc": "d10f453cc6a7c1d422da1987bb26d1ad90af18f40816c1c5f3ab8219d46e6435",
+    "/usr/lib/python3.6/site-packages/cssselect-1.0.1-py3.6.egg-info/SOURCES.txt": "41763b6f7989b35c3d1ece6834c4f7753dea62ea213e1474c6c6460748fbf67f",
+    "/usr/lib/python3.6/site-packages/cssselect-1.0.1-py3.6.egg-info/top_level.txt": "18a2b752dbbf71ea20e822b6ed55cd75bca2a869e8c89a37f7bd052e8e497545",
+    "/usr/lib/python3.6/site-packages/cssselect-1.0.1-py3.6.egg-info/dependency_links.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "/usr/lib/python3.6/site-packages/cssselect-1.0.1-py3.6.egg-info/PKG-INFO": "60e4aa7f149b7cec5a23fd83c28199687d25a328f7e1208ca9e427fb27d97d70",
+    "/usr/share/licenses/python-cssselect/LICENSE": "5c8da9f744e0afba81a48c9b5dbe73048f798b3287d6f1af8a05ee08ebb10892",
+    "/var/log/pacman.log": "fdbbccf9182912c79def93b49d45063fb3cb7ad4c1fffe4f4ed23b3386a22a87"
+  },
+  "1.0.3-1": {
+    "/usr/lib/python3.6/site-packages/cssselect/__init__.py": "1a2133fb7f090d25c42f88ab271add92b9ec3eac3d15d6d1536b8a8291bb236b",
+    "/usr/lib/python3.6/site-packages/cssselect/parser.py": "98bd0ba238b16a01f623517d9462d54d713912d54978ee0249dcf9b004b8f5d9",
+    "/usr/lib/python3.6/site-packages/cssselect/xpath.py": "8050d9df0c843a416457218f82d21f02dcf3f1b3684b2c95886c07d4b0b2427d",
+    "/usr/lib/python3.6/site-packages/cssselect/__pycache__/__init__.cpython-36.pyc": "3ecd266c4616b76e8a261a4102028ec8090f6e3004b0a67b6b4a68a42bfb88a0",
+    "/usr/lib/python3.6/site-packages/cssselect/__pycache__/parser.cpython-36.pyc": "7229da8d554c2ee5bf5524b63c4890ac99d8714a6a60619c75ac089a8bd5de1c",
+    "/usr/lib/python3.6/site-packages/cssselect/__pycache__/xpath.cpython-36.pyc": "5aba6108056237a7b015c214d97378a76272ff64b4a8636b0ca5e177904fd524",
+    "/usr/lib/python3.6/site-packages/cssselect/__pycache__/__init__.cpython-36.opt-1.pyc": "3ecd266c4616b76e8a261a4102028ec8090f6e3004b0a67b6b4a68a42bfb88a0",
+    "/usr/lib/python3.6/site-packages/cssselect/__pycache__/parser.cpython-36.opt-1.pyc": "56c1cd8df148d7d79614510a0ea7fbab19fe1297e33403b88657149dddece761",
+    "/usr/lib/python3.6/site-packages/cssselect/__pycache__/xpath.cpython-36.opt-1.pyc": "fbd547f4e757f51330e607fc676c5fd1663b976a9f5d172c178c34b7b184e629",
+    "/usr/lib/python3.6/site-packages/cssselect-1.0.3-py3.6.egg-info/SOURCES.txt": "41763b6f7989b35c3d1ece6834c4f7753dea62ea213e1474c6c6460748fbf67f",
+    "/usr/lib/python3.6/site-packages/cssselect-1.0.3-py3.6.egg-info/top_level.txt": "18a2b752dbbf71ea20e822b6ed55cd75bca2a869e8c89a37f7bd052e8e497545",
+    "/usr/lib/python3.6/site-packages/cssselect-1.0.3-py3.6.egg-info/dependency_links.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "/usr/lib/python3.6/site-packages/cssselect-1.0.3-py3.6.egg-info/PKG-INFO": "d8ccdcb2e432cbdbda8cf27b9bff04143df5172c6923c92c3cb99d2dcaa89c58",
+    "/usr/share/licenses/python-cssselect/LICENSE": "5c8da9f744e0afba81a48c9b5dbe73048f798b3287d6f1af8a05ee08ebb10892",
+    "/var/log/pacman.log": "2c0252a236176652ea5edf415f43000b402a423feff5b4da6c582c1d55785f59"
+  }
+}

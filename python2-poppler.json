@@ -1,0 +1,6 @@
+{
+  "0.12.1-10": {
+    "/usr/lib/python2.7/site-packages/poppler.so": "61648ce48752167ec9fe9cd5e1a27913814384da865f10756166a819417f27e9",
+    "/var/log/pacman.log": "e38126defe4b4f207cbe0eb6bc49c2ae923348cc6dcf924db1ccc1f1cd67e8e3"
+  }
+}

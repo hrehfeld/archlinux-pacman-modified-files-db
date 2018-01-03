@@ -1,1 +1,22 @@
-{"14.9.5-1": {"/usr/bin/mailx": "c005986e778f0473d7f4bc8e95c1e025258ae52b252ccb4a00bc550483c74e40", "/usr/bin/mail": "c005986e778f0473d7f4bc8e95c1e025258ae52b252ccb4a00bc550483c74e40", "/usr/share/licenses/s-nail/COPYING": "990bde62a974738fa5f1990b442faefa01191ab3abe340a7ece178821f42643a", "/usr/share/man/man1/mail.1.gz": "c7fa604cee50aea4d7d12f096c45e14ead1d5e7ca42db96cb9f9da83e3d74ff9", "/usr/share/man/man1/mailx.1.gz": "c7fa604cee50aea4d7d12f096c45e14ead1d5e7ca42db96cb9f9da83e3d74ff9", "/usr/lib/mail-privsep": "382712620908a309498e09b6aff998a5c4e2740111a88a52c220d1411e1d1884", "/var/log/pacman.log": "33dd309dae47c28aec8e84e6fac567be0f965077d3e748a7313a4766678d205d", "/etc/mail.rc": "f5b83838998fea6f124d2e1865698e7ce78143756dc487951875e76b600a485f"}, "14.9.6-1": {"/usr/lib/mail-privsep": "382712620908a309498e09b6aff998a5c4e2740111a88a52c220d1411e1d1884", "/usr/share/man/man1/mail.1.gz": "cf9ff62546ed70afe541d687c8535bdcb78bde785e05cf0ea64c801228b006f2", "/usr/share/man/man1/mailx.1.gz": "cf9ff62546ed70afe541d687c8535bdcb78bde785e05cf0ea64c801228b006f2", "/usr/share/licenses/s-nail/COPYING": "990bde62a974738fa5f1990b442faefa01191ab3abe340a7ece178821f42643a", "/usr/bin/mail": "1ce86fe5ede5dbf8f3b28c5c2edeaccfa755226fc9975546191681cba0189b83", "/usr/bin/mailx": "1ce86fe5ede5dbf8f3b28c5c2edeaccfa755226fc9975546191681cba0189b83", "/var/log/pacman.log": "96d2e3873ffbc2d3599bdc34f390331f888a56ad43ed34ce94b514582c240629", "/etc/mail.rc": "58f27c346f6598368afeb09fe85b61eb6de0c2ca00e0273545494818c3481d2e"}}
+{
+  "14.9.5-1": {
+    "/usr/bin/mailx": "c005986e778f0473d7f4bc8e95c1e025258ae52b252ccb4a00bc550483c74e40",
+    "/usr/bin/mail": "c005986e778f0473d7f4bc8e95c1e025258ae52b252ccb4a00bc550483c74e40",
+    "/usr/share/licenses/s-nail/COPYING": "990bde62a974738fa5f1990b442faefa01191ab3abe340a7ece178821f42643a",
+    "/usr/share/man/man1/mail.1.gz": "c7fa604cee50aea4d7d12f096c45e14ead1d5e7ca42db96cb9f9da83e3d74ff9",
+    "/usr/share/man/man1/mailx.1.gz": "c7fa604cee50aea4d7d12f096c45e14ead1d5e7ca42db96cb9f9da83e3d74ff9",
+    "/usr/lib/mail-privsep": "382712620908a309498e09b6aff998a5c4e2740111a88a52c220d1411e1d1884",
+    "/var/log/pacman.log": "33dd309dae47c28aec8e84e6fac567be0f965077d3e748a7313a4766678d205d",
+    "/etc/mail.rc": "f5b83838998fea6f124d2e1865698e7ce78143756dc487951875e76b600a485f"
+  },
+  "14.9.6-1": {
+    "/usr/lib/mail-privsep": "382712620908a309498e09b6aff998a5c4e2740111a88a52c220d1411e1d1884",
+    "/usr/share/man/man1/mail.1.gz": "cf9ff62546ed70afe541d687c8535bdcb78bde785e05cf0ea64c801228b006f2",
+    "/usr/share/man/man1/mailx.1.gz": "cf9ff62546ed70afe541d687c8535bdcb78bde785e05cf0ea64c801228b006f2",
+    "/usr/share/licenses/s-nail/COPYING": "990bde62a974738fa5f1990b442faefa01191ab3abe340a7ece178821f42643a",
+    "/usr/bin/mail": "1ce86fe5ede5dbf8f3b28c5c2edeaccfa755226fc9975546191681cba0189b83",
+    "/usr/bin/mailx": "1ce86fe5ede5dbf8f3b28c5c2edeaccfa755226fc9975546191681cba0189b83",
+    "/var/log/pacman.log": "96d2e3873ffbc2d3599bdc34f390331f888a56ad43ed34ce94b514582c240629",
+    "/etc/mail.rc": "58f27c346f6598368afeb09fe85b61eb6de0c2ca00e0273545494818c3481d2e"
+  }
+}

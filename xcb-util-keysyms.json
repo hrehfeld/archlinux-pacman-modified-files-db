@@ -1,1 +1,11 @@
-{"0.4.0-1": {"/usr/include/xcb/xcb_keysyms.h": "1424d52012da8ce66d2868307b48815078feb3a152ccffbbf7e855562b85fb8a", "/usr/share/licenses/xcb-util-keysyms/LICENSE": "ded299aa179dcf0d885bf89274a4db77a530e03f9f5e7cf1c3c4ef1d60e914b9", "/usr/lib/libxcb-keysyms.so": "395c31b9046a9e23d9ea9053a05f10aa6b281eecb3eb7939bdb6201cf8efc7fe", "/usr/lib/libxcb-keysyms.so.1": "395c31b9046a9e23d9ea9053a05f10aa6b281eecb3eb7939bdb6201cf8efc7fe", "/usr/lib/libxcb-keysyms.so.1.0.0": "395c31b9046a9e23d9ea9053a05f10aa6b281eecb3eb7939bdb6201cf8efc7fe", "/usr/lib/pkgconfig/xcb-keysyms.pc": "05ac8ad743efbac08243ee4e18a98dc582473b627a67ad412e2ae09b68c86fa3", "/var/log/pacman.log": "2fce3db67d58b9e51c7a22df0695ddbc4e854ee9e42a17a6014b983dc14a6c5a"}}
+{
+  "0.4.0-1": {
+    "/usr/include/xcb/xcb_keysyms.h": "1424d52012da8ce66d2868307b48815078feb3a152ccffbbf7e855562b85fb8a",
+    "/usr/share/licenses/xcb-util-keysyms/LICENSE": "ded299aa179dcf0d885bf89274a4db77a530e03f9f5e7cf1c3c4ef1d60e914b9",
+    "/usr/lib/libxcb-keysyms.so": "395c31b9046a9e23d9ea9053a05f10aa6b281eecb3eb7939bdb6201cf8efc7fe",
+    "/usr/lib/libxcb-keysyms.so.1": "395c31b9046a9e23d9ea9053a05f10aa6b281eecb3eb7939bdb6201cf8efc7fe",
+    "/usr/lib/libxcb-keysyms.so.1.0.0": "395c31b9046a9e23d9ea9053a05f10aa6b281eecb3eb7939bdb6201cf8efc7fe",
+    "/usr/lib/pkgconfig/xcb-keysyms.pc": "05ac8ad743efbac08243ee4e18a98dc582473b627a67ad412e2ae09b68c86fa3",
+    "/var/log/pacman.log": "2fce3db67d58b9e51c7a22df0695ddbc4e854ee9e42a17a6014b983dc14a6c5a"
+  }
+}

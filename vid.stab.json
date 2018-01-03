@@ -1,1 +1,24 @@
-{"1.1-1": {"/usr/lib/libvidstab.so.1.1": "cd095a1621d4112f763643485dbc163547ebeac871e4798f2809d76fccefdb62", "/usr/lib/libvidstab.so": "cd095a1621d4112f763643485dbc163547ebeac871e4798f2809d76fccefdb62", "/usr/lib/pkgconfig/vidstab.pc": "1325fdeeca39577bb0d18b40770586c861fc20e452c2963004ba3e83570cd5dc", "/usr/include/vid.stab/transform.h": "8e7ab3c8dca8764c97e97ca05e253ecc965068f4178eead672cd07bd165934cd", "/usr/include/vid.stab/localmotion2transform.h": "78e53b3a216ce1650149078a341754e50e79dba4518183b78522b2858a6fac49", "/usr/include/vid.stab/transformfixedpoint.h": "64da88c21f817f6535e9f29c12382c519e07bc0a4806fa41cbde67ed02ff1949", "/usr/include/vid.stab/serialize.h": "60d8f2538ff8b891f7329818d2ba9231baefcf31df1aef68b1917b213f6d26e2", "/usr/include/vid.stab/frameinfo.h": "a04837844f38dfec6ccfae970d76c3978152aaa9ac1b8c1284b9ed59f2cb462b", "/usr/include/vid.stab/transform_internal.h": "f7ed7609f94ed33c8b5d4306d2f78ef026dbed4805c716790284f69439c18058", "/usr/include/vid.stab/transformtype.h": "f7dd856c7507f5eacb362774837b7a04088c36313bcf1a85af88483ee83c068c", "/usr/include/vid.stab/transformtype_operations.h": "42dcf967408a2cdf13f5671c5316823b111b1d4452746cbb5759010f2a3b379c", "/usr/include/vid.stab/motiondetect.h": "9515d06b9ad66cee7e0ea2ac226635b0a86131b827f5318c1471ae2a8fad81b5", "/usr/include/vid.stab/motiondetect_opt.h": "95539f39b636c7352426f704d8ac6bb725309010d68a56e83ede7c5536a6f199", "/usr/include/vid.stab/vsvector.h": "eeb69d10cf979d06400fa1a4e92c9d61f0e68e0cea32da51906a8ee579dd617e", "/usr/include/vid.stab/motiondetect_internal.h": "6723c313ea352bb4df6f5cf0f577c19cfa90466876513eba7c42f709b71f1f58", "/usr/include/vid.stab/libvidstab.h": "af8f7581709c0122f9650c2d68c30bb751519e32e97d4998c016e802ad1e6387", "/usr/include/vid.stab/transformfloat.h": "d74bd3202a7e6aa3b90a2514e3d55be420cdfc277bcade0dbb181a7c4ecf9341", "/usr/include/vid.stab/boxblur.h": "3dbc4d19319fe60a2edf36f9bb1660a2bf0090bb1cf7fec6923ff713cb6880fe", "/usr/include/vid.stab/vidstabdefines.h": "d295de25b073466eb22bb3a73d8cacbadac3942becc5ba8e4dd17bd75a744cb9", "/var/log/pacman.log": "3121b4a396f113763c8908b24074b35444f5c13689a9f4cf595b06bbecd2a4e5"}}
+{
+  "1.1-1": {
+    "/usr/lib/libvidstab.so.1.1": "cd095a1621d4112f763643485dbc163547ebeac871e4798f2809d76fccefdb62",
+    "/usr/lib/libvidstab.so": "cd095a1621d4112f763643485dbc163547ebeac871e4798f2809d76fccefdb62",
+    "/usr/lib/pkgconfig/vidstab.pc": "1325fdeeca39577bb0d18b40770586c861fc20e452c2963004ba3e83570cd5dc",
+    "/usr/include/vid.stab/transform.h": "8e7ab3c8dca8764c97e97ca05e253ecc965068f4178eead672cd07bd165934cd",
+    "/usr/include/vid.stab/localmotion2transform.h": "78e53b3a216ce1650149078a341754e50e79dba4518183b78522b2858a6fac49",
+    "/usr/include/vid.stab/transformfixedpoint.h": "64da88c21f817f6535e9f29c12382c519e07bc0a4806fa41cbde67ed02ff1949",
+    "/usr/include/vid.stab/serialize.h": "60d8f2538ff8b891f7329818d2ba9231baefcf31df1aef68b1917b213f6d26e2",
+    "/usr/include/vid.stab/frameinfo.h": "a04837844f38dfec6ccfae970d76c3978152aaa9ac1b8c1284b9ed59f2cb462b",
+    "/usr/include/vid.stab/transform_internal.h": "f7ed7609f94ed33c8b5d4306d2f78ef026dbed4805c716790284f69439c18058",
+    "/usr/include/vid.stab/transformtype.h": "f7dd856c7507f5eacb362774837b7a04088c36313bcf1a85af88483ee83c068c",
+    "/usr/include/vid.stab/transformtype_operations.h": "42dcf967408a2cdf13f5671c5316823b111b1d4452746cbb5759010f2a3b379c",
+    "/usr/include/vid.stab/motiondetect.h": "9515d06b9ad66cee7e0ea2ac226635b0a86131b827f5318c1471ae2a8fad81b5",
+    "/usr/include/vid.stab/motiondetect_opt.h": "95539f39b636c7352426f704d8ac6bb725309010d68a56e83ede7c5536a6f199",
+    "/usr/include/vid.stab/vsvector.h": "eeb69d10cf979d06400fa1a4e92c9d61f0e68e0cea32da51906a8ee579dd617e",
+    "/usr/include/vid.stab/motiondetect_internal.h": "6723c313ea352bb4df6f5cf0f577c19cfa90466876513eba7c42f709b71f1f58",
+    "/usr/include/vid.stab/libvidstab.h": "af8f7581709c0122f9650c2d68c30bb751519e32e97d4998c016e802ad1e6387",
+    "/usr/include/vid.stab/transformfloat.h": "d74bd3202a7e6aa3b90a2514e3d55be420cdfc277bcade0dbb181a7c4ecf9341",
+    "/usr/include/vid.stab/boxblur.h": "3dbc4d19319fe60a2edf36f9bb1660a2bf0090bb1cf7fec6923ff713cb6880fe",
+    "/usr/include/vid.stab/vidstabdefines.h": "d295de25b073466eb22bb3a73d8cacbadac3942becc5ba8e4dd17bd75a744cb9",
+    "/var/log/pacman.log": "3121b4a396f113763c8908b24074b35444f5c13689a9f4cf595b06bbecd2a4e5"
+  }
+}

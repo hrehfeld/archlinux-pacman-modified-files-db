@@ -1,1 +1,12 @@
-{"1:0.0.25-3": {"/usr/share/fonts/cantarell/Cantarell-Regular.otf": "1dc2e20f1766f896d494750908d9bd784ad7b6c16decbe6b2058a8e1af82ca06", "/usr/share/fonts/cantarell/Cantarell-Oblique.otf": "00eb24b7c4ad3ae02628ced8be6c8cd1b79a8c99c7a211185ccb5adaca751af4", "/usr/share/fonts/cantarell/Cantarell-Bold.otf": "938212250e6bab6dccfa23b7cec72692efea7e1846bc7d7f3617c8547dabe4c7", "/usr/share/fonts/cantarell/Cantarell-BoldOblique.otf": "331cc2a97be574e69261a56b882980213018497fcaeb4610981fb14070fee679", "/usr/share/licenses/cantarell-fonts/LICENSE": "79a9d6198c0d9192c1b0bf55bcbc404a39390bd0d8c650cf20d652c2eaa284d8", "/var/log/pacman.log": "62eceb0bdb8a09ebc64e4a216b5290851d2be812a504f675ea5baadb234624a1", "/etc/fonts/conf.avail/31-cantarell.conf": "cbce01b0792d662b71b90d908894c3b213a7946ee992a20740fca56559d2ea86", "/etc/fonts/conf.d/31-cantarell.conf": "cbce01b0792d662b71b90d908894c3b213a7946ee992a20740fca56559d2ea86"}}
+{
+  "1:0.0.25-3": {
+    "/usr/share/fonts/cantarell/Cantarell-Regular.otf": "1dc2e20f1766f896d494750908d9bd784ad7b6c16decbe6b2058a8e1af82ca06",
+    "/usr/share/fonts/cantarell/Cantarell-Oblique.otf": "00eb24b7c4ad3ae02628ced8be6c8cd1b79a8c99c7a211185ccb5adaca751af4",
+    "/usr/share/fonts/cantarell/Cantarell-Bold.otf": "938212250e6bab6dccfa23b7cec72692efea7e1846bc7d7f3617c8547dabe4c7",
+    "/usr/share/fonts/cantarell/Cantarell-BoldOblique.otf": "331cc2a97be574e69261a56b882980213018497fcaeb4610981fb14070fee679",
+    "/usr/share/licenses/cantarell-fonts/LICENSE": "79a9d6198c0d9192c1b0bf55bcbc404a39390bd0d8c650cf20d652c2eaa284d8",
+    "/var/log/pacman.log": "62eceb0bdb8a09ebc64e4a216b5290851d2be812a504f675ea5baadb234624a1",
+    "/etc/fonts/conf.avail/31-cantarell.conf": "cbce01b0792d662b71b90d908894c3b213a7946ee992a20740fca56559d2ea86",
+    "/etc/fonts/conf.d/31-cantarell.conf": "cbce01b0792d662b71b90d908894c3b213a7946ee992a20740fca56559d2ea86"
+  }
+}

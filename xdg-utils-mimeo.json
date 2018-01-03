@@ -1,0 +1,22 @@
+{
+  "1.1.2-1": {
+    "/usr/bin/xdg-desktop-menu": "9b2d419457f61e07767f72be7a0b580957d82f613a30134ae45054312de11bfb",
+    "/usr/bin/xdg-desktop-icon": "dffa15bf511c4c7eba03e0630dc6ef55bbbf3feccbfcb6c0378a55dbd2e5ca98",
+    "/usr/bin/xdg-mime": "4c3b523cecfec02d265c1f135f2315dfde5dd219f5a087e9856b6d5101d1e125",
+    "/usr/bin/xdg-icon-resource": "7f907054623bb96580cc060f7a6557ad90d52057d22e287da90176118b4e61f6",
+    "/usr/bin/xdg-open": "ea5645ed77eecc0557a53cbffbf4994783503c5665bdfce6547f0218ce881550",
+    "/usr/bin/xdg-email": "8bfeff6ef0e64f89c7bae39b4a2d03be041e8d2e105711a4da1b6e8dde1edf23",
+    "/usr/bin/xdg-screensaver": "0c081e5abc70f433a7e187f70ff11662c374a7e7f4f0732c4074e508357689d7",
+    "/usr/bin/xdg-settings": "f3411a293a22f0eccff8c1e957d86bb6409adad86260ace781a1d1c82ada3bee",
+    "/usr/share/man/man1/xdg-settings.1.gz": "c73d5639f5c218bb9f1c75cdf1f145750a5eb88ceb376f3a7a8d293a9dae8d03",
+    "/usr/share/man/man1/xdg-screensaver.1.gz": "c8bfc811625412e08fb9b5e4a45265502b5c742a4c5c631c4543c02293ff2664",
+    "/usr/share/man/man1/xdg-email.1.gz": "8dfb5a45b476021e82f0e4ade31f0bc3d34b0e53e06b3042b26277fe93ec1ab7",
+    "/usr/share/man/man1/xdg-open.1.gz": "fe11f322b0e18ad113f6eb9970dfd605f39026b92317113b99b09fcca99714eb",
+    "/usr/share/man/man1/xdg-icon-resource.1.gz": "a2ae0d52a00ac4eeed77ddc09aef95937ff60c5347d34085b60f9a16e35c3c71",
+    "/usr/share/man/man1/xdg-mime.1.gz": "40d0ee716bf71b504a40cc9e7981b4f4392b80069960d42a3a0178cdbaebc42e",
+    "/usr/share/man/man1/xdg-desktop-icon.1.gz": "74ba724e4fbfba578ea13ad0ff74cb41c1c9341e267b26f5830813734834d86d",
+    "/usr/share/man/man1/xdg-desktop-menu.1.gz": "6ee5c379ec472fbbb1c3f87ca26476107991a14681bae44a197686a3349a3cf5",
+    "/usr/share/licenses/xdg-utils-mimeo/LICENSE": "b244f73c3d21edaf44ec253b9a7c389ec43313c417f52f8b71914b0c40d87325",
+    "/var/log/pacman.log": "ed5d5e24e0112e7d929fd22d64ab1d06b39e74322a02993cc763eef6aa9887d7"
+  }
+}

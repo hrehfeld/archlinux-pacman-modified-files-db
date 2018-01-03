@@ -1,1 +1,10 @@
-{"1.0.3-1": {"/usr/share/licenses/xorg-fonts-alias/LICENSE": "95b6410246e011be36aad0710a36a25fbfd508269cf50d17c820b29f045f08cb", "/usr/share/fonts/cyrillic/fonts.alias": "f14f011b33385aa501c2cd42e569474654fd4473e14459148206e485224e009e", "/usr/share/fonts/100dpi/fonts.alias": "ede02a8f00005bc9ca372f788b1820028cde3ab389e2d27ae71c896bb2c0b5c3", "/usr/share/fonts/75dpi/fonts.alias": "cacef1a7b4d2949d19e792d6ab462515bf38687005164bddd1f3f1f161e007bb", "/usr/share/fonts/misc/fonts.alias": "82bb1f9fcfb13b35739f4fe707504c8e3c86c087c20b9589756addcbd4f4bfed", "/var/log/pacman.log": "76c5da2a81b3b3e05c3cd3863a33402ee19a4dd6971b520c3701b903c54a2842"}}
+{
+  "1.0.3-1": {
+    "/usr/share/licenses/xorg-fonts-alias/LICENSE": "95b6410246e011be36aad0710a36a25fbfd508269cf50d17c820b29f045f08cb",
+    "/usr/share/fonts/cyrillic/fonts.alias": "f14f011b33385aa501c2cd42e569474654fd4473e14459148206e485224e009e",
+    "/usr/share/fonts/100dpi/fonts.alias": "ede02a8f00005bc9ca372f788b1820028cde3ab389e2d27ae71c896bb2c0b5c3",
+    "/usr/share/fonts/75dpi/fonts.alias": "cacef1a7b4d2949d19e792d6ab462515bf38687005164bddd1f3f1f161e007bb",
+    "/usr/share/fonts/misc/fonts.alias": "82bb1f9fcfb13b35739f4fe707504c8e3c86c087c20b9589756addcbd4f4bfed",
+    "/var/log/pacman.log": "76c5da2a81b3b3e05c3cd3863a33402ee19a4dd6971b520c3701b903c54a2842"
+  }
+}

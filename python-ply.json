@@ -1,1 +1,22 @@
-{"3.10-1": {"/usr/lib/python3.6/site-packages/ply/__init__.py": "ab8b3ce90c11b1845adb42fdb9e4b17e1fa13e28697ed0630cebd86b6fd24b66", "/usr/lib/python3.6/site-packages/ply/cpp.py": "605c161d63c2500f7960252242d83ffee1e31e38145d24f00a399318b6efd13f", "/usr/lib/python3.6/site-packages/ply/ctokens.py": "30a92c9cde344de84f86055fc422618e3fc18cbf78ddaa6b78004a633f9b9746", "/usr/lib/python3.6/site-packages/ply/lex.py": "b2c89e920aaaec62f3089e091c58b9a4f8956930da99276448b6957897c95630", "/usr/lib/python3.6/site-packages/ply/yacc.py": "d594b94497075e211266c3588bec4a7b237eb80d84ee39606cf1b4a30de62462", "/usr/lib/python3.6/site-packages/ply/ygen.py": "d8960d798b6b3f3d49ccb48b3b77781ac4bccc953c8d8fc8fc2475548f605ab0", "/usr/lib/python3.6/site-packages/ply/__pycache__/__init__.cpython-36.pyc": "48ef79192921c1e87109e59581ec3c3b050a512f09640505b1ae5685d9208185", "/usr/lib/python3.6/site-packages/ply/__pycache__/cpp.cpython-36.pyc": "8f1993786d89bc7a25a8fa287959c10951e079176d8a3e6cc6a3c7ae922bfb33", "/usr/lib/python3.6/site-packages/ply/__pycache__/ctokens.cpython-36.pyc": "24eef498d36d1530bd95a151f50a444c01d8b828fdbfc923485e08618ce14d4a", "/usr/lib/python3.6/site-packages/ply/__pycache__/lex.cpython-36.pyc": "5f76f5282c1793197e85c2d9d916b2375cc7fc5efbfcd592ac7664fa49c33de8", "/usr/lib/python3.6/site-packages/ply/__pycache__/yacc.cpython-36.pyc": "7b1d7c7ed7599b60e6abb5075d3089156b36136994f8a7c0c305187ebc8d1962", "/usr/lib/python3.6/site-packages/ply/__pycache__/ygen.cpython-36.pyc": "c7f12d86ecb7d522113d0a7233ac8629fd1c3bc3cb7d69aad3273c3ddbe87284", "/usr/lib/python3.6/site-packages/ply-3.10-py3.6.egg-info/top_level.txt": "8036011d143b572d2d6340235f226d69dbd4d8b0da3ac1ea86157bd001ac8ac7", "/usr/lib/python3.6/site-packages/ply-3.10-py3.6.egg-info/SOURCES.txt": "d13961fa87f1769194156a1f776e0dd1804208a249b2e50ff8b4f364d50e2580", "/usr/lib/python3.6/site-packages/ply-3.10-py3.6.egg-info/PKG-INFO": "1e52e742f07ad2bdfc5cacfaf5a997c4c5b0059f1cffea82566b137cdc30d631", "/usr/lib/python3.6/site-packages/ply-3.10-py3.6.egg-info/dependency_links.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b", "/usr/share/licenses/python-ply/LICENSE": "87c20dd0a774f4d4ff837b4f1555f7eb1ed1b8dc1e3223cd105e5c1e282d62bf", "/var/log/pacman.log": "c31b4f8ee3a9a4ebb77cc99f6bd1beae6c1453d3a521c899b77f35dedd509822"}}
+{
+  "3.10-1": {
+    "/usr/lib/python3.6/site-packages/ply/__init__.py": "ab8b3ce90c11b1845adb42fdb9e4b17e1fa13e28697ed0630cebd86b6fd24b66",
+    "/usr/lib/python3.6/site-packages/ply/cpp.py": "605c161d63c2500f7960252242d83ffee1e31e38145d24f00a399318b6efd13f",
+    "/usr/lib/python3.6/site-packages/ply/ctokens.py": "30a92c9cde344de84f86055fc422618e3fc18cbf78ddaa6b78004a633f9b9746",
+    "/usr/lib/python3.6/site-packages/ply/lex.py": "b2c89e920aaaec62f3089e091c58b9a4f8956930da99276448b6957897c95630",
+    "/usr/lib/python3.6/site-packages/ply/yacc.py": "d594b94497075e211266c3588bec4a7b237eb80d84ee39606cf1b4a30de62462",
+    "/usr/lib/python3.6/site-packages/ply/ygen.py": "d8960d798b6b3f3d49ccb48b3b77781ac4bccc953c8d8fc8fc2475548f605ab0",
+    "/usr/lib/python3.6/site-packages/ply/__pycache__/__init__.cpython-36.pyc": "48ef79192921c1e87109e59581ec3c3b050a512f09640505b1ae5685d9208185",
+    "/usr/lib/python3.6/site-packages/ply/__pycache__/cpp.cpython-36.pyc": "8f1993786d89bc7a25a8fa287959c10951e079176d8a3e6cc6a3c7ae922bfb33",
+    "/usr/lib/python3.6/site-packages/ply/__pycache__/ctokens.cpython-36.pyc": "24eef498d36d1530bd95a151f50a444c01d8b828fdbfc923485e08618ce14d4a",
+    "/usr/lib/python3.6/site-packages/ply/__pycache__/lex.cpython-36.pyc": "5f76f5282c1793197e85c2d9d916b2375cc7fc5efbfcd592ac7664fa49c33de8",
+    "/usr/lib/python3.6/site-packages/ply/__pycache__/yacc.cpython-36.pyc": "7b1d7c7ed7599b60e6abb5075d3089156b36136994f8a7c0c305187ebc8d1962",
+    "/usr/lib/python3.6/site-packages/ply/__pycache__/ygen.cpython-36.pyc": "c7f12d86ecb7d522113d0a7233ac8629fd1c3bc3cb7d69aad3273c3ddbe87284",
+    "/usr/lib/python3.6/site-packages/ply-3.10-py3.6.egg-info/top_level.txt": "8036011d143b572d2d6340235f226d69dbd4d8b0da3ac1ea86157bd001ac8ac7",
+    "/usr/lib/python3.6/site-packages/ply-3.10-py3.6.egg-info/SOURCES.txt": "d13961fa87f1769194156a1f776e0dd1804208a249b2e50ff8b4f364d50e2580",
+    "/usr/lib/python3.6/site-packages/ply-3.10-py3.6.egg-info/PKG-INFO": "1e52e742f07ad2bdfc5cacfaf5a997c4c5b0059f1cffea82566b137cdc30d631",
+    "/usr/lib/python3.6/site-packages/ply-3.10-py3.6.egg-info/dependency_links.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "/usr/share/licenses/python-ply/LICENSE": "87c20dd0a774f4d4ff837b4f1555f7eb1ed1b8dc1e3223cd105e5c1e282d62bf",
+    "/var/log/pacman.log": "c31b4f8ee3a9a4ebb77cc99f6bd1beae6c1453d3a521c899b77f35dedd509822"
+  }
+}

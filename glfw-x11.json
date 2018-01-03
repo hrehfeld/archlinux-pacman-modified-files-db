@@ -1,1 +1,16 @@
-{"3.2.1-1": {"/usr/share/licenses/glfw-x11/COPYING": "8d85c2fc8de8f3b8c0906e317a2d6423268ef4291a3682d94ac910f65389a441", "/usr/lib/libglfw.so.3": "3a9e0a63d2227dce6ea52163ba939e981d5fdba9a2d4e4521512925f0f8ca78e", "/usr/lib/libglfw.so.3.2": "3a9e0a63d2227dce6ea52163ba939e981d5fdba9a2d4e4521512925f0f8ca78e", "/usr/lib/libglfw.so": "3a9e0a63d2227dce6ea52163ba939e981d5fdba9a2d4e4521512925f0f8ca78e", "/usr/lib/cmake/glfw3/glfw3ConfigVersion.cmake": "a22b1b3015a4e855bbbdee8142deaf4957ae0c51848f2ed16069ec2d6a30283b", "/usr/lib/cmake/glfw3/glfw3Targets.cmake": "df92d536b6143ffd0c4213f9807a11a46817b937ee9701f6e9191bc23ff15ead", "/usr/lib/cmake/glfw3/glfw3Targets-noconfig.cmake": "feda18d770689392cff207cc49429ecd7d058afc896aee0c94e2aa8bc9c7ba06", "/usr/lib/cmake/glfw3/glfw3Config.cmake": "ee6ca5eb96cba1091e96656e80ab4f1b9ed1b8a51a8869b28708ce5ae4b2f29d", "/usr/lib/pkgconfig/glfw3.pc": "1f9e2bbb66af960548bf460f947204e62b204424664371631aa3689eba213c8d", "/usr/include/GLFW/glfw3native.h": "a4348aa02b028e6b0684abffd54e755861185141b90269ac3b66e1a08d293b6b", "/usr/include/GLFW/glfw3.h": "58cb6576c30b9a4d67f4041ab713da850eabafafb2c14d23e1c5a500654788dd", "/var/log/pacman.log": "022401b9cdee6511857b52a9ef68989f89f38113dbddb783681e3a5389259967"}}
+{
+  "3.2.1-1": {
+    "/usr/share/licenses/glfw-x11/COPYING": "8d85c2fc8de8f3b8c0906e317a2d6423268ef4291a3682d94ac910f65389a441",
+    "/usr/lib/libglfw.so.3": "3a9e0a63d2227dce6ea52163ba939e981d5fdba9a2d4e4521512925f0f8ca78e",
+    "/usr/lib/libglfw.so.3.2": "3a9e0a63d2227dce6ea52163ba939e981d5fdba9a2d4e4521512925f0f8ca78e",
+    "/usr/lib/libglfw.so": "3a9e0a63d2227dce6ea52163ba939e981d5fdba9a2d4e4521512925f0f8ca78e",
+    "/usr/lib/cmake/glfw3/glfw3ConfigVersion.cmake": "a22b1b3015a4e855bbbdee8142deaf4957ae0c51848f2ed16069ec2d6a30283b",
+    "/usr/lib/cmake/glfw3/glfw3Targets.cmake": "df92d536b6143ffd0c4213f9807a11a46817b937ee9701f6e9191bc23ff15ead",
+    "/usr/lib/cmake/glfw3/glfw3Targets-noconfig.cmake": "feda18d770689392cff207cc49429ecd7d058afc896aee0c94e2aa8bc9c7ba06",
+    "/usr/lib/cmake/glfw3/glfw3Config.cmake": "ee6ca5eb96cba1091e96656e80ab4f1b9ed1b8a51a8869b28708ce5ae4b2f29d",
+    "/usr/lib/pkgconfig/glfw3.pc": "1f9e2bbb66af960548bf460f947204e62b204424664371631aa3689eba213c8d",
+    "/usr/include/GLFW/glfw3native.h": "a4348aa02b028e6b0684abffd54e755861185141b90269ac3b66e1a08d293b6b",
+    "/usr/include/GLFW/glfw3.h": "58cb6576c30b9a4d67f4041ab713da850eabafafb2c14d23e1c5a500654788dd",
+    "/var/log/pacman.log": "022401b9cdee6511857b52a9ef68989f89f38113dbddb783681e3a5389259967"
+  }
+}

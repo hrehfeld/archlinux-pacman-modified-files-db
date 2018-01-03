@@ -1,1 +1,10 @@
-{"0.29.2-1": {"/usr/bin/x86_64-pc-linux-gnu-pkg-config": "71fde94f807c4fe472ae7d21b1ad3958d61e354c41a5c088aadfaf71f782a0f5", "/usr/bin/pkg-config": "71fde94f807c4fe472ae7d21b1ad3958d61e354c41a5c088aadfaf71f782a0f5", "/usr/share/man/man1/pkg-config.1.gz": "474c95f05d845655df35da8f4373d99ae7b6ea8295bd8722318f9e519a201a4f", "/usr/share/aclocal/pkg.m4": "140b9a7bc1fa8730b62e74f8413af2bd15b53969a084fc4a041ba70b11e352f3", "/usr/share/doc/pkg-config/pkg-config-guide.html": "abec943644a7c87d15bae2f5d5763488a592183ff35319732d44892a42a167c1", "/var/log/pacman.log": "4b11115204df53b63828c03bff67d95a8b18780853e68dd47107e6ed81c7980a"}}
+{
+  "0.29.2-1": {
+    "/usr/bin/x86_64-pc-linux-gnu-pkg-config": "71fde94f807c4fe472ae7d21b1ad3958d61e354c41a5c088aadfaf71f782a0f5",
+    "/usr/bin/pkg-config": "71fde94f807c4fe472ae7d21b1ad3958d61e354c41a5c088aadfaf71f782a0f5",
+    "/usr/share/man/man1/pkg-config.1.gz": "474c95f05d845655df35da8f4373d99ae7b6ea8295bd8722318f9e519a201a4f",
+    "/usr/share/aclocal/pkg.m4": "140b9a7bc1fa8730b62e74f8413af2bd15b53969a084fc4a041ba70b11e352f3",
+    "/usr/share/doc/pkg-config/pkg-config-guide.html": "abec943644a7c87d15bae2f5d5763488a592183ff35319732d44892a42a167c1",
+    "/var/log/pacman.log": "4b11115204df53b63828c03bff67d95a8b18780853e68dd47107e6ed81c7980a"
+  }
+}

@@ -1,1 +1,35 @@
-{"0.3.7.1-17": {"/usr/share/haskell/register/haskell-http-api-data.sh": "cc67f797949cfa3b26af6294a529dbb7966b7991bc9466656392a5fa1d03c951", "/usr/share/haskell/unregister/haskell-http-api-data.sh": "6d8d5be264f14d6548bf07b09c3a61ef1564b7a4ab225751529690ff91ac9754", "/usr/share/licenses/haskell-http-api-data/LICENSE": "82e6906f94901af3a2f18dbc6fe5f49e53d2c676a783d10fcf858999bc468e4f", "/usr/lib/libHShttp-api-data-0.3.7.1-F355QzB7S4d4QWa0UqTiBa-ghc8.2.1.so": "91ab38256d9348075a8aae1046f9916d219624267879c35c5307af644d346fdc", "/usr/lib/ghc-8.2.1/site-local/http-api-data-0.3.7.1/Web/HttpApiData.dyn_hi": "f62cd3e8865d1d909821df094cbda7c6d98d6ea23d8a58fafd5408d05226515c", "/usr/lib/ghc-8.2.1/site-local/http-api-data-0.3.7.1/Web/FormUrlEncoded.dyn_hi": "b8cc5b53fa50701fcbef26ee02d152710c20d87ce12d9c7becdd73b0414e0cc9", "/usr/lib/ghc-8.2.1/site-local/http-api-data-0.3.7.1/Web/Internal/FormUrlEncoded.dyn_hi": "7b017dfd4af9f51cf24268c9499a5d19d7904060cae10427a2d92d802e02f06c", "/usr/lib/ghc-8.2.1/site-local/http-api-data-0.3.7.1/Web/Internal/HttpApiData.dyn_hi": "ec694ff953a113d158cf478d3119d0dd9d0e05e98ce74641200e880c1b4027cb", "/var/log/pacman.log": "2e094b1540c917542cdd66cd00a035dbdd5c8dea3909f55770ffb2129a2a5622"}, "0.3.7.1-19": {"/usr/share/haskell/register/haskell-http-api-data.sh": "15f1aa929b204a9c1aae3e5d5d1de3a3de7b737a81e8f25563f76bb7e6de92a5", "/usr/share/haskell/unregister/haskell-http-api-data.sh": "bf62fb6270d9fadeaadc86e15c04a5fa05dfda67f1bbe649bd94d10e88829723", "/usr/share/licenses/haskell-http-api-data/LICENSE": "82e6906f94901af3a2f18dbc6fe5f49e53d2c676a783d10fcf858999bc468e4f", "/usr/lib/libHShttp-api-data-0.3.7.1-g5CX9YZvk735otxIfr7qD-ghc8.2.2.so": "b9811568e634179ae922542f83eeb9c7c20c215332cddd7617fb8efd2319b1f5", "/usr/lib/ghc-8.2.2/site-local/http-api-data-0.3.7.1/Web/HttpApiData.dyn_hi": "e717ef14e640660a92edbcf0632591a8242915fa0b3d1bf27d1184ffde44b709", "/usr/lib/ghc-8.2.2/site-local/http-api-data-0.3.7.1/Web/FormUrlEncoded.dyn_hi": "044f84925461473bd723c549698f3b18706ccf630f8b241d096b8bcbec807ba1", "/usr/lib/ghc-8.2.2/site-local/http-api-data-0.3.7.1/Web/Internal/FormUrlEncoded.dyn_hi": "a3c34fc4cb3758c61ba8b27dfed0ebd14654fa240639965b9349f4bbe04b9699", "/usr/lib/ghc-8.2.2/site-local/http-api-data-0.3.7.1/Web/Internal/HttpApiData.dyn_hi": "56f3c387f14c5b26f7309d7c03362b25401081272297bc376c26022a211b76dd", "/var/log/pacman.log": "76321bee761422c2d42d2d27b375404bbf2bc14e268c8910651faedaf581fb88"}}
+{
+  "0.3.7.1-17": {
+    "/usr/share/haskell/register/haskell-http-api-data.sh": "cc67f797949cfa3b26af6294a529dbb7966b7991bc9466656392a5fa1d03c951",
+    "/usr/share/haskell/unregister/haskell-http-api-data.sh": "6d8d5be264f14d6548bf07b09c3a61ef1564b7a4ab225751529690ff91ac9754",
+    "/usr/share/licenses/haskell-http-api-data/LICENSE": "82e6906f94901af3a2f18dbc6fe5f49e53d2c676a783d10fcf858999bc468e4f",
+    "/usr/lib/libHShttp-api-data-0.3.7.1-F355QzB7S4d4QWa0UqTiBa-ghc8.2.1.so": "91ab38256d9348075a8aae1046f9916d219624267879c35c5307af644d346fdc",
+    "/usr/lib/ghc-8.2.1/site-local/http-api-data-0.3.7.1/Web/HttpApiData.dyn_hi": "f62cd3e8865d1d909821df094cbda7c6d98d6ea23d8a58fafd5408d05226515c",
+    "/usr/lib/ghc-8.2.1/site-local/http-api-data-0.3.7.1/Web/FormUrlEncoded.dyn_hi": "b8cc5b53fa50701fcbef26ee02d152710c20d87ce12d9c7becdd73b0414e0cc9",
+    "/usr/lib/ghc-8.2.1/site-local/http-api-data-0.3.7.1/Web/Internal/FormUrlEncoded.dyn_hi": "7b017dfd4af9f51cf24268c9499a5d19d7904060cae10427a2d92d802e02f06c",
+    "/usr/lib/ghc-8.2.1/site-local/http-api-data-0.3.7.1/Web/Internal/HttpApiData.dyn_hi": "ec694ff953a113d158cf478d3119d0dd9d0e05e98ce74641200e880c1b4027cb",
+    "/var/log/pacman.log": "2e094b1540c917542cdd66cd00a035dbdd5c8dea3909f55770ffb2129a2a5622"
+  },
+  "0.3.7.1-19": {
+    "/usr/share/haskell/register/haskell-http-api-data.sh": "15f1aa929b204a9c1aae3e5d5d1de3a3de7b737a81e8f25563f76bb7e6de92a5",
+    "/usr/share/haskell/unregister/haskell-http-api-data.sh": "bf62fb6270d9fadeaadc86e15c04a5fa05dfda67f1bbe649bd94d10e88829723",
+    "/usr/share/licenses/haskell-http-api-data/LICENSE": "82e6906f94901af3a2f18dbc6fe5f49e53d2c676a783d10fcf858999bc468e4f",
+    "/usr/lib/libHShttp-api-data-0.3.7.1-g5CX9YZvk735otxIfr7qD-ghc8.2.2.so": "b9811568e634179ae922542f83eeb9c7c20c215332cddd7617fb8efd2319b1f5",
+    "/usr/lib/ghc-8.2.2/site-local/http-api-data-0.3.7.1/Web/HttpApiData.dyn_hi": "e717ef14e640660a92edbcf0632591a8242915fa0b3d1bf27d1184ffde44b709",
+    "/usr/lib/ghc-8.2.2/site-local/http-api-data-0.3.7.1/Web/FormUrlEncoded.dyn_hi": "044f84925461473bd723c549698f3b18706ccf630f8b241d096b8bcbec807ba1",
+    "/usr/lib/ghc-8.2.2/site-local/http-api-data-0.3.7.1/Web/Internal/FormUrlEncoded.dyn_hi": "a3c34fc4cb3758c61ba8b27dfed0ebd14654fa240639965b9349f4bbe04b9699",
+    "/usr/lib/ghc-8.2.2/site-local/http-api-data-0.3.7.1/Web/Internal/HttpApiData.dyn_hi": "56f3c387f14c5b26f7309d7c03362b25401081272297bc376c26022a211b76dd",
+    "/var/log/pacman.log": "76321bee761422c2d42d2d27b375404bbf2bc14e268c8910651faedaf581fb88"
+  },
+  "0.3.7.1-21": {
+    "/usr/share/haskell/register/haskell-http-api-data.sh": "45856a45db551d882b1b63ae66a9d71a622e02133743379236f064a0b267bec5",
+    "/usr/share/haskell/unregister/haskell-http-api-data.sh": "bf62fb6270d9fadeaadc86e15c04a5fa05dfda67f1bbe649bd94d10e88829723",
+    "/usr/share/licenses/haskell-http-api-data/LICENSE": "82e6906f94901af3a2f18dbc6fe5f49e53d2c676a783d10fcf858999bc468e4f",
+    "/usr/lib/libHShttp-api-data-0.3.7.1-G2VrJKStxxnHTkFXgO30vo-ghc8.2.2.so": "9283f15e7a10a597e2d021d15a71df9216dcf5e0de5ba02d3ef85b94d2c10c1b",
+    "/usr/lib/ghc-8.2.2/site-local/http-api-data-0.3.7.1/Web/HttpApiData.dyn_hi": "2d958648c246ab7a9d35d2813e2b2a0010c6653ca4cab97df17622ef34993c6b",
+    "/usr/lib/ghc-8.2.2/site-local/http-api-data-0.3.7.1/Web/FormUrlEncoded.dyn_hi": "cb78e904bcd7b6e34d475d713c0e18d8b86e63256d0959f33157a0dbada34402",
+    "/usr/lib/ghc-8.2.2/site-local/http-api-data-0.3.7.1/Web/Internal/FormUrlEncoded.dyn_hi": "3b12684fc1898d2de107bddfdc9fa4f61203a69d502128315862a939af9956e9",
+    "/usr/lib/ghc-8.2.2/site-local/http-api-data-0.3.7.1/Web/Internal/HttpApiData.dyn_hi": "97c2f23b55e127b2e93ffbc39f0f6292aaf72fcbe91f227a790f471b3e355fc3",
+    "/var/log/pacman.log": "e1ac5cce00f309de42888198b6af16a1a576f6bf1587b5df6694596bc5696f1f"
+  }
+}

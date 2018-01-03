@@ -1,1 +1,26 @@
-{"0.1.0.7-6": {"/usr/share/haskell/register/haskell-mime-types.sh": "06f8ba55970429bc7044eb8e56c7abaf62fcdf619c2412cf1a495f8005e4da28", "/usr/share/haskell/unregister/haskell-mime-types.sh": "caf9ebe706c8cf51485a8fa29338f64647fb98c5258b48fd4c5270a7d96f3c77", "/usr/share/licenses/haskell-mime-types/LICENSE": "bebc00cb81ab4a16c3f27768fad205a203d0d7b56944299808dc3c35b53e198d", "/usr/lib/libHSmime-types-0.1.0.7-3ciIUWEACqtAI9UjjJR1x0-ghc8.2.1.so": "53e40367aa6eb97d35cc1d3b3c95a9b43e0cf2b9c7e7278d9dcf8f4dba957da5", "/usr/lib/ghc-8.2.1/site-local/mime-types-0.1.0.7/Network/Mime.dyn_hi": "c3dc2c8f5e7290365cadb2a554033bd9fb45402c932d00554a5854271981c598", "/var/log/pacman.log": "75c8c33a65bfe1bff1cc8e47c0fcd2bacc3fb7380634677d6c89551942285b57"}, "0.1.0.7-7": {"/usr/share/haskell/register/haskell-mime-types.sh": "88f1c4baf1cc3a188dd0c8a419f29a0c18f15fecb32e2fa04f8ef052ad56b42e", "/usr/share/haskell/unregister/haskell-mime-types.sh": "2bbee3c6ed6b70c5b902614818cf4a6b50af39d049d3a202137011ad936d82c1", "/usr/share/licenses/haskell-mime-types/LICENSE": "bebc00cb81ab4a16c3f27768fad205a203d0d7b56944299808dc3c35b53e198d", "/usr/lib/libHSmime-types-0.1.0.7-GpJ8puV91aQIqce5VmolFE-ghc8.2.2.so": "11fd47dcd9fbf9a0117d5c6b549310118d4c16c7e908e95e727b100e0c8ea32a", "/usr/lib/ghc-8.2.2/site-local/mime-types-0.1.0.7/Network/Mime.dyn_hi": "ff867035901cb230ab889b95268e7f75f3a8219bf47bc3dd28eca9bbb4432177", "/var/log/pacman.log": "cb9817ae7608e2eb29f8df553f695401e6446b099562a34cb5ce990e168f3c88"}}
+{
+  "0.1.0.7-6": {
+    "/usr/share/haskell/register/haskell-mime-types.sh": "06f8ba55970429bc7044eb8e56c7abaf62fcdf619c2412cf1a495f8005e4da28",
+    "/usr/share/haskell/unregister/haskell-mime-types.sh": "caf9ebe706c8cf51485a8fa29338f64647fb98c5258b48fd4c5270a7d96f3c77",
+    "/usr/share/licenses/haskell-mime-types/LICENSE": "bebc00cb81ab4a16c3f27768fad205a203d0d7b56944299808dc3c35b53e198d",
+    "/usr/lib/libHSmime-types-0.1.0.7-3ciIUWEACqtAI9UjjJR1x0-ghc8.2.1.so": "53e40367aa6eb97d35cc1d3b3c95a9b43e0cf2b9c7e7278d9dcf8f4dba957da5",
+    "/usr/lib/ghc-8.2.1/site-local/mime-types-0.1.0.7/Network/Mime.dyn_hi": "c3dc2c8f5e7290365cadb2a554033bd9fb45402c932d00554a5854271981c598",
+    "/var/log/pacman.log": "75c8c33a65bfe1bff1cc8e47c0fcd2bacc3fb7380634677d6c89551942285b57"
+  },
+  "0.1.0.7-7": {
+    "/usr/share/haskell/register/haskell-mime-types.sh": "88f1c4baf1cc3a188dd0c8a419f29a0c18f15fecb32e2fa04f8ef052ad56b42e",
+    "/usr/share/haskell/unregister/haskell-mime-types.sh": "2bbee3c6ed6b70c5b902614818cf4a6b50af39d049d3a202137011ad936d82c1",
+    "/usr/share/licenses/haskell-mime-types/LICENSE": "bebc00cb81ab4a16c3f27768fad205a203d0d7b56944299808dc3c35b53e198d",
+    "/usr/lib/libHSmime-types-0.1.0.7-GpJ8puV91aQIqce5VmolFE-ghc8.2.2.so": "11fd47dcd9fbf9a0117d5c6b549310118d4c16c7e908e95e727b100e0c8ea32a",
+    "/usr/lib/ghc-8.2.2/site-local/mime-types-0.1.0.7/Network/Mime.dyn_hi": "ff867035901cb230ab889b95268e7f75f3a8219bf47bc3dd28eca9bbb4432177",
+    "/var/log/pacman.log": "cb9817ae7608e2eb29f8df553f695401e6446b099562a34cb5ce990e168f3c88"
+  },
+  "0.1.0.7-8": {
+    "/usr/share/haskell/register/haskell-mime-types.sh": "454872f51d4afb5930e7c55f6e3c62015d739348bb1c6f98cd1735cf8a10f74f",
+    "/usr/share/haskell/unregister/haskell-mime-types.sh": "2bbee3c6ed6b70c5b902614818cf4a6b50af39d049d3a202137011ad936d82c1",
+    "/usr/share/licenses/haskell-mime-types/LICENSE": "bebc00cb81ab4a16c3f27768fad205a203d0d7b56944299808dc3c35b53e198d",
+    "/usr/lib/libHSmime-types-0.1.0.7-FBTbThCZY4IAxCrf9Kjzw3-ghc8.2.2.so": "56f8dba1d63daf9ece50968c937eeb3668190cc13ea66bc8d954b7d533792093",
+    "/usr/lib/ghc-8.2.2/site-local/mime-types-0.1.0.7/Network/Mime.dyn_hi": "d7e08810b6dd1309ffe6d5f1e88c6c8388643357393ffe83b4b00887d61b65c6",
+    "/var/log/pacman.log": "58156c6612c7ad23ad07bc0dee550ea361cd5c310523b3e7c88eb206da7f9a21"
+  }
+}

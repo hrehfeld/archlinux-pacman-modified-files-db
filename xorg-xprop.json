@@ -1,1 +1,8 @@
-{"1.2.2-1": {"/usr/bin/xprop": "bb054707d7830d650183ae225148babe94a3f421104a9409ca8b7186ab1ccdfe", "/usr/share/licenses/xorg-xprop/COPYING": "f19ff982936cca133b9593a6561c3817512207e0b4c951d0e4eb5956d30d4415", "/usr/share/man/man1/xprop.1.gz": "e8c7cf2b0bad44a9be9748b306911b7efc54186e4a60e2ccf8388ad7783579aa", "/var/log/pacman.log": "31647c26ffd74072d299258880cb790d056738a75107dd2a1d918f38f6b10ca3"}}
+{
+  "1.2.2-1": {
+    "/usr/bin/xprop": "bb054707d7830d650183ae225148babe94a3f421104a9409ca8b7186ab1ccdfe",
+    "/usr/share/licenses/xorg-xprop/COPYING": "f19ff982936cca133b9593a6561c3817512207e0b4c951d0e4eb5956d30d4415",
+    "/usr/share/man/man1/xprop.1.gz": "e8c7cf2b0bad44a9be9748b306911b7efc54186e4a60e2ccf8388ad7783579aa",
+    "/var/log/pacman.log": "31647c26ffd74072d299258880cb790d056738a75107dd2a1d918f38f6b10ca3"
+  }
+}

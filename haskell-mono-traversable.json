@@ -1,1 +1,53 @@
-{"1.0.4.0-1": {"/usr/share/haskell/register/haskell-mono-traversable.sh": "6a72811c60f58c0e7ba1f272b80086e43e5333299ae327d326bd89262601e535", "/usr/share/haskell/unregister/haskell-mono-traversable.sh": "995d300c3436d3c9a0d279767fa8f62dff8bdd1fbfc32fd041092664e3c128e4", "/usr/share/licenses/haskell-mono-traversable/LICENSE": "49993c21a514d0ea769e899737fa3b1df2d76b7e23846fcc46db6f5e6d07d14b", "/usr/lib/libHSmono-traversable-1.0.4.0-A1CzdtwbArSMlvGjDG3wq-ghc8.2.1.so": "b101aa57d39ae05dbda4d73c21ebe307434d9b4dd6c4a3d2113d4cc96a96fcff", "/usr/lib/ghc-8.2.1/site-local/mono-traversable-1.0.4.0/Data/MonoTraversable.dyn_hi": "753081a2c2015a8a491427c68b88c35e7c082cdfc0748282c801a3d4472ecc0b", "/usr/lib/ghc-8.2.1/site-local/mono-traversable-1.0.4.0/Data/Containers.dyn_hi": "ab81d806cb664e4edd072c062cf9c0688e1a20ff14dbf070d8676ccd91db2726", "/usr/lib/ghc-8.2.1/site-local/mono-traversable-1.0.4.0/Data/Sequences.dyn_hi": "cbb3e941d63e9e90000efd11ab4254966f1753f72f0b268775470385f01399a9", "/usr/lib/ghc-8.2.1/site-local/mono-traversable-1.0.4.0/Data/NonNull.dyn_hi": "8fb808e24483c6776ff5d08afb3fba5a84488f917aabc3612bd436a52fb96a10", "/usr/lib/ghc-8.2.1/site-local/mono-traversable-1.0.4.0/Data/MonoTraversable/Unprefixed.dyn_hi": "ac23d1534497f9718a4219c1072bebedf18f7227d7eed204e6457309c3bab72e", "/var/log/pacman.log": "3ef4f64b57e201ae91da1b485fe961690a33f87ab1f68fbb7763d0696ed6b897"}, "1.0.5.0-1": {"/usr/share/haskell/register/haskell-mono-traversable.sh": "62d4f754ea7afbf34095d57770b2bfa40491944af3cee50da5734ceb74ca7423", "/usr/share/haskell/unregister/haskell-mono-traversable.sh": "cf082b4007ebcbe26f0ec7f747e445f966c181a984f39121238cfa64ffa56f1f", "/usr/share/licenses/haskell-mono-traversable/LICENSE": "49993c21a514d0ea769e899737fa3b1df2d76b7e23846fcc46db6f5e6d07d14b", "/usr/lib/libHSmono-traversable-1.0.5.0-5eEtiER7R8hGiNFsclDVqe-ghc8.2.2.so": "ffb7a9824b26334f1d3aeed3788f903860ebc06935769cf5eb00128f91b8791e", "/usr/lib/ghc-8.2.2/site-local/mono-traversable-1.0.5.0/Paths_mono_traversable.dyn_hi": "99d1fd1db55a7526f66ab76f31705d18467c449e84339333236c9294810881be", "/usr/lib/ghc-8.2.2/site-local/mono-traversable-1.0.5.0/Data/Containers.dyn_hi": "a851fc6e4237147aa52deaef693b153392e47756e3586576e59aa3004bb28e1f", "/usr/lib/ghc-8.2.2/site-local/mono-traversable-1.0.5.0/Data/MonoTraversable.dyn_hi": "673dad4ccd90be7388c5642f28df640b9bca093b71f41e66bf5b5051143e3507", "/usr/lib/ghc-8.2.2/site-local/mono-traversable-1.0.5.0/Data/NonNull.dyn_hi": "f2401c2f3c0167d87b6f9b1120b6b7252cfda22623066fc3b36eb46a40f86bc4", "/usr/lib/ghc-8.2.2/site-local/mono-traversable-1.0.5.0/Data/Sequences.dyn_hi": "bd5ce560249acfedb81cf1012f115a648c666a0c0f60e5f7f0d4bd0676f68666", "/usr/lib/ghc-8.2.2/site-local/mono-traversable-1.0.5.0/Data/MonoTraversable/Unprefixed.dyn_hi": "f0f7e93dcbf036c2f68b40104a94535c5857c71b61e475cd0fc616b10489adc4", "/var/log/pacman.log": "822497ec07b5e530e5d89dc9545376d115109af79c9380e7b356f8777ee375cb"}}
+{
+  "1.0.4.0-1": {
+    "/usr/share/haskell/register/haskell-mono-traversable.sh": "6a72811c60f58c0e7ba1f272b80086e43e5333299ae327d326bd89262601e535",
+    "/usr/share/haskell/unregister/haskell-mono-traversable.sh": "995d300c3436d3c9a0d279767fa8f62dff8bdd1fbfc32fd041092664e3c128e4",
+    "/usr/share/licenses/haskell-mono-traversable/LICENSE": "49993c21a514d0ea769e899737fa3b1df2d76b7e23846fcc46db6f5e6d07d14b",
+    "/usr/lib/libHSmono-traversable-1.0.4.0-A1CzdtwbArSMlvGjDG3wq-ghc8.2.1.so": "b101aa57d39ae05dbda4d73c21ebe307434d9b4dd6c4a3d2113d4cc96a96fcff",
+    "/usr/lib/ghc-8.2.1/site-local/mono-traversable-1.0.4.0/Data/MonoTraversable.dyn_hi": "753081a2c2015a8a491427c68b88c35e7c082cdfc0748282c801a3d4472ecc0b",
+    "/usr/lib/ghc-8.2.1/site-local/mono-traversable-1.0.4.0/Data/Containers.dyn_hi": "ab81d806cb664e4edd072c062cf9c0688e1a20ff14dbf070d8676ccd91db2726",
+    "/usr/lib/ghc-8.2.1/site-local/mono-traversable-1.0.4.0/Data/Sequences.dyn_hi": "cbb3e941d63e9e90000efd11ab4254966f1753f72f0b268775470385f01399a9",
+    "/usr/lib/ghc-8.2.1/site-local/mono-traversable-1.0.4.0/Data/NonNull.dyn_hi": "8fb808e24483c6776ff5d08afb3fba5a84488f917aabc3612bd436a52fb96a10",
+    "/usr/lib/ghc-8.2.1/site-local/mono-traversable-1.0.4.0/Data/MonoTraversable/Unprefixed.dyn_hi": "ac23d1534497f9718a4219c1072bebedf18f7227d7eed204e6457309c3bab72e",
+    "/var/log/pacman.log": "3ef4f64b57e201ae91da1b485fe961690a33f87ab1f68fbb7763d0696ed6b897"
+  },
+  "1.0.5.0-1": {
+    "/usr/share/haskell/register/haskell-mono-traversable.sh": "62d4f754ea7afbf34095d57770b2bfa40491944af3cee50da5734ceb74ca7423",
+    "/usr/share/haskell/unregister/haskell-mono-traversable.sh": "cf082b4007ebcbe26f0ec7f747e445f966c181a984f39121238cfa64ffa56f1f",
+    "/usr/share/licenses/haskell-mono-traversable/LICENSE": "49993c21a514d0ea769e899737fa3b1df2d76b7e23846fcc46db6f5e6d07d14b",
+    "/usr/lib/libHSmono-traversable-1.0.5.0-5eEtiER7R8hGiNFsclDVqe-ghc8.2.2.so": "ffb7a9824b26334f1d3aeed3788f903860ebc06935769cf5eb00128f91b8791e",
+    "/usr/lib/ghc-8.2.2/site-local/mono-traversable-1.0.5.0/Paths_mono_traversable.dyn_hi": "99d1fd1db55a7526f66ab76f31705d18467c449e84339333236c9294810881be",
+    "/usr/lib/ghc-8.2.2/site-local/mono-traversable-1.0.5.0/Data/Containers.dyn_hi": "a851fc6e4237147aa52deaef693b153392e47756e3586576e59aa3004bb28e1f",
+    "/usr/lib/ghc-8.2.2/site-local/mono-traversable-1.0.5.0/Data/MonoTraversable.dyn_hi": "673dad4ccd90be7388c5642f28df640b9bca093b71f41e66bf5b5051143e3507",
+    "/usr/lib/ghc-8.2.2/site-local/mono-traversable-1.0.5.0/Data/NonNull.dyn_hi": "f2401c2f3c0167d87b6f9b1120b6b7252cfda22623066fc3b36eb46a40f86bc4",
+    "/usr/lib/ghc-8.2.2/site-local/mono-traversable-1.0.5.0/Data/Sequences.dyn_hi": "bd5ce560249acfedb81cf1012f115a648c666a0c0f60e5f7f0d4bd0676f68666",
+    "/usr/lib/ghc-8.2.2/site-local/mono-traversable-1.0.5.0/Data/MonoTraversable/Unprefixed.dyn_hi": "f0f7e93dcbf036c2f68b40104a94535c5857c71b61e475cd0fc616b10489adc4",
+    "/var/log/pacman.log": "822497ec07b5e530e5d89dc9545376d115109af79c9380e7b356f8777ee375cb"
+  },
+  "1.0.6.0-1": {
+    "/usr/share/haskell/register/haskell-mono-traversable.sh": "2350a631e689d531ea596c88689015a7154afcc5a89c05cb48c309d640246fc8",
+    "/usr/share/haskell/unregister/haskell-mono-traversable.sh": "c537441a206da124c8e44e983616d072ec397ea3eda47bde2aea3099d3172372",
+    "/usr/share/licenses/haskell-mono-traversable/LICENSE": "49993c21a514d0ea769e899737fa3b1df2d76b7e23846fcc46db6f5e6d07d14b",
+    "/usr/lib/libHSmono-traversable-1.0.6.0-2X9JSNJX1WWjiyTtREGF5-ghc8.2.2.so": "ed748b8992b8fa092cbd1b6b7f3cb6a5a7eeb5d1049b9624a2e6bfd92980a298",
+    "/usr/lib/ghc-8.2.2/site-local/mono-traversable-1.0.6.0/Paths_mono_traversable.dyn_hi": "7ff7579c4d39bf5645248e979ac917372eeb4060f70ba0f9adc5d67ccd016bbf",
+    "/usr/lib/ghc-8.2.2/site-local/mono-traversable-1.0.6.0/Data/Containers.dyn_hi": "dac2af17db44c65187d98173b48ce496662850f94550197625c28c1e5f076c14",
+    "/usr/lib/ghc-8.2.2/site-local/mono-traversable-1.0.6.0/Data/MonoTraversable.dyn_hi": "4f6ba68d1c3d132ff88ae5f57de89b354e0be876930f7a7f67039e0dac98a13f",
+    "/usr/lib/ghc-8.2.2/site-local/mono-traversable-1.0.6.0/Data/NonNull.dyn_hi": "629d07d963bf6a8ed634698cc5a9f671d2d125e4acef0624307ee37600b1a640",
+    "/usr/lib/ghc-8.2.2/site-local/mono-traversable-1.0.6.0/Data/Sequences.dyn_hi": "a35344e3242e990eb0d828cddda8cbab65a98c07e03412ffa32294174cb23b2e",
+    "/usr/lib/ghc-8.2.2/site-local/mono-traversable-1.0.6.0/Data/MonoTraversable/Unprefixed.dyn_hi": "bbd301822cd1a71bc10d8300d27c2d392d2a03c679456b554e40f07bcdb8477c",
+    "/var/log/pacman.log": "1dc64cfadc3c917e154eb3ae2310bb57b581e8482d1dec701771f973719cc89b"
+  },
+  "1.0.7.0-1": {
+    "/usr/share/haskell/register/haskell-mono-traversable.sh": "2aa69a34054983a9e6043d86c1837468bad2ad71b780bbe2831a44d53cc23aa7",
+    "/usr/share/haskell/unregister/haskell-mono-traversable.sh": "95c3e20d3243d946894cf7612798b652280fd2377870e8ced928c8f3bb76f675",
+    "/usr/share/licenses/haskell-mono-traversable/LICENSE": "49993c21a514d0ea769e899737fa3b1df2d76b7e23846fcc46db6f5e6d07d14b",
+    "/usr/lib/libHSmono-traversable-1.0.7.0-GyslGAAvviU8NknMbUsQ27-ghc8.2.2.so": "5b66cfa30d6b9fcd0a19a6b3a539dd031091e9e994e2077732d763bb489b276f",
+    "/usr/lib/ghc-8.2.2/site-local/mono-traversable-1.0.7.0/Paths_mono_traversable.dyn_hi": "6c254180fcf6512c2da1c004cddb46601b9818659e471eed7f0e5fb2b5610174",
+    "/usr/lib/ghc-8.2.2/site-local/mono-traversable-1.0.7.0/Data/Containers.dyn_hi": "e05e6da348007181c81812805b3d73bb7308db7b2d773a2659364812d527c7b1",
+    "/usr/lib/ghc-8.2.2/site-local/mono-traversable-1.0.7.0/Data/MonoTraversable.dyn_hi": "0a422049657c00a34a4154faac6c11fc08527765fe0d017c72f15c8d35ba6aa6",
+    "/usr/lib/ghc-8.2.2/site-local/mono-traversable-1.0.7.0/Data/NonNull.dyn_hi": "88ff31fcdb78fd7930459fb7c14a997ca454920c271a18abd3afb0248a64e870",
+    "/usr/lib/ghc-8.2.2/site-local/mono-traversable-1.0.7.0/Data/Sequences.dyn_hi": "09bcde7dba07d3b7611c9fab2057e0627c0a1697ebfc78e6d2da36f33a7fb196",
+    "/usr/lib/ghc-8.2.2/site-local/mono-traversable-1.0.7.0/Data/MonoTraversable/Unprefixed.dyn_hi": "867d64dc0d205132d080587d5b055b6db72c06331bd210fa084bbb24a74023d0",
+    "/var/log/pacman.log": "b9f5a01caf8e03941f058a14b9b54fb6c765716c6c7af3cc52806268978250c7"
+  }
+}

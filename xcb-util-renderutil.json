@@ -1,1 +1,11 @@
-{"0.3.9-1": {"/usr/include/xcb/xcb_renderutil.h": "d103fff980ab6f7dc4fefc681cf8d0b773f06ee71c2c67c83445c010ff388ffc", "/usr/share/licenses/xcb-util-renderutil/LICENSE": "ded299aa179dcf0d885bf89274a4db77a530e03f9f5e7cf1c3c4ef1d60e914b9", "/usr/lib/libxcb-render-util.so": "6e73dd6b4c4d1fcc34a7cb53e6fe2e0749dd0fe8483e208d99c4be4f18405100", "/usr/lib/libxcb-render-util.so.0.0.0": "6e73dd6b4c4d1fcc34a7cb53e6fe2e0749dd0fe8483e208d99c4be4f18405100", "/usr/lib/libxcb-render-util.so.0": "6e73dd6b4c4d1fcc34a7cb53e6fe2e0749dd0fe8483e208d99c4be4f18405100", "/usr/lib/pkgconfig/xcb-renderutil.pc": "7cc8df6572ba4060fafc0c7572b67947ed8aefb67bf9ca9a9d6dc0d13d9be17f", "/var/log/pacman.log": "a5663f9f773286545e5feac2c07d20245bd9c3148123c2f4335cbb5d7c1f05da"}}
+{
+  "0.3.9-1": {
+    "/usr/include/xcb/xcb_renderutil.h": "d103fff980ab6f7dc4fefc681cf8d0b773f06ee71c2c67c83445c010ff388ffc",
+    "/usr/share/licenses/xcb-util-renderutil/LICENSE": "ded299aa179dcf0d885bf89274a4db77a530e03f9f5e7cf1c3c4ef1d60e914b9",
+    "/usr/lib/libxcb-render-util.so": "6e73dd6b4c4d1fcc34a7cb53e6fe2e0749dd0fe8483e208d99c4be4f18405100",
+    "/usr/lib/libxcb-render-util.so.0.0.0": "6e73dd6b4c4d1fcc34a7cb53e6fe2e0749dd0fe8483e208d99c4be4f18405100",
+    "/usr/lib/libxcb-render-util.so.0": "6e73dd6b4c4d1fcc34a7cb53e6fe2e0749dd0fe8483e208d99c4be4f18405100",
+    "/usr/lib/pkgconfig/xcb-renderutil.pc": "7cc8df6572ba4060fafc0c7572b67947ed8aefb67bf9ca9a9d6dc0d13d9be17f",
+    "/var/log/pacman.log": "a5663f9f773286545e5feac2c07d20245bd9c3148123c2f4335cbb5d7c1f05da"
+  }
+}

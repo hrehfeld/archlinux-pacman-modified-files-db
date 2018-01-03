@@ -1,1 +1,32 @@
-{"0.6.1-12": {"/usr/share/haskell/register/haskell-hastache.sh": "c8a50fdf27f916d607d53907ba113f67753f94f519950177dc2ccf17a0b762ce", "/usr/share/haskell/unregister/haskell-hastache.sh": "dc0df5e3bec3a7953b3cfb1a255fbcd0cfe1d4f6681674536ba6e70f9724bd28", "/usr/share/licenses/haskell-hastache/LICENSE": "63fe199698036371b95635be20d9befb5b00ebdd32506706341f572ce0b36324", "/usr/lib/libHShastache-0.6.1-3fO1poQE8BtEBRVUYiLNlq-ghc8.2.1.so": "8367a294c8a1427e8dd7b491d523fc38f10206ac6938fc053bcfb5b42a034e3f", "/usr/lib/ghc-8.2.1/site-local/hastache-0.6.1/Text/Hastache.dyn_hi": "0d863d2d05eb18a53fadb32878371e48b95fe16b8fbbbe171b2ab8254e43692e", "/usr/lib/ghc-8.2.1/site-local/hastache-0.6.1/Text/Hastache/Context.dyn_hi": "f888b982b0a4e7747e47f202cf06abcfe6703a4c1c936bc8b6d2d5822d00701a", "/usr/bin/mkReadme": "82fdc43bab3d95c7529640ffbac717a2ff24c0a707e3f62d9a4d353300249c6e", "/var/log/pacman.log": "e894050a80172f2faea5c47a743156d041731b2b269947b350f5680fedc741d8"}, "0.6.1-13": {"/usr/share/haskell/register/haskell-hastache.sh": "abcb71fc80050e2dc5ba11a4d1ac7fc3d863ad07b0b2d8ff6e2e3eac8ac53d0d", "/usr/share/haskell/unregister/haskell-hastache.sh": "1278a9ce86a7a77e7c1ac5161bef4bfd480c352d2e280051d933bee178f37e75", "/usr/share/licenses/haskell-hastache/LICENSE": "63fe199698036371b95635be20d9befb5b00ebdd32506706341f572ce0b36324", "/usr/lib/libHShastache-0.6.1-GuChawqglV6IWyCQe11i72-ghc8.2.2.so": "e8f58cca7f88eefe6673709575cae5a341764162044d49c8b62d485eb7215d39", "/usr/lib/ghc-8.2.2/site-local/hastache-0.6.1/Text/Hastache.dyn_hi": "826c683469e9cb7f441bcb774532927b2c3f8e28af9acd61a089d4ec0e1df4e8", "/usr/lib/ghc-8.2.2/site-local/hastache-0.6.1/Text/Hastache/Context.dyn_hi": "9a188b1cb7d4a1fde053b0790630aea15fed9c770729b0eecd70b5d12bc4427f", "/usr/bin/mkReadme": "6fb4ccec435f0b48b7ad99aa538da29a258d51f2076a80df7a999ca31b625ce3", "/var/log/pacman.log": "cac166ac3f91f3a9d888c7007a92b3e3bc3c96d52c04b97a249d3cd13ca04f0b"}}
+{
+  "0.6.1-12": {
+    "/usr/share/haskell/register/haskell-hastache.sh": "c8a50fdf27f916d607d53907ba113f67753f94f519950177dc2ccf17a0b762ce",
+    "/usr/share/haskell/unregister/haskell-hastache.sh": "dc0df5e3bec3a7953b3cfb1a255fbcd0cfe1d4f6681674536ba6e70f9724bd28",
+    "/usr/share/licenses/haskell-hastache/LICENSE": "63fe199698036371b95635be20d9befb5b00ebdd32506706341f572ce0b36324",
+    "/usr/lib/libHShastache-0.6.1-3fO1poQE8BtEBRVUYiLNlq-ghc8.2.1.so": "8367a294c8a1427e8dd7b491d523fc38f10206ac6938fc053bcfb5b42a034e3f",
+    "/usr/lib/ghc-8.2.1/site-local/hastache-0.6.1/Text/Hastache.dyn_hi": "0d863d2d05eb18a53fadb32878371e48b95fe16b8fbbbe171b2ab8254e43692e",
+    "/usr/lib/ghc-8.2.1/site-local/hastache-0.6.1/Text/Hastache/Context.dyn_hi": "f888b982b0a4e7747e47f202cf06abcfe6703a4c1c936bc8b6d2d5822d00701a",
+    "/usr/bin/mkReadme": "82fdc43bab3d95c7529640ffbac717a2ff24c0a707e3f62d9a4d353300249c6e",
+    "/var/log/pacman.log": "e894050a80172f2faea5c47a743156d041731b2b269947b350f5680fedc741d8"
+  },
+  "0.6.1-13": {
+    "/usr/share/haskell/register/haskell-hastache.sh": "abcb71fc80050e2dc5ba11a4d1ac7fc3d863ad07b0b2d8ff6e2e3eac8ac53d0d",
+    "/usr/share/haskell/unregister/haskell-hastache.sh": "1278a9ce86a7a77e7c1ac5161bef4bfd480c352d2e280051d933bee178f37e75",
+    "/usr/share/licenses/haskell-hastache/LICENSE": "63fe199698036371b95635be20d9befb5b00ebdd32506706341f572ce0b36324",
+    "/usr/lib/libHShastache-0.6.1-GuChawqglV6IWyCQe11i72-ghc8.2.2.so": "e8f58cca7f88eefe6673709575cae5a341764162044d49c8b62d485eb7215d39",
+    "/usr/lib/ghc-8.2.2/site-local/hastache-0.6.1/Text/Hastache.dyn_hi": "826c683469e9cb7f441bcb774532927b2c3f8e28af9acd61a089d4ec0e1df4e8",
+    "/usr/lib/ghc-8.2.2/site-local/hastache-0.6.1/Text/Hastache/Context.dyn_hi": "9a188b1cb7d4a1fde053b0790630aea15fed9c770729b0eecd70b5d12bc4427f",
+    "/usr/bin/mkReadme": "6fb4ccec435f0b48b7ad99aa538da29a258d51f2076a80df7a999ca31b625ce3",
+    "/var/log/pacman.log": "cac166ac3f91f3a9d888c7007a92b3e3bc3c96d52c04b97a249d3cd13ca04f0b"
+  },
+  "0.6.1-14": {
+    "/usr/share/haskell/register/haskell-hastache.sh": "fb5a8bc0285326a1d71cdea2a63d8baad145354012e52c44158c72607d509679",
+    "/usr/share/haskell/unregister/haskell-hastache.sh": "1278a9ce86a7a77e7c1ac5161bef4bfd480c352d2e280051d933bee178f37e75",
+    "/usr/share/licenses/haskell-hastache/LICENSE": "63fe199698036371b95635be20d9befb5b00ebdd32506706341f572ce0b36324",
+    "/usr/lib/libHShastache-0.6.1-9QFeqXmBj8n6qxCMGWwNLA-ghc8.2.2.so": "d199840aa639f59e2773dea9a60fd151cfb1e19ed73448b9d9bb38204ff5adc6",
+    "/usr/lib/ghc-8.2.2/site-local/hastache-0.6.1/Text/Hastache.dyn_hi": "1647e811d8442af125497d57443f85ed808de5c34396922b7af326f3fb033c92",
+    "/usr/lib/ghc-8.2.2/site-local/hastache-0.6.1/Text/Hastache/Context.dyn_hi": "9d3c9913e830dc8f9ae88534585528c2f0cebe63dce27c92a1cedad94d11714a",
+    "/usr/bin/mkReadme": "9fc231195132ab0d06eca3b5a20b3c726eafb00ebe8a588175d32197d7cf9ef7",
+    "/var/log/pacman.log": "d849c2a2901762aecae61a60c05297822fe356936f6d2b29c9fee434a255e86d"
+  }
+}

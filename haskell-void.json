@@ -1,1 +1,18 @@
-{"0.7.2-4": {"/usr/share/haskell/register/haskell-void.sh": "1bfecc172fd8f0e27930a76891078ed5830de5d54a7cd2804c828b3d9632e3cc", "/usr/share/haskell/unregister/haskell-void.sh": "33123b744f7c47149cbc087e842846f6dd5824351626a2b9da98f6a1ef7009ad", "/usr/share/licenses/haskell-void/LICENSE": "10ac24a5b2cf6030c03353cad293a019d0343a1bd3a60592dc8a6c7834b948b3", "/usr/lib/libHSvoid-0.7.2-KNNEd7XG9bDRysTndgnf2-ghc8.2.1.so": "1e704c69cd2454725b2fca54011f944e360e1e7bcab3c6aad081e84e1332dae9", "/usr/lib/ghc-8.2.1/site-local/void-0.7.2/Data/Void/Unsafe.dyn_hi": "2e913c0b10f95b77c38791914e7b1051a18fd1b7188448861c3240f1e4272a1a", "/var/log/pacman.log": "29940d9e11a5b2b18ebe39e793c6f80fafa86afb9857a784fa998821ffdc66eb"}, "0.7.2-5": {"/usr/share/haskell/register/haskell-void.sh": "c631019e6d1f034bfe390989ff9a4d88241725815ff656902a71bb8981087b15", "/usr/share/haskell/unregister/haskell-void.sh": "d9a7ec9b4bb224ee300c8fce649d0170bf37c0d5880c9b570f1fe1fd6bdbbb65", "/usr/share/licenses/haskell-void/LICENSE": "10ac24a5b2cf6030c03353cad293a019d0343a1bd3a60592dc8a6c7834b948b3", "/usr/lib/libHSvoid-0.7.2-FiGeS4PZxPp8gUDrtvjFKC-ghc8.2.2.so": "3a7ca272b61848233b930184721be9bc3893700a77c113a0f9af01048ffa57da", "/usr/lib/ghc-8.2.2/site-local/void-0.7.2/Data/Void/Unsafe.dyn_hi": "252f72cc6b59424e251364d5f9d27f4b60703d722d022ebdafba44b813458d6d", "/var/log/pacman.log": "5d921561b77948b6fbc735ae3c9f31294f8e12c772e35ce140ccd9f22523cfa2"}}
+{
+  "0.7.2-4": {
+    "/usr/share/haskell/register/haskell-void.sh": "1bfecc172fd8f0e27930a76891078ed5830de5d54a7cd2804c828b3d9632e3cc",
+    "/usr/share/haskell/unregister/haskell-void.sh": "33123b744f7c47149cbc087e842846f6dd5824351626a2b9da98f6a1ef7009ad",
+    "/usr/share/licenses/haskell-void/LICENSE": "10ac24a5b2cf6030c03353cad293a019d0343a1bd3a60592dc8a6c7834b948b3",
+    "/usr/lib/libHSvoid-0.7.2-KNNEd7XG9bDRysTndgnf2-ghc8.2.1.so": "1e704c69cd2454725b2fca54011f944e360e1e7bcab3c6aad081e84e1332dae9",
+    "/usr/lib/ghc-8.2.1/site-local/void-0.7.2/Data/Void/Unsafe.dyn_hi": "2e913c0b10f95b77c38791914e7b1051a18fd1b7188448861c3240f1e4272a1a",
+    "/var/log/pacman.log": "29940d9e11a5b2b18ebe39e793c6f80fafa86afb9857a784fa998821ffdc66eb"
+  },
+  "0.7.2-5": {
+    "/usr/share/haskell/register/haskell-void.sh": "c631019e6d1f034bfe390989ff9a4d88241725815ff656902a71bb8981087b15",
+    "/usr/share/haskell/unregister/haskell-void.sh": "d9a7ec9b4bb224ee300c8fce649d0170bf37c0d5880c9b570f1fe1fd6bdbbb65",
+    "/usr/share/licenses/haskell-void/LICENSE": "10ac24a5b2cf6030c03353cad293a019d0343a1bd3a60592dc8a6c7834b948b3",
+    "/usr/lib/libHSvoid-0.7.2-FiGeS4PZxPp8gUDrtvjFKC-ghc8.2.2.so": "3a7ca272b61848233b930184721be9bc3893700a77c113a0f9af01048ffa57da",
+    "/usr/lib/ghc-8.2.2/site-local/void-0.7.2/Data/Void/Unsafe.dyn_hi": "252f72cc6b59424e251364d5f9d27f4b60703d722d022ebdafba44b813458d6d",
+    "/var/log/pacman.log": "5d921561b77948b6fbc735ae3c9f31294f8e12c772e35ce140ccd9f22523cfa2"
+  }
+}

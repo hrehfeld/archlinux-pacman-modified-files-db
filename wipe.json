@@ -1,1 +1,14 @@
-{"2.3.1-3": {"/usr/share/man/man1/wipe.1.gz": "49ee533936ed3ff04d1a648433d3d9c47cd9cb6fc4e9f95b7d471268e8814f6b", "/usr/share/doc/wipe/copyright": "c8548d6a01b289c634cde608825d498b729c9b62911cb9f148b48689ad341e85", "/usr/share/doc/wipe/TODO": "ab4967e6f34bb48e50e2eb8f84d6d3554544998261ec932ef9be5d19070c6cb4", "/usr/share/doc/wipe/TESTING": "19bf67955ad4697687cff48e094d13eb565be7bc3c03b52c4e6fafe99fa4e6ea", "/usr/share/doc/wipe/README": "00b0c435f8a889e39feedd38d412317de6aef3613110a39cc5c016f5a71f628f", "/usr/share/doc/wipe/LICENSE": "890cd89006bb57ce95b460e867c7bcc81d30cbc23067a9be4644bdac6882bc14", "/usr/share/doc/wipe/INSTALL": "2d5d9a16e99c80f4055c7e7085892ee5d001563f361bf91b9708d079c9b33e96", "/usr/share/doc/wipe/CHANGES": "f331e5e10eea9f11309c057b6a39a28a1d9379f27593cf97a26240c2ff0968f4", "/usr/bin/wipe": "4c3ff3162f33a0b7679bdfa29556319ecc971fef5daf577ab3b80b1ba47b9153", "/var/log/pacman.log": "a102f257eb6a0c34974d3c3dcffc697b73022e433c91cb8891f124cacb8b39f0"}}
+{
+  "2.3.1-3": {
+    "/usr/share/man/man1/wipe.1.gz": "49ee533936ed3ff04d1a648433d3d9c47cd9cb6fc4e9f95b7d471268e8814f6b",
+    "/usr/share/doc/wipe/copyright": "c8548d6a01b289c634cde608825d498b729c9b62911cb9f148b48689ad341e85",
+    "/usr/share/doc/wipe/TODO": "ab4967e6f34bb48e50e2eb8f84d6d3554544998261ec932ef9be5d19070c6cb4",
+    "/usr/share/doc/wipe/TESTING": "19bf67955ad4697687cff48e094d13eb565be7bc3c03b52c4e6fafe99fa4e6ea",
+    "/usr/share/doc/wipe/README": "00b0c435f8a889e39feedd38d412317de6aef3613110a39cc5c016f5a71f628f",
+    "/usr/share/doc/wipe/LICENSE": "890cd89006bb57ce95b460e867c7bcc81d30cbc23067a9be4644bdac6882bc14",
+    "/usr/share/doc/wipe/INSTALL": "2d5d9a16e99c80f4055c7e7085892ee5d001563f361bf91b9708d079c9b33e96",
+    "/usr/share/doc/wipe/CHANGES": "f331e5e10eea9f11309c057b6a39a28a1d9379f27593cf97a26240c2ff0968f4",
+    "/usr/bin/wipe": "4c3ff3162f33a0b7679bdfa29556319ecc971fef5daf577ab3b80b1ba47b9153",
+    "/var/log/pacman.log": "a102f257eb6a0c34974d3c3dcffc697b73022e433c91cb8891f124cacb8b39f0"
+  }
+}

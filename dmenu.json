@@ -1,1 +1,22 @@
-{"4.7-1": {"/usr/share/licenses/dmenu/LICENSE": "3b0b82fb1888ac4f9f823ed470113a305eef462bbcc0fa14e9f5072190bb4070", "/usr/share/man/man1/stest.1.gz": "e5abc95943e6ada8ceec31337c5ad381b951b04b1eeffb0f35aae2a8220bb6e8", "/usr/share/man/man1/dmenu.1.gz": "24f952f0f5bfcedb6dca20bf7a793d84f3664bf1847b49d3877a92107886de3b", "/usr/bin/dmenu_run": "564035fd8a8ade6504521d98fa10e8732e135403d546d04ca77316fe4a67b21c", "/usr/bin/dmenu": "a23b9a2d4809629f2da28591e7b791806738fbfda54d96fa98eb23f961c021ca", "/usr/bin/stest": "5864db14206583245155cd300d8b8078231bb8196515e219d06af210a41032e7", "/usr/bin/dmenu_path": "d8f1578ffac55f3393bc3772049c1f49b18916e411fb47da73037dbe00ac5cfd", "/var/log/pacman.log": "339a6ec9b955c5973e5905ea095af7887895edd9791bd05644fd85e6121b89b3"}, "4.7-2": {"/usr/bin/stest": "48a6f9e8ee26830ab4766de6cd82df161ebcbc4e925bcd1817e6186ceeb33f6d", "/usr/bin/dmenu_path": "d8f1578ffac55f3393bc3772049c1f49b18916e411fb47da73037dbe00ac5cfd", "/usr/bin/dmenu_run": "564035fd8a8ade6504521d98fa10e8732e135403d546d04ca77316fe4a67b21c", "/usr/bin/dmenu": "7cc91c496d9dfd4ae276459952d1e3282ab68368f5054fba15f01215ee745d7e", "/usr/share/man/man1/stest.1.gz": "e5abc95943e6ada8ceec31337c5ad381b951b04b1eeffb0f35aae2a8220bb6e8", "/usr/share/man/man1/dmenu.1.gz": "24f952f0f5bfcedb6dca20bf7a793d84f3664bf1847b49d3877a92107886de3b", "/usr/share/licenses/dmenu/LICENSE": "3b0b82fb1888ac4f9f823ed470113a305eef462bbcc0fa14e9f5072190bb4070", "/var/log/pacman.log": "6a8dda96bc1673652c61bd8b72bff2b578930b16bb8e88dd7afcdeb371bc0172"}}
+{
+  "4.7-1": {
+    "/usr/share/licenses/dmenu/LICENSE": "3b0b82fb1888ac4f9f823ed470113a305eef462bbcc0fa14e9f5072190bb4070",
+    "/usr/share/man/man1/stest.1.gz": "e5abc95943e6ada8ceec31337c5ad381b951b04b1eeffb0f35aae2a8220bb6e8",
+    "/usr/share/man/man1/dmenu.1.gz": "24f952f0f5bfcedb6dca20bf7a793d84f3664bf1847b49d3877a92107886de3b",
+    "/usr/bin/dmenu_run": "564035fd8a8ade6504521d98fa10e8732e135403d546d04ca77316fe4a67b21c",
+    "/usr/bin/dmenu": "a23b9a2d4809629f2da28591e7b791806738fbfda54d96fa98eb23f961c021ca",
+    "/usr/bin/stest": "5864db14206583245155cd300d8b8078231bb8196515e219d06af210a41032e7",
+    "/usr/bin/dmenu_path": "d8f1578ffac55f3393bc3772049c1f49b18916e411fb47da73037dbe00ac5cfd",
+    "/var/log/pacman.log": "339a6ec9b955c5973e5905ea095af7887895edd9791bd05644fd85e6121b89b3"
+  },
+  "4.7-2": {
+    "/usr/bin/stest": "48a6f9e8ee26830ab4766de6cd82df161ebcbc4e925bcd1817e6186ceeb33f6d",
+    "/usr/bin/dmenu_path": "d8f1578ffac55f3393bc3772049c1f49b18916e411fb47da73037dbe00ac5cfd",
+    "/usr/bin/dmenu_run": "564035fd8a8ade6504521d98fa10e8732e135403d546d04ca77316fe4a67b21c",
+    "/usr/bin/dmenu": "7cc91c496d9dfd4ae276459952d1e3282ab68368f5054fba15f01215ee745d7e",
+    "/usr/share/man/man1/stest.1.gz": "e5abc95943e6ada8ceec31337c5ad381b951b04b1eeffb0f35aae2a8220bb6e8",
+    "/usr/share/man/man1/dmenu.1.gz": "24f952f0f5bfcedb6dca20bf7a793d84f3664bf1847b49d3877a92107886de3b",
+    "/usr/share/licenses/dmenu/LICENSE": "3b0b82fb1888ac4f9f823ed470113a305eef462bbcc0fa14e9f5072190bb4070",
+    "/var/log/pacman.log": "6a8dda96bc1673652c61bd8b72bff2b578930b16bb8e88dd7afcdeb371bc0172"
+  }
+}

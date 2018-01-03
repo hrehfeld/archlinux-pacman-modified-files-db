@@ -1,1 +1,14 @@
-{"0.23-1": {"/usr/share/libalpm/hooks/update-desktop-database.hook": "2be5efa6c93f89691d106c086ef392e5dbf2839e2de2afc43a7f616f55b2a81d", "/usr/share/man/man1/update-desktop-database.1.gz": "7245e26be809cad1cba7d6c5c13659f30efbe0faecd1206e9245322f08d00cfa", "/usr/share/man/man1/desktop-file-install.1.gz": "45dd68357a836a59c420f79a499f868b19cea0b1acdcb8d4b2f282cf28b4fcfb", "/usr/share/man/man1/desktop-file-edit.1.gz": "45dd68357a836a59c420f79a499f868b19cea0b1acdcb8d4b2f282cf28b4fcfb", "/usr/share/man/man1/desktop-file-validate.1.gz": "bb6ffc58d14fef58db10897976deba03f6635cd821cb2d2b1ea40a6da31a49d3", "/usr/bin/update-desktop-database": "b5798df43745303ae0e4efb67858839ef5118beb60ae178b57118662fc680a88", "/usr/bin/desktop-file-install": "e5de241b426d670e02f687e803d2cfbd7a4b5f24907aed1ba97b4583ca7dcc46", "/usr/bin/desktop-file-validate": "dcc78388abb01c84be6267768607a7476a64a5e86072c881762f99d9b0e6448a", "/usr/bin/desktop-file-edit": "e5de241b426d670e02f687e803d2cfbd7a4b5f24907aed1ba97b4583ca7dcc46", "/var/log/pacman.log": "98eeae1f88d02c31d053fbc683e35a3b7f60e7779a03b96861e606e8dba7a7fe"}}
+{
+  "0.23-1": {
+    "/usr/share/libalpm/hooks/update-desktop-database.hook": "2be5efa6c93f89691d106c086ef392e5dbf2839e2de2afc43a7f616f55b2a81d",
+    "/usr/share/man/man1/update-desktop-database.1.gz": "7245e26be809cad1cba7d6c5c13659f30efbe0faecd1206e9245322f08d00cfa",
+    "/usr/share/man/man1/desktop-file-install.1.gz": "45dd68357a836a59c420f79a499f868b19cea0b1acdcb8d4b2f282cf28b4fcfb",
+    "/usr/share/man/man1/desktop-file-edit.1.gz": "45dd68357a836a59c420f79a499f868b19cea0b1acdcb8d4b2f282cf28b4fcfb",
+    "/usr/share/man/man1/desktop-file-validate.1.gz": "bb6ffc58d14fef58db10897976deba03f6635cd821cb2d2b1ea40a6da31a49d3",
+    "/usr/bin/update-desktop-database": "b5798df43745303ae0e4efb67858839ef5118beb60ae178b57118662fc680a88",
+    "/usr/bin/desktop-file-install": "e5de241b426d670e02f687e803d2cfbd7a4b5f24907aed1ba97b4583ca7dcc46",
+    "/usr/bin/desktop-file-validate": "dcc78388abb01c84be6267768607a7476a64a5e86072c881762f99d9b0e6448a",
+    "/usr/bin/desktop-file-edit": "e5de241b426d670e02f687e803d2cfbd7a4b5f24907aed1ba97b4583ca7dcc46",
+    "/var/log/pacman.log": "98eeae1f88d02c31d053fbc683e35a3b7f60e7779a03b96861e606e8dba7a7fe"
+  }
+}

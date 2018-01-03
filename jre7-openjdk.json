@@ -1,1 +1,16 @@
-{"7.u151_2.6.11-1": {"/usr/lib/jvm/java-7-openjdk/jre/bin/policytool": "13b4a283d9bed83473f4aae02799b6a418b865e56258a065fc574c13e70539d2", "/usr/lib/jvm/java-7-openjdk/jre/lib/amd64/libsplashscreen.so": "38609eed0adec6975d8a646ff6e8932a154647976860f0710994f77a8d00933e", "/usr/lib/jvm/java-7-openjdk/jre/lib/amd64/libjsoundalsa.so": "a9fead516fa2a54de8dd82cba83f372fd3729b618c661283367420995cd14150", "/usr/lib/jvm/java-7-openjdk/jre/lib/amd64/xawt/libmawt.so": "bc4499a81b2663bd5dc2d9ed651c997834bfc46828f588c17237d441b6106f06", "/usr/share/man/man1/policytool.1.gz": "c5acdcf81f236160c2bd4e2227096587496d12b6c41379d6e7b9f350c033699e", "/usr/share/man/ja/man1/policytool.1.gz": "b7c970a338fd0eb850ba9d7a6f10c60c6b4a61445220039b15c839122b568c68", "/usr/share/icons/hicolor/16x16/apps/java.png": "fc8a191aa0c78850194758c77937966cc5bd0fbd2b604188b466571ebcdae570", "/usr/share/icons/hicolor/24x24/apps/java.png": "c9079bc3676873b39967861c24036074bf6d224442994b4c4ce79e888602fcd5", "/usr/share/icons/hicolor/32x32/apps/java.png": "8b2491d0b5cbc67075dcae4d29c8a92b9ab813d9eca05a2f16ee3b3efb970e65", "/usr/share/icons/hicolor/48x48/apps/java.png": "e15912c341217081f40f73a89203c765e501470ef3a01099c1995139214ff4d6", "/usr/share/applications/policytool.desktop": "c9e5b391af19644b6a73ccc2a4843d55a2684c31f0a07c218774d29aef26c6b7", "/var/log/pacman.log": "414f11c97f0bf1757edb9c3144af77a844fa532d83fb8cdc121e99626667860e"}}
+{
+  "7.u151_2.6.11-1": {
+    "/usr/lib/jvm/java-7-openjdk/jre/bin/policytool": "13b4a283d9bed83473f4aae02799b6a418b865e56258a065fc574c13e70539d2",
+    "/usr/lib/jvm/java-7-openjdk/jre/lib/amd64/libsplashscreen.so": "38609eed0adec6975d8a646ff6e8932a154647976860f0710994f77a8d00933e",
+    "/usr/lib/jvm/java-7-openjdk/jre/lib/amd64/libjsoundalsa.so": "a9fead516fa2a54de8dd82cba83f372fd3729b618c661283367420995cd14150",
+    "/usr/lib/jvm/java-7-openjdk/jre/lib/amd64/xawt/libmawt.so": "bc4499a81b2663bd5dc2d9ed651c997834bfc46828f588c17237d441b6106f06",
+    "/usr/share/man/man1/policytool.1.gz": "c5acdcf81f236160c2bd4e2227096587496d12b6c41379d6e7b9f350c033699e",
+    "/usr/share/man/ja/man1/policytool.1.gz": "b7c970a338fd0eb850ba9d7a6f10c60c6b4a61445220039b15c839122b568c68",
+    "/usr/share/icons/hicolor/16x16/apps/java.png": "fc8a191aa0c78850194758c77937966cc5bd0fbd2b604188b466571ebcdae570",
+    "/usr/share/icons/hicolor/24x24/apps/java.png": "c9079bc3676873b39967861c24036074bf6d224442994b4c4ce79e888602fcd5",
+    "/usr/share/icons/hicolor/32x32/apps/java.png": "8b2491d0b5cbc67075dcae4d29c8a92b9ab813d9eca05a2f16ee3b3efb970e65",
+    "/usr/share/icons/hicolor/48x48/apps/java.png": "e15912c341217081f40f73a89203c765e501470ef3a01099c1995139214ff4d6",
+    "/usr/share/applications/policytool.desktop": "c9e5b391af19644b6a73ccc2a4843d55a2684c31f0a07c218774d29aef26c6b7",
+    "/var/log/pacman.log": "414f11c97f0bf1757edb9c3144af77a844fa532d83fb8cdc121e99626667860e"
+  }
+}

@@ -1,1 +1,8 @@
-{"1:5.5.8-1": {"/usr/lib/libunrar.so": "b2c50423966017ec5fc513c7a462d39ea764eb8c25a9cd3004510cbe966bf694", "/usr/include/unrar/dll.hpp": "d841736a7a2e8437aa6e388fedd32bce9dd629edf100fde07ac523833b2b117d", "/usr/share/licenses/libunrar/LICENSE": "6ecc1687808b7d66b24f874755abfed7464d9751ed0001cd4e8e5d9bf397ff8a", "/var/log/pacman.log": "db2befe8c08b86cd3b07b6627fa70d9267694a1673090939e146e31a7ac7d581"}}
+{
+  "1:5.5.8-1": {
+    "/usr/lib/libunrar.so": "b2c50423966017ec5fc513c7a462d39ea764eb8c25a9cd3004510cbe966bf694",
+    "/usr/include/unrar/dll.hpp": "d841736a7a2e8437aa6e388fedd32bce9dd629edf100fde07ac523833b2b117d",
+    "/usr/share/licenses/libunrar/LICENSE": "6ecc1687808b7d66b24f874755abfed7464d9751ed0001cd4e8e5d9bf397ff8a",
+    "/var/log/pacman.log": "db2befe8c08b86cd3b07b6627fa70d9267694a1673090939e146e31a7ac7d581"
+  }
+}

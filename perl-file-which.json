@@ -1,1 +1,7 @@
-{"1.22-1": {"/usr/share/man/man3/File::Which.3pm.gz": "89a87818931a90b2eb35ee8f931be7374af8f5fc46cd56452738be3733e5bc16", "/usr/share/perl5/vendor_perl/File/Which.pm": "cc95acb79efcd3310553e0bc88e2da30cb0cedd7bef2266990b5c4e7ebe96be4", "/var/log/pacman.log": "cba16101738e6d3392a913bafb577be7a22f4507f6a5ae9195148e5f68f9b233"}}
+{
+  "1.22-1": {
+    "/usr/share/man/man3/File::Which.3pm.gz": "89a87818931a90b2eb35ee8f931be7374af8f5fc46cd56452738be3733e5bc16",
+    "/usr/share/perl5/vendor_perl/File/Which.pm": "cc95acb79efcd3310553e0bc88e2da30cb0cedd7bef2266990b5c4e7ebe96be4",
+    "/var/log/pacman.log": "cba16101738e6d3392a913bafb577be7a22f4507f6a5ae9195148e5f68f9b233"
+  }
+}

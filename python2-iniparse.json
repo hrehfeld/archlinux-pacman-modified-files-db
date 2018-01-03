@@ -1,1 +1,28 @@
-{"0.4-4": {"/usr/share/licenses/python2-iniparse/LICENSE": "ff45637d8a96adc414179e502fbed40160e57205bf2e302140e79a0c71eceaa7", "/usr/share/doc/iniparse-0.4/style.css": "02ecc1a5659e43f7e46f66193c0a3c354e9f81933fda0a8e8e7a52ce4fa2d829", "/usr/share/doc/iniparse-0.4/index.html": "17e82699aa1e6fdcc7558a60fce51f8613529dd389211c2e9a1d428f4cd1cab0", "/usr/share/doc/iniparse-0.4/Changelog": "ca238a20e0d213951090913b3f1fc6df74a86d5c9661e6cf0a1a58994b8d09b8", "/usr/share/doc/iniparse-0.4/LICENSE": "ff45637d8a96adc414179e502fbed40160e57205bf2e302140e79a0c71eceaa7", "/usr/share/doc/iniparse-0.4/LICENSE-PSF": "9b02e3dfe433ccd2bd94636ef6eb08638b5a54deafe5f87a3d9d9104356c48e0", "/usr/share/doc/iniparse-0.4/README": "8038e84396e92e72334832d5561078476f60ac71143626a668ed9b526f2c2b44", "/usr/lib/python2.7/site-packages/iniparse-0.4-py2.7.egg-info": "2712ff8f0393d5663b27a35482d25be16dc7477f6dbc332bce0f7613bdded2b9", "/usr/lib/python2.7/site-packages/iniparse/__init__.pyo": "ed6be250ee172f4bd6d8e3696eb73d3fed38f6d8758c15565bb2a8d764f35db3", "/usr/lib/python2.7/site-packages/iniparse/ini.pyo": "2810b579d705b3f481830975af4c697ea34ef24983c9d7ed2bdd5fe99fee6e81", "/usr/lib/python2.7/site-packages/iniparse/utils.pyo": "ce81a870cb294cc46a840ac4d313c7c857269cf5d747db09f144ce603b42a75a", "/usr/lib/python2.7/site-packages/iniparse/compat.pyo": "eca11c8d87e13313f679520e14fdbe64aaa15981fab44b2edfea44ef3e98967e", "/usr/lib/python2.7/site-packages/iniparse/config.pyo": "db6e7f5cbfc2e6b6e039a37c40783c84297fc9a4851891f48aba9836670a90bc", "/usr/lib/python2.7/site-packages/iniparse/__init__.pyc": "ed6be250ee172f4bd6d8e3696eb73d3fed38f6d8758c15565bb2a8d764f35db3", "/usr/lib/python2.7/site-packages/iniparse/ini.pyc": "2810b579d705b3f481830975af4c697ea34ef24983c9d7ed2bdd5fe99fee6e81", "/usr/lib/python2.7/site-packages/iniparse/utils.pyc": "ce81a870cb294cc46a840ac4d313c7c857269cf5d747db09f144ce603b42a75a", "/usr/lib/python2.7/site-packages/iniparse/compat.pyc": "eca11c8d87e13313f679520e14fdbe64aaa15981fab44b2edfea44ef3e98967e", "/usr/lib/python2.7/site-packages/iniparse/config.pyc": "db6e7f5cbfc2e6b6e039a37c40783c84297fc9a4851891f48aba9836670a90bc", "/usr/lib/python2.7/site-packages/iniparse/__init__.py": "ce758f36762e3872ba067a0a746a4e005f89bf7deead881d347f328c7db02822", "/usr/lib/python2.7/site-packages/iniparse/ini.py": "4454fc731ebf5987288012629ba4106d98c392dde6bf1e5a81e071c697a5ec5f", "/usr/lib/python2.7/site-packages/iniparse/utils.py": "fa79cd254a93d265d7bb7f31c05574e06b8ee01fe3010bc555ac6fc152bcb44c", "/usr/lib/python2.7/site-packages/iniparse/compat.py": "572030246772a1fb401bed4cd452c7db62a8a04ba5a89b754b9db4b0a95486f3", "/usr/lib/python2.7/site-packages/iniparse/config.py": "d19a2c3d792dbbf0567977ac5d20a2f44307c0df98d1519bd51547df27ee0866", "/var/log/pacman.log": "0bc7783dffe41bdfbea1d8bfdc4912292e2ba0264bd3c62e6214cb8a521e657c"}}
+{
+  "0.4-4": {
+    "/usr/share/licenses/python2-iniparse/LICENSE": "ff45637d8a96adc414179e502fbed40160e57205bf2e302140e79a0c71eceaa7",
+    "/usr/share/doc/iniparse-0.4/style.css": "02ecc1a5659e43f7e46f66193c0a3c354e9f81933fda0a8e8e7a52ce4fa2d829",
+    "/usr/share/doc/iniparse-0.4/index.html": "17e82699aa1e6fdcc7558a60fce51f8613529dd389211c2e9a1d428f4cd1cab0",
+    "/usr/share/doc/iniparse-0.4/Changelog": "ca238a20e0d213951090913b3f1fc6df74a86d5c9661e6cf0a1a58994b8d09b8",
+    "/usr/share/doc/iniparse-0.4/LICENSE": "ff45637d8a96adc414179e502fbed40160e57205bf2e302140e79a0c71eceaa7",
+    "/usr/share/doc/iniparse-0.4/LICENSE-PSF": "9b02e3dfe433ccd2bd94636ef6eb08638b5a54deafe5f87a3d9d9104356c48e0",
+    "/usr/share/doc/iniparse-0.4/README": "8038e84396e92e72334832d5561078476f60ac71143626a668ed9b526f2c2b44",
+    "/usr/lib/python2.7/site-packages/iniparse-0.4-py2.7.egg-info": "2712ff8f0393d5663b27a35482d25be16dc7477f6dbc332bce0f7613bdded2b9",
+    "/usr/lib/python2.7/site-packages/iniparse/__init__.pyo": "ed6be250ee172f4bd6d8e3696eb73d3fed38f6d8758c15565bb2a8d764f35db3",
+    "/usr/lib/python2.7/site-packages/iniparse/ini.pyo": "2810b579d705b3f481830975af4c697ea34ef24983c9d7ed2bdd5fe99fee6e81",
+    "/usr/lib/python2.7/site-packages/iniparse/utils.pyo": "ce81a870cb294cc46a840ac4d313c7c857269cf5d747db09f144ce603b42a75a",
+    "/usr/lib/python2.7/site-packages/iniparse/compat.pyo": "eca11c8d87e13313f679520e14fdbe64aaa15981fab44b2edfea44ef3e98967e",
+    "/usr/lib/python2.7/site-packages/iniparse/config.pyo": "db6e7f5cbfc2e6b6e039a37c40783c84297fc9a4851891f48aba9836670a90bc",
+    "/usr/lib/python2.7/site-packages/iniparse/__init__.pyc": "ed6be250ee172f4bd6d8e3696eb73d3fed38f6d8758c15565bb2a8d764f35db3",
+    "/usr/lib/python2.7/site-packages/iniparse/ini.pyc": "2810b579d705b3f481830975af4c697ea34ef24983c9d7ed2bdd5fe99fee6e81",
+    "/usr/lib/python2.7/site-packages/iniparse/utils.pyc": "ce81a870cb294cc46a840ac4d313c7c857269cf5d747db09f144ce603b42a75a",
+    "/usr/lib/python2.7/site-packages/iniparse/compat.pyc": "eca11c8d87e13313f679520e14fdbe64aaa15981fab44b2edfea44ef3e98967e",
+    "/usr/lib/python2.7/site-packages/iniparse/config.pyc": "db6e7f5cbfc2e6b6e039a37c40783c84297fc9a4851891f48aba9836670a90bc",
+    "/usr/lib/python2.7/site-packages/iniparse/__init__.py": "ce758f36762e3872ba067a0a746a4e005f89bf7deead881d347f328c7db02822",
+    "/usr/lib/python2.7/site-packages/iniparse/ini.py": "4454fc731ebf5987288012629ba4106d98c392dde6bf1e5a81e071c697a5ec5f",
+    "/usr/lib/python2.7/site-packages/iniparse/utils.py": "fa79cd254a93d265d7bb7f31c05574e06b8ee01fe3010bc555ac6fc152bcb44c",
+    "/usr/lib/python2.7/site-packages/iniparse/compat.py": "572030246772a1fb401bed4cd452c7db62a8a04ba5a89b754b9db4b0a95486f3",
+    "/usr/lib/python2.7/site-packages/iniparse/config.py": "d19a2c3d792dbbf0567977ac5d20a2f44307c0df98d1519bd51547df27ee0866",
+    "/var/log/pacman.log": "0bc7783dffe41bdfbea1d8bfdc4912292e2ba0264bd3c62e6214cb8a521e657c"
+  }
+}

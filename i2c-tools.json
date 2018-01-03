@@ -1,1 +1,32 @@
-{"4.0-1": {"/usr/lib/libi2c.so": "44bfc8c6ed7aadd38c14f4fc993f34ccdf2fa89373948bb6562cef6a342b3d00", "/usr/lib/libi2c.so.0.1.0": "44bfc8c6ed7aadd38c14f4fc993f34ccdf2fa89373948bb6562cef6a342b3d00", "/usr/lib/libi2c.so.0": "44bfc8c6ed7aadd38c14f4fc993f34ccdf2fa89373948bb6562cef6a342b3d00", "/usr/lib/python3.6/site-packages/smbus.cpython-36m-x86_64-linux-gnu.so": "1971f239a094dbe4d605cae7b9aaa08a59b699511d9181c7d52fd9c8a41f956c", "/usr/lib/python3.6/site-packages/smbus-1.1-py3.6.egg-info": "1dd4f3e362c3be261ddbfb5cbaae3e5a55ac5c88d50c52f68fb6f5729930661e", "/usr/lib/python2.7/site-packages/smbus-1.1-py2.7.egg-info": "1dd4f3e362c3be261ddbfb5cbaae3e5a55ac5c88d50c52f68fb6f5729930661e", "/usr/lib/python2.7/site-packages/smbus.so": "fc146fa80cc9e9f993a30739a2e70be9eb052de282e63a209c8058a4ec473a9c", "/usr/share/man/man1/decode-vaio.1.gz": "0b39a766e05e920d1118e8a4ba3aba8e218290dc0766fb0e8968700e414a8d1b", "/usr/share/man/man1/decode-dimms.1.gz": "63b50185c315039f4955dc09ba7a2ade06807d059177bfbbbd1da4159f2f9e2b", "/usr/share/man/man8/i2ctransfer.8.gz": "999291660f620f82a727df18606977938603af4ac82c3f423f2bfc80d81994d3", "/usr/share/man/man8/i2cset.8.gz": "bd6c95293f0c648b43620d953c2ba00445a4ff5be933b6af8a800e4f9713379d", "/usr/share/man/man8/i2cdetect.8.gz": "d09f1535a6cd1821e591b3ab481a98dc4b7bbdce4f4f438a181a9990ddf13794", "/usr/share/man/man8/i2cdump.8.gz": "35438327553dddbecfad779d962743078b03c0ab1ac6d3ac75b645ff5dd78b4d", "/usr/share/man/man8/i2cget.8.gz": "bd936161c3d37b7723d5f8b22e162c54e44b74ab422832f42a6c34762553c91e", "/usr/share/man/man8/i2c-stub-from-dump.8.gz": "35e116578f35302ee14bd28f1efa2f9b80b1862a760fc211c133fa8efe46f115", "/usr/bin/i2cget": "fab35be8c9154e06792d81a2fb670eed1a2cb4dce8d485cb8d42704a0dabc4fe", "/usr/bin/decode-vaio": "5e1548d489418c2daa40eb1d6d1b6507c9f007ba154d28b0964383e377eac9ff", "/usr/bin/ddcmon": "1759cc1447d9f72973f1c13945ad4dde2e3fb2b824247bf90c389f6c4d74a2bf", "/usr/bin/i2c-stub-from-dump": "0e5bf40fffb3c22e2285163ddad8c4b17cd1931397cfcb6bd580ed991229fab3", "/usr/bin/i2cdump": "357630d3b9e598fc6c8489cf1aeab76052e5a6f21e9a850944d3b000fd5f3673", "/usr/bin/i2cset": "af8a15a9b0510178f41d0358718b91fd57be9e23f814059f849d86f739896f1c", "/usr/bin/i2ctransfer": "0ee720abecdc5ac801bda5cd94837e1b5012e2a350b6cac9e697b5937d82afcf", "/usr/bin/decode-edid": "819c7c9b7fc93879f08ef170d62646529ca672a486defb0f0228f4a159a213bc", "/usr/bin/eepromer": "faf92f6b88221543d46093f0452c0390b7e7a0a008a94549bc6679c070692de6", "/usr/bin/decode-dimms": "3de80e22b8cf643895167dd511015c64e4419b473e6272b84d00233189232d50", "/usr/bin/eeprom": "52ee97bc81865f08c71fe22cac0c5c4ca99f1c8ba83d3ccf3bab41b35ace7f50", "/usr/bin/i2cdetect": "1693e6e12d66fa008b0d7bc8a81042ef9ea0fce13d9ab83c75c75c05626b2560", "/var/log/pacman.log": "b0c90d0b18a516837f819c61af6b610eb5cbcdc22e097665d88171bbf6538ad0"}}
+{
+  "4.0-1": {
+    "/usr/lib/libi2c.so": "44bfc8c6ed7aadd38c14f4fc993f34ccdf2fa89373948bb6562cef6a342b3d00",
+    "/usr/lib/libi2c.so.0.1.0": "44bfc8c6ed7aadd38c14f4fc993f34ccdf2fa89373948bb6562cef6a342b3d00",
+    "/usr/lib/libi2c.so.0": "44bfc8c6ed7aadd38c14f4fc993f34ccdf2fa89373948bb6562cef6a342b3d00",
+    "/usr/lib/python3.6/site-packages/smbus.cpython-36m-x86_64-linux-gnu.so": "1971f239a094dbe4d605cae7b9aaa08a59b699511d9181c7d52fd9c8a41f956c",
+    "/usr/lib/python3.6/site-packages/smbus-1.1-py3.6.egg-info": "1dd4f3e362c3be261ddbfb5cbaae3e5a55ac5c88d50c52f68fb6f5729930661e",
+    "/usr/lib/python2.7/site-packages/smbus-1.1-py2.7.egg-info": "1dd4f3e362c3be261ddbfb5cbaae3e5a55ac5c88d50c52f68fb6f5729930661e",
+    "/usr/lib/python2.7/site-packages/smbus.so": "fc146fa80cc9e9f993a30739a2e70be9eb052de282e63a209c8058a4ec473a9c",
+    "/usr/share/man/man1/decode-vaio.1.gz": "0b39a766e05e920d1118e8a4ba3aba8e218290dc0766fb0e8968700e414a8d1b",
+    "/usr/share/man/man1/decode-dimms.1.gz": "63b50185c315039f4955dc09ba7a2ade06807d059177bfbbbd1da4159f2f9e2b",
+    "/usr/share/man/man8/i2ctransfer.8.gz": "999291660f620f82a727df18606977938603af4ac82c3f423f2bfc80d81994d3",
+    "/usr/share/man/man8/i2cset.8.gz": "bd6c95293f0c648b43620d953c2ba00445a4ff5be933b6af8a800e4f9713379d",
+    "/usr/share/man/man8/i2cdetect.8.gz": "d09f1535a6cd1821e591b3ab481a98dc4b7bbdce4f4f438a181a9990ddf13794",
+    "/usr/share/man/man8/i2cdump.8.gz": "35438327553dddbecfad779d962743078b03c0ab1ac6d3ac75b645ff5dd78b4d",
+    "/usr/share/man/man8/i2cget.8.gz": "bd936161c3d37b7723d5f8b22e162c54e44b74ab422832f42a6c34762553c91e",
+    "/usr/share/man/man8/i2c-stub-from-dump.8.gz": "35e116578f35302ee14bd28f1efa2f9b80b1862a760fc211c133fa8efe46f115",
+    "/usr/bin/i2cget": "fab35be8c9154e06792d81a2fb670eed1a2cb4dce8d485cb8d42704a0dabc4fe",
+    "/usr/bin/decode-vaio": "5e1548d489418c2daa40eb1d6d1b6507c9f007ba154d28b0964383e377eac9ff",
+    "/usr/bin/ddcmon": "1759cc1447d9f72973f1c13945ad4dde2e3fb2b824247bf90c389f6c4d74a2bf",
+    "/usr/bin/i2c-stub-from-dump": "0e5bf40fffb3c22e2285163ddad8c4b17cd1931397cfcb6bd580ed991229fab3",
+    "/usr/bin/i2cdump": "357630d3b9e598fc6c8489cf1aeab76052e5a6f21e9a850944d3b000fd5f3673",
+    "/usr/bin/i2cset": "af8a15a9b0510178f41d0358718b91fd57be9e23f814059f849d86f739896f1c",
+    "/usr/bin/i2ctransfer": "0ee720abecdc5ac801bda5cd94837e1b5012e2a350b6cac9e697b5937d82afcf",
+    "/usr/bin/decode-edid": "819c7c9b7fc93879f08ef170d62646529ca672a486defb0f0228f4a159a213bc",
+    "/usr/bin/eepromer": "faf92f6b88221543d46093f0452c0390b7e7a0a008a94549bc6679c070692de6",
+    "/usr/bin/decode-dimms": "3de80e22b8cf643895167dd511015c64e4419b473e6272b84d00233189232d50",
+    "/usr/bin/eeprom": "52ee97bc81865f08c71fe22cac0c5c4ca99f1c8ba83d3ccf3bab41b35ace7f50",
+    "/usr/bin/i2cdetect": "1693e6e12d66fa008b0d7bc8a81042ef9ea0fce13d9ab83c75c75c05626b2560",
+    "/var/log/pacman.log": "b0c90d0b18a516837f819c61af6b610eb5cbcdc22e097665d88171bbf6538ad0"
+  }
+}

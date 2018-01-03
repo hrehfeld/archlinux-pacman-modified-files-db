@@ -1,1 +1,38 @@
-{"0.3.25.1-5": {"/usr/share/haskell/register/haskell-monad-logger.sh": "83f074fa58567bf3674ecce9a7718113a7015015647104dacce211f53d592fdc", "/usr/share/haskell/unregister/haskell-monad-logger.sh": "3749a861df63ae3c844a1c52867290c8f10422fb11dd1ad67bd7c5608f25e2bf", "/usr/share/licenses/haskell-monad-logger/LICENSE": "bebc00cb81ab4a16c3f27768fad205a203d0d7b56944299808dc3c35b53e198d", "/usr/lib/libHSmonad-logger-0.3.25.1-6UjEl6EQeds1mtR2hwOxFY-ghc8.2.1.so": "03bd7109aefc880c3f1cf12b1ad45bcec64ea8f86d1227b6c5f0650e741a1284", "/usr/lib/ghc-8.2.1/site-local/monad-logger-0.3.25.1/Control/Monad/Logger.dyn_hi": "539cfbdf1de28aacca3a7179f54031890946d92b43072488dfdeb893baa0b993", "/usr/lib/ghc-8.2.1/site-local/monad-logger-0.3.25.1/Control/Monad/Logger/CallStack.dyn_hi": "7587596fba1db720913144a34e0614b0b07529caa003924667325f9d0ed21623", "/var/log/pacman.log": "eb1494cdf0180b24dc81d52307dd573be6111aee3f8f4574bea9247c2a53977e"}, "0.3.26-2": {"/usr/share/haskell/register/haskell-monad-logger.sh": "68937e147e798c6ca383b9cbeb0884729c344dcd41b06302275732347dbd51e6", "/usr/share/haskell/unregister/haskell-monad-logger.sh": "bb8fae10703ef7f4c7e1364b8e860f8fce903db12e2395f9f063893692a86609", "/usr/share/licenses/haskell-monad-logger/LICENSE": "bebc00cb81ab4a16c3f27768fad205a203d0d7b56944299808dc3c35b53e198d", "/usr/lib/libHSmonad-logger-0.3.26-2qUqy16RcpO3PSVfhjBDgd-ghc8.2.2.so": "795bb07d572d33149206d504e809b4cc4350affa59a1725767f00da19323c2bc", "/usr/lib/ghc-8.2.2/site-local/monad-logger-0.3.26/Control/Monad/Logger.dyn_hi": "dac4430324c470cbc30ee688f5c318edaa67e8119aee4bcacc88af08b7dab10a", "/usr/lib/ghc-8.2.2/site-local/monad-logger-0.3.26/Control/Monad/Logger/CallStack.dyn_hi": "2d288837cd4b14ec73b3db86919f787a6a1404551eeea2d39065259e6d9972ba", "/var/log/pacman.log": "b8f35547c8be927bb929175357bcfc36af437300d09e17808dbd408217ca8385"}, "0.3.26-4": {"/usr/share/haskell/register/haskell-monad-logger.sh": "7d2b29013fd01a91f9fad26b135f4225e7623fee1d1a432900270048249f74a3", "/usr/share/haskell/unregister/haskell-monad-logger.sh": "bb8fae10703ef7f4c7e1364b8e860f8fce903db12e2395f9f063893692a86609", "/usr/share/licenses/haskell-monad-logger/LICENSE": "bebc00cb81ab4a16c3f27768fad205a203d0d7b56944299808dc3c35b53e198d", "/usr/lib/libHSmonad-logger-0.3.26-LPZlmjUIrDmCiOonAhQLkO-ghc8.2.2.so": "73d5635886bbf149f830bbd51d8404dd6e55e3c2da66f6af2812bafbda659dd5", "/usr/lib/ghc-8.2.2/site-local/monad-logger-0.3.26/Control/Monad/Logger.dyn_hi": "d431bf7e7c65bd011a68e963a1576f69d8557d9af4c78c8a617dfaf148c521a9", "/usr/lib/ghc-8.2.2/site-local/monad-logger-0.3.26/Control/Monad/Logger/CallStack.dyn_hi": "9065b8ddd579ed115544a94f10ad4ad3546ae9df5714e885f8e5b4a0cd12a4cd", "/var/log/pacman.log": "a0d7a7cf296f5a7ad5e45d41dace0456fc6378aa44a54ff5728f7166d9793c26"}}
+{
+  "0.3.25.1-5": {
+    "/usr/share/haskell/register/haskell-monad-logger.sh": "83f074fa58567bf3674ecce9a7718113a7015015647104dacce211f53d592fdc",
+    "/usr/share/haskell/unregister/haskell-monad-logger.sh": "3749a861df63ae3c844a1c52867290c8f10422fb11dd1ad67bd7c5608f25e2bf",
+    "/usr/share/licenses/haskell-monad-logger/LICENSE": "bebc00cb81ab4a16c3f27768fad205a203d0d7b56944299808dc3c35b53e198d",
+    "/usr/lib/libHSmonad-logger-0.3.25.1-6UjEl6EQeds1mtR2hwOxFY-ghc8.2.1.so": "03bd7109aefc880c3f1cf12b1ad45bcec64ea8f86d1227b6c5f0650e741a1284",
+    "/usr/lib/ghc-8.2.1/site-local/monad-logger-0.3.25.1/Control/Monad/Logger.dyn_hi": "539cfbdf1de28aacca3a7179f54031890946d92b43072488dfdeb893baa0b993",
+    "/usr/lib/ghc-8.2.1/site-local/monad-logger-0.3.25.1/Control/Monad/Logger/CallStack.dyn_hi": "7587596fba1db720913144a34e0614b0b07529caa003924667325f9d0ed21623",
+    "/var/log/pacman.log": "eb1494cdf0180b24dc81d52307dd573be6111aee3f8f4574bea9247c2a53977e"
+  },
+  "0.3.26-2": {
+    "/usr/share/haskell/register/haskell-monad-logger.sh": "68937e147e798c6ca383b9cbeb0884729c344dcd41b06302275732347dbd51e6",
+    "/usr/share/haskell/unregister/haskell-monad-logger.sh": "bb8fae10703ef7f4c7e1364b8e860f8fce903db12e2395f9f063893692a86609",
+    "/usr/share/licenses/haskell-monad-logger/LICENSE": "bebc00cb81ab4a16c3f27768fad205a203d0d7b56944299808dc3c35b53e198d",
+    "/usr/lib/libHSmonad-logger-0.3.26-2qUqy16RcpO3PSVfhjBDgd-ghc8.2.2.so": "795bb07d572d33149206d504e809b4cc4350affa59a1725767f00da19323c2bc",
+    "/usr/lib/ghc-8.2.2/site-local/monad-logger-0.3.26/Control/Monad/Logger.dyn_hi": "dac4430324c470cbc30ee688f5c318edaa67e8119aee4bcacc88af08b7dab10a",
+    "/usr/lib/ghc-8.2.2/site-local/monad-logger-0.3.26/Control/Monad/Logger/CallStack.dyn_hi": "2d288837cd4b14ec73b3db86919f787a6a1404551eeea2d39065259e6d9972ba",
+    "/var/log/pacman.log": "b8f35547c8be927bb929175357bcfc36af437300d09e17808dbd408217ca8385"
+  },
+  "0.3.26-4": {
+    "/usr/share/haskell/register/haskell-monad-logger.sh": "7d2b29013fd01a91f9fad26b135f4225e7623fee1d1a432900270048249f74a3",
+    "/usr/share/haskell/unregister/haskell-monad-logger.sh": "bb8fae10703ef7f4c7e1364b8e860f8fce903db12e2395f9f063893692a86609",
+    "/usr/share/licenses/haskell-monad-logger/LICENSE": "bebc00cb81ab4a16c3f27768fad205a203d0d7b56944299808dc3c35b53e198d",
+    "/usr/lib/libHSmonad-logger-0.3.26-LPZlmjUIrDmCiOonAhQLkO-ghc8.2.2.so": "73d5635886bbf149f830bbd51d8404dd6e55e3c2da66f6af2812bafbda659dd5",
+    "/usr/lib/ghc-8.2.2/site-local/monad-logger-0.3.26/Control/Monad/Logger.dyn_hi": "d431bf7e7c65bd011a68e963a1576f69d8557d9af4c78c8a617dfaf148c521a9",
+    "/usr/lib/ghc-8.2.2/site-local/monad-logger-0.3.26/Control/Monad/Logger/CallStack.dyn_hi": "9065b8ddd579ed115544a94f10ad4ad3546ae9df5714e885f8e5b4a0cd12a4cd",
+    "/var/log/pacman.log": "a0d7a7cf296f5a7ad5e45d41dace0456fc6378aa44a54ff5728f7166d9793c26"
+  },
+  "0.3.26-5": {
+    "/usr/share/haskell/register/haskell-monad-logger.sh": "7df01f48b21e3213a869f6837c2e813492437a76d84835ece192ee2b6f686806",
+    "/usr/share/haskell/unregister/haskell-monad-logger.sh": "bb8fae10703ef7f4c7e1364b8e860f8fce903db12e2395f9f063893692a86609",
+    "/usr/share/licenses/haskell-monad-logger/LICENSE": "bebc00cb81ab4a16c3f27768fad205a203d0d7b56944299808dc3c35b53e198d",
+    "/usr/lib/libHSmonad-logger-0.3.26-LTdqVqNiwa8Gf8aMeVOrCn-ghc8.2.2.so": "f110ba923d901d9245a25a1542306e7684e69a4cd7f0365268bd81f57f04e459",
+    "/usr/lib/ghc-8.2.2/site-local/monad-logger-0.3.26/Control/Monad/Logger.dyn_hi": "be26f3d5d5cb0a5eb9031d02bd151efd509be122c10766e514fda3b6ccd125f3",
+    "/usr/lib/ghc-8.2.2/site-local/monad-logger-0.3.26/Control/Monad/Logger/CallStack.dyn_hi": "c503aee159d310f838b47853ec7820be2a3af3a5deaa54e5ea27740bf85344ab",
+    "/var/log/pacman.log": "2ee721048f44a54dc18538ed1848906ff3dca19bb569487a7e06fc72db8db3ad"
+  }
+}

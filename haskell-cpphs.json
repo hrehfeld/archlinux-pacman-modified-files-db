@@ -1,0 +1,21 @@
+{
+  "1.20.8-5": {
+    "/usr/share/haskell/register/haskell-cpphs.sh": "d3e4850e7f604f7fb6b35337a1202c9d2ef881f41b2b27caf00e59ba6b774bad",
+    "/usr/share/haskell/unregister/haskell-cpphs.sh": "e045e9095a789afbdda2bd65c60cdf9b364e0a28e8a87b5e76365f31844a1ca5",
+    "/usr/share/doc/haskell-cpphs/LICENCE-LGPL": "51d1ad5cccb2acc2970410d12530d915a2aa0020b397459385205784ddd4142f",
+    "/usr/bin/cpphs": "eb61e44c827f55d238648bfd29c83550d57e968cb7da53e3d8d649e2dc257b51",
+    "/usr/lib/libHScpphs-1.20.8-Bhbe42uOQIYHMmx1XR4YFN-ghc8.2.2.so": "03ad5c3136ac396379eb8d50203c575d8fcf6b54f77ee74b0072cf37b5258596",
+    "/usr/lib/ghc-8.2.2/site-local/cpphs-1.20.8/Language/Preprocessor/Cpphs.dyn_hi": "89b9e0de0d6da58afee2898b35f0b57e751177d27aa4c7399f73902c5eb85211",
+    "/usr/lib/ghc-8.2.2/site-local/cpphs-1.20.8/Language/Preprocessor/Unlit.dyn_hi": "6fb8b021be923be1874a6166af9064fa6b025f7b96960cbeb19627bbd6dc163e",
+    "/usr/lib/ghc-8.2.2/site-local/cpphs-1.20.8/Language/Preprocessor/Cpphs/CppIfdef.dyn_hi": "e838528e3c5c3b01910f11a8881ff23ac92beab1fe0bb02f978538deff07c289",
+    "/usr/lib/ghc-8.2.2/site-local/cpphs-1.20.8/Language/Preprocessor/Cpphs/HashDefine.dyn_hi": "20bd329094524b42c34ae490b91508c4fa09b4e7782bd9e26ada8b119d5a8f9f",
+    "/usr/lib/ghc-8.2.2/site-local/cpphs-1.20.8/Language/Preprocessor/Cpphs/MacroPass.dyn_hi": "7c3880f1f2e12092c0a2160bb5b522075d78ca29ebe9a824c3c55c849868fb09",
+    "/usr/lib/ghc-8.2.2/site-local/cpphs-1.20.8/Language/Preprocessor/Cpphs/Options.dyn_hi": "bd31723c6491716ec758f950d6c07a5927e41c622e4e2979c121eb647eac16fd",
+    "/usr/lib/ghc-8.2.2/site-local/cpphs-1.20.8/Language/Preprocessor/Cpphs/Position.dyn_hi": "3b15ebd5ae7e8f8d5e44e0e2a54c677864a763c12a1bdfd0739881db406b5cb6",
+    "/usr/lib/ghc-8.2.2/site-local/cpphs-1.20.8/Language/Preprocessor/Cpphs/ReadFirst.dyn_hi": "d7dc99d5e9a238ad4b9398f8a4fd8979833f8ddd0a7a00145dd13611c8f4fc30",
+    "/usr/lib/ghc-8.2.2/site-local/cpphs-1.20.8/Language/Preprocessor/Cpphs/RunCpphs.dyn_hi": "08e0879ecc342617103ec7ba97ea649497d3f1f4c338d40f39c0f9fe55716617",
+    "/usr/lib/ghc-8.2.2/site-local/cpphs-1.20.8/Language/Preprocessor/Cpphs/SymTab.dyn_hi": "1e7614ecd76cb70fcf6ef147b8b7c17792bfcec24ab75230df45d5cea141ceaf",
+    "/usr/lib/ghc-8.2.2/site-local/cpphs-1.20.8/Language/Preprocessor/Cpphs/Tokenise.dyn_hi": "3f2794ebca4e067f77928b0fd64fb047135d420f78d437d3feee22fbffa751a7",
+    "/var/log/pacman.log": "16747119e1561a64fd2f2fe068c18166e438415164ed6e35b85693298108c5b7"
+  }
+}

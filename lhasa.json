@@ -1,1 +1,17 @@
-{"0.3.1-1": {"/usr/include/liblhasa-1.0/lha_reader.h": "56f8ee13b5f42bfe129c678739f004083a5666a3ee25048de90d189ed4384909", "/usr/include/liblhasa-1.0/lha_decoder.h": "1f3a44ac2de00a5ee521dfa1e54064da1ec8c065ea63ff33ac6be09998731ced", "/usr/include/liblhasa-1.0/lha_input_stream.h": "336b97f97cd6552afbcdb33c8335a1332edb13a8115de071d86feee4d171c162", "/usr/include/liblhasa-1.0/lha_file_header.h": "03f15a709b5debd81b757e4cc234a63e6c41cc89c78769831b360837bcde8f2b", "/usr/include/liblhasa-1.0/lhasa.h": "5f9d62557ae5ca6e8affdca60ec3ce5918e559582ff05bf9e2775643d6e4795f", "/usr/share/man/man1/lha.1.gz": "fc9ae4cd3bc7e3e65215940c29e179b66ac9551c76ac4d9efe9ad3c301694e8a", "/usr/share/licenses/lhasa/LICENSE": "459bb3f47d9e4412f7d7bbf446500b1d69f6358133012b3d19c6d4d3f44ef1e9", "/usr/bin/lha": "74abaa77232ec46c50df350ac4e6f7708498f3737fe6f7bf4a0d3db604cc7b56", "/usr/lib/liblhasa.so.0.0.0": "37120ea0c629d5dbf2836eba63cad65464e7ed334a98960e844432fdddcf647d", "/usr/lib/liblhasa.so.0": "37120ea0c629d5dbf2836eba63cad65464e7ed334a98960e844432fdddcf647d", "/usr/lib/liblhasa.so": "37120ea0c629d5dbf2836eba63cad65464e7ed334a98960e844432fdddcf647d", "/usr/lib/pkgconfig/liblhasa.pc": "41841bbbca6e9934158b9409f29f80785032c075c96bea7b6a5995d0e7f006a7", "/var/log/pacman.log": "5191b1bd09be2daa1a1abad3cc4d7f500d668817c1fdf6226ac69d70f468097e"}}
+{
+  "0.3.1-1": {
+    "/usr/include/liblhasa-1.0/lha_reader.h": "56f8ee13b5f42bfe129c678739f004083a5666a3ee25048de90d189ed4384909",
+    "/usr/include/liblhasa-1.0/lha_decoder.h": "1f3a44ac2de00a5ee521dfa1e54064da1ec8c065ea63ff33ac6be09998731ced",
+    "/usr/include/liblhasa-1.0/lha_input_stream.h": "336b97f97cd6552afbcdb33c8335a1332edb13a8115de071d86feee4d171c162",
+    "/usr/include/liblhasa-1.0/lha_file_header.h": "03f15a709b5debd81b757e4cc234a63e6c41cc89c78769831b360837bcde8f2b",
+    "/usr/include/liblhasa-1.0/lhasa.h": "5f9d62557ae5ca6e8affdca60ec3ce5918e559582ff05bf9e2775643d6e4795f",
+    "/usr/share/man/man1/lha.1.gz": "fc9ae4cd3bc7e3e65215940c29e179b66ac9551c76ac4d9efe9ad3c301694e8a",
+    "/usr/share/licenses/lhasa/LICENSE": "459bb3f47d9e4412f7d7bbf446500b1d69f6358133012b3d19c6d4d3f44ef1e9",
+    "/usr/bin/lha": "74abaa77232ec46c50df350ac4e6f7708498f3737fe6f7bf4a0d3db604cc7b56",
+    "/usr/lib/liblhasa.so.0.0.0": "37120ea0c629d5dbf2836eba63cad65464e7ed334a98960e844432fdddcf647d",
+    "/usr/lib/liblhasa.so.0": "37120ea0c629d5dbf2836eba63cad65464e7ed334a98960e844432fdddcf647d",
+    "/usr/lib/liblhasa.so": "37120ea0c629d5dbf2836eba63cad65464e7ed334a98960e844432fdddcf647d",
+    "/usr/lib/pkgconfig/liblhasa.pc": "41841bbbca6e9934158b9409f29f80785032c075c96bea7b6a5995d0e7f006a7",
+    "/var/log/pacman.log": "5191b1bd09be2daa1a1abad3cc4d7f500d668817c1fdf6226ac69d70f468097e"
+  }
+}

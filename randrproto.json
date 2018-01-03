@@ -1,1 +1,10 @@
-{"1.5.0-1": {"/usr/include/X11/extensions/randrproto.h": "723d3bb15b546d4687bef79cfe30c8a3cdc975065ff19ae22a729749e71ce2df", "/usr/include/X11/extensions/randr.h": "cf49efdacefd3866f2dbd038dabffc41753323c7f12d654a1894e2b19e5f841e", "/usr/lib/pkgconfig/randrproto.pc": "e09d9ed7287802a3f481498bddc99dcaf98f7d2e788d4d87333a6588d5cc6b0c", "/usr/share/licenses/randrproto/COPYING": "41c13dcd09147ed2440286f2fb8151df8ebee06deee4ed78ddf094601c216d3d", "/usr/share/doc/randrproto/randrproto.txt": "ac2716823447965952b77952bad00a205bff5c344a98415c154dfb2a85b00306", "/var/log/pacman.log": "06c7d14b4623131ab3c35e6eb8102f981a3889d68c7bd0cb26b70d83bfcc09b1"}}
+{
+  "1.5.0-1": {
+    "/usr/include/X11/extensions/randrproto.h": "723d3bb15b546d4687bef79cfe30c8a3cdc975065ff19ae22a729749e71ce2df",
+    "/usr/include/X11/extensions/randr.h": "cf49efdacefd3866f2dbd038dabffc41753323c7f12d654a1894e2b19e5f841e",
+    "/usr/lib/pkgconfig/randrproto.pc": "e09d9ed7287802a3f481498bddc99dcaf98f7d2e788d4d87333a6588d5cc6b0c",
+    "/usr/share/licenses/randrproto/COPYING": "41c13dcd09147ed2440286f2fb8151df8ebee06deee4ed78ddf094601c216d3d",
+    "/usr/share/doc/randrproto/randrproto.txt": "ac2716823447965952b77952bad00a205bff5c344a98415c154dfb2a85b00306",
+    "/var/log/pacman.log": "06c7d14b4623131ab3c35e6eb8102f981a3889d68c7bd0cb26b70d83bfcc09b1"
+  }
+}

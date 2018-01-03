@@ -1,1 +1,10 @@
-{"1:6.1.22.g3756f7f-1": {"/usr/bin/dwm": "4019f1d169b8deff43acf694467384e049eada9a86c0726444efb5d78448cb30", "/usr/share/man/man1/dwm.1.gz": "6e29f75568445a3aee14e7177effa70ae49e7d85562c84414d14c6dc6e3f19d5", "/usr/share/licenses/dwm-git/LICENSE": "60ee37e03f3a6b293755294ff12ab72fea2ef927e62772c0379165b37af35c8c", "/usr/share/doc/dwm-git/README": "a2c2276a6aa8491f5c719adb3161951e68b8269a48ae1f62b0629580f019a50f", "/usr/share/xsessions/dwm.desktop": "bc36426772e1471d6dd8c8aed91f288e16949e3463a9933fee6390ee0ccd3f81", "/var/log/pacman.log": "f16a2755271d14f47e36729de9e6486c28692ec3925b2c583ca5f4d1082aab5d"}}
+{
+  "1:6.1.22.g3756f7f-1": {
+    "/usr/bin/dwm": "4019f1d169b8deff43acf694467384e049eada9a86c0726444efb5d78448cb30",
+    "/usr/share/man/man1/dwm.1.gz": "6e29f75568445a3aee14e7177effa70ae49e7d85562c84414d14c6dc6e3f19d5",
+    "/usr/share/licenses/dwm-git/LICENSE": "60ee37e03f3a6b293755294ff12ab72fea2ef927e62772c0379165b37af35c8c",
+    "/usr/share/doc/dwm-git/README": "a2c2276a6aa8491f5c719adb3161951e68b8269a48ae1f62b0629580f019a50f",
+    "/usr/share/xsessions/dwm.desktop": "bc36426772e1471d6dd8c8aed91f288e16949e3463a9933fee6390ee0ccd3f81",
+    "/var/log/pacman.log": "f16a2755271d14f47e36729de9e6486c28692ec3925b2c583ca5f4d1082aab5d"
+  }
+}

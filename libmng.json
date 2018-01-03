@@ -1,1 +1,16 @@
-{"2.0.3-1": {"/usr/share/man/man3/libmng.3.gz": "9d317d9f1a54028248b319871c954f0e7e7c5e311e65f717522717192a9b28bf", "/usr/share/man/man5/mng.5.gz": "bb956c811b18e879c114d4f160d9d21ceacb68cf800c02f4137de665c6595932", "/usr/share/man/man5/jng.5.gz": "8119cb57dd0ea45e29418d307af00c8cd6d6d9fe7583f01b3b9a47e26bf56749", "/usr/share/licenses/libmng/LICENSE": "ba280734838eb3f22a85b92a7e62de357d4d4c325029dce723b0cb125c417c35", "/usr/include/libmng.h": "c14a6034847c494697a40e312731bfdaa2bf558e3c1d2e39b62d0e4ec5a1879e", "/usr/include/libmng_conf.h": "63c91be5885e846c3d0f628d15cd5f6aaa405b5d824656b48d21af95921e74ad", "/usr/include/libmng_types.h": "eea4719dd6a28be7e22df27bbb5e471823f76aeb7b65a77580877bc5299c1b80", "/usr/lib/libmng.so.2.0.2": "b3d54d70ff50569b60cd816803073fc92874040d5af3818172f5de52a0787f1d", "/usr/lib/libmng.so": "b3d54d70ff50569b60cd816803073fc92874040d5af3818172f5de52a0787f1d", "/usr/lib/libmng.so.2": "b3d54d70ff50569b60cd816803073fc92874040d5af3818172f5de52a0787f1d", "/usr/lib/pkgconfig/libmng.pc": "68d050be9491de32a8742e7ddff6652df5cf2390572dff6dc0169a8874027f57", "/var/log/pacman.log": "91a82fc77551b9720b43d3edd60111f0d23194f8fcf05ab549d4df91d2db17ff"}}
+{
+  "2.0.3-1": {
+    "/usr/share/man/man3/libmng.3.gz": "9d317d9f1a54028248b319871c954f0e7e7c5e311e65f717522717192a9b28bf",
+    "/usr/share/man/man5/mng.5.gz": "bb956c811b18e879c114d4f160d9d21ceacb68cf800c02f4137de665c6595932",
+    "/usr/share/man/man5/jng.5.gz": "8119cb57dd0ea45e29418d307af00c8cd6d6d9fe7583f01b3b9a47e26bf56749",
+    "/usr/share/licenses/libmng/LICENSE": "ba280734838eb3f22a85b92a7e62de357d4d4c325029dce723b0cb125c417c35",
+    "/usr/include/libmng.h": "c14a6034847c494697a40e312731bfdaa2bf558e3c1d2e39b62d0e4ec5a1879e",
+    "/usr/include/libmng_conf.h": "63c91be5885e846c3d0f628d15cd5f6aaa405b5d824656b48d21af95921e74ad",
+    "/usr/include/libmng_types.h": "eea4719dd6a28be7e22df27bbb5e471823f76aeb7b65a77580877bc5299c1b80",
+    "/usr/lib/libmng.so.2.0.2": "b3d54d70ff50569b60cd816803073fc92874040d5af3818172f5de52a0787f1d",
+    "/usr/lib/libmng.so": "b3d54d70ff50569b60cd816803073fc92874040d5af3818172f5de52a0787f1d",
+    "/usr/lib/libmng.so.2": "b3d54d70ff50569b60cd816803073fc92874040d5af3818172f5de52a0787f1d",
+    "/usr/lib/pkgconfig/libmng.pc": "68d050be9491de32a8742e7ddff6652df5cf2390572dff6dc0169a8874027f57",
+    "/var/log/pacman.log": "91a82fc77551b9720b43d3edd60111f0d23194f8fcf05ab549d4df91d2db17ff"
+  }
+}

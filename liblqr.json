@@ -1,1 +1,22 @@
-{"0.4.2-1": {"/usr/lib/liblqr-1.so.0": "2f1531a2edaac0b44c5e7bfb5b2e384fef8a67df1817669d772c5267032c24f1", "/usr/lib/liblqr-1.so.0.3.2": "2f1531a2edaac0b44c5e7bfb5b2e384fef8a67df1817669d772c5267032c24f1", "/usr/lib/liblqr-1.so": "2f1531a2edaac0b44c5e7bfb5b2e384fef8a67df1817669d772c5267032c24f1", "/usr/lib/pkgconfig/lqr-1.pc": "0a18d8bdf36f6907bd120a74b9304638020c130017f3b88c1dea7b803b83700e", "/usr/include/lqr-1/lqr.h": "5038b89c82fbb5fe8868046455093fe19478ff0d01cef920ed0d63ed16002d49", "/usr/include/lqr-1/lqr/lqr_carver_rigmask_pub.h": "99ad09281bbf8603c59f1d5efa24ab866c6def9fe653a8bd65ce994c2fc87504", "/usr/include/lqr-1/lqr/lqr_base.h": "3866ef3ddd64ec779d53c8a54e7f275a52db7e8ec827b9036dbf3db6ff8e11d1", "/usr/include/lqr-1/lqr/lqr_carver_bias_pub.h": "8f53ceaa15cd4364cdf423520657c3e9cb19b495246b22acff98ccdafb44302b", "/usr/include/lqr-1/lqr/lqr_carver_pub.h": "b0a68417a6a8570642f3fd75065b2c0fad179ca8656ea56076d2cf1eb73d23e4", "/usr/include/lqr-1/lqr/lqr_cursor_pub.h": "dc7777523bb1e5b8760c7ffc112218523a8ca9d0333681d23b47f774815f38b3", "/usr/include/lqr-1/lqr/lqr_energy_pub.h": "6b77f57c66b105d7b8c43a11066f77bffd7bf6d866391b0d9cfa0de7b2fa22c8", "/usr/include/lqr-1/lqr/lqr_carver_list_pub.h": "21f57c274aabadbe7a5ddee8d6cdd8a7c8b22d68ba34bee6df31b0cabcc62c84", "/usr/include/lqr-1/lqr/lqr_vmap_list_pub.h": "a95d0548849ae84e13763ae4d86c0d7610a91abf7e62511ac82a80095d59f0da", "/usr/include/lqr-1/lqr/lqr_rwindow_pub.h": "e2d84f8a40cf6e589443a705b43557220452bf391cd88c2bd4f8f91054b85316", "/usr/include/lqr-1/lqr/lqr_vmap_pub.h": "48b6842345a28fcb3ee0e1c933b03f63472bbfb346487cb14a7811879800b6f8", "/usr/include/lqr-1/lqr/lqr_progress_pub.h": "4865fa0814929f2d0c6232550096c00769768340eac492f497b21cbfb372d914", "/usr/include/lqr-1/lqr/lqr_gradient_pub.h": "726c96943d09f919f95f9cbbedccae15ddd2f8d511e045c5de0d84473e381103", "/var/log/pacman.log": "4325af25d620e047c4422870424b41dc21591b82838c0e75e603034fb9359f9a"}}
+{
+  "0.4.2-1": {
+    "/usr/lib/liblqr-1.so.0": "2f1531a2edaac0b44c5e7bfb5b2e384fef8a67df1817669d772c5267032c24f1",
+    "/usr/lib/liblqr-1.so.0.3.2": "2f1531a2edaac0b44c5e7bfb5b2e384fef8a67df1817669d772c5267032c24f1",
+    "/usr/lib/liblqr-1.so": "2f1531a2edaac0b44c5e7bfb5b2e384fef8a67df1817669d772c5267032c24f1",
+    "/usr/lib/pkgconfig/lqr-1.pc": "0a18d8bdf36f6907bd120a74b9304638020c130017f3b88c1dea7b803b83700e",
+    "/usr/include/lqr-1/lqr.h": "5038b89c82fbb5fe8868046455093fe19478ff0d01cef920ed0d63ed16002d49",
+    "/usr/include/lqr-1/lqr/lqr_carver_rigmask_pub.h": "99ad09281bbf8603c59f1d5efa24ab866c6def9fe653a8bd65ce994c2fc87504",
+    "/usr/include/lqr-1/lqr/lqr_base.h": "3866ef3ddd64ec779d53c8a54e7f275a52db7e8ec827b9036dbf3db6ff8e11d1",
+    "/usr/include/lqr-1/lqr/lqr_carver_bias_pub.h": "8f53ceaa15cd4364cdf423520657c3e9cb19b495246b22acff98ccdafb44302b",
+    "/usr/include/lqr-1/lqr/lqr_carver_pub.h": "b0a68417a6a8570642f3fd75065b2c0fad179ca8656ea56076d2cf1eb73d23e4",
+    "/usr/include/lqr-1/lqr/lqr_cursor_pub.h": "dc7777523bb1e5b8760c7ffc112218523a8ca9d0333681d23b47f774815f38b3",
+    "/usr/include/lqr-1/lqr/lqr_energy_pub.h": "6b77f57c66b105d7b8c43a11066f77bffd7bf6d866391b0d9cfa0de7b2fa22c8",
+    "/usr/include/lqr-1/lqr/lqr_carver_list_pub.h": "21f57c274aabadbe7a5ddee8d6cdd8a7c8b22d68ba34bee6df31b0cabcc62c84",
+    "/usr/include/lqr-1/lqr/lqr_vmap_list_pub.h": "a95d0548849ae84e13763ae4d86c0d7610a91abf7e62511ac82a80095d59f0da",
+    "/usr/include/lqr-1/lqr/lqr_rwindow_pub.h": "e2d84f8a40cf6e589443a705b43557220452bf391cd88c2bd4f8f91054b85316",
+    "/usr/include/lqr-1/lqr/lqr_vmap_pub.h": "48b6842345a28fcb3ee0e1c933b03f63472bbfb346487cb14a7811879800b6f8",
+    "/usr/include/lqr-1/lqr/lqr_progress_pub.h": "4865fa0814929f2d0c6232550096c00769768340eac492f497b21cbfb372d914",
+    "/usr/include/lqr-1/lqr/lqr_gradient_pub.h": "726c96943d09f919f95f9cbbedccae15ddd2f8d511e045c5de0d84473e381103",
+    "/var/log/pacman.log": "4325af25d620e047c4422870424b41dc21591b82838c0e75e603034fb9359f9a"
+  }
+}

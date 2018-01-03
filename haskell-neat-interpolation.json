@@ -1,1 +1,22 @@
-{"0.3.2.1-1": {"/usr/share/haskell/register/haskell-neat-interpolation.sh": "fbb2ce0574ddd58dd4a47c3e3b4aa30486dedb93a91c50deed281fe6e543d93b", "/usr/share/haskell/unregister/haskell-neat-interpolation.sh": "7bd0dd90049f413711c07780387b1a92e3786471bc0fb84faf8d7f6ac6472ae3", "/usr/share/licenses/haskell-neat-interpolation/LICENSE": "95d8ac6d96e62fdb6e268044f3a317afc43db9e4bc1ae96d5c335840a03903fc", "/usr/lib/libHSneat-interpolation-0.3.2.1-F9PU7OuaeLv1xNJOMzGca-ghc8.2.2.so": "49fd647fef481ee7a12c769c057f413943a0c0900e76d3e74b8a4d0ca5cf1431", "/usr/lib/ghc-8.2.2/site-local/neat-interpolation-0.3.2.1/NeatInterpolation.dyn_hi": "6ea7e50dc3ce0069720cb86a4daac6c93b51925c11f7e0b2681304e7f5eb1775", "/usr/lib/ghc-8.2.2/site-local/neat-interpolation-0.3.2.1/NeatInterpolation/Parsing.dyn_hi": "a08160569ee254fb1dd9a42743f35dbd5cbd5b192f7da18616d0d524fe2b6ea3", "/usr/lib/ghc-8.2.2/site-local/neat-interpolation-0.3.2.1/NeatInterpolation/String.dyn_hi": "d155c8c48c473165c08a2f2a48bcb5e4056e3663c49342e6d06ba405acaed6bc", "/var/log/pacman.log": "eabae8df2228b550b2efdccb1dc546c0e5269b0471d72cb92d7a3ad3f79fd1cf"}}
+{
+  "0.3.2.1-1": {
+    "/usr/share/haskell/register/haskell-neat-interpolation.sh": "fbb2ce0574ddd58dd4a47c3e3b4aa30486dedb93a91c50deed281fe6e543d93b",
+    "/usr/share/haskell/unregister/haskell-neat-interpolation.sh": "7bd0dd90049f413711c07780387b1a92e3786471bc0fb84faf8d7f6ac6472ae3",
+    "/usr/share/licenses/haskell-neat-interpolation/LICENSE": "95d8ac6d96e62fdb6e268044f3a317afc43db9e4bc1ae96d5c335840a03903fc",
+    "/usr/lib/libHSneat-interpolation-0.3.2.1-F9PU7OuaeLv1xNJOMzGca-ghc8.2.2.so": "49fd647fef481ee7a12c769c057f413943a0c0900e76d3e74b8a4d0ca5cf1431",
+    "/usr/lib/ghc-8.2.2/site-local/neat-interpolation-0.3.2.1/NeatInterpolation.dyn_hi": "6ea7e50dc3ce0069720cb86a4daac6c93b51925c11f7e0b2681304e7f5eb1775",
+    "/usr/lib/ghc-8.2.2/site-local/neat-interpolation-0.3.2.1/NeatInterpolation/Parsing.dyn_hi": "a08160569ee254fb1dd9a42743f35dbd5cbd5b192f7da18616d0d524fe2b6ea3",
+    "/usr/lib/ghc-8.2.2/site-local/neat-interpolation-0.3.2.1/NeatInterpolation/String.dyn_hi": "d155c8c48c473165c08a2f2a48bcb5e4056e3663c49342e6d06ba405acaed6bc",
+    "/var/log/pacman.log": "eabae8df2228b550b2efdccb1dc546c0e5269b0471d72cb92d7a3ad3f79fd1cf"
+  },
+  "0.3.2.1-2": {
+    "/usr/share/haskell/register/haskell-neat-interpolation.sh": "5b98bc44b7cf968e2f3057bfd09b2932edb17c4327726133250749239010718f",
+    "/usr/share/haskell/unregister/haskell-neat-interpolation.sh": "09a1c05ce7e2334b39c3c86aeed9a72c3ac25390212ef3f350ce4bee21cd615d",
+    "/usr/share/licenses/haskell-neat-interpolation/LICENSE": "95d8ac6d96e62fdb6e268044f3a317afc43db9e4bc1ae96d5c335840a03903fc",
+    "/usr/lib/libHSneat-interpolation-0.3.2.1-2X8PqcDAu7u8owbunDkOSF-ghc8.2.2.so": "dd8775984a457d21ace86402ecc4da3295c813cddf9a6505646a891a0a28d857",
+    "/usr/lib/ghc-8.2.2/site-local/neat-interpolation-0.3.2.1/NeatInterpolation.dyn_hi": "78bd0d2dcf5a4cf39fd92c6a18d70e09e4d6da88e6512c0afd105abea3f0db84",
+    "/usr/lib/ghc-8.2.2/site-local/neat-interpolation-0.3.2.1/NeatInterpolation/Parsing.dyn_hi": "ac05f24c80248561e2c3a5e06e00c00e17c56b39401b37784c58987344320f15",
+    "/usr/lib/ghc-8.2.2/site-local/neat-interpolation-0.3.2.1/NeatInterpolation/String.dyn_hi": "26ff5c2a0a1d92b4d4cfc7d8b3b23310d3961ea39f278c0b315f8c267d358529",
+    "/var/log/pacman.log": "748872a9cd920f69c28ff44b8a329c584b24836eb75a51d37be2e4a53ab5e583"
+  }
+}

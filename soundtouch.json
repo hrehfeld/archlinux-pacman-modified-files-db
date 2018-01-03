@@ -1,1 +1,19 @@
-{"2.0.0-1": {"/usr/include/soundtouch/FIFOSampleBuffer.h": "024cd9e81132f38f7ecb4aab0a9175dd5ed8ea7837e1df5f3c073e04ef3c31c1", "/usr/include/soundtouch/FIFOSamplePipe.h": "1b844d1bb9f804dccd95027a8abc9641f5ed895295065bf5ea5bfc5b3e19a433", "/usr/include/soundtouch/SoundTouch.h": "f630220d31c57bbc5318efebbbc8a52c6f2e2ac8f8779ecd5fe4e6f1ee4daa68", "/usr/include/soundtouch/STTypes.h": "91cd7b649c66e610e2976303007b0b23c6db1d8fd3a41eb4222c04e3abded8b6", "/usr/include/soundtouch/BPMDetect.h": "65ef80ef8e5ab4b025018538a9a2556f315d587e3328f9b6e01d8a6f62ac3eeb", "/usr/include/soundtouch/soundtouch_config.h": "8fe0f04f61d6a7895e1b8350e211f2a62da2dad5441afc99efee64ab1a315bf0", "/usr/lib/libSoundTouch.so.1": "14c5b5d748ce060dc754c0b6fd069a7db6c3285e08c55c8c0cdead607383f74e", "/usr/lib/libSoundTouch.so": "14c5b5d748ce060dc754c0b6fd069a7db6c3285e08c55c8c0cdead607383f74e", "/usr/lib/libSoundTouch.so.1.0.0": "14c5b5d748ce060dc754c0b6fd069a7db6c3285e08c55c8c0cdead607383f74e", "/usr/lib/pkgconfig/soundtouch.pc": "3ac442fd9f610aa19eac02cab3a0e08557520cdcdefe5051dfceddaef7c09a3d", "/usr/bin/soundstretch": "a9949bac006e44fc0071f4f8bfd22c4a251cfc5746f8c7a92cce7cccb1b8ee45", "/usr/share/aclocal/soundtouch.m4": "e629aa34136d3c1f98382a09a135493da8166ac46de817d48d3a586981923686", "/usr/share/doc/soundtouch/COPYING.TXT": "9c6a15d7433078e4c0d3cb9820f172bbf0bf829e7648d719dc85c1429815519b", "/usr/share/doc/soundtouch/README.html": "41f43bb2f66d39c22a8e7dd7474d5e182a68c0586a6b97f9c899d09f50c26cc4", "/var/log/pacman.log": "da4ee7bbb99805728f5c1dadd86abf0450a29ab9f123f929e00a5a7b3f71dd52"}}
+{
+  "2.0.0-1": {
+    "/usr/include/soundtouch/FIFOSampleBuffer.h": "024cd9e81132f38f7ecb4aab0a9175dd5ed8ea7837e1df5f3c073e04ef3c31c1",
+    "/usr/include/soundtouch/FIFOSamplePipe.h": "1b844d1bb9f804dccd95027a8abc9641f5ed895295065bf5ea5bfc5b3e19a433",
+    "/usr/include/soundtouch/SoundTouch.h": "f630220d31c57bbc5318efebbbc8a52c6f2e2ac8f8779ecd5fe4e6f1ee4daa68",
+    "/usr/include/soundtouch/STTypes.h": "91cd7b649c66e610e2976303007b0b23c6db1d8fd3a41eb4222c04e3abded8b6",
+    "/usr/include/soundtouch/BPMDetect.h": "65ef80ef8e5ab4b025018538a9a2556f315d587e3328f9b6e01d8a6f62ac3eeb",
+    "/usr/include/soundtouch/soundtouch_config.h": "8fe0f04f61d6a7895e1b8350e211f2a62da2dad5441afc99efee64ab1a315bf0",
+    "/usr/lib/libSoundTouch.so.1": "14c5b5d748ce060dc754c0b6fd069a7db6c3285e08c55c8c0cdead607383f74e",
+    "/usr/lib/libSoundTouch.so": "14c5b5d748ce060dc754c0b6fd069a7db6c3285e08c55c8c0cdead607383f74e",
+    "/usr/lib/libSoundTouch.so.1.0.0": "14c5b5d748ce060dc754c0b6fd069a7db6c3285e08c55c8c0cdead607383f74e",
+    "/usr/lib/pkgconfig/soundtouch.pc": "3ac442fd9f610aa19eac02cab3a0e08557520cdcdefe5051dfceddaef7c09a3d",
+    "/usr/bin/soundstretch": "a9949bac006e44fc0071f4f8bfd22c4a251cfc5746f8c7a92cce7cccb1b8ee45",
+    "/usr/share/aclocal/soundtouch.m4": "e629aa34136d3c1f98382a09a135493da8166ac46de817d48d3a586981923686",
+    "/usr/share/doc/soundtouch/COPYING.TXT": "9c6a15d7433078e4c0d3cb9820f172bbf0bf829e7648d719dc85c1429815519b",
+    "/usr/share/doc/soundtouch/README.html": "41f43bb2f66d39c22a8e7dd7474d5e182a68c0586a6b97f9c899d09f50c26cc4",
+    "/var/log/pacman.log": "da4ee7bbb99805728f5c1dadd86abf0450a29ab9f123f929e00a5a7b3f71dd52"
+  }
+}

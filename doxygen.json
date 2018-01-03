@@ -1,1 +1,11 @@
-{"1.8.13-3": {"/usr/share/man/man1/doxyindexer.1.gz": "819093a552912b2a718fa401796c1badf42be1ea71bd3117b76599afade9e7b6", "/usr/share/man/man1/doxywizard.1.gz": "6b35dfa6e10b4483f70e4d11f9fda8b2f69f7e01c8f708e02eecd48ee69327a0", "/usr/share/man/man1/doxysearch.1.gz": "7c89fb93d29cd3ddde33f3bc8af136cd20665229847dd943cb9ebdef63a4746e", "/usr/share/man/man1/doxygen.1.gz": "d757cc3cb868f5e2b24def93c7530b26ec7a89bbbbd683b8b170b235710c949e", "/usr/bin/doxygen": "4963dcb9c31e33ecd2c88c1fc92712b0f8f826c0eabf44b8739acfe91a46a820", "/usr/bin/doxywizard": "49ae82d10d29dd228e19ddcada245a3c6712df2b0f7221c645c052a0ed9c097e", "/var/log/pacman.log": "dda3b6faaa642f7dc2a29915dda8c8da8997f0499d6d8f697eff580f8ccc8342"}}
+{
+  "1.8.13-3": {
+    "/usr/share/man/man1/doxyindexer.1.gz": "819093a552912b2a718fa401796c1badf42be1ea71bd3117b76599afade9e7b6",
+    "/usr/share/man/man1/doxywizard.1.gz": "6b35dfa6e10b4483f70e4d11f9fda8b2f69f7e01c8f708e02eecd48ee69327a0",
+    "/usr/share/man/man1/doxysearch.1.gz": "7c89fb93d29cd3ddde33f3bc8af136cd20665229847dd943cb9ebdef63a4746e",
+    "/usr/share/man/man1/doxygen.1.gz": "d757cc3cb868f5e2b24def93c7530b26ec7a89bbbbd683b8b170b235710c949e",
+    "/usr/bin/doxygen": "4963dcb9c31e33ecd2c88c1fc92712b0f8f826c0eabf44b8739acfe91a46a820",
+    "/usr/bin/doxywizard": "49ae82d10d29dd228e19ddcada245a3c6712df2b0f7221c645c052a0ed9c097e",
+    "/var/log/pacman.log": "dda3b6faaa642f7dc2a29915dda8c8da8997f0499d6d8f697eff580f8ccc8342"
+  }
+}

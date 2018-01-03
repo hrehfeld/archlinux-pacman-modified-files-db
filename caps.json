@@ -1,1 +1,14 @@
-{"0.9.24-2": {"/usr/lib/ladspa/caps.so": "251798e7cca5626b2848ad98a9e2d2a16ebc0fdfadaea35ccbceb61008f3f8ba", "/usr/share/ladspa/rdf/caps.rdf": "fae6759bf55ccb041955ae25b0ee9fb7a614d676a53b254f10af0d8ff9a0a989", "/var/log/pacman.log": "1a1013d225edbb73f05b47da150f7e050e55bde386bfb06852eaf1910293c8a6"}}
+{
+  "0.9.24-2": {
+    "/usr/lib/ladspa/caps.so": "251798e7cca5626b2848ad98a9e2d2a16ebc0fdfadaea35ccbceb61008f3f8ba",
+    "/usr/share/ladspa/rdf/caps.rdf": "fae6759bf55ccb041955ae25b0ee9fb7a614d676a53b254f10af0d8ff9a0a989",
+    "/var/log/pacman.log": "1a1013d225edbb73f05b47da150f7e050e55bde386bfb06852eaf1910293c8a6"
+  },
+  "0.9.24-3": {
+    "/usr/share/doc/caps/README": "16aee965691dc218c471b06c12eae640fee5706d3add17ee1e3816901696d9ca",
+    "/usr/share/doc/caps/CHANGES": "e15feb1417f902b17644959c6a244c7ec9f086b663a467e09281028acc043351",
+    "/usr/share/ladspa/rdf/caps.rdf": "fae6759bf55ccb041955ae25b0ee9fb7a614d676a53b254f10af0d8ff9a0a989",
+    "/usr/lib/ladspa/caps.so": "4c59a4c51ab478b1f08a74b74fb913ae3f9f1d98cf00821e3fe1a109e5fdadb2",
+    "/var/log/pacman.log": "b5dd37595491f37156973c03cebd133a1d24f73a3a2bda3bc5d2eebc830c5b22"
+  }
+}

@@ -1,1 +1,11 @@
-{"1.07.1-1": {"/usr/bin/dc": "05834b092bce148219ab2f888e82ccd7f88f24ac59df10c82990fb9463ec248b", "/usr/bin/bc": "730fe7d1ce6fe9d1c56d04aee075bd96efb2bfee2c48c9bef5b48b49527f29d8", "/usr/share/man/man1/dc.1.gz": "0d7a01431e6a607756af393e9e5c4ad01440412c303d8a4821fbf5c8e8e99780", "/usr/share/man/man1/bc.1.gz": "76ba02edb33f11a8a1fbe22eec8521ef0bbe74ad9507fac1104f868f816a2ea5", "/usr/share/info/dc.info.gz": "2587122c479c20553c8dca69bd6e54f814a5916dc816c7682bc81f91fb3413a6", "/usr/share/info/bc.info.gz": "2ccd2551be0b5ac6849f8b0f02e1fa363559311ea9bae19e4fe0acc14d801e02", "/var/log/pacman.log": "a36d873c1fe810fc3a0c4b0581fa495c6fde4ea426f6597cbc9ab4d6fc798d1f"}}
+{
+  "1.07.1-1": {
+    "/usr/bin/dc": "05834b092bce148219ab2f888e82ccd7f88f24ac59df10c82990fb9463ec248b",
+    "/usr/bin/bc": "730fe7d1ce6fe9d1c56d04aee075bd96efb2bfee2c48c9bef5b48b49527f29d8",
+    "/usr/share/man/man1/dc.1.gz": "0d7a01431e6a607756af393e9e5c4ad01440412c303d8a4821fbf5c8e8e99780",
+    "/usr/share/man/man1/bc.1.gz": "76ba02edb33f11a8a1fbe22eec8521ef0bbe74ad9507fac1104f868f816a2ea5",
+    "/usr/share/info/dc.info.gz": "2587122c479c20553c8dca69bd6e54f814a5916dc816c7682bc81f91fb3413a6",
+    "/usr/share/info/bc.info.gz": "2ccd2551be0b5ac6849f8b0f02e1fa363559311ea9bae19e4fe0acc14d801e02",
+    "/var/log/pacman.log": "a36d873c1fe810fc3a0c4b0581fa495c6fde4ea426f6597cbc9ab4d6fc798d1f"
+  }
+}

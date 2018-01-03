@@ -1,1 +1,30 @@
-{"1.1.1-2": {"/usr/share/licenses/libvdpau/COPYING": "ce4af7294872ff07f6e82ae5f1f5eba926215b1e2fb6d55d64759de082458d61", "/usr/include/vdpau/vdpau_x11.h": "b2fcb480e27ea20c70e6e93f280ae6c422b5d9a9c1e2354aa05a4d4379d74684", "/usr/include/vdpau/vdpau.h": "49a2fdecfb217b5dd5ead7c5a32b9c049d510526142ff33409f8dee12aa7cd34", "/usr/lib/libvdpau.so.1.0.0": "a7e27c68e60156606b3e97d06e26c4166de370a0b617d485c553b393bee3d407", "/usr/lib/libvdpau.so": "a7e27c68e60156606b3e97d06e26c4166de370a0b617d485c553b393bee3d407", "/usr/lib/libvdpau.so.1": "a7e27c68e60156606b3e97d06e26c4166de370a0b617d485c553b393bee3d407", "/usr/lib/pkgconfig/vdpau.pc": "fa3fc2e7b8eb25abb743390b2abc6ffc90c1122471147b63a89c7120a291b3cf", "/usr/lib/vdpau/libvdpau_trace.so.1.0.0": "9348dce4a67c0fe0eabb6b69feff82d1cbe9c7db959d0bfe9d6cac793bfa2823", "/usr/lib/vdpau/libvdpau_trace.so": "9348dce4a67c0fe0eabb6b69feff82d1cbe9c7db959d0bfe9d6cac793bfa2823", "/usr/lib/vdpau/libvdpau_trace.so.1": "9348dce4a67c0fe0eabb6b69feff82d1cbe9c7db959d0bfe9d6cac793bfa2823", "/var/log/pacman.log": "18cb685e98d4d25b777b26aef3df8f9a9fc1028675ba55424970e5902604b3ff", "/etc/vdpau_wrapper.cfg": "938aa62078aef1bced7b85a3dc0d10de6df631b06d23244531553f93b5966378"}, "1.1.1+3+ga21bf7a-1": {"/usr/include/vdpau/vdpau.h": "87eb266ad9cebd4f07978b290f70e37eac81ac457b0378d9bea20e94a18b99bf", "/usr/include/vdpau/vdpau_x11.h": "b2fcb480e27ea20c70e6e93f280ae6c422b5d9a9c1e2354aa05a4d4379d74684", "/usr/lib/libvdpau.so.1": "79b9cfe2f11dd0aea7b949a56b28b59e3cb290729d06a7dab748e171e2d1d5c6", "/usr/lib/libvdpau.so": "79b9cfe2f11dd0aea7b949a56b28b59e3cb290729d06a7dab748e171e2d1d5c6", "/usr/lib/libvdpau.so.1.0.0": "79b9cfe2f11dd0aea7b949a56b28b59e3cb290729d06a7dab748e171e2d1d5c6", "/usr/lib/vdpau/libvdpau_trace.so.1": "6b7690e1cd4fbd71754cf3a10514a5ad62ad13742731cdb0b6037505474b361d", "/usr/lib/vdpau/libvdpau_trace.so": "6b7690e1cd4fbd71754cf3a10514a5ad62ad13742731cdb0b6037505474b361d", "/usr/lib/vdpau/libvdpau_trace.so.1.0.0": "6b7690e1cd4fbd71754cf3a10514a5ad62ad13742731cdb0b6037505474b361d", "/usr/lib/pkgconfig/vdpau.pc": "fa3fc2e7b8eb25abb743390b2abc6ffc90c1122471147b63a89c7120a291b3cf", "/usr/share/licenses/libvdpau/COPYING": "ce4af7294872ff07f6e82ae5f1f5eba926215b1e2fb6d55d64759de082458d61", "/var/log/pacman.log": "7eec75d983e3419bbff409de9d8380010a19d768294a0e475d566ac96712c171", "/etc/vdpau_wrapper.cfg": "938aa62078aef1bced7b85a3dc0d10de6df631b06d23244531553f93b5966378"}}
+{
+  "1.1.1-2": {
+    "/usr/share/licenses/libvdpau/COPYING": "ce4af7294872ff07f6e82ae5f1f5eba926215b1e2fb6d55d64759de082458d61",
+    "/usr/include/vdpau/vdpau_x11.h": "b2fcb480e27ea20c70e6e93f280ae6c422b5d9a9c1e2354aa05a4d4379d74684",
+    "/usr/include/vdpau/vdpau.h": "49a2fdecfb217b5dd5ead7c5a32b9c049d510526142ff33409f8dee12aa7cd34",
+    "/usr/lib/libvdpau.so.1.0.0": "a7e27c68e60156606b3e97d06e26c4166de370a0b617d485c553b393bee3d407",
+    "/usr/lib/libvdpau.so": "a7e27c68e60156606b3e97d06e26c4166de370a0b617d485c553b393bee3d407",
+    "/usr/lib/libvdpau.so.1": "a7e27c68e60156606b3e97d06e26c4166de370a0b617d485c553b393bee3d407",
+    "/usr/lib/pkgconfig/vdpau.pc": "fa3fc2e7b8eb25abb743390b2abc6ffc90c1122471147b63a89c7120a291b3cf",
+    "/usr/lib/vdpau/libvdpau_trace.so.1.0.0": "9348dce4a67c0fe0eabb6b69feff82d1cbe9c7db959d0bfe9d6cac793bfa2823",
+    "/usr/lib/vdpau/libvdpau_trace.so": "9348dce4a67c0fe0eabb6b69feff82d1cbe9c7db959d0bfe9d6cac793bfa2823",
+    "/usr/lib/vdpau/libvdpau_trace.so.1": "9348dce4a67c0fe0eabb6b69feff82d1cbe9c7db959d0bfe9d6cac793bfa2823",
+    "/var/log/pacman.log": "18cb685e98d4d25b777b26aef3df8f9a9fc1028675ba55424970e5902604b3ff",
+    "/etc/vdpau_wrapper.cfg": "938aa62078aef1bced7b85a3dc0d10de6df631b06d23244531553f93b5966378"
+  },
+  "1.1.1+3+ga21bf7a-1": {
+    "/usr/include/vdpau/vdpau.h": "87eb266ad9cebd4f07978b290f70e37eac81ac457b0378d9bea20e94a18b99bf",
+    "/usr/include/vdpau/vdpau_x11.h": "b2fcb480e27ea20c70e6e93f280ae6c422b5d9a9c1e2354aa05a4d4379d74684",
+    "/usr/lib/libvdpau.so.1": "79b9cfe2f11dd0aea7b949a56b28b59e3cb290729d06a7dab748e171e2d1d5c6",
+    "/usr/lib/libvdpau.so": "79b9cfe2f11dd0aea7b949a56b28b59e3cb290729d06a7dab748e171e2d1d5c6",
+    "/usr/lib/libvdpau.so.1.0.0": "79b9cfe2f11dd0aea7b949a56b28b59e3cb290729d06a7dab748e171e2d1d5c6",
+    "/usr/lib/vdpau/libvdpau_trace.so.1": "6b7690e1cd4fbd71754cf3a10514a5ad62ad13742731cdb0b6037505474b361d",
+    "/usr/lib/vdpau/libvdpau_trace.so": "6b7690e1cd4fbd71754cf3a10514a5ad62ad13742731cdb0b6037505474b361d",
+    "/usr/lib/vdpau/libvdpau_trace.so.1.0.0": "6b7690e1cd4fbd71754cf3a10514a5ad62ad13742731cdb0b6037505474b361d",
+    "/usr/lib/pkgconfig/vdpau.pc": "fa3fc2e7b8eb25abb743390b2abc6ffc90c1122471147b63a89c7120a291b3cf",
+    "/usr/share/licenses/libvdpau/COPYING": "ce4af7294872ff07f6e82ae5f1f5eba926215b1e2fb6d55d64759de082458d61",
+    "/var/log/pacman.log": "7eec75d983e3419bbff409de9d8380010a19d768294a0e475d566ac96712c171",
+    "/etc/vdpau_wrapper.cfg": "938aa62078aef1bced7b85a3dc0d10de6df631b06d23244531553f93b5966378"
+  }
+}

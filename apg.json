@@ -1,1 +1,10 @@
-{"2.2.3-4": {"/usr/share/licenses/apg/COPYING": "5d0c892ea452c3828f1e311637cde4e3a04eb6431554308b3fcdac8c1b330168", "/usr/share/man/man1/apgbfm.1.gz": "627a3b4c7bf639b38705ea931d196fa1917f6d52a141d15bc6aaa52df179bdfd", "/usr/share/man/man1/apg.1.gz": "dd54940c55b28e3da6047b95378d57ddf8372b6dfb7671d2416052e47c857c22", "/usr/bin/apg": "9c413b5a031902b667465af1449ac63a69f55dfb15bb20f304384f3f5e453a7c", "/usr/bin/apgbfm": "25f74d248e4df7f0c3c74a9644db15630ce748caea62ddeffc7d2924c9f28424", "/var/log/pacman.log": "c1467e6053871674ffd6f95c0528fe29d6583aa5aeb865ec6c69b6cedd7b14e6"}}
+{
+  "2.2.3-4": {
+    "/usr/share/licenses/apg/COPYING": "5d0c892ea452c3828f1e311637cde4e3a04eb6431554308b3fcdac8c1b330168",
+    "/usr/share/man/man1/apgbfm.1.gz": "627a3b4c7bf639b38705ea931d196fa1917f6d52a141d15bc6aaa52df179bdfd",
+    "/usr/share/man/man1/apg.1.gz": "dd54940c55b28e3da6047b95378d57ddf8372b6dfb7671d2416052e47c857c22",
+    "/usr/bin/apg": "9c413b5a031902b667465af1449ac63a69f55dfb15bb20f304384f3f5e453a7c",
+    "/usr/bin/apgbfm": "25f74d248e4df7f0c3c74a9644db15630ce748caea62ddeffc7d2924c9f28424",
+    "/var/log/pacman.log": "c1467e6053871674ffd6f95c0528fe29d6583aa5aeb865ec6c69b6cedd7b14e6"
+  }
+}

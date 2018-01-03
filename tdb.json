@@ -1,1 +1,20 @@
-{"1.3.15-1": {"/usr/lib/libtdb.so.1": "9c6cb53ede71a8f9743f6b27bfb46aa393e8c5ba2749193e5306be40d168543d", "/usr/lib/libtdb.so": "9c6cb53ede71a8f9743f6b27bfb46aa393e8c5ba2749193e5306be40d168543d", "/usr/lib/libtdb.so.1.3.15": "9c6cb53ede71a8f9743f6b27bfb46aa393e8c5ba2749193e5306be40d168543d", "/usr/lib/pkgconfig/tdb.pc": "02eed64c82aab81dc913cbe3548ddd82252042f37d58edab51179fe78aee572a", "/usr/lib/python2.7/site-packages/_tdb_text.py": "b847de62f00fafaa52054771d067f610b9dc53226f1faf92dbd0868b900a2b1b", "/usr/lib/python2.7/site-packages/tdb.so": "955342cd1cac0f63dfc41725d4841d752b18f8482650ef1ee13e6ce402e3c69d", "/usr/bin/tdbtool": "2b54d3abd544bff25985a08ea66ff72e04af90af5117d5c787ce09e870c16e54", "/usr/bin/tdbbackup": "10e74b6e62e0cd4a10bbf4ed34500e90aff829bbf57f261997d584e48cfa27ae", "/usr/bin/tdbdump": "76cd54a676b947a5f0deaddc2673948dd4b6d6274b23a949e56d1e66d435dcb9", "/usr/bin/tdbrestore": "2314316481b918592f8f8ace4e027c4735376705e32a9073674b7f176169c848", "/usr/include/tdb.h": "77b4bb3b1e5a821bbc3be651f8778566058b0b4402b364cfe7ea2cdabb5af799", "/usr/share/man/man8/tdbtool.8.gz": "2ab7387ae28a58ae267a773c0a800f2b5852a03f3b8bce3268801c2547328cc3", "/usr/share/man/man8/tdbbackup.8.gz": "efae6cea46a26bd019568bc30202fd303f5d663279fa63669cf549ef33c1bd65", "/usr/share/man/man8/tdbdump.8.gz": "9554773aaa05251c9f4d8143177bd596da2773448f06874a8499326e22fab3ec", "/usr/share/man/man8/tdbrestore.8.gz": "42653fda98d45082681e5e31b19af069ebc1cebd71cbb04eb1a6f66edeea5a9d", "/var/log/pacman.log": "0f024b7d8ce4e81bd0e690286d66a4ba96e98f53f00daba9b98831d8fc293853"}}
+{
+  "1.3.15-1": {
+    "/usr/lib/libtdb.so.1": "9c6cb53ede71a8f9743f6b27bfb46aa393e8c5ba2749193e5306be40d168543d",
+    "/usr/lib/libtdb.so": "9c6cb53ede71a8f9743f6b27bfb46aa393e8c5ba2749193e5306be40d168543d",
+    "/usr/lib/libtdb.so.1.3.15": "9c6cb53ede71a8f9743f6b27bfb46aa393e8c5ba2749193e5306be40d168543d",
+    "/usr/lib/pkgconfig/tdb.pc": "02eed64c82aab81dc913cbe3548ddd82252042f37d58edab51179fe78aee572a",
+    "/usr/lib/python2.7/site-packages/_tdb_text.py": "b847de62f00fafaa52054771d067f610b9dc53226f1faf92dbd0868b900a2b1b",
+    "/usr/lib/python2.7/site-packages/tdb.so": "955342cd1cac0f63dfc41725d4841d752b18f8482650ef1ee13e6ce402e3c69d",
+    "/usr/bin/tdbtool": "2b54d3abd544bff25985a08ea66ff72e04af90af5117d5c787ce09e870c16e54",
+    "/usr/bin/tdbbackup": "10e74b6e62e0cd4a10bbf4ed34500e90aff829bbf57f261997d584e48cfa27ae",
+    "/usr/bin/tdbdump": "76cd54a676b947a5f0deaddc2673948dd4b6d6274b23a949e56d1e66d435dcb9",
+    "/usr/bin/tdbrestore": "2314316481b918592f8f8ace4e027c4735376705e32a9073674b7f176169c848",
+    "/usr/include/tdb.h": "77b4bb3b1e5a821bbc3be651f8778566058b0b4402b364cfe7ea2cdabb5af799",
+    "/usr/share/man/man8/tdbtool.8.gz": "2ab7387ae28a58ae267a773c0a800f2b5852a03f3b8bce3268801c2547328cc3",
+    "/usr/share/man/man8/tdbbackup.8.gz": "efae6cea46a26bd019568bc30202fd303f5d663279fa63669cf549ef33c1bd65",
+    "/usr/share/man/man8/tdbdump.8.gz": "9554773aaa05251c9f4d8143177bd596da2773448f06874a8499326e22fab3ec",
+    "/usr/share/man/man8/tdbrestore.8.gz": "42653fda98d45082681e5e31b19af069ebc1cebd71cbb04eb1a6f66edeea5a9d",
+    "/var/log/pacman.log": "0f024b7d8ce4e81bd0e690286d66a4ba96e98f53f00daba9b98831d8fc293853"
+  }
+}

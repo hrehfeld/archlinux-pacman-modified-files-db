@@ -1,1 +1,25 @@
-{"1.2.3-1": {"/usr/lib/libXtst.so.6": "ab833b77e55f378e712ed8e50dc2dc2995d6c57d0b6d58d1fd809b4033c7c363", "/usr/lib/libXtst.so": "ab833b77e55f378e712ed8e50dc2dc2995d6c57d0b6d58d1fd809b4033c7c363", "/usr/lib/libXtst.so.6.1.0": "ab833b77e55f378e712ed8e50dc2dc2995d6c57d0b6d58d1fd809b4033c7c363", "/usr/lib/pkgconfig/xtst.pc": "1df5ec074709ef3ac6df589cca49cf7c0eee143a6c8f0e89c237c10028b2edf3", "/usr/include/X11/extensions/XTest.h": "a414a0c6932131e6a128c8b74d293c7be396b51ca89419d040f4ac17cb31b925", "/usr/include/X11/extensions/record.h": "744232d2fa7c64d158ef3bd535fe723c0f55d9cb1bebf65408d385002efc391c", "/usr/share/man/man3/XTestDiscard.3.gz": "4565fb12d46dd5266d76791ae3a8b97f6b0e984177cfba202fe5f2a25207912a", "/usr/share/man/man3/XTestSetVisualIDOfVisual.3.gz": "4565fb12d46dd5266d76791ae3a8b97f6b0e984177cfba202fe5f2a25207912a", "/usr/share/man/man3/XTestSetGContextOfGC.3.gz": "4565fb12d46dd5266d76791ae3a8b97f6b0e984177cfba202fe5f2a25207912a", "/usr/share/man/man3/XTestGrabControl.3.gz": "4565fb12d46dd5266d76791ae3a8b97f6b0e984177cfba202fe5f2a25207912a", "/usr/share/man/man3/XTestFakeRelativeMotionEvent.3.gz": "4565fb12d46dd5266d76791ae3a8b97f6b0e984177cfba202fe5f2a25207912a", "/usr/share/man/man3/XTestFakeMotionEvent.3.gz": "4565fb12d46dd5266d76791ae3a8b97f6b0e984177cfba202fe5f2a25207912a", "/usr/share/man/man3/XTestFakeButtonEvent.3.gz": "4565fb12d46dd5266d76791ae3a8b97f6b0e984177cfba202fe5f2a25207912a", "/usr/share/man/man3/XTestFakeKeyEvent.3.gz": "4565fb12d46dd5266d76791ae3a8b97f6b0e984177cfba202fe5f2a25207912a", "/usr/share/man/man3/XTestCompareCurrentCursorWithWindow.3.gz": "4565fb12d46dd5266d76791ae3a8b97f6b0e984177cfba202fe5f2a25207912a", "/usr/share/man/man3/XTestCompareCursorWithWindow.3.gz": "4565fb12d46dd5266d76791ae3a8b97f6b0e984177cfba202fe5f2a25207912a", "/usr/share/man/man3/XTestQueryExtension.3.gz": "2ba80e8468f94de38d5bc2d12b07aeb15676873b1d7ce896ab8d274b0dab2397", "/usr/share/doc/libXtst/xtestlib.xml": "5c3d3b3f5d7b6a84080adcb3f5eed7bfa63518c7b719b98152da43644c0ce5ac", "/usr/share/doc/libXtst/recordlib.xml": "69e23eecd778b24c4cf2f7bc24c05ea5dc93a34e7753a653646e91ed24334493", "/usr/share/licenses/libxtst/COPYING": "940190489c7a0e5ae3d83fc4fcbd79e0cd1b765bf1a4efd408293c1ee0332ceb", "/var/log/pacman.log": "5ca70a67396da7c784a6b08257cc0f9fcb18717cb57b332f6104116fbc584ef2"}}
+{
+  "1.2.3-1": {
+    "/usr/lib/libXtst.so.6": "ab833b77e55f378e712ed8e50dc2dc2995d6c57d0b6d58d1fd809b4033c7c363",
+    "/usr/lib/libXtst.so": "ab833b77e55f378e712ed8e50dc2dc2995d6c57d0b6d58d1fd809b4033c7c363",
+    "/usr/lib/libXtst.so.6.1.0": "ab833b77e55f378e712ed8e50dc2dc2995d6c57d0b6d58d1fd809b4033c7c363",
+    "/usr/lib/pkgconfig/xtst.pc": "1df5ec074709ef3ac6df589cca49cf7c0eee143a6c8f0e89c237c10028b2edf3",
+    "/usr/include/X11/extensions/XTest.h": "a414a0c6932131e6a128c8b74d293c7be396b51ca89419d040f4ac17cb31b925",
+    "/usr/include/X11/extensions/record.h": "744232d2fa7c64d158ef3bd535fe723c0f55d9cb1bebf65408d385002efc391c",
+    "/usr/share/man/man3/XTestDiscard.3.gz": "4565fb12d46dd5266d76791ae3a8b97f6b0e984177cfba202fe5f2a25207912a",
+    "/usr/share/man/man3/XTestSetVisualIDOfVisual.3.gz": "4565fb12d46dd5266d76791ae3a8b97f6b0e984177cfba202fe5f2a25207912a",
+    "/usr/share/man/man3/XTestSetGContextOfGC.3.gz": "4565fb12d46dd5266d76791ae3a8b97f6b0e984177cfba202fe5f2a25207912a",
+    "/usr/share/man/man3/XTestGrabControl.3.gz": "4565fb12d46dd5266d76791ae3a8b97f6b0e984177cfba202fe5f2a25207912a",
+    "/usr/share/man/man3/XTestFakeRelativeMotionEvent.3.gz": "4565fb12d46dd5266d76791ae3a8b97f6b0e984177cfba202fe5f2a25207912a",
+    "/usr/share/man/man3/XTestFakeMotionEvent.3.gz": "4565fb12d46dd5266d76791ae3a8b97f6b0e984177cfba202fe5f2a25207912a",
+    "/usr/share/man/man3/XTestFakeButtonEvent.3.gz": "4565fb12d46dd5266d76791ae3a8b97f6b0e984177cfba202fe5f2a25207912a",
+    "/usr/share/man/man3/XTestFakeKeyEvent.3.gz": "4565fb12d46dd5266d76791ae3a8b97f6b0e984177cfba202fe5f2a25207912a",
+    "/usr/share/man/man3/XTestCompareCurrentCursorWithWindow.3.gz": "4565fb12d46dd5266d76791ae3a8b97f6b0e984177cfba202fe5f2a25207912a",
+    "/usr/share/man/man3/XTestCompareCursorWithWindow.3.gz": "4565fb12d46dd5266d76791ae3a8b97f6b0e984177cfba202fe5f2a25207912a",
+    "/usr/share/man/man3/XTestQueryExtension.3.gz": "2ba80e8468f94de38d5bc2d12b07aeb15676873b1d7ce896ab8d274b0dab2397",
+    "/usr/share/doc/libXtst/xtestlib.xml": "5c3d3b3f5d7b6a84080adcb3f5eed7bfa63518c7b719b98152da43644c0ce5ac",
+    "/usr/share/doc/libXtst/recordlib.xml": "69e23eecd778b24c4cf2f7bc24c05ea5dc93a34e7753a653646e91ed24334493",
+    "/usr/share/licenses/libxtst/COPYING": "940190489c7a0e5ae3d83fc4fcbd79e0cd1b765bf1a4efd408293c1ee0332ceb",
+    "/var/log/pacman.log": "5ca70a67396da7c784a6b08257cc0f9fcb18717cb57b332f6104116fbc584ef2"
+  }
+}

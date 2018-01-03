@@ -1,1 +1,11 @@
-{"1.5-1": {"/usr/lib/libnpth.so.0": "60d693b44b41debee48201d7506bad5eebad1ad8493f97ba3951b23e0f99cf74", "/usr/lib/libnpth.so": "60d693b44b41debee48201d7506bad5eebad1ad8493f97ba3951b23e0f99cf74", "/usr/lib/libnpth.so.0.1.1": "60d693b44b41debee48201d7506bad5eebad1ad8493f97ba3951b23e0f99cf74", "/usr/include/npth.h": "76f55580051539e709ca0c5d19744f663c801664c4bf80f5ccdcebbcecc4b672", "/usr/bin/npth-config": "f16c7ca4a9a2523ad54cb7a2807cf05aaa56b61311e341150279b30246adb708", "/usr/share/aclocal/npth.m4": "1f168970ddc24159f62abfe54d644a920172012ba17c3220bb9e1ade4c99bcd4", "/var/log/pacman.log": "f4a6ed715fea5c30e7f6c018ce82cb955809fd46066acfc9a1bde7f29b0f22d5"}}
+{
+  "1.5-1": {
+    "/usr/lib/libnpth.so.0": "60d693b44b41debee48201d7506bad5eebad1ad8493f97ba3951b23e0f99cf74",
+    "/usr/lib/libnpth.so": "60d693b44b41debee48201d7506bad5eebad1ad8493f97ba3951b23e0f99cf74",
+    "/usr/lib/libnpth.so.0.1.1": "60d693b44b41debee48201d7506bad5eebad1ad8493f97ba3951b23e0f99cf74",
+    "/usr/include/npth.h": "76f55580051539e709ca0c5d19744f663c801664c4bf80f5ccdcebbcecc4b672",
+    "/usr/bin/npth-config": "f16c7ca4a9a2523ad54cb7a2807cf05aaa56b61311e341150279b30246adb708",
+    "/usr/share/aclocal/npth.m4": "1f168970ddc24159f62abfe54d644a920172012ba17c3220bb9e1ade4c99bcd4",
+    "/var/log/pacman.log": "f4a6ed715fea5c30e7f6c018ce82cb955809fd46066acfc9a1bde7f29b0f22d5"
+  }
+}

@@ -1,1 +1,18 @@
-{"0.0.5.0-5": {"/usr/share/haskell/register/haskell-ed25519.sh": "5b90d2b017da7352d99ea01d0c6cec7ba24e2416f8a02241f94ab0a6d58f5bd6", "/usr/share/haskell/unregister/haskell-ed25519.sh": "cd0ea1435a7538706e2b16704f5a0fbbeaa913c0e2eda7044a2241006b7337a0", "/usr/share/licenses/haskell-ed25519/LICENSE.txt": "c88d7158febd0c4a40a8b84c0fb98e0bad0111f0d5c718a58c6e1275fc18f8db", "/usr/lib/libHSed25519-0.0.5.0-9NT4KzgzBhXCnbKiU3eJSo-ghc8.2.1.so": "db4b3717cf4b4dc9b893e840594fcaff76cd995a1ada16a65f21e763bb7f7e9a", "/usr/lib/ghc-8.2.1/site-local/ed25519-0.0.5.0/Crypto/Sign/Ed25519.dyn_hi": "61a0590ef3725c333e43fb09c818c6106752e79c16bdb6620a5d64d9b122e5cd", "/var/log/pacman.log": "951feb74aa24898b044fcf4d8c722a6c7c19270a2fa791ef25f5ef5c9488babf"}, "0.0.5.0-6": {"/usr/share/haskell/register/haskell-ed25519.sh": "212487221a5b11b5d81dd9d48ada925b6b7fdd5dde9cd502fb862d35755501a2", "/usr/share/haskell/unregister/haskell-ed25519.sh": "856fc4764360635d8da6d2bfcf3fd174b782cedf1dab22b4778f71d9cd4f26ce", "/usr/share/licenses/haskell-ed25519/LICENSE.txt": "c88d7158febd0c4a40a8b84c0fb98e0bad0111f0d5c718a58c6e1275fc18f8db", "/usr/lib/libHSed25519-0.0.5.0-5pFksGKabcUIJjOzH2huYw-ghc8.2.2.so": "10e1e6df06176dfb20853f83119cf4b74a6107db4ab29cb3a58964655f0ae59b", "/usr/lib/ghc-8.2.2/site-local/ed25519-0.0.5.0/Crypto/Sign/Ed25519.dyn_hi": "b6c66500c84531bec93e22c6744a3dd9d947a035ab89907af8139bcfb14c00e4", "/var/log/pacman.log": "25f025646dbda81eae52735e2388d922021becbad69db3bf68a45446520f4c36"}}
+{
+  "0.0.5.0-5": {
+    "/usr/share/haskell/register/haskell-ed25519.sh": "5b90d2b017da7352d99ea01d0c6cec7ba24e2416f8a02241f94ab0a6d58f5bd6",
+    "/usr/share/haskell/unregister/haskell-ed25519.sh": "cd0ea1435a7538706e2b16704f5a0fbbeaa913c0e2eda7044a2241006b7337a0",
+    "/usr/share/licenses/haskell-ed25519/LICENSE.txt": "c88d7158febd0c4a40a8b84c0fb98e0bad0111f0d5c718a58c6e1275fc18f8db",
+    "/usr/lib/libHSed25519-0.0.5.0-9NT4KzgzBhXCnbKiU3eJSo-ghc8.2.1.so": "db4b3717cf4b4dc9b893e840594fcaff76cd995a1ada16a65f21e763bb7f7e9a",
+    "/usr/lib/ghc-8.2.1/site-local/ed25519-0.0.5.0/Crypto/Sign/Ed25519.dyn_hi": "61a0590ef3725c333e43fb09c818c6106752e79c16bdb6620a5d64d9b122e5cd",
+    "/var/log/pacman.log": "951feb74aa24898b044fcf4d8c722a6c7c19270a2fa791ef25f5ef5c9488babf"
+  },
+  "0.0.5.0-6": {
+    "/usr/share/haskell/register/haskell-ed25519.sh": "212487221a5b11b5d81dd9d48ada925b6b7fdd5dde9cd502fb862d35755501a2",
+    "/usr/share/haskell/unregister/haskell-ed25519.sh": "856fc4764360635d8da6d2bfcf3fd174b782cedf1dab22b4778f71d9cd4f26ce",
+    "/usr/share/licenses/haskell-ed25519/LICENSE.txt": "c88d7158febd0c4a40a8b84c0fb98e0bad0111f0d5c718a58c6e1275fc18f8db",
+    "/usr/lib/libHSed25519-0.0.5.0-5pFksGKabcUIJjOzH2huYw-ghc8.2.2.so": "10e1e6df06176dfb20853f83119cf4b74a6107db4ab29cb3a58964655f0ae59b",
+    "/usr/lib/ghc-8.2.2/site-local/ed25519-0.0.5.0/Crypto/Sign/Ed25519.dyn_hi": "b6c66500c84531bec93e22c6744a3dd9d947a035ab89907af8139bcfb14c00e4",
+    "/var/log/pacman.log": "25f025646dbda81eae52735e2388d922021becbad69db3bf68a45446520f4c36"
+  }
+}

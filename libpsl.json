@@ -1,1 +1,55 @@
-{"0.18.0-1": {"/usr/include/libpsl.h": "be060f922e32f5ba41d0125dca54301dcb23e5021cbefd82e8af6f323eaba458", "/usr/share/man/man3/libpsl.3.gz": "9ad1af2febf8b1d7d4f2d20d1db319a63ef362c2efa21dd2dae3e16046f3a848", "/usr/share/man/man1/psl.1.gz": "04f9418b02d556490faec8040083b193f121e2af50e4bf605c255eaf024e26eb", "/usr/share/man/man1/psl-make-dafsa.1.gz": "c7fb967afc79432f4fd985bcb817edeccf4b5943f93dbab23f58229a0b09769e", "/usr/share/licenses/libpsl/COPYING": "9700db7093c3db54dc9519506ba2a4cdfd43df77a7805ce8c6d600dd134a6b10", "/usr/bin/psl": "6b05f9d9b6b4b60401cfc8841d21bf87197389f183ff11685d387a783d2761d0", "/usr/lib/libpsl.so": "a9bda6f26eccf689e016e36017bb1505bdcde6332739aeb434d0e8c4c2da48df", "/usr/lib/libpsl.so.5": "a9bda6f26eccf689e016e36017bb1505bdcde6332739aeb434d0e8c4c2da48df", "/usr/lib/libpsl.so.5.1.2": "a9bda6f26eccf689e016e36017bb1505bdcde6332739aeb434d0e8c4c2da48df", "/usr/lib/pkgconfig/libpsl.pc": "79836c702cc23b9996d20d5eaf36a05ddaa84531bd693f657e3075161bd34706", "/var/log/pacman.log": "2d9f26694becf509ce3da5b9d2fc5eea80523f814a43884a32b43be633d1a31d"}, "0.18.0-2": {"/usr/include/libpsl.h": "be060f922e32f5ba41d0125dca54301dcb23e5021cbefd82e8af6f323eaba458", "/usr/lib/libpsl.so.5": "141bc1cdf279fa634c1343df38fecf0f61067ff25088e5decb24a8abfa6d3abb", "/usr/lib/libpsl.so": "141bc1cdf279fa634c1343df38fecf0f61067ff25088e5decb24a8abfa6d3abb", "/usr/lib/libpsl.so.5.1.2": "141bc1cdf279fa634c1343df38fecf0f61067ff25088e5decb24a8abfa6d3abb", "/usr/lib/pkgconfig/libpsl.pc": "79836c702cc23b9996d20d5eaf36a05ddaa84531bd693f657e3075161bd34706", "/usr/share/man/man1/psl.1.gz": "04f9418b02d556490faec8040083b193f121e2af50e4bf605c255eaf024e26eb", "/usr/share/man/man1/psl-make-dafsa.1.gz": "c7fb967afc79432f4fd985bcb817edeccf4b5943f93dbab23f58229a0b09769e", "/usr/share/man/man3/libpsl.3.gz": "9ad1af2febf8b1d7d4f2d20d1db319a63ef362c2efa21dd2dae3e16046f3a848", "/usr/share/licenses/libpsl/COPYING": "9700db7093c3db54dc9519506ba2a4cdfd43df77a7805ce8c6d600dd134a6b10", "/usr/bin/psl": "74dc58104bd10a118490c3ef5151177200cda869175684a2b9e86a80af53dbeb", "/var/log/pacman.log": "02c58693685a37e17649130bb338bdbc2db484385a0a2e808b4d53ed69d4141c"}}
+{
+  "0.18.0-1": {
+    "/usr/include/libpsl.h": "be060f922e32f5ba41d0125dca54301dcb23e5021cbefd82e8af6f323eaba458",
+    "/usr/share/man/man3/libpsl.3.gz": "9ad1af2febf8b1d7d4f2d20d1db319a63ef362c2efa21dd2dae3e16046f3a848",
+    "/usr/share/man/man1/psl.1.gz": "04f9418b02d556490faec8040083b193f121e2af50e4bf605c255eaf024e26eb",
+    "/usr/share/man/man1/psl-make-dafsa.1.gz": "c7fb967afc79432f4fd985bcb817edeccf4b5943f93dbab23f58229a0b09769e",
+    "/usr/share/licenses/libpsl/COPYING": "9700db7093c3db54dc9519506ba2a4cdfd43df77a7805ce8c6d600dd134a6b10",
+    "/usr/bin/psl": "6b05f9d9b6b4b60401cfc8841d21bf87197389f183ff11685d387a783d2761d0",
+    "/usr/lib/libpsl.so": "a9bda6f26eccf689e016e36017bb1505bdcde6332739aeb434d0e8c4c2da48df",
+    "/usr/lib/libpsl.so.5": "a9bda6f26eccf689e016e36017bb1505bdcde6332739aeb434d0e8c4c2da48df",
+    "/usr/lib/libpsl.so.5.1.2": "a9bda6f26eccf689e016e36017bb1505bdcde6332739aeb434d0e8c4c2da48df",
+    "/usr/lib/pkgconfig/libpsl.pc": "79836c702cc23b9996d20d5eaf36a05ddaa84531bd693f657e3075161bd34706",
+    "/var/log/pacman.log": "2d9f26694becf509ce3da5b9d2fc5eea80523f814a43884a32b43be633d1a31d"
+  },
+  "0.18.0-2": {
+    "/usr/include/libpsl.h": "be060f922e32f5ba41d0125dca54301dcb23e5021cbefd82e8af6f323eaba458",
+    "/usr/lib/libpsl.so.5": "141bc1cdf279fa634c1343df38fecf0f61067ff25088e5decb24a8abfa6d3abb",
+    "/usr/lib/libpsl.so": "141bc1cdf279fa634c1343df38fecf0f61067ff25088e5decb24a8abfa6d3abb",
+    "/usr/lib/libpsl.so.5.1.2": "141bc1cdf279fa634c1343df38fecf0f61067ff25088e5decb24a8abfa6d3abb",
+    "/usr/lib/pkgconfig/libpsl.pc": "79836c702cc23b9996d20d5eaf36a05ddaa84531bd693f657e3075161bd34706",
+    "/usr/share/man/man1/psl.1.gz": "04f9418b02d556490faec8040083b193f121e2af50e4bf605c255eaf024e26eb",
+    "/usr/share/man/man1/psl-make-dafsa.1.gz": "c7fb967afc79432f4fd985bcb817edeccf4b5943f93dbab23f58229a0b09769e",
+    "/usr/share/man/man3/libpsl.3.gz": "9ad1af2febf8b1d7d4f2d20d1db319a63ef362c2efa21dd2dae3e16046f3a848",
+    "/usr/share/licenses/libpsl/COPYING": "9700db7093c3db54dc9519506ba2a4cdfd43df77a7805ce8c6d600dd134a6b10",
+    "/usr/bin/psl": "74dc58104bd10a118490c3ef5151177200cda869175684a2b9e86a80af53dbeb",
+    "/var/log/pacman.log": "02c58693685a37e17649130bb338bdbc2db484385a0a2e808b4d53ed69d4141c"
+  },
+  "0.19.1-1": {
+    "/usr/include/libpsl.h": "a9fa98a46605bcde54cb8ada1346f7c6788dc849219fcd4aca86584a5fffc924",
+    "/usr/lib/libpsl.so.5": "6b7dca3ff993403441787a888c74d2045115a6232b36ee22376d87e5bd2d3d5c",
+    "/usr/lib/libpsl.so": "6b7dca3ff993403441787a888c74d2045115a6232b36ee22376d87e5bd2d3d5c",
+    "/usr/lib/libpsl.so.5.2.0": "6b7dca3ff993403441787a888c74d2045115a6232b36ee22376d87e5bd2d3d5c",
+    "/usr/lib/pkgconfig/libpsl.pc": "5ade8340847c6a64376b250db8644c82aa90a9f3179e19ccb5e86d7a2116a128",
+    "/usr/bin/psl": "c64e16a0807343ba8fd3db213a01d164296bca4e002632a594b65bf57212e25b",
+    "/usr/share/gtk-doc/html/libpsl/home.png": "7a8d24b00f5fb6bbb0446249b605efdd36598e8a0f65ac3fab2e18438c73b91e",
+    "/usr/share/gtk-doc/html/libpsl/left-insensitive.png": "303355d93cac53410997dc7a3f9bd60f3ce0d8ebae7908978c8731fe9bb139ff",
+    "/usr/share/gtk-doc/html/libpsl/style.css": "852c77f7f01fe8d2828a4878390416a8e7c7359f8edefaf881b05cd516a88007",
+    "/usr/share/gtk-doc/html/libpsl/right-insensitive.png": "794050c64c498420599162f2b3b6928232dd0be7991d942b1dc0b1670eb8695e",
+    "/usr/share/gtk-doc/html/libpsl/right.png": "0629ad38280184be1b94602f2015707a28170151058f7171aeda501fcf0979d3",
+    "/usr/share/gtk-doc/html/libpsl/libpsl.html": "e1e18c622b0b9b8220b1a5adb94bd8916cfe54d33a311af299ce80bed4a33487",
+    "/usr/share/gtk-doc/html/libpsl/up.png": "c54b75948f4d26357dd018159078f36f90deeaf29ce3b9d2bd0ea6655ef1bda8",
+    "/usr/share/gtk-doc/html/libpsl/libpsl.devhelp2": "0b60ca340d6b19918132a9c3734a470021dc8b4cb1aa8c921a4260413f899d7a",
+    "/usr/share/gtk-doc/html/libpsl/object-tree.html": "4454574db8bd3bf5dcd6a0bd38533480962b3bf1c24dbe70966e84ac07e36cfd",
+    "/usr/share/gtk-doc/html/libpsl/api-index-full.html": "851bf9e7eb7c83b829987a6bd6982a5216e9b9c94ef0773bbe2f42b3dfe65dc6",
+    "/usr/share/gtk-doc/html/libpsl/index.html": "cbeb5b08a85b8dbd3b4b9412ca76400831fbaa42bcaf95284fe8b55cb6117fcc",
+    "/usr/share/gtk-doc/html/libpsl/up-insensitive.png": "0420f2040eebf418098a86a3fb2ef5a9659c87d37b81ee85b69316b045a9453a",
+    "/usr/share/gtk-doc/html/libpsl/left.png": "0eb96fe775524c2d4d4f167d79041b17c5cc8ae9112478665132c31a1417fb4a",
+    "/usr/share/gtk-doc/html/libpsl/libpsl-Public-Suffix-List-functions.html": "6aba3d89b7ab64e9b64d8a28127b528fd447d22c8201a15f03914fbdc3f73a02",
+    "/usr/share/man/man3/libpsl.3.gz": "82c0de9778690dcd75d999585f79b21fb7ba12353eff899e83e3c18dac29f591",
+    "/usr/share/man/man1/psl.1.gz": "04f9418b02d556490faec8040083b193f121e2af50e4bf605c255eaf024e26eb",
+    "/usr/share/man/man1/psl-make-dafsa.1.gz": "c7fb967afc79432f4fd985bcb817edeccf4b5943f93dbab23f58229a0b09769e",
+    "/usr/share/licenses/libpsl/COPYING": "9700db7093c3db54dc9519506ba2a4cdfd43df77a7805ce8c6d600dd134a6b10",
+    "/var/log/pacman.log": "82f553b800ada86dc9288257495efa49193650d49462e68bb956791d37f7c56c"
+  }
+}

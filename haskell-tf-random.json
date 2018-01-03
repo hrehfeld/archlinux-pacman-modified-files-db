@@ -1,1 +1,24 @@
-{"0.5-13": {"/usr/share/haskell/register/haskell-tf-random.sh": "c08f05357ccd9857d42c5424823bbf4501beded8df1b88825303cc9fd5502cad", "/usr/share/haskell/unregister/haskell-tf-random.sh": "631b6234a016cffb63861ae73e74181aa22897e87951e5a70962e7d9660e5268", "/usr/share/licenses/haskell-tf-random/LICENSE": "43268087a1503318fb06e0d754e78b2f993d6dba6ccd7464ad0d2842fe2136f0", "/usr/lib/libHStf-random-0.5-ABDhxe3mXYlHUEE5hzgewx-ghc8.2.1.so": "81f663396afb8f8704e25a83c1ad9946f22f387c2f119af896ea2b4b83e14cda", "/usr/lib/ghc-8.2.1/site-local/tf-random-0.5/System/Random/TF.dyn_hi": "6b314cc149b146598f974fee0f9869f7ca214942455e62222a544760105e8b76", "/usr/lib/ghc-8.2.1/site-local/tf-random-0.5/System/Random/TF/Gen.dyn_hi": "cb907e8be8113d471b2fcf51c5686755304856b4996c79cf28d836d5499a4842", "/usr/lib/ghc-8.2.1/site-local/tf-random-0.5/System/Random/TF/Init.dyn_hi": "81b4103f89af981783c303e3af96580c63a1220d710a229c6d03261d92485c46", "/usr/lib/ghc-8.2.1/site-local/tf-random-0.5/System/Random/TF/Instances.dyn_hi": "1148371044c8f164fb1b28da96246cd09026b7f81af389cb0454c88371956b44", "/var/log/pacman.log": "76556737af51537ded33029e1eca026c19dd256fb17f1e56f390d4cc5e7f9851"}, "0.5-14": {"/usr/share/haskell/register/haskell-tf-random.sh": "ed339c599323301ae0bfb3362cf441185a142ca9b75b12f1bca08e40e00cacdb", "/usr/share/haskell/unregister/haskell-tf-random.sh": "1de38df49f498ee358f1acc2a5aba500f70767f19e947c9a668eeb98d963e84d", "/usr/share/licenses/haskell-tf-random/LICENSE": "43268087a1503318fb06e0d754e78b2f993d6dba6ccd7464ad0d2842fe2136f0", "/usr/lib/libHStf-random-0.5-ABwehMmciu8CuAFbHLp6To-ghc8.2.2.so": "88bf98c2af374bd03374071a97b9bd5a7f976fff764d8ba0421347f2685912bf", "/usr/lib/ghc-8.2.2/site-local/tf-random-0.5/System/Random/TF.dyn_hi": "6a0a8680d61959355cd9cd47f0f1595019667f4b7c3bc45798af59f09e4b6417", "/usr/lib/ghc-8.2.2/site-local/tf-random-0.5/System/Random/TF/Gen.dyn_hi": "22827b167bd636b7da72414b28a769356b7734b4f3b931cf4cc4bc3b72132089", "/usr/lib/ghc-8.2.2/site-local/tf-random-0.5/System/Random/TF/Init.dyn_hi": "29f7a08c38e0e8389bc28fb02a63271d5fdf6fb54c18518c58cc9504de0bc9e6", "/usr/lib/ghc-8.2.2/site-local/tf-random-0.5/System/Random/TF/Instances.dyn_hi": "597dcab79625f958522c80efc83959421571057880a8ab77e8d3b18c862859fd", "/var/log/pacman.log": "a3e0a768d988e88450edeef6cfc9952ed7441741810e79834c4152008ea9c56a"}}
+{
+  "0.5-13": {
+    "/usr/share/haskell/register/haskell-tf-random.sh": "c08f05357ccd9857d42c5424823bbf4501beded8df1b88825303cc9fd5502cad",
+    "/usr/share/haskell/unregister/haskell-tf-random.sh": "631b6234a016cffb63861ae73e74181aa22897e87951e5a70962e7d9660e5268",
+    "/usr/share/licenses/haskell-tf-random/LICENSE": "43268087a1503318fb06e0d754e78b2f993d6dba6ccd7464ad0d2842fe2136f0",
+    "/usr/lib/libHStf-random-0.5-ABDhxe3mXYlHUEE5hzgewx-ghc8.2.1.so": "81f663396afb8f8704e25a83c1ad9946f22f387c2f119af896ea2b4b83e14cda",
+    "/usr/lib/ghc-8.2.1/site-local/tf-random-0.5/System/Random/TF.dyn_hi": "6b314cc149b146598f974fee0f9869f7ca214942455e62222a544760105e8b76",
+    "/usr/lib/ghc-8.2.1/site-local/tf-random-0.5/System/Random/TF/Gen.dyn_hi": "cb907e8be8113d471b2fcf51c5686755304856b4996c79cf28d836d5499a4842",
+    "/usr/lib/ghc-8.2.1/site-local/tf-random-0.5/System/Random/TF/Init.dyn_hi": "81b4103f89af981783c303e3af96580c63a1220d710a229c6d03261d92485c46",
+    "/usr/lib/ghc-8.2.1/site-local/tf-random-0.5/System/Random/TF/Instances.dyn_hi": "1148371044c8f164fb1b28da96246cd09026b7f81af389cb0454c88371956b44",
+    "/var/log/pacman.log": "76556737af51537ded33029e1eca026c19dd256fb17f1e56f390d4cc5e7f9851"
+  },
+  "0.5-14": {
+    "/usr/share/haskell/register/haskell-tf-random.sh": "ed339c599323301ae0bfb3362cf441185a142ca9b75b12f1bca08e40e00cacdb",
+    "/usr/share/haskell/unregister/haskell-tf-random.sh": "1de38df49f498ee358f1acc2a5aba500f70767f19e947c9a668eeb98d963e84d",
+    "/usr/share/licenses/haskell-tf-random/LICENSE": "43268087a1503318fb06e0d754e78b2f993d6dba6ccd7464ad0d2842fe2136f0",
+    "/usr/lib/libHStf-random-0.5-ABwehMmciu8CuAFbHLp6To-ghc8.2.2.so": "88bf98c2af374bd03374071a97b9bd5a7f976fff764d8ba0421347f2685912bf",
+    "/usr/lib/ghc-8.2.2/site-local/tf-random-0.5/System/Random/TF.dyn_hi": "6a0a8680d61959355cd9cd47f0f1595019667f4b7c3bc45798af59f09e4b6417",
+    "/usr/lib/ghc-8.2.2/site-local/tf-random-0.5/System/Random/TF/Gen.dyn_hi": "22827b167bd636b7da72414b28a769356b7734b4f3b931cf4cc4bc3b72132089",
+    "/usr/lib/ghc-8.2.2/site-local/tf-random-0.5/System/Random/TF/Init.dyn_hi": "29f7a08c38e0e8389bc28fb02a63271d5fdf6fb54c18518c58cc9504de0bc9e6",
+    "/usr/lib/ghc-8.2.2/site-local/tf-random-0.5/System/Random/TF/Instances.dyn_hi": "597dcab79625f958522c80efc83959421571057880a8ab77e8d3b18c862859fd",
+    "/var/log/pacman.log": "a3e0a768d988e88450edeef6cfc9952ed7441741810e79834c4152008ea9c56a"
+  }
+}

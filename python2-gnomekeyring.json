@@ -1,1 +1,7 @@
-{"2.32.0-17": {"/usr/lib/python2.7/site-packages/gtk-2.0/gnomekeyring.so": "abe84c764231882478ad0e09b33f60dc37f0dc8b4dd3dc7c1dbc6512f398cf5c", "/usr/share/pygtk/2.0/defs/gnomekeyring.defs": "8f90b3c5eb62399069132b79000a242d074d74c7d87e8f9ec8d01177a3f7de53", "/var/log/pacman.log": "76e3e0282f56e9b29937425ba27836a7cbce9bfc9cf1edf1a2f7c508c6a072a5"}}
+{
+  "2.32.0-17": {
+    "/usr/lib/python2.7/site-packages/gtk-2.0/gnomekeyring.so": "abe84c764231882478ad0e09b33f60dc37f0dc8b4dd3dc7c1dbc6512f398cf5c",
+    "/usr/share/pygtk/2.0/defs/gnomekeyring.defs": "8f90b3c5eb62399069132b79000a242d074d74c7d87e8f9ec8d01177a3f7de53",
+    "/var/log/pacman.log": "76e3e0282f56e9b29937425ba27836a7cbce9bfc9cf1edf1a2f7c508c6a072a5"
+  }
+}

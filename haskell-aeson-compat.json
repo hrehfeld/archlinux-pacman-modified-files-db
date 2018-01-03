@@ -1,1 +1,26 @@
-{"0.3.7.1-7": {"/usr/share/haskell/register/haskell-aeson-compat.sh": "1da3c264a88548287367c5110ba6e5f59ec8e1113e5d6eb8e573f1f54a318d56", "/usr/share/haskell/unregister/haskell-aeson-compat.sh": "69deff532ddecada63ba0c9c033b6cab5a480d20dc4cf98e2c118288110b5fa8", "/usr/share/licenses/haskell-aeson-compat/LICENSE": "eef5ffdb683ddc4f93095f3a222f2d29b109c0e3dcb4dc46e1ed3b984e61391a", "/usr/lib/libHSaeson-compat-0.3.7.1-1U6WOG5eNtUB85Glv9Q1rR-ghc8.2.1.so": "e43a2c1112d95b47429899cf7a25b4b4b90c9981433604dee758e4ef88d58b79", "/usr/lib/ghc-8.2.1/site-local/aeson-compat-0.3.7.1/Data/Aeson/Compat.dyn_hi": "5222035416cf78ca4ca5477664bf32f4379dfd990a748c21f5bc16ea778f2db3", "/var/log/pacman.log": "ea015fd1715b90a5681247a2a19c853ad635cbfb8c41d8c3e7b0c087ccb1c78e"}, "0.3.7.1-8": {"/usr/share/haskell/register/haskell-aeson-compat.sh": "d811e2e149d4ccdfb4bce3b4dec2974a2903edf85d226389ba5b343d55436c8b", "/usr/share/haskell/unregister/haskell-aeson-compat.sh": "7f2bad655c4e416d6808a66ad7bc072154916f7af7a002a9a593f5cb1ab982ee", "/usr/share/licenses/haskell-aeson-compat/LICENSE": "eef5ffdb683ddc4f93095f3a222f2d29b109c0e3dcb4dc46e1ed3b984e61391a", "/usr/lib/libHSaeson-compat-0.3.7.1-AXrfgVh7UZvfGDpDV5ZZ0-ghc8.2.2.so": "3806fa2b2edad3ccd30218eba599ddbe41cea3a107c339591eb9475c24bfeecf", "/usr/lib/ghc-8.2.2/site-local/aeson-compat-0.3.7.1/Data/Aeson/Compat.dyn_hi": "3dc05ea53d316885f78aada9093333e4632146f7eef7ba4e8a77da61741a88b0", "/var/log/pacman.log": "8a6f19cb2ca196482594c93d7afb417c6a1a46e182543b1a6b5dacd9d64c3720"}}
+{
+  "0.3.7.1-7": {
+    "/usr/share/haskell/register/haskell-aeson-compat.sh": "1da3c264a88548287367c5110ba6e5f59ec8e1113e5d6eb8e573f1f54a318d56",
+    "/usr/share/haskell/unregister/haskell-aeson-compat.sh": "69deff532ddecada63ba0c9c033b6cab5a480d20dc4cf98e2c118288110b5fa8",
+    "/usr/share/licenses/haskell-aeson-compat/LICENSE": "eef5ffdb683ddc4f93095f3a222f2d29b109c0e3dcb4dc46e1ed3b984e61391a",
+    "/usr/lib/libHSaeson-compat-0.3.7.1-1U6WOG5eNtUB85Glv9Q1rR-ghc8.2.1.so": "e43a2c1112d95b47429899cf7a25b4b4b90c9981433604dee758e4ef88d58b79",
+    "/usr/lib/ghc-8.2.1/site-local/aeson-compat-0.3.7.1/Data/Aeson/Compat.dyn_hi": "5222035416cf78ca4ca5477664bf32f4379dfd990a748c21f5bc16ea778f2db3",
+    "/var/log/pacman.log": "ea015fd1715b90a5681247a2a19c853ad635cbfb8c41d8c3e7b0c087ccb1c78e"
+  },
+  "0.3.7.1-8": {
+    "/usr/share/haskell/register/haskell-aeson-compat.sh": "d811e2e149d4ccdfb4bce3b4dec2974a2903edf85d226389ba5b343d55436c8b",
+    "/usr/share/haskell/unregister/haskell-aeson-compat.sh": "7f2bad655c4e416d6808a66ad7bc072154916f7af7a002a9a593f5cb1ab982ee",
+    "/usr/share/licenses/haskell-aeson-compat/LICENSE": "eef5ffdb683ddc4f93095f3a222f2d29b109c0e3dcb4dc46e1ed3b984e61391a",
+    "/usr/lib/libHSaeson-compat-0.3.7.1-AXrfgVh7UZvfGDpDV5ZZ0-ghc8.2.2.so": "3806fa2b2edad3ccd30218eba599ddbe41cea3a107c339591eb9475c24bfeecf",
+    "/usr/lib/ghc-8.2.2/site-local/aeson-compat-0.3.7.1/Data/Aeson/Compat.dyn_hi": "3dc05ea53d316885f78aada9093333e4632146f7eef7ba4e8a77da61741a88b0",
+    "/var/log/pacman.log": "8a6f19cb2ca196482594c93d7afb417c6a1a46e182543b1a6b5dacd9d64c3720"
+  },
+  "0.3.7.1-9": {
+    "/usr/share/haskell/register/haskell-aeson-compat.sh": "e0cc4ebe686bc07347de3fb77554fe2c2c75ad9799eb4ebe0793d1b84bc20174",
+    "/usr/share/haskell/unregister/haskell-aeson-compat.sh": "7f2bad655c4e416d6808a66ad7bc072154916f7af7a002a9a593f5cb1ab982ee",
+    "/usr/share/licenses/haskell-aeson-compat/LICENSE": "eef5ffdb683ddc4f93095f3a222f2d29b109c0e3dcb4dc46e1ed3b984e61391a",
+    "/usr/lib/libHSaeson-compat-0.3.7.1-DBedSJNAvcaHY7mCD7ipvN-ghc8.2.2.so": "54ad18649f40db3e0054c8531425b63165ac8b552cc001b6628b779b38dfaf9e",
+    "/usr/lib/ghc-8.2.2/site-local/aeson-compat-0.3.7.1/Data/Aeson/Compat.dyn_hi": "3b772535d54c822e42f6614e7f811338a0f3d9743b70e8e27e2f6f0a6f47c1d5",
+    "/var/log/pacman.log": "fd7803fdfb4a2a24840003be8f10a6fcbf5c662f864a570c03cfe263209aa739"
+  }
+}

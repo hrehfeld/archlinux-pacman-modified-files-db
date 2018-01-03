@@ -1,1 +1,7 @@
-{"1.7.0-2": {"/usr/share/man/man1/tree.1.gz": "bbcd538f8da16fb0a6847a71b06272f155dd5becff44bc2cf8eaf72b3c3a76c4", "/usr/bin/tree": "316767b99c8f910516de8e393964314924f93f9489e7cb1c6c65c10b3461d50e", "/var/log/pacman.log": "573d4cdba0643c6b698568da2156dd0c17b1c47573dbb32fab9fe8aa2dc8d179"}}
+{
+  "1.7.0-2": {
+    "/usr/share/man/man1/tree.1.gz": "bbcd538f8da16fb0a6847a71b06272f155dd5becff44bc2cf8eaf72b3c3a76c4",
+    "/usr/bin/tree": "316767b99c8f910516de8e393964314924f93f9489e7cb1c6c65c10b3461d50e",
+    "/var/log/pacman.log": "573d4cdba0643c6b698568da2156dd0c17b1c47573dbb32fab9fe8aa2dc8d179"
+  }
+}

@@ -1,1 +1,16 @@
-{"0.1.5-2": {"/usr/lib/python3.6/site-packages/resumable/__init__.py": "c8315951a46729538b5de7edbb97e69b8186c7cfabc2f7029f3cfea66552b190", "/usr/lib/python3.6/site-packages/resumable/__pycache__/__init__.cpython-36.opt-1.pyc": "0168fea222b1d47bae82eda03e8188b12160818e828db8a9886d4baea55252c8", "/usr/lib/python3.6/site-packages/resumable/__pycache__/__init__.cpython-36.pyc": "ff3a601b925e61ce895b172abbb8f2ab8a6ea860531664a2fac75e592395a745", "/usr/lib/python3.6/site-packages/resumable_urlretrieve-0.1.5-py3.6.egg-info/not-zip-safe": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b", "/usr/lib/python3.6/site-packages/resumable_urlretrieve-0.1.5-py3.6.egg-info/SOURCES.txt": "ad25a00b2332f18b90ce399b5848ab72478dd84455f7d4e9fa28efccbf7c3e27", "/usr/lib/python3.6/site-packages/resumable_urlretrieve-0.1.5-py3.6.egg-info/top_level.txt": "56778edc4b4fb5b5cefac5ddb370acaca89286208dc0a67a3d4899945436f44d", "/usr/lib/python3.6/site-packages/resumable_urlretrieve-0.1.5-py3.6.egg-info/requires.txt": "7cc4959877dbe6b6c63a8eb1bfe3bfb545fa8fe5b28b1b2c13e4a7c1c0d1c4d4", "/usr/lib/python3.6/site-packages/resumable_urlretrieve-0.1.5-py3.6.egg-info/dependency_links.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b", "/usr/lib/python3.6/site-packages/resumable_urlretrieve-0.1.5-py3.6.egg-info/PKG-INFO": "ac1b686b570111d9b944b5f77b410ef5e7b2ce7007cbb4eab06aece54bcec52e", "/usr/share/doc/python-resumable-urlretrieve/README.md": "8d99de475b47a6684b639d7ccbc1698a6894b7ceee5c50ba4e4ce2481d0fb3c1", "/usr/share/licenses/python-resumable-urlretrieve/LICENSE": "8d99de475b47a6684b639d7ccbc1698a6894b7ceee5c50ba4e4ce2481d0fb3c1", "/var/log/pacman.log": "cf7aa9348812c6a6946076a5639cc4711ad52232022674164e8c37cb37e0f2ac"}}
+{
+  "0.1.5-2": {
+    "/usr/lib/python3.6/site-packages/resumable/__init__.py": "c8315951a46729538b5de7edbb97e69b8186c7cfabc2f7029f3cfea66552b190",
+    "/usr/lib/python3.6/site-packages/resumable/__pycache__/__init__.cpython-36.opt-1.pyc": "0168fea222b1d47bae82eda03e8188b12160818e828db8a9886d4baea55252c8",
+    "/usr/lib/python3.6/site-packages/resumable/__pycache__/__init__.cpython-36.pyc": "ff3a601b925e61ce895b172abbb8f2ab8a6ea860531664a2fac75e592395a745",
+    "/usr/lib/python3.6/site-packages/resumable_urlretrieve-0.1.5-py3.6.egg-info/not-zip-safe": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "/usr/lib/python3.6/site-packages/resumable_urlretrieve-0.1.5-py3.6.egg-info/SOURCES.txt": "ad25a00b2332f18b90ce399b5848ab72478dd84455f7d4e9fa28efccbf7c3e27",
+    "/usr/lib/python3.6/site-packages/resumable_urlretrieve-0.1.5-py3.6.egg-info/top_level.txt": "56778edc4b4fb5b5cefac5ddb370acaca89286208dc0a67a3d4899945436f44d",
+    "/usr/lib/python3.6/site-packages/resumable_urlretrieve-0.1.5-py3.6.egg-info/requires.txt": "7cc4959877dbe6b6c63a8eb1bfe3bfb545fa8fe5b28b1b2c13e4a7c1c0d1c4d4",
+    "/usr/lib/python3.6/site-packages/resumable_urlretrieve-0.1.5-py3.6.egg-info/dependency_links.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "/usr/lib/python3.6/site-packages/resumable_urlretrieve-0.1.5-py3.6.egg-info/PKG-INFO": "ac1b686b570111d9b944b5f77b410ef5e7b2ce7007cbb4eab06aece54bcec52e",
+    "/usr/share/doc/python-resumable-urlretrieve/README.md": "8d99de475b47a6684b639d7ccbc1698a6894b7ceee5c50ba4e4ce2481d0fb3c1",
+    "/usr/share/licenses/python-resumable-urlretrieve/LICENSE": "8d99de475b47a6684b639d7ccbc1698a6894b7ceee5c50ba4e4ce2481d0fb3c1",
+    "/var/log/pacman.log": "cf7aa9348812c6a6946076a5639cc4711ad52232022674164e8c37cb37e0f2ac"
+  }
+}

@@ -1,1 +1,24 @@
-{"2.5-1": {"/usr/include/hdr10plus.h": "762b806be12deb4668138c0a695d0802ba5561af206809edf3254781f945ae8d", "/usr/include/x265_config.h": "68dfaae2ceea17d5e102b4876ee639bd023d4330c77f42e3f25bd0a0bc62b51e", "/usr/include/x265.h": "28e56313bfbfa24c3f8744e016c7cc77542eb0fd15e046f50060f8e2c94a3d55", "/usr/bin/x265": "182956c084666f17d6b5e8978ae791c29ab3518b6007cfb523a104e7663681ba", "/usr/lib/libx265.so": "0cfb1daa29ec480aa69f3decb432ecf6e3aeeb577b165a1d9282a280f993d695", "/usr/lib/libx265.so.130": "0cfb1daa29ec480aa69f3decb432ecf6e3aeeb577b165a1d9282a280f993d695", "/usr/lib/libhdr10plus.so": "a38c7528a1aeada36ea667522c6db406ca46f96f656a022b7ba7ec2036ac056a", "/usr/lib/pkgconfig/x265.pc": "37914c44eeebd573db3f57ceb294549b0046e18b0477f644e5b2c3fa6a7695dd", "/var/log/pacman.log": "ec27085f65b8dd27adf6a44f2bc9607bb72583a747490e3ad714ef61717b6b2c"}}
+{
+  "2.5-1": {
+    "/usr/include/hdr10plus.h": "762b806be12deb4668138c0a695d0802ba5561af206809edf3254781f945ae8d",
+    "/usr/include/x265_config.h": "68dfaae2ceea17d5e102b4876ee639bd023d4330c77f42e3f25bd0a0bc62b51e",
+    "/usr/include/x265.h": "28e56313bfbfa24c3f8744e016c7cc77542eb0fd15e046f50060f8e2c94a3d55",
+    "/usr/bin/x265": "182956c084666f17d6b5e8978ae791c29ab3518b6007cfb523a104e7663681ba",
+    "/usr/lib/libx265.so": "0cfb1daa29ec480aa69f3decb432ecf6e3aeeb577b165a1d9282a280f993d695",
+    "/usr/lib/libx265.so.130": "0cfb1daa29ec480aa69f3decb432ecf6e3aeeb577b165a1d9282a280f993d695",
+    "/usr/lib/libhdr10plus.so": "a38c7528a1aeada36ea667522c6db406ca46f96f656a022b7ba7ec2036ac056a",
+    "/usr/lib/pkgconfig/x265.pc": "37914c44eeebd573db3f57ceb294549b0046e18b0477f644e5b2c3fa6a7695dd",
+    "/var/log/pacman.log": "ec27085f65b8dd27adf6a44f2bc9607bb72583a747490e3ad714ef61717b6b2c"
+  },
+  "2.6-1": {
+    "/usr/lib/libx265.so": "6d13975e1e2feefe3afc1766b556ba3f04148b7e5c61594644f37ad2fc4abaeb",
+    "/usr/lib/libx265.so.146": "6d13975e1e2feefe3afc1766b556ba3f04148b7e5c61594644f37ad2fc4abaeb",
+    "/usr/lib/libhdr10plus.so": "e61058d16210106f6da4681f1c1ddf41cf7eed720dc6ef933232a82bc0990c72",
+    "/usr/lib/pkgconfig/x265.pc": "dcc5d423b6684da294db2ace9a4a660d3c71c7bc6a9337087d07fc49e2497067",
+    "/usr/bin/x265": "718a7d880ecdd98f5208fb73783e0f468505224e00d5e57f9c4103b86a7aad21",
+    "/usr/include/x265_config.h": "0d7a4771daaeb662025260ad2dba8431afb733fdee68edeb839791fd29231b91",
+    "/usr/include/hdr10plus.h": "442508f7a557f5b88d2bc1f9c0e0d3a999871327cad2552c9c399506998564e5",
+    "/usr/include/x265.h": "0fee92ec9b039da52228ee6019618fe8d45985124db5f0f9bb4fba82612d0d84",
+    "/var/log/pacman.log": "90c5bf5d5c518f13a9e437d433caa6e63b1606d0571c6714667516fa16e5f72a"
+  }
+}

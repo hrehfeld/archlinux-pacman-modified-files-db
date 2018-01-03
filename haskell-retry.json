@@ -1,1 +1,34 @@
-{"0.7.4.3-1": {"/usr/share/haskell/register/haskell-retry.sh": "94bdd8819fffa40ffa289dfceb617031d27a380d74a4d70cf6e6d9fc613ebb41", "/usr/share/haskell/unregister/haskell-retry.sh": "316883ba8a255d72b63e049e0bd73611b86c74b364e2ede9565e16c15645e042", "/usr/share/licenses/haskell-retry/LICENSE": "81c623d2af020cc64e40280e076e46c0ddad70764e092685cedab15dbe9ef671", "/usr/lib/libHSretry-0.7.4.3-8Vejk5ADE7VDV7dQ8GP3MX-ghc8.2.1.so": "fc9429eec62fbad0977c8bbba754fcf05bba913cd2825856e71967f7be3ae7e4", "/usr/lib/ghc-8.2.1/site-local/retry-0.7.4.3/Control/Retry.dyn_hi": "4cf35f0e79b8e99af70df458c5d4370395e9ac450c86d98b99f567b14136a5d6", "/var/log/pacman.log": "8af69fea90b59e8c3cc3be326b4be67bc31aca6d6e0cb7864b7363ae64d67e61"}, "0.7.4.3-2": {"/usr/share/haskell/register/haskell-retry.sh": "95c6bd0a4140ac6c5725d05ab30d6c3d6fcbf65c770c72490cb89c0beabcaa42", "/usr/share/haskell/unregister/haskell-retry.sh": "2b1623a7eec379fc226511ba8b045c4283029506d903419d250277de2c69ada6", "/usr/share/licenses/haskell-retry/LICENSE": "81c623d2af020cc64e40280e076e46c0ddad70764e092685cedab15dbe9ef671", "/usr/lib/libHSretry-0.7.4.3-FzgRnH7eyITKppJbASWNmn-ghc8.2.2.so": "7fe309f75d7223a00fdd52839a3e0d2efe128590b45bb1281cd7208609a93caa", "/usr/lib/ghc-8.2.2/site-local/retry-0.7.4.3/Control/Retry.dyn_hi": "d75879eb564be37078b60b390c24ef7b0563573d2c9251d20ca3a51bed95066f", "/var/log/pacman.log": "7a6f2228e76c08aaf5f0a728e7f3e554892d7c1e393c98845c7b922f7cdbb174"}, "0.7.5.0-1": {"/usr/share/haskell/register/haskell-retry.sh": "29f9d736da9d7543d47653a1f6e37ed60728ae0c72c0b359d3c2880e41a8b2cf", "/usr/share/haskell/unregister/haskell-retry.sh": "43716bc09cd6f3980a9ea6dd903ad560d09a98a2a4706cf5f35e70a7dffbba70", "/usr/share/licenses/haskell-retry/LICENSE": "81c623d2af020cc64e40280e076e46c0ddad70764e092685cedab15dbe9ef671", "/usr/lib/libHSretry-0.7.5.0-G8wOkzSrmmx7rDLA6a7mM1-ghc8.2.2.so": "b690f7b11e155debd11cb6cf1a46274587308a655008e842a97324ca5eadbe84", "/usr/lib/ghc-8.2.2/site-local/retry-0.7.5.0/Control/Retry.dyn_hi": "22f9e7da311026599f35824b94ce45042a4af0404b389cf5388813e5270283c5", "/var/log/pacman.log": "17606635ac3392bd08db1dcc10b524fff56493d29218f002f95821f0f66ca0e0"}, "0.7.5.1-1": {"/usr/share/haskell/register/haskell-retry.sh": "210a1eb18557db96daffacc87fcfd0d10bb8484aea62f06addc658ea7341db95", "/usr/share/haskell/unregister/haskell-retry.sh": "a40ecb23549e36e1bd2084f47e4fb91946095f226bfa45d35f9f170b05580ba7", "/usr/share/licenses/haskell-retry/LICENSE": "81c623d2af020cc64e40280e076e46c0ddad70764e092685cedab15dbe9ef671", "/usr/lib/libHSretry-0.7.5.1-RdMBt9iy2gLVx9rlWwlUA-ghc8.2.2.so": "201c4f6c3da2af96e144d9ca06954d238961235170e7601581e3727b5a2d6cb6", "/usr/lib/ghc-8.2.2/site-local/retry-0.7.5.1/Control/Retry.dyn_hi": "9ff93638b34f12c905242fd0e2725c0c8a6ffb76aa4834ee17df458d707a6e95", "/var/log/pacman.log": "93cf536747646eac05bfce4d3d07e4bb13d1d1596d245d8218525d859d642b72"}}
+{
+  "0.7.4.3-1": {
+    "/usr/share/haskell/register/haskell-retry.sh": "94bdd8819fffa40ffa289dfceb617031d27a380d74a4d70cf6e6d9fc613ebb41",
+    "/usr/share/haskell/unregister/haskell-retry.sh": "316883ba8a255d72b63e049e0bd73611b86c74b364e2ede9565e16c15645e042",
+    "/usr/share/licenses/haskell-retry/LICENSE": "81c623d2af020cc64e40280e076e46c0ddad70764e092685cedab15dbe9ef671",
+    "/usr/lib/libHSretry-0.7.4.3-8Vejk5ADE7VDV7dQ8GP3MX-ghc8.2.1.so": "fc9429eec62fbad0977c8bbba754fcf05bba913cd2825856e71967f7be3ae7e4",
+    "/usr/lib/ghc-8.2.1/site-local/retry-0.7.4.3/Control/Retry.dyn_hi": "4cf35f0e79b8e99af70df458c5d4370395e9ac450c86d98b99f567b14136a5d6",
+    "/var/log/pacman.log": "8af69fea90b59e8c3cc3be326b4be67bc31aca6d6e0cb7864b7363ae64d67e61"
+  },
+  "0.7.4.3-2": {
+    "/usr/share/haskell/register/haskell-retry.sh": "95c6bd0a4140ac6c5725d05ab30d6c3d6fcbf65c770c72490cb89c0beabcaa42",
+    "/usr/share/haskell/unregister/haskell-retry.sh": "2b1623a7eec379fc226511ba8b045c4283029506d903419d250277de2c69ada6",
+    "/usr/share/licenses/haskell-retry/LICENSE": "81c623d2af020cc64e40280e076e46c0ddad70764e092685cedab15dbe9ef671",
+    "/usr/lib/libHSretry-0.7.4.3-FzgRnH7eyITKppJbASWNmn-ghc8.2.2.so": "7fe309f75d7223a00fdd52839a3e0d2efe128590b45bb1281cd7208609a93caa",
+    "/usr/lib/ghc-8.2.2/site-local/retry-0.7.4.3/Control/Retry.dyn_hi": "d75879eb564be37078b60b390c24ef7b0563573d2c9251d20ca3a51bed95066f",
+    "/var/log/pacman.log": "7a6f2228e76c08aaf5f0a728e7f3e554892d7c1e393c98845c7b922f7cdbb174"
+  },
+  "0.7.5.0-1": {
+    "/usr/share/haskell/register/haskell-retry.sh": "29f9d736da9d7543d47653a1f6e37ed60728ae0c72c0b359d3c2880e41a8b2cf",
+    "/usr/share/haskell/unregister/haskell-retry.sh": "43716bc09cd6f3980a9ea6dd903ad560d09a98a2a4706cf5f35e70a7dffbba70",
+    "/usr/share/licenses/haskell-retry/LICENSE": "81c623d2af020cc64e40280e076e46c0ddad70764e092685cedab15dbe9ef671",
+    "/usr/lib/libHSretry-0.7.5.0-G8wOkzSrmmx7rDLA6a7mM1-ghc8.2.2.so": "b690f7b11e155debd11cb6cf1a46274587308a655008e842a97324ca5eadbe84",
+    "/usr/lib/ghc-8.2.2/site-local/retry-0.7.5.0/Control/Retry.dyn_hi": "22f9e7da311026599f35824b94ce45042a4af0404b389cf5388813e5270283c5",
+    "/var/log/pacman.log": "17606635ac3392bd08db1dcc10b524fff56493d29218f002f95821f0f66ca0e0"
+  },
+  "0.7.5.1-1": {
+    "/usr/share/haskell/register/haskell-retry.sh": "210a1eb18557db96daffacc87fcfd0d10bb8484aea62f06addc658ea7341db95",
+    "/usr/share/haskell/unregister/haskell-retry.sh": "a40ecb23549e36e1bd2084f47e4fb91946095f226bfa45d35f9f170b05580ba7",
+    "/usr/share/licenses/haskell-retry/LICENSE": "81c623d2af020cc64e40280e076e46c0ddad70764e092685cedab15dbe9ef671",
+    "/usr/lib/libHSretry-0.7.5.1-RdMBt9iy2gLVx9rlWwlUA-ghc8.2.2.so": "201c4f6c3da2af96e144d9ca06954d238961235170e7601581e3727b5a2d6cb6",
+    "/usr/lib/ghc-8.2.2/site-local/retry-0.7.5.1/Control/Retry.dyn_hi": "9ff93638b34f12c905242fd0e2725c0c8a6ffb76aa4834ee17df458d707a6e95",
+    "/var/log/pacman.log": "93cf536747646eac05bfce4d3d07e4bb13d1d1596d245d8218525d859d642b72"
+  }
+}

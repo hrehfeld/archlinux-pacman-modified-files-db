@@ -1,1 +1,8 @@
-{"1.3.2-1": {"/usr/share/licenses/xorg-xdpyinfo/COPYING": "49733ead65fdfa1da0d176f9b965cc08dae74d73d66c9606488d52f6fc036abf", "/usr/share/man/man1/xdpyinfo.1.gz": "6594ea92cd8e188a9a9c4581fdcc13487d8ce469fa7f14b2d6b60fa39d5205e0", "/usr/bin/xdpyinfo": "08207f9e75fd1d0eb3cb3a6bbe771b4e2de7ac101c11ffb22dfe06124347a6c4", "/var/log/pacman.log": "abda51cc8ac95a0b4edd4922a302d5457356d4dd82915d4be9fa4c6507ef70a9"}}
+{
+  "1.3.2-1": {
+    "/usr/share/licenses/xorg-xdpyinfo/COPYING": "49733ead65fdfa1da0d176f9b965cc08dae74d73d66c9606488d52f6fc036abf",
+    "/usr/share/man/man1/xdpyinfo.1.gz": "6594ea92cd8e188a9a9c4581fdcc13487d8ce469fa7f14b2d6b60fa39d5205e0",
+    "/usr/bin/xdpyinfo": "08207f9e75fd1d0eb3cb3a6bbe771b4e2de7ac101c11ffb22dfe06124347a6c4",
+    "/var/log/pacman.log": "abda51cc8ac95a0b4edd4922a302d5457356d4dd82915d4be9fa4c6507ef70a9"
+  }
+}

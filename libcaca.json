@@ -1,1 +1,30 @@
-{"0.99.beta19-1": {"/usr/share/licenses/libcaca/COPYING": "d20ad7990610153b563c52681da860b8302afcf0778f75237f8815c07d05141f", "/usr/share/man/man1/cacaplay.1.gz": "6b58e3a15804a6ce7f66e17f5a199036e94b4fae6dcfc3f276d169d383340e43", "/usr/share/man/man1/img2txt.1.gz": "e2a764f3fab62a851fdaddf65e00bb33ba2ec7ceb7a804686fe5b8c975e5d5eb", "/usr/share/man/man1/cacaserver.1.gz": "d0f72ce09c334b22091b55f77eac753b13c8c6fe999554924e45b00e67ea7212", "/usr/share/man/man1/cacaview.1.gz": "bc23dd920f103ab6972f86232a4b38b7e0b537de004ed31cf957737214a92b90", "/usr/share/man/man1/cacafire.1.gz": "ff17177b0e270c34ffa01a5dc0b2b8cc1b17c4f3dea46385daed2e076be8f913", "/usr/share/man/man1/cacademo.1.gz": "ff17177b0e270c34ffa01a5dc0b2b8cc1b17c4f3dea46385daed2e076be8f913", "/usr/share/man/man1/caca-config.1.gz": "423c1c3f9c68c11b0169ca3a7da7cff5a97b9705488f31eda601e8ab572903ff", "/usr/share/libcaca/caca.txt": "f80a04560afd97311533cc97b31f32e931f7ebb1a54cc71c92ac8e61a562f0e8", "/usr/bin/cacaserver": "b768807797ac07991c7b7600cbc0eb4afe07ac5039e6cd175dbb7d5cce49dcb9", "/usr/bin/cacaclock": "f8860426f9ce64b8136911de331c9ededfe4249b88382bf9018a8b069080e32b", "/usr/bin/img2txt": "1ad4c19b4e6637949164d6321997aba2c92d315a9657d6ae71eb0e3d325830f6", "/usr/bin/cacaview": "dfb2be10a9738172387b1c86dad41f3f675f4c1b3aa7ea88ff2b1d9f1e209f5e", "/usr/bin/cacaplay": "8bcb72037265a50d104f73b2dd0a642f4b0f489451c1db71cfcfa4fc3c5c2b0c", "/usr/bin/cacafire": "16afb90e47f13375d8dd25c673ee1881ce87067807bf1675972a108301c64b2b", "/usr/bin/cacademo": "19127d9c7e475c8321e201bd307b8718853b9dbdc297f5c7c80bc55e68bdc45d", "/usr/bin/caca-config": "677d20b969db890adeaa555537ab216d23e05ab49d77a0d37e459dc3f902ac52", "/usr/include/caca0.h": "8cfea4c2ca56f02170b3d04b1427dd47d31fd4946b925fea25db6e0a194086b2", "/usr/include/caca_conio.h": "d9aa4a8ba9a46a90b52371f387166cfb264142d3a59fb023e130d3640c3d05d0", "/usr/include/caca_types.h": "49150fc24ec5f4b35e2b010bb8a59654aced8bb75b260e84aa2b2472fa8e940e", "/usr/include/caca.h": "c5bea87d1157d1bca877fcab6ac436c3157c56d5d074b002ea4913a2f006f5b7", "/usr/lib/libcaca.so.0.99.19": "1b3a669d38876aeb607e77b621c908ffcff86e3568773dd9e18caaffd5e8dfb6", "/usr/lib/libcaca.so": "1b3a669d38876aeb607e77b621c908ffcff86e3568773dd9e18caaffd5e8dfb6", "/usr/lib/libcaca.so.0": "1b3a669d38876aeb607e77b621c908ffcff86e3568773dd9e18caaffd5e8dfb6", "/usr/lib/pkgconfig/caca.pc": "e9ea21035b5615216b77ac022d808bdb46cd3d7537a6be112ab812936100d232", "/var/log/pacman.log": "68f4e8cff43496207084dccbba145c2e162141412382eb8cecd48fa8494f6055"}}
+{
+  "0.99.beta19-1": {
+    "/usr/share/licenses/libcaca/COPYING": "d20ad7990610153b563c52681da860b8302afcf0778f75237f8815c07d05141f",
+    "/usr/share/man/man1/cacaplay.1.gz": "6b58e3a15804a6ce7f66e17f5a199036e94b4fae6dcfc3f276d169d383340e43",
+    "/usr/share/man/man1/img2txt.1.gz": "e2a764f3fab62a851fdaddf65e00bb33ba2ec7ceb7a804686fe5b8c975e5d5eb",
+    "/usr/share/man/man1/cacaserver.1.gz": "d0f72ce09c334b22091b55f77eac753b13c8c6fe999554924e45b00e67ea7212",
+    "/usr/share/man/man1/cacaview.1.gz": "bc23dd920f103ab6972f86232a4b38b7e0b537de004ed31cf957737214a92b90",
+    "/usr/share/man/man1/cacafire.1.gz": "ff17177b0e270c34ffa01a5dc0b2b8cc1b17c4f3dea46385daed2e076be8f913",
+    "/usr/share/man/man1/cacademo.1.gz": "ff17177b0e270c34ffa01a5dc0b2b8cc1b17c4f3dea46385daed2e076be8f913",
+    "/usr/share/man/man1/caca-config.1.gz": "423c1c3f9c68c11b0169ca3a7da7cff5a97b9705488f31eda601e8ab572903ff",
+    "/usr/share/libcaca/caca.txt": "f80a04560afd97311533cc97b31f32e931f7ebb1a54cc71c92ac8e61a562f0e8",
+    "/usr/bin/cacaserver": "b768807797ac07991c7b7600cbc0eb4afe07ac5039e6cd175dbb7d5cce49dcb9",
+    "/usr/bin/cacaclock": "f8860426f9ce64b8136911de331c9ededfe4249b88382bf9018a8b069080e32b",
+    "/usr/bin/img2txt": "1ad4c19b4e6637949164d6321997aba2c92d315a9657d6ae71eb0e3d325830f6",
+    "/usr/bin/cacaview": "dfb2be10a9738172387b1c86dad41f3f675f4c1b3aa7ea88ff2b1d9f1e209f5e",
+    "/usr/bin/cacaplay": "8bcb72037265a50d104f73b2dd0a642f4b0f489451c1db71cfcfa4fc3c5c2b0c",
+    "/usr/bin/cacafire": "16afb90e47f13375d8dd25c673ee1881ce87067807bf1675972a108301c64b2b",
+    "/usr/bin/cacademo": "19127d9c7e475c8321e201bd307b8718853b9dbdc297f5c7c80bc55e68bdc45d",
+    "/usr/bin/caca-config": "677d20b969db890adeaa555537ab216d23e05ab49d77a0d37e459dc3f902ac52",
+    "/usr/include/caca0.h": "8cfea4c2ca56f02170b3d04b1427dd47d31fd4946b925fea25db6e0a194086b2",
+    "/usr/include/caca_conio.h": "d9aa4a8ba9a46a90b52371f387166cfb264142d3a59fb023e130d3640c3d05d0",
+    "/usr/include/caca_types.h": "49150fc24ec5f4b35e2b010bb8a59654aced8bb75b260e84aa2b2472fa8e940e",
+    "/usr/include/caca.h": "c5bea87d1157d1bca877fcab6ac436c3157c56d5d074b002ea4913a2f006f5b7",
+    "/usr/lib/libcaca.so.0.99.19": "1b3a669d38876aeb607e77b621c908ffcff86e3568773dd9e18caaffd5e8dfb6",
+    "/usr/lib/libcaca.so": "1b3a669d38876aeb607e77b621c908ffcff86e3568773dd9e18caaffd5e8dfb6",
+    "/usr/lib/libcaca.so.0": "1b3a669d38876aeb607e77b621c908ffcff86e3568773dd9e18caaffd5e8dfb6",
+    "/usr/lib/pkgconfig/caca.pc": "e9ea21035b5615216b77ac022d808bdb46cd3d7537a6be112ab812936100d232",
+    "/var/log/pacman.log": "68f4e8cff43496207084dccbba145c2e162141412382eb8cecd48fa8494f6055"
+  }
+}

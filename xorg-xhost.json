@@ -1,1 +1,8 @@
-{"1.0.7-1": {"/usr/share/licenses/xorg-xhost/COPYING": "7e69bed6fcfff05ecf454d7e4b29cd265172385833f1978f04b638f92f2cfecf", "/usr/share/man/man1/xhost.1.gz": "cc62f29e74a1d6777a7893a30bbb4382654cb84f4f4c8aa25804d92acbcfab4a", "/usr/bin/xhost": "6a25892db13004a26641e1eeeb562365ffd5bb741ee818793e658a9556f89060", "/var/log/pacman.log": "ff24a5e21a606b50c842a5e7de432bf372cee2085ec914887a72302b6c97d12d"}}
+{
+  "1.0.7-1": {
+    "/usr/share/licenses/xorg-xhost/COPYING": "7e69bed6fcfff05ecf454d7e4b29cd265172385833f1978f04b638f92f2cfecf",
+    "/usr/share/man/man1/xhost.1.gz": "cc62f29e74a1d6777a7893a30bbb4382654cb84f4f4c8aa25804d92acbcfab4a",
+    "/usr/bin/xhost": "6a25892db13004a26641e1eeeb562365ffd5bb741ee818793e658a9556f89060",
+    "/var/log/pacman.log": "ff24a5e21a606b50c842a5e7de432bf372cee2085ec914887a72302b6c97d12d"
+  }
+}

@@ -1,1 +1,16 @@
-{"0.4.3-6": {"/usr/share/haskell/register/haskell-monad-loops.sh": "7bf37b78fc612bc1cab13bcfba1ba74338856a252a97e083933bcbc0682a188f", "/usr/share/haskell/unregister/haskell-monad-loops.sh": "403362526ff360ccd23e33253e4090bdb937eafc84e77c9c129e668b02aa1422", "/usr/lib/libHSmonad-loops-0.4.3-4PsUXmQNk5OJXNWgDnQDQ3-ghc8.2.1.so": "ac2da894b77017ce395f88fc3ec325953c23413fb236f2ee3dc5a12c62eb7bf4", "/usr/lib/ghc-8.2.1/site-local/monad-loops-0.4.3/Control/Monad/Loops.dyn_hi": "72807466686baf6b6c820016206894b27edfee567ba65e6a0ad5f5417b084dac", "/var/log/pacman.log": "c9e16592f0ad9c00355f40003f3cfc9472f5ca91ece38b6f5751a2c71330cf1f"}, "0.4.3-7": {"/usr/share/haskell/register/haskell-monad-loops.sh": "58e8040b0748848c6ea106282d90d00a1d8099fb3dbf6d7bcffcceb03595ea7d", "/usr/share/haskell/unregister/haskell-monad-loops.sh": "f9b3f710ead79be4a87c28105222ce54fab3d62e5455b3622205a580a28e5bf6", "/usr/lib/libHSmonad-loops-0.4.3-4g9tbQ6v5D92QXu31BWMk9-ghc8.2.2.so": "4af2f303c1e93f3c757da8150cd958f0f53cd43ec82edff9d4660bfd0d7ba245", "/usr/lib/ghc-8.2.2/site-local/monad-loops-0.4.3/Control/Monad/Loops.dyn_hi": "ecaa454ad99be2c0ed2dfa381137846ff6b52c0b7c43a9d46185904176fe8725", "/var/log/pacman.log": "dadf1d933780e757fb3d0485419297be1bd3c13881d8c372ed68b4ba1c83efe5"}}
+{
+  "0.4.3-6": {
+    "/usr/share/haskell/register/haskell-monad-loops.sh": "7bf37b78fc612bc1cab13bcfba1ba74338856a252a97e083933bcbc0682a188f",
+    "/usr/share/haskell/unregister/haskell-monad-loops.sh": "403362526ff360ccd23e33253e4090bdb937eafc84e77c9c129e668b02aa1422",
+    "/usr/lib/libHSmonad-loops-0.4.3-4PsUXmQNk5OJXNWgDnQDQ3-ghc8.2.1.so": "ac2da894b77017ce395f88fc3ec325953c23413fb236f2ee3dc5a12c62eb7bf4",
+    "/usr/lib/ghc-8.2.1/site-local/monad-loops-0.4.3/Control/Monad/Loops.dyn_hi": "72807466686baf6b6c820016206894b27edfee567ba65e6a0ad5f5417b084dac",
+    "/var/log/pacman.log": "c9e16592f0ad9c00355f40003f3cfc9472f5ca91ece38b6f5751a2c71330cf1f"
+  },
+  "0.4.3-7": {
+    "/usr/share/haskell/register/haskell-monad-loops.sh": "58e8040b0748848c6ea106282d90d00a1d8099fb3dbf6d7bcffcceb03595ea7d",
+    "/usr/share/haskell/unregister/haskell-monad-loops.sh": "f9b3f710ead79be4a87c28105222ce54fab3d62e5455b3622205a580a28e5bf6",
+    "/usr/lib/libHSmonad-loops-0.4.3-4g9tbQ6v5D92QXu31BWMk9-ghc8.2.2.so": "4af2f303c1e93f3c757da8150cd958f0f53cd43ec82edff9d4660bfd0d7ba245",
+    "/usr/lib/ghc-8.2.2/site-local/monad-loops-0.4.3/Control/Monad/Loops.dyn_hi": "ecaa454ad99be2c0ed2dfa381137846ff6b52c0b7c43a9d46185904176fe8725",
+    "/var/log/pacman.log": "dadf1d933780e757fb3d0485419297be1bd3c13881d8c372ed68b4ba1c83efe5"
+  }
+}

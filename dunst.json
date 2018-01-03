@@ -1,1 +1,11 @@
-{"1.2.0-1": {"/usr/bin/dunst": "653ca2896d6aa4c94b5dd0786e57a48574436fea58c5bed7b7af463fd3d1e793", "/usr/share/dunst/dunstrc": "ec7cdb7e6eefe616aeaf6cf154230958754f6bf1edb055b3d2619865302d21ba", "/usr/share/dbus-1/services/org.knopwob.dunst.service": "e9ad1de816c2089cd858138309c4da7e9f92de5c6ecb6f1afb198c96b5f046eb", "/usr/share/licenses/dunst/LICENSE": "dc21d0f9e94552849e4f5e5090b83efac387589a01b3838fad3634bdf85bff0d", "/usr/share/man/man1/dunst.1.gz": "1407f5759f585ba71a9d62039ad93f5e1f773ac04263c04b4585e85442340b98", "/usr/lib/systemd/user/dunst.service": "ff6c3c5ae7880314ad84e8ef1c1c7afb62946c1806c22dab342b625b9593ed38", "/var/log/pacman.log": "e0f19d9df89b11dd20a9e77cc77613a8a89e6e7cc2365284db77635c8013c0aa"}}
+{
+  "1.2.0-1": {
+    "/usr/bin/dunst": "653ca2896d6aa4c94b5dd0786e57a48574436fea58c5bed7b7af463fd3d1e793",
+    "/usr/share/dunst/dunstrc": "ec7cdb7e6eefe616aeaf6cf154230958754f6bf1edb055b3d2619865302d21ba",
+    "/usr/share/dbus-1/services/org.knopwob.dunst.service": "e9ad1de816c2089cd858138309c4da7e9f92de5c6ecb6f1afb198c96b5f046eb",
+    "/usr/share/licenses/dunst/LICENSE": "dc21d0f9e94552849e4f5e5090b83efac387589a01b3838fad3634bdf85bff0d",
+    "/usr/share/man/man1/dunst.1.gz": "1407f5759f585ba71a9d62039ad93f5e1f773ac04263c04b4585e85442340b98",
+    "/usr/lib/systemd/user/dunst.service": "ff6c3c5ae7880314ad84e8ef1c1c7afb62946c1806c22dab342b625b9593ed38",
+    "/var/log/pacman.log": "e0f19d9df89b11dd20a9e77cc77613a8a89e6e7cc2365284db77635c8013c0aa"
+  }
+}

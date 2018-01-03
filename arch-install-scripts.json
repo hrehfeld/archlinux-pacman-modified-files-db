@@ -1,1 +1,9 @@
-{"17-1": {"/usr/share/zsh/site-functions/_archinstallscripts": "e56b8f0109033ca1555baec23b5cceb8a4e4b7f4e5ade4df77c5083954ed0657", "/usr/bin/pacstrap": "4a79a38a30dce47f12487a4790b523c2f081f39298cd509266bb14141a220a5b", "/usr/bin/genfstab": "221fa2fd7d88702a804f85d1f5c005e638a95963f6d703005cfe6bceac5e3d58", "/usr/bin/arch-chroot": "311f7b115de98147697dacc2d9f9e54db3fe1dd591727db72d419a0790f89e4f", "/var/log/pacman.log": "7bc94c0d343e8b1ed967fe513ec5f68873d27e4edb24267ffba144dfa7558d1d"}}
+{
+  "17-1": {
+    "/usr/share/zsh/site-functions/_archinstallscripts": "e56b8f0109033ca1555baec23b5cceb8a4e4b7f4e5ade4df77c5083954ed0657",
+    "/usr/bin/pacstrap": "4a79a38a30dce47f12487a4790b523c2f081f39298cd509266bb14141a220a5b",
+    "/usr/bin/genfstab": "221fa2fd7d88702a804f85d1f5c005e638a95963f6d703005cfe6bceac5e3d58",
+    "/usr/bin/arch-chroot": "311f7b115de98147697dacc2d9f9e54db3fe1dd591727db72d419a0790f89e4f",
+    "/var/log/pacman.log": "7bc94c0d343e8b1ed967fe513ec5f68873d27e4edb24267ffba144dfa7558d1d"
+  }
+}

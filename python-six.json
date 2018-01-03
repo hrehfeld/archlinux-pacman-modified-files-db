@@ -1,1 +1,13 @@
-{"1.11.0-1": {"/usr/lib/python3.6/site-packages/six.py": "034f0c3dbf868bd15f227237216ec78a65c59841f64f620fcc7803bdd8593d10", "/usr/lib/python3.6/site-packages/__pycache__/six.cpython-36.pyc": "d08a2db0836ab23c689562e29a261efdf667f9864217c36e7d17210fc62746b8", "/usr/lib/python3.6/site-packages/__pycache__/six.cpython-36.opt-1.pyc": "0589d053a5cf067ff63123005875c934a2096639c70b0df37ffd0a4c644c6ff2", "/usr/lib/python3.6/site-packages/six-1.11.0-py3.6.egg-info/top_level.txt": "fe2547fe2604b445e70fc9d819062960552f9145bdb043b51986e478a4806a2b", "/usr/lib/python3.6/site-packages/six-1.11.0-py3.6.egg-info/dependency_links.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b", "/usr/lib/python3.6/site-packages/six-1.11.0-py3.6.egg-info/SOURCES.txt": "0e5cf78d9cf118b109b87e8640636cebaedaa7bdc22a3be9fd6fcbe8ea43dc8e", "/usr/lib/python3.6/site-packages/six-1.11.0-py3.6.egg-info/PKG-INFO": "63e61f94d027a23c65a7d8024b23ef1086986fc3dff47690e91afa3152112285", "/usr/share/licenses/python-six/LICENSE": "63478682e84e8c98f4c46308995f1f521a6886976e25421827d2a2be03581328", "/var/log/pacman.log": "d3b524fbebf13fb6fdcc5e55ae1fb8458461b0e62135740748b848b7fd23f025"}}
+{
+  "1.11.0-1": {
+    "/usr/lib/python3.6/site-packages/six.py": "034f0c3dbf868bd15f227237216ec78a65c59841f64f620fcc7803bdd8593d10",
+    "/usr/lib/python3.6/site-packages/__pycache__/six.cpython-36.pyc": "d08a2db0836ab23c689562e29a261efdf667f9864217c36e7d17210fc62746b8",
+    "/usr/lib/python3.6/site-packages/__pycache__/six.cpython-36.opt-1.pyc": "0589d053a5cf067ff63123005875c934a2096639c70b0df37ffd0a4c644c6ff2",
+    "/usr/lib/python3.6/site-packages/six-1.11.0-py3.6.egg-info/top_level.txt": "fe2547fe2604b445e70fc9d819062960552f9145bdb043b51986e478a4806a2b",
+    "/usr/lib/python3.6/site-packages/six-1.11.0-py3.6.egg-info/dependency_links.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "/usr/lib/python3.6/site-packages/six-1.11.0-py3.6.egg-info/SOURCES.txt": "0e5cf78d9cf118b109b87e8640636cebaedaa7bdc22a3be9fd6fcbe8ea43dc8e",
+    "/usr/lib/python3.6/site-packages/six-1.11.0-py3.6.egg-info/PKG-INFO": "63e61f94d027a23c65a7d8024b23ef1086986fc3dff47690e91afa3152112285",
+    "/usr/share/licenses/python-six/LICENSE": "63478682e84e8c98f4c46308995f1f521a6886976e25421827d2a2be03581328",
+    "/var/log/pacman.log": "d3b524fbebf13fb6fdcc5e55ae1fb8458461b0e62135740748b848b7fd23f025"
+  }
+}

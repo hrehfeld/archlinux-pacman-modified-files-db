@@ -1,1 +1,6 @@
-{"3-1": {"/var/log/pacman.log": "d12f0630016ddfe5386f8b5411484b7e8d37095af2673ce506bace477119362b", "/etc/fonts/conf.avail/30-infinality-aliases.conf": "64291954364a587193404772a921e85fb723515f8118d5ddbb22cae4c095d7cc"}}
+{
+  "3-1": {
+    "/var/log/pacman.log": "d12f0630016ddfe5386f8b5411484b7e8d37095af2673ce506bace477119362b",
+    "/etc/fonts/conf.avail/30-infinality-aliases.conf": "64291954364a587193404772a921e85fb723515f8118d5ddbb22cae4c095d7cc"
+  }
+}

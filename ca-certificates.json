@@ -1,1 +1,5 @@
-{"20170307-1": {"/var/log/pacman.log": "ab8885a57ce448f6df56b611bd494b05754141cd0fac1c00309163ff22f8378d"}}
+{
+  "20170307-1": {
+    "/var/log/pacman.log": "ab8885a57ce448f6df56b611bd494b05754141cd0fac1c00309163ff22f8378d"
+  }
+}

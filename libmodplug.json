@@ -1,1 +1,14 @@
-{"0.8.9.0-1": {"/usr/include/libmodplug/stdafx.h": "c4d1af8e5470ce4578791ca2f5b5ece64087fba1302a39ea38e5c9aac658072a", "/usr/include/libmodplug/sndfile.h": "69c95a18c0efe3dd9da0878ae9948c169bb067cda5036f71b249db6d029babb3", "/usr/include/libmodplug/it_defs.h": "41be50b63afbc77b5e5fdba960b5951bf4bae49afc9bffb1beb17d8ed47b7c38", "/usr/include/libmodplug/modplug.h": "0d326397c6bee085a725207e35fde6b89fcc13a00ca85254242c81abdfd1398e", "/usr/lib/libmodplug.so.1": "be0125457e32aaa40b3fbbb630b10479ea29bdbb5867a4dfb747a251aff9b763", "/usr/lib/libmodplug.so": "be0125457e32aaa40b3fbbb630b10479ea29bdbb5867a4dfb747a251aff9b763", "/usr/lib/libmodplug.so.1.0.0": "be0125457e32aaa40b3fbbb630b10479ea29bdbb5867a4dfb747a251aff9b763", "/usr/lib/pkgconfig/libmodplug.pc": "56409290a84f694e4881ab5a6e0f74ff2b3335b99aacf390863830bfbbb0bc2f", "/usr/share/licenses/libmodplug/LICENSE": "49942e7b3b175f549e751feb08b5270ca6f6c5fb7a1be9f9517db275ec32c92e", "/var/log/pacman.log": "ca2684f7e2355c644dcedc14c70749508a378c4e4540304b29e45c065877d58f"}}
+{
+  "0.8.9.0-1": {
+    "/usr/include/libmodplug/stdafx.h": "c4d1af8e5470ce4578791ca2f5b5ece64087fba1302a39ea38e5c9aac658072a",
+    "/usr/include/libmodplug/sndfile.h": "69c95a18c0efe3dd9da0878ae9948c169bb067cda5036f71b249db6d029babb3",
+    "/usr/include/libmodplug/it_defs.h": "41be50b63afbc77b5e5fdba960b5951bf4bae49afc9bffb1beb17d8ed47b7c38",
+    "/usr/include/libmodplug/modplug.h": "0d326397c6bee085a725207e35fde6b89fcc13a00ca85254242c81abdfd1398e",
+    "/usr/lib/libmodplug.so.1": "be0125457e32aaa40b3fbbb630b10479ea29bdbb5867a4dfb747a251aff9b763",
+    "/usr/lib/libmodplug.so": "be0125457e32aaa40b3fbbb630b10479ea29bdbb5867a4dfb747a251aff9b763",
+    "/usr/lib/libmodplug.so.1.0.0": "be0125457e32aaa40b3fbbb630b10479ea29bdbb5867a4dfb747a251aff9b763",
+    "/usr/lib/pkgconfig/libmodplug.pc": "56409290a84f694e4881ab5a6e0f74ff2b3335b99aacf390863830bfbbb0bc2f",
+    "/usr/share/licenses/libmodplug/LICENSE": "49942e7b3b175f549e751feb08b5270ca6f6c5fb7a1be9f9517db275ec32c92e",
+    "/var/log/pacman.log": "ca2684f7e2355c644dcedc14c70749508a378c4e4540304b29e45c065877d58f"
+  }
+}

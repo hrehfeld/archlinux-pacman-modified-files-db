@@ -1,1 +1,38 @@
-{"1.6.9-7": {"/usr/share/haskell/register/haskell-x509-validation.sh": "e19dafeb4546565e281267690bfdef5df9b612197735955f1d06d1d8e8d6c203", "/usr/share/haskell/unregister/haskell-x509-validation.sh": "f6f28798f39feda6cf6d8e86f3d3e0407e9e971ecbb486521394ad1ac323838e", "/usr/share/licenses/haskell-x509-validation/LICENSE": "43d820ad7c467c6c9cd6eedb385cfe89d1545a48eca4d40bfe3b7bcd80c298cb", "/usr/lib/libHSx509-validation-1.6.9-LH36FzUpSMIHuMgcDw2QvW-ghc8.2.1.so": "a3ee51ce96d4cdf0e1450ce515e3d9ca73411034292f51e4cd33e593bc14e501", "/usr/lib/ghc-8.2.1/site-local/x509-validation-1.6.9/Data/X509/Validation.dyn_hi": "c9fbaf4624a3879f677fd38f9c338b39d564a8b137f360051923a9a92bfb4468", "/usr/lib/ghc-8.2.1/site-local/x509-validation-1.6.9/Data/X509/Validation/Signature.dyn_hi": "338712d170ab0c90da9d6f24f56007a55454998e4ca3f2d91548dba75641b6d8", "/usr/lib/ghc-8.2.1/site-local/x509-validation-1.6.9/Data/X509/Validation/Fingerprint.dyn_hi": "f2afb8bece1a98898494bdab8e206809291aeb9aa7aabb436fe7d18c51ee4215", "/usr/lib/ghc-8.2.1/site-local/x509-validation-1.6.9/Data/X509/Validation/Cache.dyn_hi": "2871c6fdbb625ae5f58bc8798479b34349042318422df751721a79f57e082bcb", "/usr/lib/ghc-8.2.1/site-local/x509-validation-1.6.9/Data/X509/Validation/Types.dyn_hi": "695504e599e9237a9b63e96d758d5d309de10c761996fc87d531fc71f451ffe4", "/var/log/pacman.log": "89be6591d4cc5105d136884d5d9ee5ae2b24e4488e3936bbbfac63fc2fe0062f"}, "1.6.9-11": {"/usr/share/haskell/register/haskell-x509-validation.sh": "b36d2b9cf5c89515d4a4102219a7b60088260513051951de65019bf64097246d", "/usr/share/haskell/unregister/haskell-x509-validation.sh": "42ebd0eecc99d019814e2c590493d3a0a1605e915008784739a1ef94fef3af1b", "/usr/share/licenses/haskell-x509-validation/LICENSE": "43d820ad7c467c6c9cd6eedb385cfe89d1545a48eca4d40bfe3b7bcd80c298cb", "/usr/lib/libHSx509-validation-1.6.9-236bRoBCPVgEn48uHpkBEN-ghc8.2.2.so": "1add1b952a5536372a802d24b06dcbaa354a8c08a67b7f81782253818b4a2e90", "/usr/lib/ghc-8.2.2/site-local/x509-validation-1.6.9/Data/X509/Validation.dyn_hi": "a1aca95283bd55e1d579a7f3872922adfa100434df9be1ea878dcf211497140c", "/usr/lib/ghc-8.2.2/site-local/x509-validation-1.6.9/Data/X509/Validation/Signature.dyn_hi": "52530bacbbdd3c6fc23be5a20809de50baf1708cf2b7bcde3909fb390b9ba05b", "/usr/lib/ghc-8.2.2/site-local/x509-validation-1.6.9/Data/X509/Validation/Fingerprint.dyn_hi": "fc655612022925945166d9f20c81bce8f9434f18ff4c240bedbeaa4a7ab26fc5", "/usr/lib/ghc-8.2.2/site-local/x509-validation-1.6.9/Data/X509/Validation/Cache.dyn_hi": "a5362e4169d061ed0cdbf5e2380d7ea1af2c997390d05559a443cb3751193f58", "/usr/lib/ghc-8.2.2/site-local/x509-validation-1.6.9/Data/X509/Validation/Types.dyn_hi": "b54b36852305314084d3398ff82e6abc77f53f02d25b9fe61978bb26ab0de4b7", "/var/log/pacman.log": "25b5a014686d45302e29b2556a1c3c9b998a99184f971e7f584f7bfbc695b59b"}}
+{
+  "1.6.9-7": {
+    "/usr/share/haskell/register/haskell-x509-validation.sh": "e19dafeb4546565e281267690bfdef5df9b612197735955f1d06d1d8e8d6c203",
+    "/usr/share/haskell/unregister/haskell-x509-validation.sh": "f6f28798f39feda6cf6d8e86f3d3e0407e9e971ecbb486521394ad1ac323838e",
+    "/usr/share/licenses/haskell-x509-validation/LICENSE": "43d820ad7c467c6c9cd6eedb385cfe89d1545a48eca4d40bfe3b7bcd80c298cb",
+    "/usr/lib/libHSx509-validation-1.6.9-LH36FzUpSMIHuMgcDw2QvW-ghc8.2.1.so": "a3ee51ce96d4cdf0e1450ce515e3d9ca73411034292f51e4cd33e593bc14e501",
+    "/usr/lib/ghc-8.2.1/site-local/x509-validation-1.6.9/Data/X509/Validation.dyn_hi": "c9fbaf4624a3879f677fd38f9c338b39d564a8b137f360051923a9a92bfb4468",
+    "/usr/lib/ghc-8.2.1/site-local/x509-validation-1.6.9/Data/X509/Validation/Signature.dyn_hi": "338712d170ab0c90da9d6f24f56007a55454998e4ca3f2d91548dba75641b6d8",
+    "/usr/lib/ghc-8.2.1/site-local/x509-validation-1.6.9/Data/X509/Validation/Fingerprint.dyn_hi": "f2afb8bece1a98898494bdab8e206809291aeb9aa7aabb436fe7d18c51ee4215",
+    "/usr/lib/ghc-8.2.1/site-local/x509-validation-1.6.9/Data/X509/Validation/Cache.dyn_hi": "2871c6fdbb625ae5f58bc8798479b34349042318422df751721a79f57e082bcb",
+    "/usr/lib/ghc-8.2.1/site-local/x509-validation-1.6.9/Data/X509/Validation/Types.dyn_hi": "695504e599e9237a9b63e96d758d5d309de10c761996fc87d531fc71f451ffe4",
+    "/var/log/pacman.log": "89be6591d4cc5105d136884d5d9ee5ae2b24e4488e3936bbbfac63fc2fe0062f"
+  },
+  "1.6.9-11": {
+    "/usr/share/haskell/register/haskell-x509-validation.sh": "b36d2b9cf5c89515d4a4102219a7b60088260513051951de65019bf64097246d",
+    "/usr/share/haskell/unregister/haskell-x509-validation.sh": "42ebd0eecc99d019814e2c590493d3a0a1605e915008784739a1ef94fef3af1b",
+    "/usr/share/licenses/haskell-x509-validation/LICENSE": "43d820ad7c467c6c9cd6eedb385cfe89d1545a48eca4d40bfe3b7bcd80c298cb",
+    "/usr/lib/libHSx509-validation-1.6.9-236bRoBCPVgEn48uHpkBEN-ghc8.2.2.so": "1add1b952a5536372a802d24b06dcbaa354a8c08a67b7f81782253818b4a2e90",
+    "/usr/lib/ghc-8.2.2/site-local/x509-validation-1.6.9/Data/X509/Validation.dyn_hi": "a1aca95283bd55e1d579a7f3872922adfa100434df9be1ea878dcf211497140c",
+    "/usr/lib/ghc-8.2.2/site-local/x509-validation-1.6.9/Data/X509/Validation/Signature.dyn_hi": "52530bacbbdd3c6fc23be5a20809de50baf1708cf2b7bcde3909fb390b9ba05b",
+    "/usr/lib/ghc-8.2.2/site-local/x509-validation-1.6.9/Data/X509/Validation/Fingerprint.dyn_hi": "fc655612022925945166d9f20c81bce8f9434f18ff4c240bedbeaa4a7ab26fc5",
+    "/usr/lib/ghc-8.2.2/site-local/x509-validation-1.6.9/Data/X509/Validation/Cache.dyn_hi": "a5362e4169d061ed0cdbf5e2380d7ea1af2c997390d05559a443cb3751193f58",
+    "/usr/lib/ghc-8.2.2/site-local/x509-validation-1.6.9/Data/X509/Validation/Types.dyn_hi": "b54b36852305314084d3398ff82e6abc77f53f02d25b9fe61978bb26ab0de4b7",
+    "/var/log/pacman.log": "25b5a014686d45302e29b2556a1c3c9b998a99184f971e7f584f7bfbc695b59b"
+  },
+  "1.6.9-12": {
+    "/usr/share/haskell/register/haskell-x509-validation.sh": "20754e0451b758e64b466aed7b83b88a8840eccadc110e02c732172aa838f877",
+    "/usr/share/haskell/unregister/haskell-x509-validation.sh": "42ebd0eecc99d019814e2c590493d3a0a1605e915008784739a1ef94fef3af1b",
+    "/usr/share/licenses/haskell-x509-validation/LICENSE": "43d820ad7c467c6c9cd6eedb385cfe89d1545a48eca4d40bfe3b7bcd80c298cb",
+    "/usr/lib/libHSx509-validation-1.6.9-BRdIyYN48CQ9bjC9GfQgNC-ghc8.2.2.so": "989842723788b0aa1f5b6dfba914cee189b8628f2a19b01415b5c531f457ec68",
+    "/usr/lib/ghc-8.2.2/site-local/x509-validation-1.6.9/Data/X509/Validation.dyn_hi": "f65bb765cf9d6349e563ca72e93bcb95e57ae7174c0f46ca6aabbf68a716ef7e",
+    "/usr/lib/ghc-8.2.2/site-local/x509-validation-1.6.9/Data/X509/Validation/Signature.dyn_hi": "ac427c1ce1061add78aac574b385d7936cb620912081e437530e531b63a3e10f",
+    "/usr/lib/ghc-8.2.2/site-local/x509-validation-1.6.9/Data/X509/Validation/Fingerprint.dyn_hi": "065ffbfb7cc2ef3ddba1bc14aab48e558182767b10b7d9f85ba0ec336b01dd50",
+    "/usr/lib/ghc-8.2.2/site-local/x509-validation-1.6.9/Data/X509/Validation/Cache.dyn_hi": "f2b6bcf62f44576b089a9cc9fe85d777afd2ace11c84d197d9542bde72a18d78",
+    "/usr/lib/ghc-8.2.2/site-local/x509-validation-1.6.9/Data/X509/Validation/Types.dyn_hi": "85a9853e0e84bdd68be1be8ea19a16d4ff1152b1f01d8be81ab40539a5b514df",
+    "/var/log/pacman.log": "25faaf78350284cb17b7799457839ce3d1972e5101826c8df48f66d357a6b09c"
+  }
+}

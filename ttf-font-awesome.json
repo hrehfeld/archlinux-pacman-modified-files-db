@@ -1,1 +1,14 @@
-{"4.7.0-5": {"/usr/share/licenses/ttf-font-awesome/OFL": "e564f06d018e7b95bc3594c96a17f1d41865af4038c375e7aa974dd69df38602", "/usr/share/fonts/TTF/fontawesome-webfont.ttf": "aa58f33f239a0fb02f5c7a6c45c043d7a9ac9a093335806694ecd6d4edc0d6a8", "/var/log/pacman.log": "1048cc1df10971f84c7ce1412f350aeabd4c8bccbb2658515eb4d8bd6498ac9a"}}
+{
+  "4.7.0-5": {
+    "/usr/share/licenses/ttf-font-awesome/OFL": "e564f06d018e7b95bc3594c96a17f1d41865af4038c375e7aa974dd69df38602",
+    "/usr/share/fonts/TTF/fontawesome-webfont.ttf": "aa58f33f239a0fb02f5c7a6c45c043d7a9ac9a093335806694ecd6d4edc0d6a8",
+    "/var/log/pacman.log": "1048cc1df10971f84c7ce1412f350aeabd4c8bccbb2658515eb4d8bd6498ac9a"
+  },
+  "5.0.2-1": {
+    "/usr/share/licenses/ttf-font-awesome/LICENSE.txt": "6de8d0e48e1a0c7ae7584d1b102bf3ead55b45777a8a8042d4c6bc1e27d88e0b",
+    "/usr/share/fonts/TTF/fa-brands-400.ttf": "68ce9cb74894af8e4178f029ca857da4fff594e03102d6476b14a3434acdc611",
+    "/usr/share/fonts/TTF/fa-regular-400.ttf": "0ded7521cad235f884ecd161a42a488bf430dcee1bf2c49f82eab63326eea966",
+    "/usr/share/fonts/TTF/fa-solid-900.ttf": "4526f8a66ca2c755b448790cfeaa634538095ffbdb4c121d38ca97eadf4d864a",
+    "/var/log/pacman.log": "d891edb53fa9652c83114c0f56df9a14a0f4c916b2441a2a7d45364f4c86d008"
+  }
+}

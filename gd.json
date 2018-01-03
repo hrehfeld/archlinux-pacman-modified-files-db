@@ -1,1 +1,36 @@
-{"2.2.5-1": {"/usr/lib/libgd.so.3": "132f1eac96a342ae3b69c3f7a6fd2c51d91cbeb0ef38274cc265512ce0c564fc", "/usr/lib/libgd.so": "132f1eac96a342ae3b69c3f7a6fd2c51d91cbeb0ef38274cc265512ce0c564fc", "/usr/lib/libgd.so.3.0.5": "132f1eac96a342ae3b69c3f7a6fd2c51d91cbeb0ef38274cc265512ce0c564fc", "/usr/lib/pkgconfig/gdlib.pc": "c8f9e11b83db3be8c79c3585a6d01138c0de54b7e9808f7fa36b518c795dd4a9", "/usr/include/gd.h": "920e51afd21aee0ea818af794d90a5e40e9ccc3e5cd9cee31eee69b52b748287", "/usr/include/gdfx.h": "a3aa480cef720f44af0a39269f4f7c24514701e0e25c81edf667ef9d382631a2", "/usr/include/gd_io.h": "b8f27ec558b3279f40961fca810a9f22bfa534e5cbc9ca8e547f682680954c09", "/usr/include/gdcache.h": "a2d12fdccd5239170d41491dd70b5a3772abbaa2f101dd3c692a4fc1817a312c", "/usr/include/gdfontg.h": "be02beef98b36f7f3471e2bfcf9ed4d5b9eb929b07eef9f7ef459d7a34e38766", "/usr/include/gdfontl.h": "718fb4d1a992cb93cdd423bbb4e8c9688f19f43e0542d7e12398f9c9905a2d3c", "/usr/include/gdfontmb.h": "704e6f4c5fa60f85c44ea9d5f6f14c7489842784efe1a19bc23a472ca3399150", "/usr/include/gdfonts.h": "281c5777fcdf9ad4c1cd2538af836c84d725f5d2e4a13f09160bc76111534829", "/usr/include/gdfontt.h": "db4968e3f05c8e76feba9a821047c8c6f0f9103c3341371e0083e13a18f0d4f6", "/usr/include/entities.h": "7fab5e2f769bfc2344d618f3f1a1f62448b74b0e336b5be6fdb00be8a6b3d3ff", "/usr/include/gd_color_map.h": "651690d56592975310220013e59a1fe9dba7d27f64fd77c004311ce7540c6b84", "/usr/include/gd_errors.h": "b62365abcca9db1c61ab630e3a1582bee1d64ebc3392c5cc956a6d61367d98ca", "/usr/include/gdpp.h": "3899a01311b97ff58fbdf83de459f9f8f974a5421af3d9d085494348dc7c9f0b", "/usr/bin/bdftogd": "7624afa2f5bc5f1cae5c873358e651bc18402cd635a3a7573c01e56ad68ca0b4", "/usr/bin/gdlib-config": "d4df3fe79f184bbfd7d7443b97ad8f24b535893f2ddd52eba1aee96719d474c5", "/usr/bin/giftogd2": "211f75fb465fdf9cb9a421cc9683db995b0b13a52d8497e6801b5302b515c364", "/usr/bin/gd2togif": "e882da1df1c1e7f574c70948a72ea75d3d34a8b8763472b222c037ff8045b7d3", "/usr/bin/gd2copypal": "32717aa93af4fb24f4579df0bf8ad658f09c312ca4d59ec7a7f90c541a7f884b", "/usr/bin/annotate": "46a502809b2f3848173a7364f6c531b1a23954cd177689771a940d99d0e12394", "/usr/bin/pngtogd2": "098f4d37eaa40682010195eb20849c395668617a25d4243716c2bc7803c34fc8", "/usr/bin/gd2topng": "68ed342050a320b2c0bc94c5d6e3f360a5985bc080bb1a1b2d94d84dca867bea", "/usr/bin/gdparttopng": "75c3d4c113563b1e9b7f3c65657915f74e6c6ac9040f156d3d40b14f8d9e4094", "/usr/bin/webpng": "a963ee3267cc49bf4e7c6ba45425d963fbebd419b6c87ec23d99d52800b33e48", "/usr/bin/pngtogd": "4f06f51baff63dea2bc761d0f9ca4743e88ec8c4c31a983eb8341294e1f512b9", "/usr/bin/gdtopng": "bf533892cb65d2edf81845783c7a267cb1365851b3f349ad708005a27639730b", "/usr/bin/gdcmpgif": "3fb4f7bec17be6fe38537ade0649d0b6efb1c92abddc1400edd8f392c6bf7e02", "/usr/share/licenses/gd/LICENSE": "d02dae2141d49b8a6b09b2b73e68a8f17d7bbeaaf02b3b841ee11fea2d9e328d", "/var/log/pacman.log": "6554b2e67e2247d415678aa97f85cab7df9e1f92b31bcd8bca2d108d1a643e8e"}}
+{
+  "2.2.5-1": {
+    "/usr/lib/libgd.so.3": "132f1eac96a342ae3b69c3f7a6fd2c51d91cbeb0ef38274cc265512ce0c564fc",
+    "/usr/lib/libgd.so": "132f1eac96a342ae3b69c3f7a6fd2c51d91cbeb0ef38274cc265512ce0c564fc",
+    "/usr/lib/libgd.so.3.0.5": "132f1eac96a342ae3b69c3f7a6fd2c51d91cbeb0ef38274cc265512ce0c564fc",
+    "/usr/lib/pkgconfig/gdlib.pc": "c8f9e11b83db3be8c79c3585a6d01138c0de54b7e9808f7fa36b518c795dd4a9",
+    "/usr/include/gd.h": "920e51afd21aee0ea818af794d90a5e40e9ccc3e5cd9cee31eee69b52b748287",
+    "/usr/include/gdfx.h": "a3aa480cef720f44af0a39269f4f7c24514701e0e25c81edf667ef9d382631a2",
+    "/usr/include/gd_io.h": "b8f27ec558b3279f40961fca810a9f22bfa534e5cbc9ca8e547f682680954c09",
+    "/usr/include/gdcache.h": "a2d12fdccd5239170d41491dd70b5a3772abbaa2f101dd3c692a4fc1817a312c",
+    "/usr/include/gdfontg.h": "be02beef98b36f7f3471e2bfcf9ed4d5b9eb929b07eef9f7ef459d7a34e38766",
+    "/usr/include/gdfontl.h": "718fb4d1a992cb93cdd423bbb4e8c9688f19f43e0542d7e12398f9c9905a2d3c",
+    "/usr/include/gdfontmb.h": "704e6f4c5fa60f85c44ea9d5f6f14c7489842784efe1a19bc23a472ca3399150",
+    "/usr/include/gdfonts.h": "281c5777fcdf9ad4c1cd2538af836c84d725f5d2e4a13f09160bc76111534829",
+    "/usr/include/gdfontt.h": "db4968e3f05c8e76feba9a821047c8c6f0f9103c3341371e0083e13a18f0d4f6",
+    "/usr/include/entities.h": "7fab5e2f769bfc2344d618f3f1a1f62448b74b0e336b5be6fdb00be8a6b3d3ff",
+    "/usr/include/gd_color_map.h": "651690d56592975310220013e59a1fe9dba7d27f64fd77c004311ce7540c6b84",
+    "/usr/include/gd_errors.h": "b62365abcca9db1c61ab630e3a1582bee1d64ebc3392c5cc956a6d61367d98ca",
+    "/usr/include/gdpp.h": "3899a01311b97ff58fbdf83de459f9f8f974a5421af3d9d085494348dc7c9f0b",
+    "/usr/bin/bdftogd": "7624afa2f5bc5f1cae5c873358e651bc18402cd635a3a7573c01e56ad68ca0b4",
+    "/usr/bin/gdlib-config": "d4df3fe79f184bbfd7d7443b97ad8f24b535893f2ddd52eba1aee96719d474c5",
+    "/usr/bin/giftogd2": "211f75fb465fdf9cb9a421cc9683db995b0b13a52d8497e6801b5302b515c364",
+    "/usr/bin/gd2togif": "e882da1df1c1e7f574c70948a72ea75d3d34a8b8763472b222c037ff8045b7d3",
+    "/usr/bin/gd2copypal": "32717aa93af4fb24f4579df0bf8ad658f09c312ca4d59ec7a7f90c541a7f884b",
+    "/usr/bin/annotate": "46a502809b2f3848173a7364f6c531b1a23954cd177689771a940d99d0e12394",
+    "/usr/bin/pngtogd2": "098f4d37eaa40682010195eb20849c395668617a25d4243716c2bc7803c34fc8",
+    "/usr/bin/gd2topng": "68ed342050a320b2c0bc94c5d6e3f360a5985bc080bb1a1b2d94d84dca867bea",
+    "/usr/bin/gdparttopng": "75c3d4c113563b1e9b7f3c65657915f74e6c6ac9040f156d3d40b14f8d9e4094",
+    "/usr/bin/webpng": "a963ee3267cc49bf4e7c6ba45425d963fbebd419b6c87ec23d99d52800b33e48",
+    "/usr/bin/pngtogd": "4f06f51baff63dea2bc761d0f9ca4743e88ec8c4c31a983eb8341294e1f512b9",
+    "/usr/bin/gdtopng": "bf533892cb65d2edf81845783c7a267cb1365851b3f349ad708005a27639730b",
+    "/usr/bin/gdcmpgif": "3fb4f7bec17be6fe38537ade0649d0b6efb1c92abddc1400edd8f392c6bf7e02",
+    "/usr/share/licenses/gd/LICENSE": "d02dae2141d49b8a6b09b2b73e68a8f17d7bbeaaf02b3b841ee11fea2d9e328d",
+    "/var/log/pacman.log": "6554b2e67e2247d415678aa97f85cab7df9e1f92b31bcd8bca2d108d1a643e8e"
+  }
+}

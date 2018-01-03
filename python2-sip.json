@@ -1,1 +1,29 @@
-{"4.19.3-1": {"/usr/lib/python2.7/site-packages/sip.pyi": "61bfca5a13eeb20c7f282bdf9d399fa921509b6e23d7f1169ea13c9090d1de35", "/usr/lib/python2.7/site-packages/sipconfig.py": "c36f8f5d3d2578ff331ce0221e02d2173f315b0f683e6d700d273aa5adfac133", "/usr/lib/python2.7/site-packages/sipdistutils.py": "24e71a82ecf970aee1d609bbb7eab88fe5eb91ef589276f5dfb6dd388297fd79", "/usr/lib/python2.7/site-packages/sip.so": "904d74509bb6be8cc34c29d75b0eabded45d2a40a454dfbabdf1e44f5258fafa", "/usr/include/python2.7/sip.h": "b4e704cc7df538deeefcd4d03b4111706631339c1af3906b540f05083fab00ad", "/usr/share/licenses/python2-sip/LICENSE": "accecbfda71ad4497bce0d451796706e734e405e5ecf3b3f9ee0cc68300a3d9c", "/var/log/pacman.log": "d842968d6ab9f7c92a343c79cf84268fb6edfd762395166e8381d8987e4d782b"}, "4.19.5-1": {"/usr/lib/python2.7/site-packages/sip.pyi": "61bfca5a13eeb20c7f282bdf9d399fa921509b6e23d7f1169ea13c9090d1de35", "/usr/lib/python2.7/site-packages/sipconfig.py": "c36f8f5d3d2578ff331ce0221e02d2173f315b0f683e6d700d273aa5adfac133", "/usr/lib/python2.7/site-packages/sipdistutils.py": "24e71a82ecf970aee1d609bbb7eab88fe5eb91ef589276f5dfb6dd388297fd79", "/usr/lib/python2.7/site-packages/sip.so": "904d74509bb6be8cc34c29d75b0eabded45d2a40a454dfbabdf1e44f5258fafa", "/usr/include/python2.7/sip.h": "b4e704cc7df538deeefcd4d03b4111706631339c1af3906b540f05083fab00ad", "/usr/share/licenses/python2-sip/LICENSE": "accecbfda71ad4497bce0d451796706e734e405e5ecf3b3f9ee0cc68300a3d9c", "/var/log/pacman.log": "84a20ebcc3204e51938faa46bc112ea604491ed4678df039055e278cd9406f5b"}, "4.19.6-1": {"/usr/lib/python2.7/site-packages/sip.pyi": "61bfca5a13eeb20c7f282bdf9d399fa921509b6e23d7f1169ea13c9090d1de35", "/usr/lib/python2.7/site-packages/sipconfig.py": "7448f37a71aa0320e6a1ee0c0927838eb032b630d71ca437a78a8645978322a5", "/usr/lib/python2.7/site-packages/sipdistutils.py": "24e71a82ecf970aee1d609bbb7eab88fe5eb91ef589276f5dfb6dd388297fd79", "/usr/lib/python2.7/site-packages/sip.so": "5fda1a70a5b86bcecbd269daa81ebd54e8ba82f9087d05e042e5761e16b3d717", "/usr/include/python2.7/sip.h": "4e2b851bbc300517a174d6d9a549b189789b011e55f745a6544b89a5d8e47253", "/usr/share/licenses/python2-sip/LICENSE": "accecbfda71ad4497bce0d451796706e734e405e5ecf3b3f9ee0cc68300a3d9c", "/var/log/pacman.log": "b81accfbf7e62d961fa6793ac5f20614a5aff4352d33da992f192e4bcdec60a6"}}
+{
+  "4.19.3-1": {
+    "/usr/lib/python2.7/site-packages/sip.pyi": "61bfca5a13eeb20c7f282bdf9d399fa921509b6e23d7f1169ea13c9090d1de35",
+    "/usr/lib/python2.7/site-packages/sipconfig.py": "c36f8f5d3d2578ff331ce0221e02d2173f315b0f683e6d700d273aa5adfac133",
+    "/usr/lib/python2.7/site-packages/sipdistutils.py": "24e71a82ecf970aee1d609bbb7eab88fe5eb91ef589276f5dfb6dd388297fd79",
+    "/usr/lib/python2.7/site-packages/sip.so": "904d74509bb6be8cc34c29d75b0eabded45d2a40a454dfbabdf1e44f5258fafa",
+    "/usr/include/python2.7/sip.h": "b4e704cc7df538deeefcd4d03b4111706631339c1af3906b540f05083fab00ad",
+    "/usr/share/licenses/python2-sip/LICENSE": "accecbfda71ad4497bce0d451796706e734e405e5ecf3b3f9ee0cc68300a3d9c",
+    "/var/log/pacman.log": "d842968d6ab9f7c92a343c79cf84268fb6edfd762395166e8381d8987e4d782b"
+  },
+  "4.19.5-1": {
+    "/usr/lib/python2.7/site-packages/sip.pyi": "61bfca5a13eeb20c7f282bdf9d399fa921509b6e23d7f1169ea13c9090d1de35",
+    "/usr/lib/python2.7/site-packages/sipconfig.py": "c36f8f5d3d2578ff331ce0221e02d2173f315b0f683e6d700d273aa5adfac133",
+    "/usr/lib/python2.7/site-packages/sipdistutils.py": "24e71a82ecf970aee1d609bbb7eab88fe5eb91ef589276f5dfb6dd388297fd79",
+    "/usr/lib/python2.7/site-packages/sip.so": "904d74509bb6be8cc34c29d75b0eabded45d2a40a454dfbabdf1e44f5258fafa",
+    "/usr/include/python2.7/sip.h": "b4e704cc7df538deeefcd4d03b4111706631339c1af3906b540f05083fab00ad",
+    "/usr/share/licenses/python2-sip/LICENSE": "accecbfda71ad4497bce0d451796706e734e405e5ecf3b3f9ee0cc68300a3d9c",
+    "/var/log/pacman.log": "84a20ebcc3204e51938faa46bc112ea604491ed4678df039055e278cd9406f5b"
+  },
+  "4.19.6-1": {
+    "/usr/lib/python2.7/site-packages/sip.pyi": "61bfca5a13eeb20c7f282bdf9d399fa921509b6e23d7f1169ea13c9090d1de35",
+    "/usr/lib/python2.7/site-packages/sipconfig.py": "7448f37a71aa0320e6a1ee0c0927838eb032b630d71ca437a78a8645978322a5",
+    "/usr/lib/python2.7/site-packages/sipdistutils.py": "24e71a82ecf970aee1d609bbb7eab88fe5eb91ef589276f5dfb6dd388297fd79",
+    "/usr/lib/python2.7/site-packages/sip.so": "5fda1a70a5b86bcecbd269daa81ebd54e8ba82f9087d05e042e5761e16b3d717",
+    "/usr/include/python2.7/sip.h": "4e2b851bbc300517a174d6d9a549b189789b011e55f745a6544b89a5d8e47253",
+    "/usr/share/licenses/python2-sip/LICENSE": "accecbfda71ad4497bce0d451796706e734e405e5ecf3b3f9ee0cc68300a3d9c",
+    "/var/log/pacman.log": "b81accfbf7e62d961fa6793ac5f20614a5aff4352d33da992f192e4bcdec60a6"
+  }
+}

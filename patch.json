@@ -1,1 +1,7 @@
-{"2.7.5-1": {"/usr/share/man/man1/patch.1.gz": "46ebd49dbcefe7c0c0852016d2e9cd13542b3dd6f5f13cff9617415628107997", "/usr/bin/patch": "b6b87c23a6951c48e57893386d3539727023abcabd1ee567a2643d804c7a07f4", "/var/log/pacman.log": "46c89756e594222a7addea7ab82df0fd076903dc5dc752bc7c8b64fc8c0cfc57"}}
+{
+  "2.7.5-1": {
+    "/usr/share/man/man1/patch.1.gz": "46ebd49dbcefe7c0c0852016d2e9cd13542b3dd6f5f13cff9617415628107997",
+    "/usr/bin/patch": "b6b87c23a6951c48e57893386d3539727023abcabd1ee567a2643d804c7a07f4",
+    "/var/log/pacman.log": "46c89756e594222a7addea7ab82df0fd076903dc5dc752bc7c8b64fc8c0cfc57"
+  }
+}

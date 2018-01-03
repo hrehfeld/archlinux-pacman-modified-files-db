@@ -1,1 +1,20 @@
-{"3.22.25-1": {"/usr/bin/gtk-update-icon-cache": "376cf67df943c494047117160939213e6ad54a7dd4fbc9a2996599c179cfde44", "/usr/share/libalpm/hooks/gtk-update-icon-cache.hook": "496064a9dd6214bd58f689dd817dbdc4d7f17d42a8c9940a87018c3f829ce308", "/usr/share/libalpm/scripts/gtk-update-icon-cache": "f1d3a0dbfd82f7339301abecdbe5f024337919b48bd0e09296bb0e79863b2541", "/var/log/pacman.log": "d1d57d7477b910db0924672e35357448f352f19ff85ca47c4a3f2a73aca66040"}, "3.22.26-1": {"/usr/bin/gtk-update-icon-cache": "376cf67df943c494047117160939213e6ad54a7dd4fbc9a2996599c179cfde44", "/usr/share/libalpm/hooks/gtk-update-icon-cache.hook": "496064a9dd6214bd58f689dd817dbdc4d7f17d42a8c9940a87018c3f829ce308", "/usr/share/libalpm/scripts/gtk-update-icon-cache": "f1d3a0dbfd82f7339301abecdbe5f024337919b48bd0e09296bb0e79863b2541", "/var/log/pacman.log": "e8f67eca530b87b16600a183a68aac3ebd3c96efa07a6b46e8a05e76f88b5a06"}, "3.22.26+47+g3a1a7135a2-3": {"/usr/bin/gtk-update-icon-cache": "376cf67df943c494047117160939213e6ad54a7dd4fbc9a2996599c179cfde44", "/usr/share/libalpm/hooks/gtk-update-icon-cache.hook": "496064a9dd6214bd58f689dd817dbdc4d7f17d42a8c9940a87018c3f829ce308", "/usr/share/libalpm/scripts/gtk-update-icon-cache": "f1d3a0dbfd82f7339301abecdbe5f024337919b48bd0e09296bb0e79863b2541", "/var/log/pacman.log": "41ab8fb3f04b29415afcef7c89eaf0f5cd96a84f87e97cd55d559c0c713c1bad"}}
+{
+  "3.22.25-1": {
+    "/usr/bin/gtk-update-icon-cache": "376cf67df943c494047117160939213e6ad54a7dd4fbc9a2996599c179cfde44",
+    "/usr/share/libalpm/hooks/gtk-update-icon-cache.hook": "496064a9dd6214bd58f689dd817dbdc4d7f17d42a8c9940a87018c3f829ce308",
+    "/usr/share/libalpm/scripts/gtk-update-icon-cache": "f1d3a0dbfd82f7339301abecdbe5f024337919b48bd0e09296bb0e79863b2541",
+    "/var/log/pacman.log": "d1d57d7477b910db0924672e35357448f352f19ff85ca47c4a3f2a73aca66040"
+  },
+  "3.22.26-1": {
+    "/usr/bin/gtk-update-icon-cache": "376cf67df943c494047117160939213e6ad54a7dd4fbc9a2996599c179cfde44",
+    "/usr/share/libalpm/hooks/gtk-update-icon-cache.hook": "496064a9dd6214bd58f689dd817dbdc4d7f17d42a8c9940a87018c3f829ce308",
+    "/usr/share/libalpm/scripts/gtk-update-icon-cache": "f1d3a0dbfd82f7339301abecdbe5f024337919b48bd0e09296bb0e79863b2541",
+    "/var/log/pacman.log": "e8f67eca530b87b16600a183a68aac3ebd3c96efa07a6b46e8a05e76f88b5a06"
+  },
+  "3.22.26+47+g3a1a7135a2-3": {
+    "/usr/bin/gtk-update-icon-cache": "376cf67df943c494047117160939213e6ad54a7dd4fbc9a2996599c179cfde44",
+    "/usr/share/libalpm/hooks/gtk-update-icon-cache.hook": "496064a9dd6214bd58f689dd817dbdc4d7f17d42a8c9940a87018c3f829ce308",
+    "/usr/share/libalpm/scripts/gtk-update-icon-cache": "f1d3a0dbfd82f7339301abecdbe5f024337919b48bd0e09296bb0e79863b2541",
+    "/var/log/pacman.log": "41ab8fb3f04b29415afcef7c89eaf0f5cd96a84f87e97cd55d559c0c713c1bad"
+  }
+}

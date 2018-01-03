@@ -1,1 +1,12 @@
-{"1.3.5-1": {"/usr/bin/ksba-config": "e60f9d6949e4eacee99baf37d267796e9497a9727d21825d2b33605f22cde205", "/usr/include/ksba.h": "1a52bb7ca505bdc23ffc1dc6c4c081acc713f94593e066876cebd81273520292", "/usr/share/aclocal/ksba.m4": "41c79edfced6cc8ca83f7504decbe3763d81fa469811c6c70e6e92ff8939b0ce", "/usr/share/info/ksba.info.gz": "3ce8aa2e744cc682f8747c36f0cc441615a7b6776b0a658e5e5f9da4e9b47d5e", "/usr/lib/libksba.so.8": "95c16519a3a46ee03d68affec7258bffce6f91939a7b85ce796f31e3c761bdae", "/usr/lib/libksba.so": "95c16519a3a46ee03d68affec7258bffce6f91939a7b85ce796f31e3c761bdae", "/usr/lib/libksba.so.8.11.6": "95c16519a3a46ee03d68affec7258bffce6f91939a7b85ce796f31e3c761bdae", "/var/log/pacman.log": "25fe90fd7667ac169b746976391d2300cd74934874c884a3c33ba26f8471c37c"}}
+{
+  "1.3.5-1": {
+    "/usr/bin/ksba-config": "e60f9d6949e4eacee99baf37d267796e9497a9727d21825d2b33605f22cde205",
+    "/usr/include/ksba.h": "1a52bb7ca505bdc23ffc1dc6c4c081acc713f94593e066876cebd81273520292",
+    "/usr/share/aclocal/ksba.m4": "41c79edfced6cc8ca83f7504decbe3763d81fa469811c6c70e6e92ff8939b0ce",
+    "/usr/share/info/ksba.info.gz": "3ce8aa2e744cc682f8747c36f0cc441615a7b6776b0a658e5e5f9da4e9b47d5e",
+    "/usr/lib/libksba.so.8": "95c16519a3a46ee03d68affec7258bffce6f91939a7b85ce796f31e3c761bdae",
+    "/usr/lib/libksba.so": "95c16519a3a46ee03d68affec7258bffce6f91939a7b85ce796f31e3c761bdae",
+    "/usr/lib/libksba.so.8.11.6": "95c16519a3a46ee03d68affec7258bffce6f91939a7b85ce796f31e3c761bdae",
+    "/var/log/pacman.log": "25fe90fd7667ac169b746976391d2300cd74934874c884a3c33ba26f8471c37c"
+  }
+}

@@ -1,1 +1,8 @@
-{"1.001-1": {"/usr/share/fonts/TTF/impallari/CantoraOne-Regular.ttf": "0a41216a2daa8f0fd7e23bc51fefd6bbabe4565db23c4df7d7956e3fc8b8213b", "/usr/share/licenses/ttf-impallari-cantora/OFL.txt": "867b506cb023eae20c1accde77b2e0abf7d8a9e2620da8dbebac9f7b1117ca0b", "/usr/share/doc/ttf-impallari-cantora/FONTLOG.txt": "37c0a299ea457b14d04277e5ffc6e8c6b3e42f6f5e2407530f68bcaa7c7aea96", "/var/log/pacman.log": "a1ae5999f40f0b41eee5fcd5738a1527764f9cef16f03ab52f1ad5e3a9a379b9"}}
+{
+  "1.001-1": {
+    "/usr/share/fonts/TTF/impallari/CantoraOne-Regular.ttf": "0a41216a2daa8f0fd7e23bc51fefd6bbabe4565db23c4df7d7956e3fc8b8213b",
+    "/usr/share/licenses/ttf-impallari-cantora/OFL.txt": "867b506cb023eae20c1accde77b2e0abf7d8a9e2620da8dbebac9f7b1117ca0b",
+    "/usr/share/doc/ttf-impallari-cantora/FONTLOG.txt": "37c0a299ea457b14d04277e5ffc6e8c6b3e42f6f5e2407530f68bcaa7c7aea96",
+    "/var/log/pacman.log": "a1ae5999f40f0b41eee5fcd5738a1527764f9cef16f03ab52f1ad5e3a9a379b9"
+  }
+}

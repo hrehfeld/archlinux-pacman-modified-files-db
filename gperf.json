@@ -1,1 +1,9 @@
-{"3.1-1": {"/usr/bin/gperf": "ade48a8effe89f17ea46ad340a964664e7d9f5b85c3e040ae9aacd54d8327d7f", "/usr/share/info/gperf.info.gz": "54578b5ea09ebbfb0a061785cf70d5372f9c1787e9744491f4c0abc104e2c598", "/usr/share/man/man1/gperf.1.gz": "8f116d78dae23080c0bb25bb5ce23de73f3da4e46016cca56a320e83a10589e6", "/usr/share/gperf/doc/gperf.html": "d521713e2ec1e3c3b29420cb550feb8eaa1952d7f7c578f8018a9071c6322acd", "/var/log/pacman.log": "3c68eff3a610ec419aa777284a85cb16ebe3cdf5af5a2511f7e0035563daacd1"}}
+{
+  "3.1-1": {
+    "/usr/bin/gperf": "ade48a8effe89f17ea46ad340a964664e7d9f5b85c3e040ae9aacd54d8327d7f",
+    "/usr/share/info/gperf.info.gz": "54578b5ea09ebbfb0a061785cf70d5372f9c1787e9744491f4c0abc104e2c598",
+    "/usr/share/man/man1/gperf.1.gz": "8f116d78dae23080c0bb25bb5ce23de73f3da4e46016cca56a320e83a10589e6",
+    "/usr/share/gperf/doc/gperf.html": "d521713e2ec1e3c3b29420cb550feb8eaa1952d7f7c578f8018a9071c6322acd",
+    "/var/log/pacman.log": "3c68eff3a610ec419aa777284a85cb16ebe3cdf5af5a2511f7e0035563daacd1"
+  }
+}

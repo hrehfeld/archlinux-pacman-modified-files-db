@@ -1,1 +1,17 @@
-{"1.5.1-1": {"/usr/share/licenses/composer/LICENSE": "7855ac293067aebe7e51afdd23b9dea54b8be24187dbecc9b9142581c37f596c", "/usr/bin/composer": "2745e7b8cced2e97f84b9e9cb0f9c401702f47cecea5a67f095ac4fa1a44fb80", "/var/log/pacman.log": "b68270361448128fd5b811e872863e5f5ed12c8f9c2df276dbf6dede1a33c5d0"}, "1.5.5-1": {"/usr/share/licenses/composer/LICENSE": "7855ac293067aebe7e51afdd23b9dea54b8be24187dbecc9b9142581c37f596c", "/usr/bin/composer": "8ef8c4fb73c8cc1e950119799aec31e0ae5913dab8dd8f53d9c2e3985ac3ad2b", "/var/log/pacman.log": "1e22073a9736d5b3d3d9aaa25156c385e69a955a5c8011dbf478321eb466b3c1"}}
+{
+  "1.5.1-1": {
+    "/usr/share/licenses/composer/LICENSE": "7855ac293067aebe7e51afdd23b9dea54b8be24187dbecc9b9142581c37f596c",
+    "/usr/bin/composer": "2745e7b8cced2e97f84b9e9cb0f9c401702f47cecea5a67f095ac4fa1a44fb80",
+    "/var/log/pacman.log": "b68270361448128fd5b811e872863e5f5ed12c8f9c2df276dbf6dede1a33c5d0"
+  },
+  "1.5.5-1": {
+    "/usr/share/licenses/composer/LICENSE": "7855ac293067aebe7e51afdd23b9dea54b8be24187dbecc9b9142581c37f596c",
+    "/usr/bin/composer": "8ef8c4fb73c8cc1e950119799aec31e0ae5913dab8dd8f53d9c2e3985ac3ad2b",
+    "/var/log/pacman.log": "1e22073a9736d5b3d3d9aaa25156c385e69a955a5c8011dbf478321eb466b3c1"
+  },
+  "1.5.6-1": {
+    "/usr/share/licenses/composer/LICENSE": "7855ac293067aebe7e51afdd23b9dea54b8be24187dbecc9b9142581c37f596c",
+    "/usr/bin/composer": "25e75d72818c4f1d46b3ae47a8deaaf4ef25c87198329d4a6ee53601b00459e5",
+    "/var/log/pacman.log": "cfab3cac5de3cb6cd7084fb4c6979c1fbced13e0c334705f0ff47bf47dbdc747"
+  }
+}

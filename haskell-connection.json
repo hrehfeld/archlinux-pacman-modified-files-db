@@ -1,1 +1,29 @@
-{"0.2.8-29": {"/usr/share/haskell/register/haskell-connection.sh": "b0011caaee3e2b17656be1b0f9bf076a850c00116bf2929b7ff60c595f6589db", "/usr/share/haskell/unregister/haskell-connection.sh": "1806656f7c9760b48097b52bd158e33e35a4bfa02fed8a9e429c1b08973106d1", "/usr/share/licenses/haskell-connection/LICENSE": "9441d7ae2a1881cb2783078635f9d02eb2e1a7f093f23aad7b5bd7873a65f0a0", "/usr/lib/libHSconnection-0.2.8-DMHF7pH68f1CIg10bEvXf6-ghc8.2.1.so": "cac3cf8f62a9fb6bc90d7e96eb6f160010212b5f98cbd409886fd96b45ddc9c5", "/usr/lib/ghc-8.2.1/site-local/connection-0.2.8/Network/Connection.dyn_hi": "dc36c076ba15439585b23ab1c74c5f8e518efb668eef52a05dbb973cd88469c0", "/usr/lib/ghc-8.2.1/site-local/connection-0.2.8/Network/Connection/Types.dyn_hi": "5936d9b98ca9498521af55033dec0729ff7c53afd3c7e97a86dd522ee7985df5", "/var/log/pacman.log": "8ddcee361b6e588c60177062b979b201d22129b6ec5c49901b228cacfd85cd97"}, "0.2.8-33": {"/usr/share/haskell/register/haskell-connection.sh": "7a3fdb9500aff09da122609a8395654dfa88ac827fca985edc5500c1b241a882", "/usr/share/haskell/unregister/haskell-connection.sh": "8d6078bc1072f45e73b17708bbfde2826e4576f45ddb9e60a0f1b4fc13945d48", "/usr/share/licenses/haskell-connection/LICENSE": "9441d7ae2a1881cb2783078635f9d02eb2e1a7f093f23aad7b5bd7873a65f0a0", "/usr/lib/libHSconnection-0.2.8-G0t7yO0IrTK8tr62V7wYdE-ghc8.2.2.so": "00d1037c38af547f7e33ed6eda2ec1e52b157c010e57b07e7ff8d1e031e0d528", "/usr/lib/ghc-8.2.2/site-local/connection-0.2.8/Network/Connection.dyn_hi": "301486ee1097bed3be55edd3eace5942c3efc1ea90d43dd09883bea7610a75b1", "/usr/lib/ghc-8.2.2/site-local/connection-0.2.8/Network/Connection/Types.dyn_hi": "ed4d0e340b4716254d21f57605ac160049d57c54aaa5804f132b07bebd1752ad", "/var/log/pacman.log": "10adfb370275aadfcf32c495136ebb1d620df2f6568d660b4f6f48e6e25b919e"}}
+{
+  "0.2.8-29": {
+    "/usr/share/haskell/register/haskell-connection.sh": "b0011caaee3e2b17656be1b0f9bf076a850c00116bf2929b7ff60c595f6589db",
+    "/usr/share/haskell/unregister/haskell-connection.sh": "1806656f7c9760b48097b52bd158e33e35a4bfa02fed8a9e429c1b08973106d1",
+    "/usr/share/licenses/haskell-connection/LICENSE": "9441d7ae2a1881cb2783078635f9d02eb2e1a7f093f23aad7b5bd7873a65f0a0",
+    "/usr/lib/libHSconnection-0.2.8-DMHF7pH68f1CIg10bEvXf6-ghc8.2.1.so": "cac3cf8f62a9fb6bc90d7e96eb6f160010212b5f98cbd409886fd96b45ddc9c5",
+    "/usr/lib/ghc-8.2.1/site-local/connection-0.2.8/Network/Connection.dyn_hi": "dc36c076ba15439585b23ab1c74c5f8e518efb668eef52a05dbb973cd88469c0",
+    "/usr/lib/ghc-8.2.1/site-local/connection-0.2.8/Network/Connection/Types.dyn_hi": "5936d9b98ca9498521af55033dec0729ff7c53afd3c7e97a86dd522ee7985df5",
+    "/var/log/pacman.log": "8ddcee361b6e588c60177062b979b201d22129b6ec5c49901b228cacfd85cd97"
+  },
+  "0.2.8-33": {
+    "/usr/share/haskell/register/haskell-connection.sh": "7a3fdb9500aff09da122609a8395654dfa88ac827fca985edc5500c1b241a882",
+    "/usr/share/haskell/unregister/haskell-connection.sh": "8d6078bc1072f45e73b17708bbfde2826e4576f45ddb9e60a0f1b4fc13945d48",
+    "/usr/share/licenses/haskell-connection/LICENSE": "9441d7ae2a1881cb2783078635f9d02eb2e1a7f093f23aad7b5bd7873a65f0a0",
+    "/usr/lib/libHSconnection-0.2.8-G0t7yO0IrTK8tr62V7wYdE-ghc8.2.2.so": "00d1037c38af547f7e33ed6eda2ec1e52b157c010e57b07e7ff8d1e031e0d528",
+    "/usr/lib/ghc-8.2.2/site-local/connection-0.2.8/Network/Connection.dyn_hi": "301486ee1097bed3be55edd3eace5942c3efc1ea90d43dd09883bea7610a75b1",
+    "/usr/lib/ghc-8.2.2/site-local/connection-0.2.8/Network/Connection/Types.dyn_hi": "ed4d0e340b4716254d21f57605ac160049d57c54aaa5804f132b07bebd1752ad",
+    "/var/log/pacman.log": "10adfb370275aadfcf32c495136ebb1d620df2f6568d660b4f6f48e6e25b919e"
+  },
+  "0.2.8-35": {
+    "/usr/share/haskell/register/haskell-connection.sh": "375477eec617fcc8886a9e2329d5299a2d9bb6fd669fe75ee48fdb8fe0578635",
+    "/usr/share/haskell/unregister/haskell-connection.sh": "8d6078bc1072f45e73b17708bbfde2826e4576f45ddb9e60a0f1b4fc13945d48",
+    "/usr/share/licenses/haskell-connection/LICENSE": "9441d7ae2a1881cb2783078635f9d02eb2e1a7f093f23aad7b5bd7873a65f0a0",
+    "/usr/lib/libHSconnection-0.2.8-8SuGJcWEte58y1IEYZpM6p-ghc8.2.2.so": "e878fda9bee76fc8cebcc0e541863042887bd73204bc0b1aeb616412698be88f",
+    "/usr/lib/ghc-8.2.2/site-local/connection-0.2.8/Network/Connection.dyn_hi": "f96f1f0b7fe5507784e23e76ba62df0128fd7ad523b254c3651114d4309889cc",
+    "/usr/lib/ghc-8.2.2/site-local/connection-0.2.8/Network/Connection/Types.dyn_hi": "9c0ff08b457b5a73a23f09bdc69c0f39d31e6e34821d3d22bb03dfeb058adb2b",
+    "/var/log/pacman.log": "f8c850321affa9ff2ad02f855b75f05c721bc4a6ab0c2f25de645734ddfc3227"
+  }
+}

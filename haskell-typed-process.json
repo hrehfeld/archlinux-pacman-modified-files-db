@@ -1,1 +1,11 @@
-{"0.2.0.0-1": {"/usr/share/haskell/register/haskell-typed-process.sh": "3283b99f0b29fc942016b1bcf5be1f2964a3296af9ac75f8cfe302d3852460ba", "/usr/share/haskell/unregister/haskell-typed-process.sh": "6a7d9f76ad61079163edadf9b7f5df01c52eefffb0fce5284eaafecf66b8893c", "/usr/share/licenses/haskell-typed-process/LICENSE": "474de2827f06a0123585d55def9e113d94059376cf367eff01a0021e9fa531a7", "/usr/lib/libHStyped-process-0.2.0.0-Ftms55ejK8jHkqLMLsv7ut-ghc8.2.2.so": "ab61895a4c9a187172ec131c8b6d384fef5e35ac64dcb40b1d8ac95fcc39c7f2", "/usr/lib/ghc-8.2.2/site-local/typed-process-0.2.0.0/Paths_typed_process.dyn_hi": "a0a194ffcdf8406737afa58a6fd3d735c60c644a37a7fcc1a41c16259e5c002f", "/usr/lib/ghc-8.2.2/site-local/typed-process-0.2.0.0/System/Process/Typed.dyn_hi": "edcd3819fc33e3f944a58f092288e5feb9a418d1355930b7387edd6b71ec895c", "/var/log/pacman.log": "b1423983f2eca10a960544a8c070fe0bab4b396e8f78ba39cf587a4c932b4546"}}
+{
+  "0.2.0.0-1": {
+    "/usr/share/haskell/register/haskell-typed-process.sh": "3283b99f0b29fc942016b1bcf5be1f2964a3296af9ac75f8cfe302d3852460ba",
+    "/usr/share/haskell/unregister/haskell-typed-process.sh": "6a7d9f76ad61079163edadf9b7f5df01c52eefffb0fce5284eaafecf66b8893c",
+    "/usr/share/licenses/haskell-typed-process/LICENSE": "474de2827f06a0123585d55def9e113d94059376cf367eff01a0021e9fa531a7",
+    "/usr/lib/libHStyped-process-0.2.0.0-Ftms55ejK8jHkqLMLsv7ut-ghc8.2.2.so": "ab61895a4c9a187172ec131c8b6d384fef5e35ac64dcb40b1d8ac95fcc39c7f2",
+    "/usr/lib/ghc-8.2.2/site-local/typed-process-0.2.0.0/Paths_typed_process.dyn_hi": "a0a194ffcdf8406737afa58a6fd3d735c60c644a37a7fcc1a41c16259e5c002f",
+    "/usr/lib/ghc-8.2.2/site-local/typed-process-0.2.0.0/System/Process/Typed.dyn_hi": "edcd3819fc33e3f944a58f092288e5feb9a418d1355930b7387edd6b71ec895c",
+    "/var/log/pacman.log": "b1423983f2eca10a960544a8c070fe0bab4b396e8f78ba39cf587a4c932b4546"
+  }
+}

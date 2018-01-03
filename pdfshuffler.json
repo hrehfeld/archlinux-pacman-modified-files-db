@@ -1,0 +1,27 @@
+{
+  "0.6.0-4": {
+    "/usr/lib/python2.7/site-packages/pdfshuffler-0.6.0-py2.7.egg-info": "6c2623369772bc0f203f40ef3187010dc8e1609c8ab278350bd9a80e166c34ec",
+    "/usr/lib/python2.7/site-packages/pdfshuffler/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "/usr/lib/python2.7/site-packages/pdfshuffler/pdfshuffler_iconview.py": "9ed589ba0bdd7156a7b436e8bf7162b81b0944982ff2ca057bc82f28aa28200b",
+    "/usr/lib/python2.7/site-packages/pdfshuffler/pdfshuffler.py": "108eb25f419643a7d302b7e7d97c7c74de137cd2e69a066642eb1d0059a1f7e7",
+    "/usr/lib/python2.7/site-packages/pdfshuffler/__init__.pyc": "aec2e8d721ef220402da30fc9c378f0745299d872196c3f7259b53a002315706",
+    "/usr/lib/python2.7/site-packages/pdfshuffler/pdfshuffler_iconview.pyc": "93eebf9bb99210f401fe15d0925e2045ef9627e1a5d7f0393a101dcb35981f90",
+    "/usr/lib/python2.7/site-packages/pdfshuffler/pdfshuffler.pyc": "1b2df97d34fbdf78a05dacbaa80bc17694ec6fbcb129f7a992e047866968e7ba",
+    "/usr/bin/pdfshuffler": "2f8605c1e89873a1d77a807da8a3a5833acf80a92a0ec8ef8fe5df32d96eb694",
+    "/usr/share/pdfshuffler/pdfshuffler.ui": "f24d5541aff390d8adad5d1751e377b771e0f426caf3e256a848351197ed743a",
+    "/usr/share/pdfshuffler/icons/hicolor/scalable/pdfshuffler.svg": "9988bdf0a47f024674231dbb00885720fe647b230dd1b67c37bec4039a6545b4",
+    "/usr/share/applications/pdfshuffler.desktop": "6a68de5a15db6b4c2fbf54c07f1ccdbd0ada0890b666524d29e4430f9ed93238",
+    "/usr/share/man/man1/pdfshuffler.1.gz": "c35b022af76ed485cc2333a96d1b58f0967abf782b5b1c58e5905a2a615f57ac",
+    "/usr/share/pixmaps/pdfshuffler.png": "ac2337ecbd5dca326ed0e11e67354e8bb71e92d37354603148c2dcd949d13f09",
+    "/usr/share/locale/zh_CN/LC_MESSAGES/pdfshuffler.mo": "e57a79e89ae74b07f9928b9d28f0149ab1573b8ad6e7598cac02e6df2f31309b",
+    "/usr/share/locale/el/LC_MESSAGES/pdfshuffler.mo": "b0381f4080d54ac7f2c921d1f631d6cb52d897a98edd787d0067afd0bf42b29f",
+    "/usr/share/locale/hu/LC_MESSAGES/pdfshuffler.mo": "8300dbb04ec2e9967eb03379563e7c46e13fae8b5793b80e9962255aaf3919fc",
+    "/usr/share/locale/it/LC_MESSAGES/pdfshuffler.mo": "8c4f950290ed1aa0df671aa258c67d2ca9bb971b7aa82dda639d631120a14418",
+    "/usr/share/locale/ja/LC_MESSAGES/pdfshuffler.mo": "323c5525ac42f7f9deb4b35f848fa8bf4192cb77bb27b726883b1784b0e297d0",
+    "/usr/share/locale/de/LC_MESSAGES/pdfshuffler.mo": "d8493cf366bba7a50c45573c8d8e7f097e4f26a9eb0649d1ace1b4ecae23b73a",
+    "/usr/share/locale/fr/LC_MESSAGES/pdfshuffler.mo": "daffc0aeb537d9bc21dd9d4a0cd7705b502e9c47bf8b614b45039918534e8b60",
+    "/usr/share/locale/es/LC_MESSAGES/pdfshuffler.mo": "ef6696c18398a57d6c33fc1280931469eb67be1a6bbc00c3f7632e81d946e92d",
+    "/usr/share/locale/cs/LC_MESSAGES/pdfshuffler.mo": "2f8e084d7fcc640945d6837a94b69fa7fb307ea9cbf3dc256b823f128cb75b33",
+    "/var/log/pacman.log": "9489866bc8fb54c3f852e09114ff8e149c3c937f8d78ddb3a7952f087834621e"
+  }
+}

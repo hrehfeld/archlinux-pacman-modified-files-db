@@ -1,1 +1,28 @@
-{"1.6.0.0-4": {"/usr/share/haskell/register/haskell-hunit.sh": "3df94bd064101c95d3b74e1753b5c2abf15d0305adede3b7eeaa1b95ba41cbd0", "/usr/share/haskell/unregister/haskell-hunit.sh": "1b2c34825ca4034c855af5ec0abad14c97513edff6d186066d85e598630a94f8", "/usr/share/licenses/haskell-hunit/LICENSE": "c749088ed2b4abc3d39247e5be43b8d31c00c9534c0e2a21b6f706179a6efe37", "/usr/lib/libHSHUnit-1.6.0.0-32Hmh42Ovy04fXZEjkNwW3-ghc8.2.1.so": "07b20615ea17c10167dd4718cb557a9953f83863c569bce54c3e14cd87626120", "/usr/lib/ghc-8.2.1/site-local/HUnit-1.6.0.0/Paths_HUnit.dyn_hi": "4fa25f20afd9ba6d6baa59479bfb5122abd99cd3dafc082a3a707a4e3134fc62", "/usr/lib/ghc-8.2.1/site-local/HUnit-1.6.0.0/Test/HUnit.dyn_hi": "c1c0bf4216e6f8116355bf92f147e01c96c8d213abae162825e6255890190709", "/usr/lib/ghc-8.2.1/site-local/HUnit-1.6.0.0/Test/HUnit/Base.dyn_hi": "150abc5c2d6da6a0724c7775b5b96622d7ed81ffdffe03cf1577433c8c42f9be", "/usr/lib/ghc-8.2.1/site-local/HUnit-1.6.0.0/Test/HUnit/Lang.dyn_hi": "18406668bfd046b0fd87823e60e245945f3809f22c8a11e5b172d387984d59c3", "/usr/lib/ghc-8.2.1/site-local/HUnit-1.6.0.0/Test/HUnit/Terminal.dyn_hi": "a965624258ea59acdd19efbd64b1ff3e4eb2878ac10270ff21cf3414efa28792", "/usr/lib/ghc-8.2.1/site-local/HUnit-1.6.0.0/Test/HUnit/Text.dyn_hi": "fbf241fcf9183224f7b8f17c25b9b85f4f76942b11d555356113d2b3a9620fb2", "/var/log/pacman.log": "abe6c5c8f61d8c18b175d18f58f2943bb0356914a70052ecc9f902c13d8fa4e2"}, "1.6.0.0-5": {"/usr/share/haskell/register/haskell-hunit.sh": "6a69150a4d5d7632fd76264025540e4fa699ad62124e99136daf29361bf40384", "/usr/share/haskell/unregister/haskell-hunit.sh": "2bc7a3923632419af5d3ffff65ee4512c2b42a7b86043fefd090db3960550200", "/usr/share/licenses/haskell-hunit/LICENSE": "c749088ed2b4abc3d39247e5be43b8d31c00c9534c0e2a21b6f706179a6efe37", "/usr/lib/libHSHUnit-1.6.0.0-AX6otQL79amDimk89yA6v4-ghc8.2.2.so": "ff8a8dc8290de923e2d1b902306cc77992d2b3ebef641cccc0253e842b28b067", "/usr/lib/ghc-8.2.2/site-local/HUnit-1.6.0.0/Paths_HUnit.dyn_hi": "d5648c0a86b26eb6976e401f569eb32fdae6c909a8786f35d759d28e8c574055", "/usr/lib/ghc-8.2.2/site-local/HUnit-1.6.0.0/Test/HUnit.dyn_hi": "4d8ebf491d72435a104f431fbe1930c52558e09203545d2a8e2e59cd72254a94", "/usr/lib/ghc-8.2.2/site-local/HUnit-1.6.0.0/Test/HUnit/Base.dyn_hi": "d5916a3737e3952deff469672adb8794e0d056927b97d003f6f7dd40f1c809c7", "/usr/lib/ghc-8.2.2/site-local/HUnit-1.6.0.0/Test/HUnit/Lang.dyn_hi": "e2d42563ea71489142e3d0fd505ce339ab08e91e516acf8527e0fa1cd3c527e0", "/usr/lib/ghc-8.2.2/site-local/HUnit-1.6.0.0/Test/HUnit/Terminal.dyn_hi": "1878cdbed348b8c380caa7b5fd9ada4a84d68ef6a1c83b0f9509affc520ef89f", "/usr/lib/ghc-8.2.2/site-local/HUnit-1.6.0.0/Test/HUnit/Text.dyn_hi": "246123f62df5e2d09057a2c2f04a2223f74ee3c707cc1e3d6d6f3bc3affaf1b4", "/var/log/pacman.log": "d276ae84b9804815a04a08cb7ee89178e945ffcc865d66f006701c7dc39c53c4"}}
+{
+  "1.6.0.0-4": {
+    "/usr/share/haskell/register/haskell-hunit.sh": "3df94bd064101c95d3b74e1753b5c2abf15d0305adede3b7eeaa1b95ba41cbd0",
+    "/usr/share/haskell/unregister/haskell-hunit.sh": "1b2c34825ca4034c855af5ec0abad14c97513edff6d186066d85e598630a94f8",
+    "/usr/share/licenses/haskell-hunit/LICENSE": "c749088ed2b4abc3d39247e5be43b8d31c00c9534c0e2a21b6f706179a6efe37",
+    "/usr/lib/libHSHUnit-1.6.0.0-32Hmh42Ovy04fXZEjkNwW3-ghc8.2.1.so": "07b20615ea17c10167dd4718cb557a9953f83863c569bce54c3e14cd87626120",
+    "/usr/lib/ghc-8.2.1/site-local/HUnit-1.6.0.0/Paths_HUnit.dyn_hi": "4fa25f20afd9ba6d6baa59479bfb5122abd99cd3dafc082a3a707a4e3134fc62",
+    "/usr/lib/ghc-8.2.1/site-local/HUnit-1.6.0.0/Test/HUnit.dyn_hi": "c1c0bf4216e6f8116355bf92f147e01c96c8d213abae162825e6255890190709",
+    "/usr/lib/ghc-8.2.1/site-local/HUnit-1.6.0.0/Test/HUnit/Base.dyn_hi": "150abc5c2d6da6a0724c7775b5b96622d7ed81ffdffe03cf1577433c8c42f9be",
+    "/usr/lib/ghc-8.2.1/site-local/HUnit-1.6.0.0/Test/HUnit/Lang.dyn_hi": "18406668bfd046b0fd87823e60e245945f3809f22c8a11e5b172d387984d59c3",
+    "/usr/lib/ghc-8.2.1/site-local/HUnit-1.6.0.0/Test/HUnit/Terminal.dyn_hi": "a965624258ea59acdd19efbd64b1ff3e4eb2878ac10270ff21cf3414efa28792",
+    "/usr/lib/ghc-8.2.1/site-local/HUnit-1.6.0.0/Test/HUnit/Text.dyn_hi": "fbf241fcf9183224f7b8f17c25b9b85f4f76942b11d555356113d2b3a9620fb2",
+    "/var/log/pacman.log": "abe6c5c8f61d8c18b175d18f58f2943bb0356914a70052ecc9f902c13d8fa4e2"
+  },
+  "1.6.0.0-5": {
+    "/usr/share/haskell/register/haskell-hunit.sh": "6a69150a4d5d7632fd76264025540e4fa699ad62124e99136daf29361bf40384",
+    "/usr/share/haskell/unregister/haskell-hunit.sh": "2bc7a3923632419af5d3ffff65ee4512c2b42a7b86043fefd090db3960550200",
+    "/usr/share/licenses/haskell-hunit/LICENSE": "c749088ed2b4abc3d39247e5be43b8d31c00c9534c0e2a21b6f706179a6efe37",
+    "/usr/lib/libHSHUnit-1.6.0.0-AX6otQL79amDimk89yA6v4-ghc8.2.2.so": "ff8a8dc8290de923e2d1b902306cc77992d2b3ebef641cccc0253e842b28b067",
+    "/usr/lib/ghc-8.2.2/site-local/HUnit-1.6.0.0/Paths_HUnit.dyn_hi": "d5648c0a86b26eb6976e401f569eb32fdae6c909a8786f35d759d28e8c574055",
+    "/usr/lib/ghc-8.2.2/site-local/HUnit-1.6.0.0/Test/HUnit.dyn_hi": "4d8ebf491d72435a104f431fbe1930c52558e09203545d2a8e2e59cd72254a94",
+    "/usr/lib/ghc-8.2.2/site-local/HUnit-1.6.0.0/Test/HUnit/Base.dyn_hi": "d5916a3737e3952deff469672adb8794e0d056927b97d003f6f7dd40f1c809c7",
+    "/usr/lib/ghc-8.2.2/site-local/HUnit-1.6.0.0/Test/HUnit/Lang.dyn_hi": "e2d42563ea71489142e3d0fd505ce339ab08e91e516acf8527e0fa1cd3c527e0",
+    "/usr/lib/ghc-8.2.2/site-local/HUnit-1.6.0.0/Test/HUnit/Terminal.dyn_hi": "1878cdbed348b8c380caa7b5fd9ada4a84d68ef6a1c83b0f9509affc520ef89f",
+    "/usr/lib/ghc-8.2.2/site-local/HUnit-1.6.0.0/Test/HUnit/Text.dyn_hi": "246123f62df5e2d09057a2c2f04a2223f74ee3c707cc1e3d6d6f3bc3affaf1b4",
+    "/var/log/pacman.log": "d276ae84b9804815a04a08cb7ee89178e945ffcc865d66f006701c7dc39c53c4"
+  }
+}

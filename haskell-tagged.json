@@ -1,1 +1,20 @@
-{"0.8.5-4": {"/usr/share/haskell/register/haskell-tagged.sh": "463b2992080552827c12704958ab5c4f103a49b02dfe011619fde0c185185966", "/usr/share/haskell/unregister/haskell-tagged.sh": "f168bfda6c4cb1e0f054fa4bf7ce6f9b747c79203f31db40314f94b24e5ea7dc", "/usr/share/licenses/haskell-tagged/LICENSE": "3b9fcb04037a8eb1389717d322ed727c60080a9dab2cb6f76882f45f56e6cb12", "/usr/lib/libHStagged-0.8.5-7Kuk6etyDBjGPRKMYpsbFG-ghc8.2.1.so": "0a7fa692ccac2e0c588e7770422e55e68f39e17185d574fb9a1530aebd1e82f1", "/usr/lib/ghc-8.2.1/site-local/tagged-0.8.5/Data/Tagged.dyn_hi": "d059d1b7b77f10f9c679b609fa08ccaec771b56cf9e5c3160a79ec16082029f2", "/usr/lib/ghc-8.2.1/site-local/tagged-0.8.5/Data/Proxy/TH.dyn_hi": "21c26ffaa90d6444538f7271557e21065c390ab125db8b0dc0b48179d11d8aa8", "/var/log/pacman.log": "afa33d95e580584b460fe2b3d0d8d671ecbb7ddfe99fedd30effcde594d3f80f"}, "0.8.5-5": {"/usr/share/haskell/register/haskell-tagged.sh": "3cac5a99c0a40d468519e97a0610f15eb98fcd7a3f7e5eb1fca1f3250cffc1b5", "/usr/share/haskell/unregister/haskell-tagged.sh": "c9ab832fb833a43310598b42417af48b22297010ca5b21e37bbad68919d316f9", "/usr/share/licenses/haskell-tagged/LICENSE": "3b9fcb04037a8eb1389717d322ed727c60080a9dab2cb6f76882f45f56e6cb12", "/usr/lib/libHStagged-0.8.5-BP06XmR1GLaIsvsOKwGst2-ghc8.2.2.so": "c61dd66231afcb2eafebdab746541434c436a3d8334207d0f4d0f40ded403a9f", "/usr/lib/ghc-8.2.2/site-local/tagged-0.8.5/Data/Tagged.dyn_hi": "b7357f126d5643fadf0c8ef58962f74867fa5051f744e5162948e397d44557b1", "/usr/lib/ghc-8.2.2/site-local/tagged-0.8.5/Data/Proxy/TH.dyn_hi": "baa2cb9c061cd3ab2fdf18f306295d73c46b78209e741e7e6945a083fe5e1684", "/var/log/pacman.log": "bb63241cf687c3cbe26c6139538048a41d1f5c591b622ca84aa61a3d4cd4c00c"}}
+{
+  "0.8.5-4": {
+    "/usr/share/haskell/register/haskell-tagged.sh": "463b2992080552827c12704958ab5c4f103a49b02dfe011619fde0c185185966",
+    "/usr/share/haskell/unregister/haskell-tagged.sh": "f168bfda6c4cb1e0f054fa4bf7ce6f9b747c79203f31db40314f94b24e5ea7dc",
+    "/usr/share/licenses/haskell-tagged/LICENSE": "3b9fcb04037a8eb1389717d322ed727c60080a9dab2cb6f76882f45f56e6cb12",
+    "/usr/lib/libHStagged-0.8.5-7Kuk6etyDBjGPRKMYpsbFG-ghc8.2.1.so": "0a7fa692ccac2e0c588e7770422e55e68f39e17185d574fb9a1530aebd1e82f1",
+    "/usr/lib/ghc-8.2.1/site-local/tagged-0.8.5/Data/Tagged.dyn_hi": "d059d1b7b77f10f9c679b609fa08ccaec771b56cf9e5c3160a79ec16082029f2",
+    "/usr/lib/ghc-8.2.1/site-local/tagged-0.8.5/Data/Proxy/TH.dyn_hi": "21c26ffaa90d6444538f7271557e21065c390ab125db8b0dc0b48179d11d8aa8",
+    "/var/log/pacman.log": "afa33d95e580584b460fe2b3d0d8d671ecbb7ddfe99fedd30effcde594d3f80f"
+  },
+  "0.8.5-5": {
+    "/usr/share/haskell/register/haskell-tagged.sh": "3cac5a99c0a40d468519e97a0610f15eb98fcd7a3f7e5eb1fca1f3250cffc1b5",
+    "/usr/share/haskell/unregister/haskell-tagged.sh": "c9ab832fb833a43310598b42417af48b22297010ca5b21e37bbad68919d316f9",
+    "/usr/share/licenses/haskell-tagged/LICENSE": "3b9fcb04037a8eb1389717d322ed727c60080a9dab2cb6f76882f45f56e6cb12",
+    "/usr/lib/libHStagged-0.8.5-BP06XmR1GLaIsvsOKwGst2-ghc8.2.2.so": "c61dd66231afcb2eafebdab746541434c436a3d8334207d0f4d0f40ded403a9f",
+    "/usr/lib/ghc-8.2.2/site-local/tagged-0.8.5/Data/Tagged.dyn_hi": "b7357f126d5643fadf0c8ef58962f74867fa5051f744e5162948e397d44557b1",
+    "/usr/lib/ghc-8.2.2/site-local/tagged-0.8.5/Data/Proxy/TH.dyn_hi": "baa2cb9c061cd3ab2fdf18f306295d73c46b78209e741e7e6945a083fe5e1684",
+    "/var/log/pacman.log": "bb63241cf687c3cbe26c6139538048a41d1f5c591b622ca84aa61a3d4cd4c00c"
+  }
+}

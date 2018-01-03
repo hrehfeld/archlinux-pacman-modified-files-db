@@ -1,1 +1,23 @@
-{"4.1.1-1": {"/usr/lib/libvoikko.so.1": "bf176f901eeb966289758909a9b080e476cc3b7a95ce9605ae9407bbb3de3e08", "/usr/lib/libvoikko.so": "bf176f901eeb966289758909a9b080e476cc3b7a95ce9605ae9407bbb3de3e08", "/usr/lib/libvoikko.so.1.14.5": "bf176f901eeb966289758909a9b080e476cc3b7a95ce9605ae9407bbb3de3e08", "/usr/lib/pkgconfig/libvoikko.pc": "138b6f2d6dbdabfcba76936e1da43080406d5087c77565fa678f00d7af96a435", "/usr/lib/python3.6/site-packages/libvoikko.py": "a2171775890d5e104531020e6e336ec7e9fbafcf0e7a1282c79efa9af2d196f2", "/usr/include/libvoikko/voikko.h": "60313754151cb1f5d1b2e1977a72fa23aed940827280a70ff8e53be302d9ceff", "/usr/include/libvoikko/voikko_enums.h": "a07c39c6064b20fdb11c0f488eda37edafc6f288d5b24c106a7ac982fe017e18", "/usr/include/libvoikko/voikko_defines.h": "c080ae64424250a959a0a5bff511b2d9f99ad936f2f4c12d249d440c4118a804", "/usr/include/libvoikko/voikko_deprecated.h": "dc6e68680b6073c51cf9270ce93b30134b2676c7b326d06cb27bfff75ee8c62e", "/usr/include/libvoikko/voikko_structs.h": "cacd8c688daf97ca688d793f8e46231aef1eefb16b7072f9e1f31c36e87ff8bb", "/usr/bin/voikkogc": "1541e577187e9ada20f83ad8f08b5e8113f162adad3736496f8186f9eeaf0785", "/usr/bin/voikkohyphenate": "a0f6e8768e018430f1152d03b14ba7b402eb663db5ac3f9a7197c5aa38a30567", "/usr/bin/voikkospell": "1353d6caf211a75d5e6eea564e04eae302425a85649b14e720780da01c1790a4", "/usr/bin/voikkovfstc": "a636a025de339724a1d3cc38de680ed686d67dd184b8c5010c1063e4af01f1c6", "/usr/share/man/man1/voikkogc.1.gz": "4d9bd1088fda94e46609595fef820840084c7e5171859dee53c48990ca1f92fb", "/usr/share/man/man1/voikkohyphenate.1.gz": "f5e55d1a7ffbf8408b1070683f5d7ccde31637409228ca2d3a91fa6bc368c48e", "/usr/share/man/man1/voikkospell.1.gz": "829e2377b252da0aac1d1b9f0cffaedd30f0096331d978d2823ce902f5f552ab", "/usr/share/man/man1/voikkovfstc.1.gz": "cd94cf98d0aa6a5f6b50df08da631a9f37075ba2c5151ccd71382d6026bf342e", "/var/log/pacman.log": "ec8ab523434d159ceda4a7d504fe0ac64cfcc5090ad704a9a236ad4266251128"}}
+{
+  "4.1.1-1": {
+    "/usr/lib/libvoikko.so.1": "bf176f901eeb966289758909a9b080e476cc3b7a95ce9605ae9407bbb3de3e08",
+    "/usr/lib/libvoikko.so": "bf176f901eeb966289758909a9b080e476cc3b7a95ce9605ae9407bbb3de3e08",
+    "/usr/lib/libvoikko.so.1.14.5": "bf176f901eeb966289758909a9b080e476cc3b7a95ce9605ae9407bbb3de3e08",
+    "/usr/lib/pkgconfig/libvoikko.pc": "138b6f2d6dbdabfcba76936e1da43080406d5087c77565fa678f00d7af96a435",
+    "/usr/lib/python3.6/site-packages/libvoikko.py": "a2171775890d5e104531020e6e336ec7e9fbafcf0e7a1282c79efa9af2d196f2",
+    "/usr/include/libvoikko/voikko.h": "60313754151cb1f5d1b2e1977a72fa23aed940827280a70ff8e53be302d9ceff",
+    "/usr/include/libvoikko/voikko_enums.h": "a07c39c6064b20fdb11c0f488eda37edafc6f288d5b24c106a7ac982fe017e18",
+    "/usr/include/libvoikko/voikko_defines.h": "c080ae64424250a959a0a5bff511b2d9f99ad936f2f4c12d249d440c4118a804",
+    "/usr/include/libvoikko/voikko_deprecated.h": "dc6e68680b6073c51cf9270ce93b30134b2676c7b326d06cb27bfff75ee8c62e",
+    "/usr/include/libvoikko/voikko_structs.h": "cacd8c688daf97ca688d793f8e46231aef1eefb16b7072f9e1f31c36e87ff8bb",
+    "/usr/bin/voikkogc": "1541e577187e9ada20f83ad8f08b5e8113f162adad3736496f8186f9eeaf0785",
+    "/usr/bin/voikkohyphenate": "a0f6e8768e018430f1152d03b14ba7b402eb663db5ac3f9a7197c5aa38a30567",
+    "/usr/bin/voikkospell": "1353d6caf211a75d5e6eea564e04eae302425a85649b14e720780da01c1790a4",
+    "/usr/bin/voikkovfstc": "a636a025de339724a1d3cc38de680ed686d67dd184b8c5010c1063e4af01f1c6",
+    "/usr/share/man/man1/voikkogc.1.gz": "4d9bd1088fda94e46609595fef820840084c7e5171859dee53c48990ca1f92fb",
+    "/usr/share/man/man1/voikkohyphenate.1.gz": "f5e55d1a7ffbf8408b1070683f5d7ccde31637409228ca2d3a91fa6bc368c48e",
+    "/usr/share/man/man1/voikkospell.1.gz": "829e2377b252da0aac1d1b9f0cffaedd30f0096331d978d2823ce902f5f552ab",
+    "/usr/share/man/man1/voikkovfstc.1.gz": "cd94cf98d0aa6a5f6b50df08da631a9f37075ba2c5151ccd71382d6026bf342e",
+    "/var/log/pacman.log": "ec8ab523434d159ceda4a7d504fe0ac64cfcc5090ad704a9a236ad4266251128"
+  }
+}

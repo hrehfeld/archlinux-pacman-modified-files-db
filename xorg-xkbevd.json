@@ -1,1 +1,8 @@
-{"1.1.4-1": {"/usr/share/licenses/xorg-xkbevd/COPYING": "38c6dbf8f88b1c920561ff3a4d1ffdb85c069c664f5f8b64a9adb477ef347b7c", "/usr/share/man/man1/xkbevd.1.gz": "36d928fceb8630cb6c51c9367180ee6d7be25664883a7db533a0f4c9f305d568", "/usr/bin/xkbevd": "f67ef046db4c8964dcd812d3941b116900143d91a07badde514c81e2cab6c27e", "/var/log/pacman.log": "5b055e335d8b71c27429c91f72bcf947b747b83209e2e6b9c991ad3e5c2e9e76"}}
+{
+  "1.1.4-1": {
+    "/usr/share/licenses/xorg-xkbevd/COPYING": "38c6dbf8f88b1c920561ff3a4d1ffdb85c069c664f5f8b64a9adb477ef347b7c",
+    "/usr/share/man/man1/xkbevd.1.gz": "36d928fceb8630cb6c51c9367180ee6d7be25664883a7db533a0f4c9f305d568",
+    "/usr/bin/xkbevd": "f67ef046db4c8964dcd812d3941b116900143d91a07badde514c81e2cab6c27e",
+    "/var/log/pacman.log": "5b055e335d8b71c27429c91f72bcf947b747b83209e2e6b9c991ad3e5c2e9e76"
+  }
+}

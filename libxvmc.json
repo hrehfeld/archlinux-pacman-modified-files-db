@@ -1,1 +1,15 @@
-{"1.0.10-1": {"/usr/lib/libXvMC.so.1": "6ba231b623f66d083614148810740e8bf4167a35317c61b98bbf92cc67a0a41b", "/usr/lib/libXvMC.so": "6ba231b623f66d083614148810740e8bf4167a35317c61b98bbf92cc67a0a41b", "/usr/lib/libXvMCW.so.1": "81f003f4f52f91b01bdaf4a979161a2e4c44a323db589572911a3f3d09af1b7e", "/usr/lib/libXvMCW.so": "81f003f4f52f91b01bdaf4a979161a2e4c44a323db589572911a3f3d09af1b7e", "/usr/lib/libXvMCW.so.1.0.0": "81f003f4f52f91b01bdaf4a979161a2e4c44a323db589572911a3f3d09af1b7e", "/usr/lib/libXvMC.so.1.0.0": "6ba231b623f66d083614148810740e8bf4167a35317c61b98bbf92cc67a0a41b", "/usr/lib/pkgconfig/xvmc.pc": "78afb682a81473e9d1d27a3ec750724ce9d0c44ff1abd0f866dcc1d2edce6679", "/usr/include/X11/extensions/XvMClib.h": "a0c9c719b9487b50ff1a7cb3f792495c82a478fa8c4a31d557a88640a1bc0178", "/usr/share/doc/libXvMC/XvMC_API.txt": "dba044c2c34a9b99b150a333e13eab56a9ab4c6bb5519f8f349773e8861eb387", "/usr/share/licenses/libxvmc/COPYING": "b7c709df281675a07eb60a71c5fa2599d1ef538eb79ae7ad6e774b10e4a804c4", "/var/log/pacman.log": "f19b8def3697aae9880e1a768a9addb5296c69bfff1b9bc7d0338674cc449dbf"}}
+{
+  "1.0.10-1": {
+    "/usr/lib/libXvMC.so.1": "6ba231b623f66d083614148810740e8bf4167a35317c61b98bbf92cc67a0a41b",
+    "/usr/lib/libXvMC.so": "6ba231b623f66d083614148810740e8bf4167a35317c61b98bbf92cc67a0a41b",
+    "/usr/lib/libXvMCW.so.1": "81f003f4f52f91b01bdaf4a979161a2e4c44a323db589572911a3f3d09af1b7e",
+    "/usr/lib/libXvMCW.so": "81f003f4f52f91b01bdaf4a979161a2e4c44a323db589572911a3f3d09af1b7e",
+    "/usr/lib/libXvMCW.so.1.0.0": "81f003f4f52f91b01bdaf4a979161a2e4c44a323db589572911a3f3d09af1b7e",
+    "/usr/lib/libXvMC.so.1.0.0": "6ba231b623f66d083614148810740e8bf4167a35317c61b98bbf92cc67a0a41b",
+    "/usr/lib/pkgconfig/xvmc.pc": "78afb682a81473e9d1d27a3ec750724ce9d0c44ff1abd0f866dcc1d2edce6679",
+    "/usr/include/X11/extensions/XvMClib.h": "a0c9c719b9487b50ff1a7cb3f792495c82a478fa8c4a31d557a88640a1bc0178",
+    "/usr/share/doc/libXvMC/XvMC_API.txt": "dba044c2c34a9b99b150a333e13eab56a9ab4c6bb5519f8f349773e8861eb387",
+    "/usr/share/licenses/libxvmc/COPYING": "b7c709df281675a07eb60a71c5fa2599d1ef538eb79ae7ad6e774b10e4a804c4",
+    "/var/log/pacman.log": "f19b8def3697aae9880e1a768a9addb5296c69bfff1b9bc7d0338674cc449dbf"
+  }
+}

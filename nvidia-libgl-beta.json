@@ -1,1 +1,5 @@
-{"387.22-1": {"/var/log/pacman.log": "f1a4efdcb09b8d0fc37a6d08e482ca13f3633bc289b9e116336e9ec860e6a09b"}}
+{
+  "387.22-1": {
+    "/var/log/pacman.log": "f1a4efdcb09b8d0fc37a6d08e482ca13f3633bc289b9e116336e9ec860e6a09b"
+  }
+}

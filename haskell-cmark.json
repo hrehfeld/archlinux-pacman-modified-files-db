@@ -1,1 +1,26 @@
-{"0.5.6-4": {"/usr/share/haskell/register/haskell-cmark.sh": "c73b6bafb91cf0cdcb7c09fd8966ad2b9559c25853ce22f6accbff48912bdfa4", "/usr/share/haskell/unregister/haskell-cmark.sh": "fc52b30e20eaed8db6ae62945a87c6d9a065d0c8bd7ff66618d6dc5013947fce", "/usr/share/licenses/haskell-cmark/LICENSE": "c9df8353187a98b33b9c67bf31113dbcafbf45eb4225e8d52aba7802e7ff42ae", "/usr/lib/libHScmark-0.5.6-3XSIcG4srepBYUTysvXhLF-ghc8.2.1.so": "73b09fdfe1c117543cfa4c38c5b1ad13c643a3a5973bda1a7ab60e919001788b", "/usr/lib/ghc-8.2.1/site-local/cmark-0.5.6/CMark.dyn_hi": "d47b7b38eb0446be553fc166cd46762048e376512e01fb8a74ff6fe185fb3560", "/var/log/pacman.log": "cb556fd1473d4a782c8bc52b5e6b5ea3411d9f7999aa50e06d1a0b3e45db60c5"}, "0.5.6-5": {"/usr/share/haskell/register/haskell-cmark.sh": "a58577608a5cc38fefa6079eda580d77ce3b9f3ce3f7fbfa9de5dfa95ec2cfe0", "/usr/share/haskell/unregister/haskell-cmark.sh": "675aae4f32098dc5c87bf54e6d81bec64412a580d6695b014549e8e7759e46ff", "/usr/share/licenses/haskell-cmark/LICENSE": "c9df8353187a98b33b9c67bf31113dbcafbf45eb4225e8d52aba7802e7ff42ae", "/usr/lib/libHScmark-0.5.6-EsjzmWfoyko59GqsfxKW0P-ghc8.2.2.so": "3cf078425c4a222a204443ad29804ba0650c2caea001de3b100ce5b069dd1254", "/usr/lib/ghc-8.2.2/site-local/cmark-0.5.6/CMark.dyn_hi": "96870c249094ee516d93e3d96b9f8f410b029aac32c644e8acff9bc53e7df920", "/var/log/pacman.log": "00137072b8a93be81bd716e9184e83d0679d9d370b7da342e1b3fe448610398b"}}
+{
+  "0.5.6-4": {
+    "/usr/share/haskell/register/haskell-cmark.sh": "c73b6bafb91cf0cdcb7c09fd8966ad2b9559c25853ce22f6accbff48912bdfa4",
+    "/usr/share/haskell/unregister/haskell-cmark.sh": "fc52b30e20eaed8db6ae62945a87c6d9a065d0c8bd7ff66618d6dc5013947fce",
+    "/usr/share/licenses/haskell-cmark/LICENSE": "c9df8353187a98b33b9c67bf31113dbcafbf45eb4225e8d52aba7802e7ff42ae",
+    "/usr/lib/libHScmark-0.5.6-3XSIcG4srepBYUTysvXhLF-ghc8.2.1.so": "73b09fdfe1c117543cfa4c38c5b1ad13c643a3a5973bda1a7ab60e919001788b",
+    "/usr/lib/ghc-8.2.1/site-local/cmark-0.5.6/CMark.dyn_hi": "d47b7b38eb0446be553fc166cd46762048e376512e01fb8a74ff6fe185fb3560",
+    "/var/log/pacman.log": "cb556fd1473d4a782c8bc52b5e6b5ea3411d9f7999aa50e06d1a0b3e45db60c5"
+  },
+  "0.5.6-5": {
+    "/usr/share/haskell/register/haskell-cmark.sh": "a58577608a5cc38fefa6079eda580d77ce3b9f3ce3f7fbfa9de5dfa95ec2cfe0",
+    "/usr/share/haskell/unregister/haskell-cmark.sh": "675aae4f32098dc5c87bf54e6d81bec64412a580d6695b014549e8e7759e46ff",
+    "/usr/share/licenses/haskell-cmark/LICENSE": "c9df8353187a98b33b9c67bf31113dbcafbf45eb4225e8d52aba7802e7ff42ae",
+    "/usr/lib/libHScmark-0.5.6-EsjzmWfoyko59GqsfxKW0P-ghc8.2.2.so": "3cf078425c4a222a204443ad29804ba0650c2caea001de3b100ce5b069dd1254",
+    "/usr/lib/ghc-8.2.2/site-local/cmark-0.5.6/CMark.dyn_hi": "96870c249094ee516d93e3d96b9f8f410b029aac32c644e8acff9bc53e7df920",
+    "/var/log/pacman.log": "00137072b8a93be81bd716e9184e83d0679d9d370b7da342e1b3fe448610398b"
+  },
+  "0.5.6-6": {
+    "/usr/share/haskell/register/haskell-cmark.sh": "1b070bba81bacd78c171f620992f83bc8b60c917064d2783278836b806f1b487",
+    "/usr/share/haskell/unregister/haskell-cmark.sh": "675aae4f32098dc5c87bf54e6d81bec64412a580d6695b014549e8e7759e46ff",
+    "/usr/share/licenses/haskell-cmark/LICENSE": "c9df8353187a98b33b9c67bf31113dbcafbf45eb4225e8d52aba7802e7ff42ae",
+    "/usr/lib/libHScmark-0.5.6-GOxMLW6CNvDGdoQGpA4CIP-ghc8.2.2.so": "697c5414d8aba48e8f3ba545f132b942bacf697c6c5557b97db1e5a9a5f33553",
+    "/usr/lib/ghc-8.2.2/site-local/cmark-0.5.6/CMark.dyn_hi": "f5983c26557c5a2fb087eedcbef93669c97ea2780f80bc1312926f145b6c6d1a",
+    "/var/log/pacman.log": "491eab257e37f3d03278aef676ba8fc098233cca40e127ceb15b5c7c2c57739b"
+  }
+}

@@ -1,1 +1,34 @@
-{"5.2.0-2": {"/usr/lib/modules/extramodules-4.13-ARCH/vboxpci.ko.gz": "9a6654ae188e0b0d2a6e890e107621a930e4d4fd369f14675f965a885fc224af", "/usr/lib/modules/extramodules-4.13-ARCH/vboxnetflt.ko.gz": "9f58f9d9b355e0463260c34db3122a844469954550f062d5be7a4d023570add4", "/usr/lib/modules/extramodules-4.13-ARCH/vboxnetadp.ko.gz": "3051277cb1e40925e7e9b1de79bb1df4d9a07ea91142f2393174cddbf6987d5c", "/usr/lib/modules/extramodules-4.13-ARCH/vboxdrv.ko.gz": "49aa1eb314af9c9954d77b1fb991e871374e5455b4b7e383a8f2dc2b8c0a6b83", "/usr/lib/modules-load.d/virtualbox-host-modules-arch.conf": "dbc02a5a3327407963661cb15381a29ddc68c7e7c48d92eac1fa5f3c982d9d7f", "/var/log/pacman.log": "eed05480446e74b1166f943038fd3be3d762a6089d9b8aab65fb95e045ebb70d"}, "5.2.0-4": {"/usr/lib/modules/extramodules-4.13-ARCH/vboxpci.ko.gz": "7828679536b33c3b30feb40022c69b9c4db8d4729c87d361c402ca254f488071", "/usr/lib/modules/extramodules-4.13-ARCH/vboxnetflt.ko.gz": "c961a9326c8f37ecb7787eb9b1874c22826f848ca178e3897602ed936a9946d3", "/usr/lib/modules/extramodules-4.13-ARCH/vboxnetadp.ko.gz": "1d9cc4a40e5bfd647434c85c9bb5ac822845754457a7b2b391a32044bc2dc28f", "/usr/lib/modules/extramodules-4.13-ARCH/vboxdrv.ko.gz": "b281e88a7650789089266da46f4a341392c5426ea4b278fadd25162856a4c187", "/usr/lib/modules-load.d/virtualbox-host-modules-arch.conf": "dbc02a5a3327407963661cb15381a29ddc68c7e7c48d92eac1fa5f3c982d9d7f", "/var/log/pacman.log": "d4671403875d86fe9fdb5bfda4a34683f674527ff0a769b609ea2a109d924bf5"}, "5.2.2-10": {"/usr/lib/modules/extramodules-4.14-ARCH/vboxpci.ko.xz": "f333cf5dab94a4c606178f38c1e5228e507bc7e8f9b8e9522a648439d34966d7", "/usr/lib/modules/extramodules-4.14-ARCH/vboxnetflt.ko.xz": "97e8cc0caa8469c2ab3baeb19b2386f6d7bdbe63f134b3e0852fefea7f402c82", "/usr/lib/modules/extramodules-4.14-ARCH/vboxnetadp.ko.xz": "2195131ae700bb1d2749414920ffefb9ba64c06e74763737ec065f545921d719", "/usr/lib/modules/extramodules-4.14-ARCH/vboxdrv.ko.xz": "05639add18ec7626c6aa6738c7aa1d13b9a2ad8ecb6e3160318d6bc7b35652cf", "/usr/lib/modules-load.d/virtualbox-host-modules-arch.conf": "dbc02a5a3327407963661cb15381a29ddc68c7e7c48d92eac1fa5f3c982d9d7f", "/var/log/pacman.log": "77714ed87b968e60411e5afd0f962676a28824a5b8cbaa94d506666aa2b9ab14"}}
+{
+  "5.2.0-2": {
+    "/usr/lib/modules/extramodules-4.13-ARCH/vboxpci.ko.gz": "9a6654ae188e0b0d2a6e890e107621a930e4d4fd369f14675f965a885fc224af",
+    "/usr/lib/modules/extramodules-4.13-ARCH/vboxnetflt.ko.gz": "9f58f9d9b355e0463260c34db3122a844469954550f062d5be7a4d023570add4",
+    "/usr/lib/modules/extramodules-4.13-ARCH/vboxnetadp.ko.gz": "3051277cb1e40925e7e9b1de79bb1df4d9a07ea91142f2393174cddbf6987d5c",
+    "/usr/lib/modules/extramodules-4.13-ARCH/vboxdrv.ko.gz": "49aa1eb314af9c9954d77b1fb991e871374e5455b4b7e383a8f2dc2b8c0a6b83",
+    "/usr/lib/modules-load.d/virtualbox-host-modules-arch.conf": "dbc02a5a3327407963661cb15381a29ddc68c7e7c48d92eac1fa5f3c982d9d7f",
+    "/var/log/pacman.log": "eed05480446e74b1166f943038fd3be3d762a6089d9b8aab65fb95e045ebb70d"
+  },
+  "5.2.0-4": {
+    "/usr/lib/modules/extramodules-4.13-ARCH/vboxpci.ko.gz": "7828679536b33c3b30feb40022c69b9c4db8d4729c87d361c402ca254f488071",
+    "/usr/lib/modules/extramodules-4.13-ARCH/vboxnetflt.ko.gz": "c961a9326c8f37ecb7787eb9b1874c22826f848ca178e3897602ed936a9946d3",
+    "/usr/lib/modules/extramodules-4.13-ARCH/vboxnetadp.ko.gz": "1d9cc4a40e5bfd647434c85c9bb5ac822845754457a7b2b391a32044bc2dc28f",
+    "/usr/lib/modules/extramodules-4.13-ARCH/vboxdrv.ko.gz": "b281e88a7650789089266da46f4a341392c5426ea4b278fadd25162856a4c187",
+    "/usr/lib/modules-load.d/virtualbox-host-modules-arch.conf": "dbc02a5a3327407963661cb15381a29ddc68c7e7c48d92eac1fa5f3c982d9d7f",
+    "/var/log/pacman.log": "d4671403875d86fe9fdb5bfda4a34683f674527ff0a769b609ea2a109d924bf5"
+  },
+  "5.2.2-10": {
+    "/usr/lib/modules/extramodules-4.14-ARCH/vboxpci.ko.xz": "f333cf5dab94a4c606178f38c1e5228e507bc7e8f9b8e9522a648439d34966d7",
+    "/usr/lib/modules/extramodules-4.14-ARCH/vboxnetflt.ko.xz": "97e8cc0caa8469c2ab3baeb19b2386f6d7bdbe63f134b3e0852fefea7f402c82",
+    "/usr/lib/modules/extramodules-4.14-ARCH/vboxnetadp.ko.xz": "2195131ae700bb1d2749414920ffefb9ba64c06e74763737ec065f545921d719",
+    "/usr/lib/modules/extramodules-4.14-ARCH/vboxdrv.ko.xz": "05639add18ec7626c6aa6738c7aa1d13b9a2ad8ecb6e3160318d6bc7b35652cf",
+    "/usr/lib/modules-load.d/virtualbox-host-modules-arch.conf": "dbc02a5a3327407963661cb15381a29ddc68c7e7c48d92eac1fa5f3c982d9d7f",
+    "/var/log/pacman.log": "77714ed87b968e60411e5afd0f962676a28824a5b8cbaa94d506666aa2b9ab14"
+  },
+  "5.2.4-4": {
+    "/usr/lib/modules/extramodules-4.14-ARCH/vboxpci.ko.xz": "e606988e52be4ac3ba3603457e25833ccc0bce08efacc9059e3d2ad5f5e8190d",
+    "/usr/lib/modules/extramodules-4.14-ARCH/vboxnetflt.ko.xz": "c2710c9836a3b40a1b59145c16e495237de7a60a6b138a7514c94a0d3e9d5135",
+    "/usr/lib/modules/extramodules-4.14-ARCH/vboxnetadp.ko.xz": "15ac97408aeeca676fe888dfdf8fe804d0aa49bfba61aae038ebf312a6bf275b",
+    "/usr/lib/modules/extramodules-4.14-ARCH/vboxdrv.ko.xz": "5ef467c0dc37ec9f99c253491968b3b3d569547cafc201180c45e4f38843206f",
+    "/usr/lib/modules-load.d/virtualbox-host-modules-arch.conf": "dbc02a5a3327407963661cb15381a29ddc68c7e7c48d92eac1fa5f3c982d9d7f",
+    "/var/log/pacman.log": "e61b7afb4c653eb469962c6fc8551f8d9715e0753c50b51d6e4b6924de18eaa1"
+  }
+}

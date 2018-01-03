@@ -1,1 +1,15 @@
-{"20171031-1": {"/usr/lib/udev/rules.d/51-android.rules": "e00d6da590be822e84ddba9fb069031dd609a42dc9dd55ad133e85d7a33e61e2", "/var/log/pacman.log": "b6e9761170b2223eb7106c2162ce6ab4223b00a199c29ee4cc15c8b8761e92ee"}, "20171206-1": {"/usr/lib/udev/rules.d/51-android.rules": "57377c28c8459bc79766c547f1e54bcf748b0fd7982c0d042b524adf30c5e20d", "/var/log/pacman.log": "e368a117af0ce2ddd0e1ad57a5c5fef64c62ef68ff73366b1fe7408a80a2d983"}}
+{
+  "20171031-1": {
+    "/usr/lib/udev/rules.d/51-android.rules": "e00d6da590be822e84ddba9fb069031dd609a42dc9dd55ad133e85d7a33e61e2",
+    "/var/log/pacman.log": "b6e9761170b2223eb7106c2162ce6ab4223b00a199c29ee4cc15c8b8761e92ee"
+  },
+  "20171206-1": {
+    "/usr/lib/udev/rules.d/51-android.rules": "57377c28c8459bc79766c547f1e54bcf748b0fd7982c0d042b524adf30c5e20d",
+    "/var/log/pacman.log": "e368a117af0ce2ddd0e1ad57a5c5fef64c62ef68ff73366b1fe7408a80a2d983"
+  },
+  "20171216-1": {
+    "/usr/lib/sysusers.d/android-udev.conf": "4466723284046b56b868fe9d5c3c1f9eab348610ee4b551d7a1efc2ab8ab82af",
+    "/usr/lib/udev/rules.d/51-android.rules": "9ded26a403b3d9decbf88aacb18abe5b6bf23186a04043aa1b62e42b4ea75788",
+    "/var/log/pacman.log": "2b21e6c143be56d9865da636a0da49eb92201dfe38fa1324a8003093e58cd90d"
+  }
+}

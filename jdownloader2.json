@@ -1,1 +1,31 @@
-{"latest-13": {"/usr/share/mime/packages/jdownloader.xml": "c4301592694b3273ed44814debcc03bf1e4fc85882954f5c03e55508c53c4491", "/usr/share/applications/jdownloader.desktop": "44a499df472328f9034f9972aad02df0fc27a45ef1bb3e9314576d2fa9fdfcbe", "/usr/share/applications/jd-containers.desktop": "92cfbe543ee1f9e094347dbd9c0c6a59bd52974145f00dbece8ed0da9a828bfa", "/usr/share/icons/hicolor/16x16/mimetypes/jd-container.png": "16d70dfefe6d4d655313ff2784d2d259287d09634236e17a8c0ba00eac136274", "/usr/share/icons/hicolor/16x16/apps/jdownloader.png": "b7cad9813e641eddf82571609346bb3a9cdb75e57ffa0a43fbc75721af2bc99c", "/usr/share/icons/hicolor/22x22/mimetypes/jd-container.png": "69d99b5d27c847eb7d99ea4e49adba2a5ac1cb12ce10eb03d38e524d6f12e234", "/usr/share/icons/hicolor/22x22/apps/jdownloader.png": "02ecfb160b7973f5739357e4676556a0f9e01df5b655eab40fe89f463514259a", "/usr/share/icons/hicolor/24x24/mimetypes/jd-container.png": "7d6073a968ff0d33a259a622ed34d8a58beb9cbdf715a8279b384546b1b4df38", "/usr/share/icons/hicolor/24x24/apps/jdownloader.png": "a10a45298541c025f28e9a084a87ab89a53428a00a50a9944ed3bac7978340fd", "/usr/share/icons/hicolor/32x32/mimetypes/jd-container.png": "69ad34361769c576422bc245b910c4e0e8ed89e75435ac0a3aced9911872aaca", "/usr/share/icons/hicolor/32x32/apps/jdownloader.png": "cb63ab195ff1b876b668dbe518f4572971e5e0fe239a627ef67486933fcaed07", "/usr/share/icons/hicolor/48x48/mimetypes/jd-container.png": "271b10840c2d9df2c94deb28ac1477c3f3424a7cd0033e41f09615dddefa0947", "/usr/share/icons/hicolor/48x48/apps/jdownloader.png": "b5540647f8120f723fb14747473a96e3ee031ffbc0f097e66c6cfd3431bf4e56", "/usr/share/icons/hicolor/256x256/mimetypes/jd-container.png": "896eb67760bf0f3b2527b1f0cebee6cb0d16499af8961cb38bb5dca3e6d27d07", "/usr/share/icons/hicolor/256x256/apps/jdownloader.png": "6c7a28ec72c8627e9bf06a58d7f6bfed075632a6743e1c8087dc0fa065261504", "/usr/lib/systemd/system/jdownloader.service": "8d170fd301b37302a4f64cec759bdb5c879cb30c8b8e94120f3f985df1d31b7f", "/usr/bin/JDownloader": "cab5904f226028fdc9384f407ceca34b4305885176fad29b08a2e8b83653a345", "/usr/bin/jdownloader": "cab5904f226028fdc9384f407ceca34b4305885176fad29b08a2e8b83653a345", "/usr/bin/JDownloaderHeadless": "d555c78d8110e536aee67de765ee5134d872fbb48354050f7b2f14ff5499120a", "/usr/bin/JDownloaderHeadlessCtl": "dca392fad29c70eff609ec25abaefd33343c8a6c98088e0719c6746759ed0aa5", "/usr/bin/JDownloaderHeadlessCleanLogin": "1c9949bfeaf3595783eec9501e600cb8c4443e04f72d57c095560fb66dcd53d1", "/opt/JDownloaderScripts/JDownloader": "cab5904f226028fdc9384f407ceca34b4305885176fad29b08a2e8b83653a345", "/opt/JDownloaderScripts/JDownloaderHeadless": "d555c78d8110e536aee67de765ee5134d872fbb48354050f7b2f14ff5499120a", "/opt/JDownloaderScripts/JDownloaderHeadlessCtl": "dca392fad29c70eff609ec25abaefd33343c8a6c98088e0719c6746759ed0aa5", "/opt/JDownloaderScripts/functions.sh": "70f4a5cd95532c70ae20a357e655d01ac23fe92bb71feac45973e2b53d024cff", "/opt/JDownloaderScripts/JDownloaderHeadlessCleanLogin": "1c9949bfeaf3595783eec9501e600cb8c4443e04f72d57c095560fb66dcd53d1", "/var/log/pacman.log": "c9a5c0f26213a461db2fd23f93dad6b688129d3bd43e3869bf278b041308056a"}}
+{
+  "latest-13": {
+    "/usr/share/mime/packages/jdownloader.xml": "c4301592694b3273ed44814debcc03bf1e4fc85882954f5c03e55508c53c4491",
+    "/usr/share/applications/jdownloader.desktop": "44a499df472328f9034f9972aad02df0fc27a45ef1bb3e9314576d2fa9fdfcbe",
+    "/usr/share/applications/jd-containers.desktop": "92cfbe543ee1f9e094347dbd9c0c6a59bd52974145f00dbece8ed0da9a828bfa",
+    "/usr/share/icons/hicolor/16x16/mimetypes/jd-container.png": "16d70dfefe6d4d655313ff2784d2d259287d09634236e17a8c0ba00eac136274",
+    "/usr/share/icons/hicolor/16x16/apps/jdownloader.png": "b7cad9813e641eddf82571609346bb3a9cdb75e57ffa0a43fbc75721af2bc99c",
+    "/usr/share/icons/hicolor/22x22/mimetypes/jd-container.png": "69d99b5d27c847eb7d99ea4e49adba2a5ac1cb12ce10eb03d38e524d6f12e234",
+    "/usr/share/icons/hicolor/22x22/apps/jdownloader.png": "02ecfb160b7973f5739357e4676556a0f9e01df5b655eab40fe89f463514259a",
+    "/usr/share/icons/hicolor/24x24/mimetypes/jd-container.png": "7d6073a968ff0d33a259a622ed34d8a58beb9cbdf715a8279b384546b1b4df38",
+    "/usr/share/icons/hicolor/24x24/apps/jdownloader.png": "a10a45298541c025f28e9a084a87ab89a53428a00a50a9944ed3bac7978340fd",
+    "/usr/share/icons/hicolor/32x32/mimetypes/jd-container.png": "69ad34361769c576422bc245b910c4e0e8ed89e75435ac0a3aced9911872aaca",
+    "/usr/share/icons/hicolor/32x32/apps/jdownloader.png": "cb63ab195ff1b876b668dbe518f4572971e5e0fe239a627ef67486933fcaed07",
+    "/usr/share/icons/hicolor/48x48/mimetypes/jd-container.png": "271b10840c2d9df2c94deb28ac1477c3f3424a7cd0033e41f09615dddefa0947",
+    "/usr/share/icons/hicolor/48x48/apps/jdownloader.png": "b5540647f8120f723fb14747473a96e3ee031ffbc0f097e66c6cfd3431bf4e56",
+    "/usr/share/icons/hicolor/256x256/mimetypes/jd-container.png": "896eb67760bf0f3b2527b1f0cebee6cb0d16499af8961cb38bb5dca3e6d27d07",
+    "/usr/share/icons/hicolor/256x256/apps/jdownloader.png": "6c7a28ec72c8627e9bf06a58d7f6bfed075632a6743e1c8087dc0fa065261504",
+    "/usr/lib/systemd/system/jdownloader.service": "8d170fd301b37302a4f64cec759bdb5c879cb30c8b8e94120f3f985df1d31b7f",
+    "/usr/bin/JDownloader": "cab5904f226028fdc9384f407ceca34b4305885176fad29b08a2e8b83653a345",
+    "/usr/bin/jdownloader": "cab5904f226028fdc9384f407ceca34b4305885176fad29b08a2e8b83653a345",
+    "/usr/bin/JDownloaderHeadless": "d555c78d8110e536aee67de765ee5134d872fbb48354050f7b2f14ff5499120a",
+    "/usr/bin/JDownloaderHeadlessCtl": "dca392fad29c70eff609ec25abaefd33343c8a6c98088e0719c6746759ed0aa5",
+    "/usr/bin/JDownloaderHeadlessCleanLogin": "1c9949bfeaf3595783eec9501e600cb8c4443e04f72d57c095560fb66dcd53d1",
+    "/opt/JDownloaderScripts/JDownloader": "cab5904f226028fdc9384f407ceca34b4305885176fad29b08a2e8b83653a345",
+    "/opt/JDownloaderScripts/JDownloaderHeadless": "d555c78d8110e536aee67de765ee5134d872fbb48354050f7b2f14ff5499120a",
+    "/opt/JDownloaderScripts/JDownloaderHeadlessCtl": "dca392fad29c70eff609ec25abaefd33343c8a6c98088e0719c6746759ed0aa5",
+    "/opt/JDownloaderScripts/functions.sh": "70f4a5cd95532c70ae20a357e655d01ac23fe92bb71feac45973e2b53d024cff",
+    "/opt/JDownloaderScripts/JDownloaderHeadlessCleanLogin": "1c9949bfeaf3595783eec9501e600cb8c4443e04f72d57c095560fb66dcd53d1",
+    "/var/log/pacman.log": "c9a5c0f26213a461db2fd23f93dad6b688129d3bd43e3869bf278b041308056a"
+  }
+}

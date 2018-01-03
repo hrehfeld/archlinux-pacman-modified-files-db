@@ -1,1 +1,22 @@
-{"0.7.5-2": {"/usr/lib/libssh.so.4": "952e2178d7831376b43fef0014a768c9a97976e7402be4574697d48a9293752d", "/usr/lib/libssh.so": "952e2178d7831376b43fef0014a768c9a97976e7402be4574697d48a9293752d", "/usr/lib/libssh_threads.so.4": "ef5a130c619e80a5312e96155c9318493a049ff44fc3c099339be38111413625", "/usr/lib/libssh_threads.so": "ef5a130c619e80a5312e96155c9318493a049ff44fc3c099339be38111413625", "/usr/lib/libssh_threads.so.4.4.2": "ef5a130c619e80a5312e96155c9318493a049ff44fc3c099339be38111413625", "/usr/lib/libssh.so.4.4.2": "952e2178d7831376b43fef0014a768c9a97976e7402be4574697d48a9293752d", "/usr/lib/pkgconfig/libssh.pc": "4921912e8bebb31da9319aab6721add546869c08d146785c4631fee305cd5e09", "/usr/lib/pkgconfig/libssh_threads.pc": "2c0ec12d188bddaf0ac2f1f0a58b9e7e8b4b36f3b3177023a6d8ae70f088ed3a", "/usr/lib/cmake/libssh/libssh-config.cmake": "2abceb0d2350234e62da04564f1aaad4692e3f6066edcbc997e4a770a5fd3c0f", "/usr/lib/cmake/libssh/libssh-config-version.cmake": "16b87444ed675dbfa16f1912e73eb078610c3938f51d1e0cb60cc84bc5102816", "/usr/include/libssh/callbacks.h": "c1c2d0ac6e9a8a3f705bb63d083cea1dd5937216016cc81f4796f045fc04eb47", "/usr/include/libssh/libssh.h": "11ff84458d403688ae50c54e27c72810764090331e82704c28c138e90fe7d8d3", "/usr/include/libssh/ssh2.h": "5d2ac9dc8ae2105a9c734eda27ca18d39babbdcddda214cb439cc7dffc87f901", "/usr/include/libssh/legacy.h": "8b72983fa7f47f00a50dc9cc0fcaa320ac7bec0f3b668bfcca5757d3a1f10c1b", "/usr/include/libssh/libsshpp.hpp": "3d376985dfdc2174b670b8bee662b95d08b35118108f1a8a3e5ec6860b1aae88", "/usr/include/libssh/sftp.h": "d0fb014e89c032007dff37977bae5f8b264866864fcbdec6c7938cfda7c0faab", "/usr/include/libssh/server.h": "aa84683241d39d100df95352c0452183c4a3641a85e4332d654ce35094cdbe15", "/var/log/pacman.log": "7553a6a2224b78bcfb3eaac80aac855d35d13cae8e67de8130fa4aab7a5bc5e9"}}
+{
+  "0.7.5-2": {
+    "/usr/lib/libssh.so.4": "952e2178d7831376b43fef0014a768c9a97976e7402be4574697d48a9293752d",
+    "/usr/lib/libssh.so": "952e2178d7831376b43fef0014a768c9a97976e7402be4574697d48a9293752d",
+    "/usr/lib/libssh_threads.so.4": "ef5a130c619e80a5312e96155c9318493a049ff44fc3c099339be38111413625",
+    "/usr/lib/libssh_threads.so": "ef5a130c619e80a5312e96155c9318493a049ff44fc3c099339be38111413625",
+    "/usr/lib/libssh_threads.so.4.4.2": "ef5a130c619e80a5312e96155c9318493a049ff44fc3c099339be38111413625",
+    "/usr/lib/libssh.so.4.4.2": "952e2178d7831376b43fef0014a768c9a97976e7402be4574697d48a9293752d",
+    "/usr/lib/pkgconfig/libssh.pc": "4921912e8bebb31da9319aab6721add546869c08d146785c4631fee305cd5e09",
+    "/usr/lib/pkgconfig/libssh_threads.pc": "2c0ec12d188bddaf0ac2f1f0a58b9e7e8b4b36f3b3177023a6d8ae70f088ed3a",
+    "/usr/lib/cmake/libssh/libssh-config.cmake": "2abceb0d2350234e62da04564f1aaad4692e3f6066edcbc997e4a770a5fd3c0f",
+    "/usr/lib/cmake/libssh/libssh-config-version.cmake": "16b87444ed675dbfa16f1912e73eb078610c3938f51d1e0cb60cc84bc5102816",
+    "/usr/include/libssh/callbacks.h": "c1c2d0ac6e9a8a3f705bb63d083cea1dd5937216016cc81f4796f045fc04eb47",
+    "/usr/include/libssh/libssh.h": "11ff84458d403688ae50c54e27c72810764090331e82704c28c138e90fe7d8d3",
+    "/usr/include/libssh/ssh2.h": "5d2ac9dc8ae2105a9c734eda27ca18d39babbdcddda214cb439cc7dffc87f901",
+    "/usr/include/libssh/legacy.h": "8b72983fa7f47f00a50dc9cc0fcaa320ac7bec0f3b668bfcca5757d3a1f10c1b",
+    "/usr/include/libssh/libsshpp.hpp": "3d376985dfdc2174b670b8bee662b95d08b35118108f1a8a3e5ec6860b1aae88",
+    "/usr/include/libssh/sftp.h": "d0fb014e89c032007dff37977bae5f8b264866864fcbdec6c7938cfda7c0faab",
+    "/usr/include/libssh/server.h": "aa84683241d39d100df95352c0452183c4a3641a85e4332d654ce35094cdbe15",
+    "/var/log/pacman.log": "7553a6a2224b78bcfb3eaac80aac855d35d13cae8e67de8130fa4aab7a5bc5e9"
+  }
+}

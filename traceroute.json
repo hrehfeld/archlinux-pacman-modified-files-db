@@ -1,1 +1,7 @@
-{"2.1.0-1": {"/usr/share/man/man8/traceroute.8.gz": "814f3c1677e83ba53b2e1b346a353755bb0570701f55565e9b278662cadb6fd1", "/usr/bin/traceroute": "4e664e343ff2252aae660473956d48d91764f4872c99da6a8e90ea9c6dc6db1a", "/var/log/pacman.log": "e5bba11277f2e362b7379ca34d395af7bdd4f112ab2cf30f1412f7a1c1266c00"}}
+{
+  "2.1.0-1": {
+    "/usr/share/man/man8/traceroute.8.gz": "814f3c1677e83ba53b2e1b346a353755bb0570701f55565e9b278662cadb6fd1",
+    "/usr/bin/traceroute": "4e664e343ff2252aae660473956d48d91764f4872c99da6a8e90ea9c6dc6db1a",
+    "/var/log/pacman.log": "e5bba11277f2e362b7379ca34d395af7bdd4f112ab2cf30f1412f7a1c1266c00"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "1.13-4": {
+    "/usr/lib/python2.7/site-packages/pyPdf-1.13-py2.7.egg-info": "7c6f3e85f6bdefeb582d3ecf6cac9ab55c878612625ddafd2eed154a955e144c",
+    "/usr/lib/python2.7/site-packages/pyPdf/generic.py": "e034cfa1b374fd74f319969da6ed8585487c82b14379a96b5645fbc109ed5940",
+    "/usr/lib/python2.7/site-packages/pyPdf/utils.py": "98e72bd111ecbf69da61e8109d6801ee97c363171c15aecab12fdccc8a897d11",
+    "/usr/lib/python2.7/site-packages/pyPdf/__init__.py": "c4b59c93ef8622bd33811189788eea6c52b3cd3b4ec1c7b584c3b5936596d10b",
+    "/usr/lib/python2.7/site-packages/pyPdf/pdf.py": "8a32c1d95ffb581af5e10cb506316545b753347597a7d6a64fbc21be77314654",
+    "/usr/lib/python2.7/site-packages/pyPdf/filters.py": "4cfc067d53d60d7b3ffc3caa0b81f6ef52484ee5df078ce788b670c5fa371852",
+    "/usr/lib/python2.7/site-packages/pyPdf/xmp.py": "463fff97df8c21d927a63ac8ce9939fb2dcaf955317fcc3764d14676536cf82b",
+    "/usr/lib/python2.7/site-packages/pyPdf/generic.pyc": "7e04ef339633f094738e367d18a5ae69549c63d6eb36452ee8c5472fb03b4dbf",
+    "/usr/lib/python2.7/site-packages/pyPdf/utils.pyc": "1d7279d7b85bc94cb4eb10aa42eea039a3538620d5c570db3b88a23be77c8b68",
+    "/usr/lib/python2.7/site-packages/pyPdf/__init__.pyc": "9e0bfafa8acdedf90636ae1722d1cd1a1f274b4c82cf81ebc975c47963621c44",
+    "/usr/lib/python2.7/site-packages/pyPdf/pdf.pyc": "52684bd94ed43c559ac9dfbdfc512762f8441c263983dda4832638a8a7ab23ca",
+    "/usr/lib/python2.7/site-packages/pyPdf/filters.pyc": "452439b67bb4c26b1c8778779b43ccae49c71f497c582458ba2be0383fc026d8",
+    "/usr/lib/python2.7/site-packages/pyPdf/xmp.pyc": "80e5b15df0eb22acbfeba482a8086987923f6328762d82fd1537f6061aff2ee4",
+    "/usr/share/licenses/python2-pypdf/LICENSE": "50ba5f73d8981222fe56ea3295bfa7e1cc51476f1044a1233d6c3500c741f786",
+    "/var/log/pacman.log": "91956b9a1052a4c1ee61b59df24ea8d6505f98552793fa448388ec313958e0eb"
+  }
+}

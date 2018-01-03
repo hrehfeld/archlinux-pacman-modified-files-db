@@ -1,1 +1,12 @@
-{"1.1.2-1": {"/usr/include/X11/Xdmcp.h": "7326c6b4504939ba0ad61fece04238460020996ef230b8bd9e6b14e4ad5ca426", "/usr/share/licenses/libxdmcp/COPYING": "8a3c3f35b0dbcb60a4e242b9e4394a352a65bb27deb2938ea1e2e62a626e16e9", "/usr/share/doc/libXdmcp/xdmcp.xml": "7d4cf2226664df4a48c58b79478faf0254fb698ecaaf598db1a9ffd197330fcf", "/usr/lib/libXdmcp.so.6": "233da93f30c13402648021e0c95113561edf708ea866679ae00ca12e45df6af5", "/usr/lib/libXdmcp.so": "233da93f30c13402648021e0c95113561edf708ea866679ae00ca12e45df6af5", "/usr/lib/libXdmcp.so.6.0.0": "233da93f30c13402648021e0c95113561edf708ea866679ae00ca12e45df6af5", "/usr/lib/pkgconfig/xdmcp.pc": "f3982edab409270d8582ba259c6888423abd9034be0b1d8148bcf86fd1fa810f", "/var/log/pacman.log": "2df481c7ed08e02ccc3bc7919a04228b14d9d39c16975a9998354c842964148a"}}
+{
+  "1.1.2-1": {
+    "/usr/include/X11/Xdmcp.h": "7326c6b4504939ba0ad61fece04238460020996ef230b8bd9e6b14e4ad5ca426",
+    "/usr/share/licenses/libxdmcp/COPYING": "8a3c3f35b0dbcb60a4e242b9e4394a352a65bb27deb2938ea1e2e62a626e16e9",
+    "/usr/share/doc/libXdmcp/xdmcp.xml": "7d4cf2226664df4a48c58b79478faf0254fb698ecaaf598db1a9ffd197330fcf",
+    "/usr/lib/libXdmcp.so.6": "233da93f30c13402648021e0c95113561edf708ea866679ae00ca12e45df6af5",
+    "/usr/lib/libXdmcp.so": "233da93f30c13402648021e0c95113561edf708ea866679ae00ca12e45df6af5",
+    "/usr/lib/libXdmcp.so.6.0.0": "233da93f30c13402648021e0c95113561edf708ea866679ae00ca12e45df6af5",
+    "/usr/lib/pkgconfig/xdmcp.pc": "f3982edab409270d8582ba259c6888423abd9034be0b1d8148bcf86fd1fa810f",
+    "/var/log/pacman.log": "2df481c7ed08e02ccc3bc7919a04228b14d9d39c16975a9998354c842964148a"
+  }
+}

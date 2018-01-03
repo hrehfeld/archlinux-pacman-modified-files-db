@@ -1,1 +1,9 @@
-{"2.3.1-3": {"/usr/share/licenses/dmxproto/COPYING": "819e8dcd3dd2a44850c350331aa492230f86bccb0983dd739dec5ba36d7d2b8e", "/usr/lib/pkgconfig/dmxproto.pc": "9298eadf73ac342e72f144ff216366a5717f7aad8a86189e62190d0840610aa2", "/usr/include/X11/extensions/dmxproto.h": "38563a0973764cdf2877af2c5269d0b6896223f45f3167ecd0babcf11f90b1e8", "/usr/include/X11/extensions/dmx.h": "0c7a2b2fad12ce2a2e4cbc5abbb3352bb818c474c9ae2293f3111d277d26a2c5", "/var/log/pacman.log": "9c48aae2219cf9918d951b39ca6720c2a9ee9b1876788ca8f524b1800c62b2f2"}}
+{
+  "2.3.1-3": {
+    "/usr/share/licenses/dmxproto/COPYING": "819e8dcd3dd2a44850c350331aa492230f86bccb0983dd739dec5ba36d7d2b8e",
+    "/usr/lib/pkgconfig/dmxproto.pc": "9298eadf73ac342e72f144ff216366a5717f7aad8a86189e62190d0840610aa2",
+    "/usr/include/X11/extensions/dmxproto.h": "38563a0973764cdf2877af2c5269d0b6896223f45f3167ecd0babcf11f90b1e8",
+    "/usr/include/X11/extensions/dmx.h": "0c7a2b2fad12ce2a2e4cbc5abbb3352bb818c474c9ae2293f3111d277d26a2c5",
+    "/var/log/pacman.log": "9c48aae2219cf9918d951b39ca6720c2a9ee9b1876788ca8f524b1800c62b2f2"
+  }
+}

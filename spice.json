@@ -1,1 +1,19 @@
-{"0.12.8+8+ga957a90b-1": {"/usr/lib/libspice-server.so.1": "7b293c7cb085c1748a15061e24da7c0882ea8b6c1b8d9ead1b8fbe43301a0c77", "/usr/lib/libspice-server.so": "7b293c7cb085c1748a15061e24da7c0882ea8b6c1b8d9ead1b8fbe43301a0c77", "/usr/lib/libspice-server.so.1.10.1": "7b293c7cb085c1748a15061e24da7c0882ea8b6c1b8d9ead1b8fbe43301a0c77", "/usr/lib/pkgconfig/spice-server.pc": "331321f7c15f1ca780d14092759d93b63c5389ff7265767c62963f05af098e24", "/usr/include/spice-server/spice-audio.h": "97e621b081a723ead519f3de826cbe42b8a8f498b1f072978f0e7629adbe4a95", "/usr/include/spice-server/spice-char.h": "164dae6b37e9daea86b703c1b61dafb5333686d80d4a0545a07749d69475fe65", "/usr/include/spice-server/spice-core.h": "32d47f364e706decede79e875e79be0cd96cb4a2596f21bb2631a564552ff6aa", "/usr/include/spice-server/spice-experimental.h": "6c6ca326c746d528da5d5c7058ee15d78a62c182f91f5985f272ad5fadf956a0", "/usr/include/spice-server/spice-input.h": "f190da5b17d361a92379f920301c8dc332714801b4150ebab59e6419426d3aeb", "/usr/include/spice-server/spice-migration.h": "bf3e17a16cb10e03784279dd90fe8f412cc85df5fd0f76e2635cd15909027c83", "/usr/include/spice-server/spice-qxl.h": "818d0cf4b34a2c78abdacb563e67634ee7bf6e161ea9b6b3a4159a2bf039aee9", "/usr/include/spice-server/spice-server.h": "77c315643146fad701e71b55815b36d16fa4d29b4b72ab13c43eb17aa8172444", "/usr/include/spice-server/spice-version.h": "266d437641e595001f67a7c094f39bda079d0389412ec01dc0a3ebf661ddee17", "/usr/include/spice-server/spice.h": "e5f5947b859b8904f31a3eb3abda07d7ad2893c7af19942fc1cf897579371b7b", "/var/log/pacman.log": "4ddaa1b438172846b5924a2edd85125fec3828b4a020459116459f255a471c64"}}
+{
+  "0.12.8+8+ga957a90b-1": {
+    "/usr/lib/libspice-server.so.1": "7b293c7cb085c1748a15061e24da7c0882ea8b6c1b8d9ead1b8fbe43301a0c77",
+    "/usr/lib/libspice-server.so": "7b293c7cb085c1748a15061e24da7c0882ea8b6c1b8d9ead1b8fbe43301a0c77",
+    "/usr/lib/libspice-server.so.1.10.1": "7b293c7cb085c1748a15061e24da7c0882ea8b6c1b8d9ead1b8fbe43301a0c77",
+    "/usr/lib/pkgconfig/spice-server.pc": "331321f7c15f1ca780d14092759d93b63c5389ff7265767c62963f05af098e24",
+    "/usr/include/spice-server/spice-audio.h": "97e621b081a723ead519f3de826cbe42b8a8f498b1f072978f0e7629adbe4a95",
+    "/usr/include/spice-server/spice-char.h": "164dae6b37e9daea86b703c1b61dafb5333686d80d4a0545a07749d69475fe65",
+    "/usr/include/spice-server/spice-core.h": "32d47f364e706decede79e875e79be0cd96cb4a2596f21bb2631a564552ff6aa",
+    "/usr/include/spice-server/spice-experimental.h": "6c6ca326c746d528da5d5c7058ee15d78a62c182f91f5985f272ad5fadf956a0",
+    "/usr/include/spice-server/spice-input.h": "f190da5b17d361a92379f920301c8dc332714801b4150ebab59e6419426d3aeb",
+    "/usr/include/spice-server/spice-migration.h": "bf3e17a16cb10e03784279dd90fe8f412cc85df5fd0f76e2635cd15909027c83",
+    "/usr/include/spice-server/spice-qxl.h": "818d0cf4b34a2c78abdacb563e67634ee7bf6e161ea9b6b3a4159a2bf039aee9",
+    "/usr/include/spice-server/spice-server.h": "77c315643146fad701e71b55815b36d16fa4d29b4b72ab13c43eb17aa8172444",
+    "/usr/include/spice-server/spice-version.h": "266d437641e595001f67a7c094f39bda079d0389412ec01dc0a3ebf661ddee17",
+    "/usr/include/spice-server/spice.h": "e5f5947b859b8904f31a3eb3abda07d7ad2893c7af19942fc1cf897579371b7b",
+    "/var/log/pacman.log": "4ddaa1b438172846b5924a2edd85125fec3828b4a020459116459f255a471c64"
+  }
+}

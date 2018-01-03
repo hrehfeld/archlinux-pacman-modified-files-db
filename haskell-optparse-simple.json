@@ -1,1 +1,19 @@
-{"0.0.4-1": {"/usr/share/haskell/register/haskell-optparse-simple.sh": "9aab345481fba7a536c7881821dda2c9f2486a50f002936339a127bfec0b3d34", "/usr/share/haskell/unregister/haskell-optparse-simple.sh": "58fe437aba0bec1777d3d47befb686f28313413413ac169f29602febfecf30e5", "/usr/share/licenses/haskell-optparse-simple/LICENSE": "1c4e8f6ac2bef015f7e6fe8dc379ff5d3e7f6632705566d507fb6e965a918b98", "/usr/lib/libHSoptparse-simple-0.0.4-9EOUtiMj6pXIAE2bfPvcjF-ghc8.2.1.so": "6dacddbf7d837a3a5caaae393c3b6443d3bf439f0958844d812f39380dc2d5ad", "/usr/lib/ghc-8.2.1/site-local/optparse-simple-0.0.4/Options/Applicative/Simple.dyn_hi": "3493edc1ae6a42a77e78f2ea731cf4c246a9635e4b192e031047a6689b293e73", "/var/log/pacman.log": "d5e8deb8620c47c92be2f723b0409cb5b9508f8f9d3e89bd383e1ec36f738066"}, "0.1.0-2": {"/usr/share/haskell/register/haskell-optparse-simple.sh": "ea861f2860d63007613e8a96e5ea42aa5e27ed914b749bf4d699d231461019c2", "/usr/share/haskell/unregister/haskell-optparse-simple.sh": "78dbaad8e87d33bb076f4d7af58978574d7aebaa47caa0897ab952d6b0ce3b16", "/usr/share/licenses/haskell-optparse-simple/LICENSE": "1c4e8f6ac2bef015f7e6fe8dc379ff5d3e7f6632705566d507fb6e965a918b98", "/usr/lib/libHSoptparse-simple-0.1.0-U6egoItXQR5VQ47OIgiMX-ghc8.2.2.so": "c0928ed5a29c8017ff678b76a250dc1f2e0dfec17fb50c7eee03d41a76d9ff5e", "/usr/lib/ghc-8.2.2/site-local/optparse-simple-0.1.0/Paths_optparse_simple.dyn_hi": "964e44746de0cee1a741e68a61135a45a0413fb30fd58629ccfa97bfa8cfd5cd", "/usr/lib/ghc-8.2.2/site-local/optparse-simple-0.1.0/Options/Applicative/Simple.dyn_hi": "ddc93807e96c6206730e7451c314d81823cc5df1952db67fa5bc539fa8809e35", "/var/log/pacman.log": "92bc1c112194a805a152fe0509b655de52f29ee038e4188d78d8af83105f9dfb"}}
+{
+  "0.0.4-1": {
+    "/usr/share/haskell/register/haskell-optparse-simple.sh": "9aab345481fba7a536c7881821dda2c9f2486a50f002936339a127bfec0b3d34",
+    "/usr/share/haskell/unregister/haskell-optparse-simple.sh": "58fe437aba0bec1777d3d47befb686f28313413413ac169f29602febfecf30e5",
+    "/usr/share/licenses/haskell-optparse-simple/LICENSE": "1c4e8f6ac2bef015f7e6fe8dc379ff5d3e7f6632705566d507fb6e965a918b98",
+    "/usr/lib/libHSoptparse-simple-0.0.4-9EOUtiMj6pXIAE2bfPvcjF-ghc8.2.1.so": "6dacddbf7d837a3a5caaae393c3b6443d3bf439f0958844d812f39380dc2d5ad",
+    "/usr/lib/ghc-8.2.1/site-local/optparse-simple-0.0.4/Options/Applicative/Simple.dyn_hi": "3493edc1ae6a42a77e78f2ea731cf4c246a9635e4b192e031047a6689b293e73",
+    "/var/log/pacman.log": "d5e8deb8620c47c92be2f723b0409cb5b9508f8f9d3e89bd383e1ec36f738066"
+  },
+  "0.1.0-2": {
+    "/usr/share/haskell/register/haskell-optparse-simple.sh": "ea861f2860d63007613e8a96e5ea42aa5e27ed914b749bf4d699d231461019c2",
+    "/usr/share/haskell/unregister/haskell-optparse-simple.sh": "78dbaad8e87d33bb076f4d7af58978574d7aebaa47caa0897ab952d6b0ce3b16",
+    "/usr/share/licenses/haskell-optparse-simple/LICENSE": "1c4e8f6ac2bef015f7e6fe8dc379ff5d3e7f6632705566d507fb6e965a918b98",
+    "/usr/lib/libHSoptparse-simple-0.1.0-U6egoItXQR5VQ47OIgiMX-ghc8.2.2.so": "c0928ed5a29c8017ff678b76a250dc1f2e0dfec17fb50c7eee03d41a76d9ff5e",
+    "/usr/lib/ghc-8.2.2/site-local/optparse-simple-0.1.0/Paths_optparse_simple.dyn_hi": "964e44746de0cee1a741e68a61135a45a0413fb30fd58629ccfa97bfa8cfd5cd",
+    "/usr/lib/ghc-8.2.2/site-local/optparse-simple-0.1.0/Options/Applicative/Simple.dyn_hi": "ddc93807e96c6206730e7451c314d81823cc5df1952db67fa5bc539fa8809e35",
+    "/var/log/pacman.log": "92bc1c112194a805a152fe0509b655de52f29ee038e4188d78d8af83105f9dfb"
+  }
+}

@@ -1,1 +1,11 @@
-{"0.2.0-3": {"/usr/bin/alsa_delay": "14570e22e069d6148de22ef1a559fc918280e2c27d5e716c50969de37299f7ad", "/usr/bin/alsa_loopback": "735b8ec57b5af7e9bd010ba4d9331e7407c4ea6eaf767febe4120e2bfe350c44", "/usr/include/zita-alsa-pcmi.h": "433d916b2ed044569fa73ff148ea3f11c0c70e22518e28ebaf8eb1ce04259dc7", "/usr/lib/libzita-alsa-pcmi.so": "047172ac3c069dc85b0072f0ed6b7a32798aaa159fc7847c552b07cea80f49a9", "/usr/lib/libzita-alsa-pcmi.so.0.2.0": "047172ac3c069dc85b0072f0ed6b7a32798aaa159fc7847c552b07cea80f49a9", "/usr/lib/libzita-alsa-pcmi.so.0": "047172ac3c069dc85b0072f0ed6b7a32798aaa159fc7847c552b07cea80f49a9", "/var/log/pacman.log": "fcfe801cd6d9c0c77fb00c7f5d8aaeb167ddacdcacf745918ca2d6aca825167b"}}
+{
+  "0.2.0-3": {
+    "/usr/bin/alsa_delay": "14570e22e069d6148de22ef1a559fc918280e2c27d5e716c50969de37299f7ad",
+    "/usr/bin/alsa_loopback": "735b8ec57b5af7e9bd010ba4d9331e7407c4ea6eaf767febe4120e2bfe350c44",
+    "/usr/include/zita-alsa-pcmi.h": "433d916b2ed044569fa73ff148ea3f11c0c70e22518e28ebaf8eb1ce04259dc7",
+    "/usr/lib/libzita-alsa-pcmi.so": "047172ac3c069dc85b0072f0ed6b7a32798aaa159fc7847c552b07cea80f49a9",
+    "/usr/lib/libzita-alsa-pcmi.so.0.2.0": "047172ac3c069dc85b0072f0ed6b7a32798aaa159fc7847c552b07cea80f49a9",
+    "/usr/lib/libzita-alsa-pcmi.so.0": "047172ac3c069dc85b0072f0ed6b7a32798aaa159fc7847c552b07cea80f49a9",
+    "/var/log/pacman.log": "fcfe801cd6d9c0c77fb00c7f5d8aaeb167ddacdcacf745918ca2d6aca825167b"
+  }
+}

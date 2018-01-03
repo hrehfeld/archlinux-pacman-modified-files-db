@@ -1,1 +1,23 @@
-{"1.2.2-2": {"/usr/include/X11/extensions/scrnsaver.h": "f8459717a4a307ddbb966f8cc341fa5e2f88ebbdab7e263feb7c05a8eea2288c", "/usr/lib/libXss.so.1.0.0": "90c5ea383ef3ad3340462212fd364008ee37a957a3cedc5a34eb3f9b4b7800f9", "/usr/lib/libXss.so": "90c5ea383ef3ad3340462212fd364008ee37a957a3cedc5a34eb3f9b4b7800f9", "/usr/lib/libXss.so.1": "90c5ea383ef3ad3340462212fd364008ee37a957a3cedc5a34eb3f9b4b7800f9", "/usr/lib/pkgconfig/xscrnsaver.pc": "4690b2ff812939a8b1a28ed6b5a52a1049d7031437ad5964e8e79287686ab870", "/usr/share/licenses/libxss/COPYING": "5cf3e16f5dd753a4c0853e8227134ab65f5562d9ef89b1a2d7681f5c8ac9feb5", "/usr/share/man/man3/XScreenSaverSetAttributes.3.gz": "fbb42f1abc3d4c5093f9b3b1a6f63427e29e3f33a69d1485996e9cc6d62ebea4", "/usr/share/man/man3/XScreenSaverSelectInput.3.gz": "fbb42f1abc3d4c5093f9b3b1a6f63427e29e3f33a69d1485996e9cc6d62ebea4", "/usr/share/man/man3/XScreenSaverSuspend.3.gz": "fbb42f1abc3d4c5093f9b3b1a6f63427e29e3f33a69d1485996e9cc6d62ebea4", "/usr/share/man/man3/XScreenSaverQueryExtension.3.gz": "fbb42f1abc3d4c5093f9b3b1a6f63427e29e3f33a69d1485996e9cc6d62ebea4", "/usr/share/man/man3/XScreenSaverAllocInfo.3.gz": "fbb42f1abc3d4c5093f9b3b1a6f63427e29e3f33a69d1485996e9cc6d62ebea4", "/usr/share/man/man3/Xss.3.gz": "b903f32ad7b2c92f93d44394bd1fa723139628d01f46e319e4dfe3155d416c9f", "/usr/share/man/man3/XScreenSaverQueryInfo.3.gz": "fbb42f1abc3d4c5093f9b3b1a6f63427e29e3f33a69d1485996e9cc6d62ebea4", "/usr/share/man/man3/XScreenSaverRegister.3.gz": "fbb42f1abc3d4c5093f9b3b1a6f63427e29e3f33a69d1485996e9cc6d62ebea4", "/usr/share/man/man3/XScreenSaverQueryVersion.3.gz": "fbb42f1abc3d4c5093f9b3b1a6f63427e29e3f33a69d1485996e9cc6d62ebea4", "/usr/share/man/man3/XScreenSaverGetRegistered.3.gz": "fbb42f1abc3d4c5093f9b3b1a6f63427e29e3f33a69d1485996e9cc6d62ebea4", "/usr/share/man/man3/XScreenSaverUnregister.3.gz": "fbb42f1abc3d4c5093f9b3b1a6f63427e29e3f33a69d1485996e9cc6d62ebea4", "/usr/share/man/man3/XScreenSaverUnsetAttributes.3.gz": "fbb42f1abc3d4c5093f9b3b1a6f63427e29e3f33a69d1485996e9cc6d62ebea4", "/var/log/pacman.log": "3fa27560e017b36a81d099d09830755e774b8acb6931a050ac9c4d0db119757d"}}
+{
+  "1.2.2-2": {
+    "/usr/include/X11/extensions/scrnsaver.h": "f8459717a4a307ddbb966f8cc341fa5e2f88ebbdab7e263feb7c05a8eea2288c",
+    "/usr/lib/libXss.so.1.0.0": "90c5ea383ef3ad3340462212fd364008ee37a957a3cedc5a34eb3f9b4b7800f9",
+    "/usr/lib/libXss.so": "90c5ea383ef3ad3340462212fd364008ee37a957a3cedc5a34eb3f9b4b7800f9",
+    "/usr/lib/libXss.so.1": "90c5ea383ef3ad3340462212fd364008ee37a957a3cedc5a34eb3f9b4b7800f9",
+    "/usr/lib/pkgconfig/xscrnsaver.pc": "4690b2ff812939a8b1a28ed6b5a52a1049d7031437ad5964e8e79287686ab870",
+    "/usr/share/licenses/libxss/COPYING": "5cf3e16f5dd753a4c0853e8227134ab65f5562d9ef89b1a2d7681f5c8ac9feb5",
+    "/usr/share/man/man3/XScreenSaverSetAttributes.3.gz": "fbb42f1abc3d4c5093f9b3b1a6f63427e29e3f33a69d1485996e9cc6d62ebea4",
+    "/usr/share/man/man3/XScreenSaverSelectInput.3.gz": "fbb42f1abc3d4c5093f9b3b1a6f63427e29e3f33a69d1485996e9cc6d62ebea4",
+    "/usr/share/man/man3/XScreenSaverSuspend.3.gz": "fbb42f1abc3d4c5093f9b3b1a6f63427e29e3f33a69d1485996e9cc6d62ebea4",
+    "/usr/share/man/man3/XScreenSaverQueryExtension.3.gz": "fbb42f1abc3d4c5093f9b3b1a6f63427e29e3f33a69d1485996e9cc6d62ebea4",
+    "/usr/share/man/man3/XScreenSaverAllocInfo.3.gz": "fbb42f1abc3d4c5093f9b3b1a6f63427e29e3f33a69d1485996e9cc6d62ebea4",
+    "/usr/share/man/man3/Xss.3.gz": "b903f32ad7b2c92f93d44394bd1fa723139628d01f46e319e4dfe3155d416c9f",
+    "/usr/share/man/man3/XScreenSaverQueryInfo.3.gz": "fbb42f1abc3d4c5093f9b3b1a6f63427e29e3f33a69d1485996e9cc6d62ebea4",
+    "/usr/share/man/man3/XScreenSaverRegister.3.gz": "fbb42f1abc3d4c5093f9b3b1a6f63427e29e3f33a69d1485996e9cc6d62ebea4",
+    "/usr/share/man/man3/XScreenSaverQueryVersion.3.gz": "fbb42f1abc3d4c5093f9b3b1a6f63427e29e3f33a69d1485996e9cc6d62ebea4",
+    "/usr/share/man/man3/XScreenSaverGetRegistered.3.gz": "fbb42f1abc3d4c5093f9b3b1a6f63427e29e3f33a69d1485996e9cc6d62ebea4",
+    "/usr/share/man/man3/XScreenSaverUnregister.3.gz": "fbb42f1abc3d4c5093f9b3b1a6f63427e29e3f33a69d1485996e9cc6d62ebea4",
+    "/usr/share/man/man3/XScreenSaverUnsetAttributes.3.gz": "fbb42f1abc3d4c5093f9b3b1a6f63427e29e3f33a69d1485996e9cc6d62ebea4",
+    "/var/log/pacman.log": "3fa27560e017b36a81d099d09830755e774b8acb6931a050ac9c4d0db119757d"
+  }
+}

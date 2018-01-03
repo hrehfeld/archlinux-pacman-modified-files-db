@@ -1,1 +1,19 @@
-{"2.1.2-1": {"/usr/lib/libraw1394.so.11": "1e288b4a3a1cd8efc4f82100f7a9f733ac036b49e9d831c793ebfad624219fd2", "/usr/lib/libraw1394.so": "1e288b4a3a1cd8efc4f82100f7a9f733ac036b49e9d831c793ebfad624219fd2", "/usr/lib/libraw1394.so.11.1.0": "1e288b4a3a1cd8efc4f82100f7a9f733ac036b49e9d831c793ebfad624219fd2", "/usr/lib/pkgconfig/libraw1394.pc": "8807fee5e1458ef9f7e8e6e04883861e0c17d64d849f4f3f38d1adba91cb14d3", "/usr/include/libraw1394/raw1394.h": "4a0b9591f88b09164fb398fb6a2c959e4b0ff04bfe3b59ec831605d71d380c73", "/usr/include/libraw1394/csr.h": "ccc121b6eb5e45fe365521dc75cc62373e0caedb0969b8f0eac9d994610f8a6d", "/usr/include/libraw1394/ieee1394.h": "101c48d4806f4a8382a64c7320d5113067e95b398410fced3ea3b5e000f4426f", "/usr/bin/dumpiso": "1d7c027677f44c329ffecf57b659924a97e10de2ac54ed64fca368b3cdf4cc04", "/usr/bin/sendiso": "dacc890e4d759a28a592a143b024e1460a6bb3d06fd2d3ad2894e82ca738f7ab", "/usr/bin/testlibraw": "96608ae623fd434063e20923c9fd5044531ed0da242cdd118b943b0e0a49e51c", "/usr/share/man/man1/dumpiso.1.gz": "60493a417ac838919005a3cd24b98a8670f89ffe051248af8f6c70647f434901", "/usr/share/man/man1/sendiso.1.gz": "34166e5e2fd751ad71047143c956bdf362e928e08abc4b2a5a01261378ee923c", "/usr/share/man/man1/testlibraw.1.gz": "b453ae4f794d7402e5371e1553cbcf4c3f5369f182421fb60d7adb0eed9ee0ae", "/usr/share/man/man5/isodump.5.gz": "b735de020d34c6bc69ad27244be927e5e4b44ab1f078f8e0c384bae89780e50b", "/var/log/pacman.log": "8d64aecc2f5db2287f210d83f2923472fa8e0994be64215c71db283e12d6c15e"}}
+{
+  "2.1.2-1": {
+    "/usr/lib/libraw1394.so.11": "1e288b4a3a1cd8efc4f82100f7a9f733ac036b49e9d831c793ebfad624219fd2",
+    "/usr/lib/libraw1394.so": "1e288b4a3a1cd8efc4f82100f7a9f733ac036b49e9d831c793ebfad624219fd2",
+    "/usr/lib/libraw1394.so.11.1.0": "1e288b4a3a1cd8efc4f82100f7a9f733ac036b49e9d831c793ebfad624219fd2",
+    "/usr/lib/pkgconfig/libraw1394.pc": "8807fee5e1458ef9f7e8e6e04883861e0c17d64d849f4f3f38d1adba91cb14d3",
+    "/usr/include/libraw1394/raw1394.h": "4a0b9591f88b09164fb398fb6a2c959e4b0ff04bfe3b59ec831605d71d380c73",
+    "/usr/include/libraw1394/csr.h": "ccc121b6eb5e45fe365521dc75cc62373e0caedb0969b8f0eac9d994610f8a6d",
+    "/usr/include/libraw1394/ieee1394.h": "101c48d4806f4a8382a64c7320d5113067e95b398410fced3ea3b5e000f4426f",
+    "/usr/bin/dumpiso": "1d7c027677f44c329ffecf57b659924a97e10de2ac54ed64fca368b3cdf4cc04",
+    "/usr/bin/sendiso": "dacc890e4d759a28a592a143b024e1460a6bb3d06fd2d3ad2894e82ca738f7ab",
+    "/usr/bin/testlibraw": "96608ae623fd434063e20923c9fd5044531ed0da242cdd118b943b0e0a49e51c",
+    "/usr/share/man/man1/dumpiso.1.gz": "60493a417ac838919005a3cd24b98a8670f89ffe051248af8f6c70647f434901",
+    "/usr/share/man/man1/sendiso.1.gz": "34166e5e2fd751ad71047143c956bdf362e928e08abc4b2a5a01261378ee923c",
+    "/usr/share/man/man1/testlibraw.1.gz": "b453ae4f794d7402e5371e1553cbcf4c3f5369f182421fb60d7adb0eed9ee0ae",
+    "/usr/share/man/man5/isodump.5.gz": "b735de020d34c6bc69ad27244be927e5e4b44ab1f078f8e0c384bae89780e50b",
+    "/var/log/pacman.log": "8d64aecc2f5db2287f210d83f2923472fa8e0994be64215c71db283e12d6c15e"
+  }
+}

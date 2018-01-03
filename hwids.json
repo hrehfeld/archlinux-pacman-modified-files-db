@@ -1,1 +1,12 @@
-{"20170715-1": {"/usr/share/hwdata/pci.ids": "ef8dcc7f25bd9cee9e604c3f71403eac04c0fd409df057f3b8dd4f81e32aaf82", "/usr/share/hwdata/usb.ids": "79fc6d713add6ebb38916f0f08f682816687e69443f6335fff58a159fe86ded4", "/var/log/pacman.log": "5770d528df07e68d18fe23c1cb514fda81a3c838593c8662cb79eec149b49058"}, "20171003-1": {"/usr/share/hwdata/pci.ids": "35923278c0f02aef2cb474acc353d09fae07badf7fc0e0cb0d906277e47635d1", "/usr/share/hwdata/usb.ids": "2d0403ffccc0ff7150e32c0bf8e2878816b76ba08d2c3bb1059f33627a3da30f", "/var/log/pacman.log": "c9c832773aad0f9e86180ddc6d09bc08b2eb3ac04189d29eb337e29d2fcca28b"}}
+{
+  "20170715-1": {
+    "/usr/share/hwdata/pci.ids": "ef8dcc7f25bd9cee9e604c3f71403eac04c0fd409df057f3b8dd4f81e32aaf82",
+    "/usr/share/hwdata/usb.ids": "79fc6d713add6ebb38916f0f08f682816687e69443f6335fff58a159fe86ded4",
+    "/var/log/pacman.log": "5770d528df07e68d18fe23c1cb514fda81a3c838593c8662cb79eec149b49058"
+  },
+  "20171003-1": {
+    "/usr/share/hwdata/pci.ids": "35923278c0f02aef2cb474acc353d09fae07badf7fc0e0cb0d906277e47635d1",
+    "/usr/share/hwdata/usb.ids": "2d0403ffccc0ff7150e32c0bf8e2878816b76ba08d2c3bb1059f33627a3da30f",
+    "/var/log/pacman.log": "c9c832773aad0f9e86180ddc6d09bc08b2eb3ac04189d29eb337e29d2fcca28b"
+  }
+}

@@ -1,1 +1,7 @@
-{"0.4.0-3": {"/usr/lib/gnome-twitch/player-backends/player-backend-mpv-opengl.plugin": "90ce226a500678c0229edd494d5e7263b812a9a2c7a90933cb477a405e5e5fed", "/usr/lib/gnome-twitch/player-backends/libplayer-backend-mpv-opengl.so": "784f2f29c693de723359dfd3c5c4784f1aa8c71b9d1ddd737d4779d936f36a94", "/var/log/pacman.log": "fbde2f705778b12ac8683df539c26de197869aadd6a1c537203a29b4796ed575"}}
+{
+  "0.4.0-3": {
+    "/usr/lib/gnome-twitch/player-backends/player-backend-mpv-opengl.plugin": "90ce226a500678c0229edd494d5e7263b812a9a2c7a90933cb477a405e5e5fed",
+    "/usr/lib/gnome-twitch/player-backends/libplayer-backend-mpv-opengl.so": "784f2f29c693de723359dfd3c5c4784f1aa8c71b9d1ddd737d4779d936f36a94",
+    "/var/log/pacman.log": "fbde2f705778b12ac8683df539c26de197869aadd6a1c537203a29b4796ed575"
+  }
+}

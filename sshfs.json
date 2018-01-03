@@ -1,1 +1,9 @@
-{"3.3.1-1": {"/usr/share/man/man1/sshfs.1.gz": "37f386eef7ee4ebfccf4b4a89cf815a21637d238964da93ff3a9847ad8be807c", "/usr/bin/sshfs": "94831278fbf3217738ea1e0f12a4facb528cf3009e7bc71355c58fc0c7f08fe3", "/usr/bin/mount.fuse.sshfs": "94831278fbf3217738ea1e0f12a4facb528cf3009e7bc71355c58fc0c7f08fe3", "/usr/bin/mount.sshfs": "94831278fbf3217738ea1e0f12a4facb528cf3009e7bc71355c58fc0c7f08fe3", "/var/log/pacman.log": "38d1f60628d93d7abcbc2fc2a3bd99e4778bdfbd764e7edd389c3cf5616ece34"}}
+{
+  "3.3.1-1": {
+    "/usr/share/man/man1/sshfs.1.gz": "37f386eef7ee4ebfccf4b4a89cf815a21637d238964da93ff3a9847ad8be807c",
+    "/usr/bin/sshfs": "94831278fbf3217738ea1e0f12a4facb528cf3009e7bc71355c58fc0c7f08fe3",
+    "/usr/bin/mount.fuse.sshfs": "94831278fbf3217738ea1e0f12a4facb528cf3009e7bc71355c58fc0c7f08fe3",
+    "/usr/bin/mount.sshfs": "94831278fbf3217738ea1e0f12a4facb528cf3009e7bc71355c58fc0c7f08fe3",
+    "/var/log/pacman.log": "38d1f60628d93d7abcbc2fc2a3bd99e4778bdfbd764e7edd389c3cf5616ece34"
+  }
+}

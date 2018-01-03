@@ -1,1 +1,32 @@
-{"1.0.3-9": {"/usr/share/haskell/register/haskell-uuid-types.sh": "26296eb949fd9c13df45fb65c0a1c9f07a0c3470e6b1e77826f2fd62e57a79cb", "/usr/share/haskell/unregister/haskell-uuid-types.sh": "9615bf0af23cbc30d1988cf050ebf3ad64484edc80a6a0bac417e9aa12628a12", "/usr/share/licenses/haskell-uuid-types/LICENSE": "9fd9cbfc86dd7e1831281a4ba4edf63a03a1f7adf59fc9fdc243b8600f08164d", "/usr/lib/libHSuuid-types-1.0.3-JRgobIDHEgPC3wNlzbV76R-ghc8.2.1.so": "9b9a657a102969a4f4b20be40125f03a09e4b4011453b5661fef73787a124c10", "/usr/lib/ghc-8.2.1/site-local/uuid-types-1.0.3/Data/UUID/Types.dyn_hi": "76f61d1f0c1f0cd1901faae71ddbef056ca135689e4072d89488aef935a01ca7", "/usr/lib/ghc-8.2.1/site-local/uuid-types-1.0.3/Data/UUID/Types/Internal.dyn_hi": "bdbc2f3084df07fdc3ba4cf6be9ed952804c09ed71bbbf88afe9717b91a5b2d0", "/usr/lib/ghc-8.2.1/site-local/uuid-types-1.0.3/Data/UUID/Types/Internal/Builder.dyn_hi": "4c1fc67522d2d3c532a07e7a2df21b9800159b6e34076f06ddafaf9af094fc81", "/var/log/pacman.log": "744cb5481cd393a81752ee24da714d9c3243e0202bed85f6c268c3a3ade52de1"}, "1.0.3-10": {"/usr/share/haskell/register/haskell-uuid-types.sh": "f00f74337b38d9f983dc380d253bf9a3d47682934e5b45e2151fb812d4464802", "/usr/share/haskell/unregister/haskell-uuid-types.sh": "d1adb507b546eab54f210df3fc0e599817efb09090c668c7f43dc2bf2a3fee13", "/usr/share/licenses/haskell-uuid-types/LICENSE": "9fd9cbfc86dd7e1831281a4ba4edf63a03a1f7adf59fc9fdc243b8600f08164d", "/usr/lib/libHSuuid-types-1.0.3-C70jVBzardLFMfav9eGqfw-ghc8.2.2.so": "ebca6f458a076e26b5d79c5e1d1c116c6d57d3980bd3488e354524e6674afe24", "/usr/lib/ghc-8.2.2/site-local/uuid-types-1.0.3/Data/UUID/Types.dyn_hi": "1f939a5a1791208cf13b75dcb4c87023f8a40bdad66f345553a7ef262a939044", "/usr/lib/ghc-8.2.2/site-local/uuid-types-1.0.3/Data/UUID/Types/Internal.dyn_hi": "52c8186554bd7e898edaf92c1c5fc45503a04f67f61c4dc1abc5d5d7347ac2e5", "/usr/lib/ghc-8.2.2/site-local/uuid-types-1.0.3/Data/UUID/Types/Internal/Builder.dyn_hi": "15ca6b2d1b7a466fd82930d538f455aff9bdd14c5951548a9ca65a13d3a23ead", "/var/log/pacman.log": "c4bd00ce7b1946f91957a84722ca822e36cdc188cbd1da9c6089ae5292282294"}}
+{
+  "1.0.3-9": {
+    "/usr/share/haskell/register/haskell-uuid-types.sh": "26296eb949fd9c13df45fb65c0a1c9f07a0c3470e6b1e77826f2fd62e57a79cb",
+    "/usr/share/haskell/unregister/haskell-uuid-types.sh": "9615bf0af23cbc30d1988cf050ebf3ad64484edc80a6a0bac417e9aa12628a12",
+    "/usr/share/licenses/haskell-uuid-types/LICENSE": "9fd9cbfc86dd7e1831281a4ba4edf63a03a1f7adf59fc9fdc243b8600f08164d",
+    "/usr/lib/libHSuuid-types-1.0.3-JRgobIDHEgPC3wNlzbV76R-ghc8.2.1.so": "9b9a657a102969a4f4b20be40125f03a09e4b4011453b5661fef73787a124c10",
+    "/usr/lib/ghc-8.2.1/site-local/uuid-types-1.0.3/Data/UUID/Types.dyn_hi": "76f61d1f0c1f0cd1901faae71ddbef056ca135689e4072d89488aef935a01ca7",
+    "/usr/lib/ghc-8.2.1/site-local/uuid-types-1.0.3/Data/UUID/Types/Internal.dyn_hi": "bdbc2f3084df07fdc3ba4cf6be9ed952804c09ed71bbbf88afe9717b91a5b2d0",
+    "/usr/lib/ghc-8.2.1/site-local/uuid-types-1.0.3/Data/UUID/Types/Internal/Builder.dyn_hi": "4c1fc67522d2d3c532a07e7a2df21b9800159b6e34076f06ddafaf9af094fc81",
+    "/var/log/pacman.log": "744cb5481cd393a81752ee24da714d9c3243e0202bed85f6c268c3a3ade52de1"
+  },
+  "1.0.3-10": {
+    "/usr/share/haskell/register/haskell-uuid-types.sh": "f00f74337b38d9f983dc380d253bf9a3d47682934e5b45e2151fb812d4464802",
+    "/usr/share/haskell/unregister/haskell-uuid-types.sh": "d1adb507b546eab54f210df3fc0e599817efb09090c668c7f43dc2bf2a3fee13",
+    "/usr/share/licenses/haskell-uuid-types/LICENSE": "9fd9cbfc86dd7e1831281a4ba4edf63a03a1f7adf59fc9fdc243b8600f08164d",
+    "/usr/lib/libHSuuid-types-1.0.3-C70jVBzardLFMfav9eGqfw-ghc8.2.2.so": "ebca6f458a076e26b5d79c5e1d1c116c6d57d3980bd3488e354524e6674afe24",
+    "/usr/lib/ghc-8.2.2/site-local/uuid-types-1.0.3/Data/UUID/Types.dyn_hi": "1f939a5a1791208cf13b75dcb4c87023f8a40bdad66f345553a7ef262a939044",
+    "/usr/lib/ghc-8.2.2/site-local/uuid-types-1.0.3/Data/UUID/Types/Internal.dyn_hi": "52c8186554bd7e898edaf92c1c5fc45503a04f67f61c4dc1abc5d5d7347ac2e5",
+    "/usr/lib/ghc-8.2.2/site-local/uuid-types-1.0.3/Data/UUID/Types/Internal/Builder.dyn_hi": "15ca6b2d1b7a466fd82930d538f455aff9bdd14c5951548a9ca65a13d3a23ead",
+    "/var/log/pacman.log": "c4bd00ce7b1946f91957a84722ca822e36cdc188cbd1da9c6089ae5292282294"
+  },
+  "1.0.3-11": {
+    "/usr/share/haskell/register/haskell-uuid-types.sh": "abadb3f37df1ddb7b1f906a1fc4342b49916f2e7e35f0b81abfe8f489b89462d",
+    "/usr/share/haskell/unregister/haskell-uuid-types.sh": "d1adb507b546eab54f210df3fc0e599817efb09090c668c7f43dc2bf2a3fee13",
+    "/usr/share/licenses/haskell-uuid-types/LICENSE": "9fd9cbfc86dd7e1831281a4ba4edf63a03a1f7adf59fc9fdc243b8600f08164d",
+    "/usr/lib/libHSuuid-types-1.0.3-C31qoQYhIFY6Z1J9cF82aJ-ghc8.2.2.so": "2a650d9af10bb0b465977bf1ea16ce83b525062b83dc040bc41e44bb9f851c26",
+    "/usr/lib/ghc-8.2.2/site-local/uuid-types-1.0.3/Data/UUID/Types.dyn_hi": "4bd708e910747f1027271879a7087feba8325c68d283428cce837024b3873b8d",
+    "/usr/lib/ghc-8.2.2/site-local/uuid-types-1.0.3/Data/UUID/Types/Internal.dyn_hi": "49358894e2d17af9799c39b1351d3afa96520509108e34f275c2d7730106dc9d",
+    "/usr/lib/ghc-8.2.2/site-local/uuid-types-1.0.3/Data/UUID/Types/Internal/Builder.dyn_hi": "832e69e3b0939a21764b52db6b6fc48e2375c880e348071cfa09eac20fb0f275",
+    "/var/log/pacman.log": "17e743d1ede4de81832b2c824f99bb5a20457508749309f5b298b6d6a9cdce37"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1.12-8": {
+    "/usr/share/haskell/register/haskell-polyparse.sh": "1af5336a3b026a26f5982abbbb5ce0d7725254d22689a799708429fb1b23238b",
+    "/usr/share/haskell/unregister/haskell-polyparse.sh": "80a7d9f2226d16b0ab099a5ef3cccf168cff0fd3ed13d1d40a0203eb10eb5c7e",
+    "/usr/share/licenses/haskell-polyparse/COPYRIGHT": "47f06aa0700ecd97be2fa55c2ac83c132671de27ae67e633df4d219a9ddd18e8",
+    "/usr/lib/libHSpolyparse-1.12-AFzL2h9QDVDHxoHvzT5Sbw-ghc8.2.2.so": "bf180782b656b107d7ca92c715a48a2cc5cafec8acd53328c71dc5118771fc7e",
+    "/usr/lib/ghc-8.2.2/site-local/polyparse-1.12/Text/Parse.dyn_hi": "d1981c8e75f0e58341248eb94ff85aa039eec21ea0bfd2ce8612310a86509be1",
+    "/usr/lib/ghc-8.2.2/site-local/polyparse-1.12/Text/ParserCombinators/HuttonMeijer.dyn_hi": "8ee395b1170e3ea8d0a03b21f6c5bd6f2d0656ca304e5e121659684ef85c8240",
+    "/usr/lib/ghc-8.2.2/site-local/polyparse-1.12/Text/ParserCombinators/HuttonMeijerWallace.dyn_hi": "56ff0d05f7779f944110a9ee1929a3627f621e1ab6124235dbe71145829e1fb2",
+    "/usr/lib/ghc-8.2.2/site-local/polyparse-1.12/Text/ParserCombinators/Poly.dyn_hi": "dc088d08c5567afb5a56c647c333ec2d75bab74216ec5c332817848baaf3d586",
+    "/usr/lib/ghc-8.2.2/site-local/polyparse-1.12/Text/ParserCombinators/Poly/Base.dyn_hi": "3ebf80fcd8121abf298ba02b75ad5667be192c0144b760f1279495ca120c375d",
+    "/usr/lib/ghc-8.2.2/site-local/polyparse-1.12/Text/ParserCombinators/Poly/Result.dyn_hi": "923a7d94b35cb4c2db24adfa358a80ad110a378b01a7550b43c913754f56c40e",
+    "/usr/lib/ghc-8.2.2/site-local/polyparse-1.12/Text/ParserCombinators/Poly/Parser.dyn_hi": "4d4b6b7629a2c19154196e6c15b617704eda3ee66d7917782a9f07e041189c38",
+    "/usr/lib/ghc-8.2.2/site-local/polyparse-1.12/Text/ParserCombinators/Poly/Plain.dyn_hi": "b4d61f93ecaaa57d86df617a045742cc67e1da3acc5bd58c20b8666ab8288cb8",
+    "/usr/lib/ghc-8.2.2/site-local/polyparse-1.12/Text/ParserCombinators/Poly/Lazy.dyn_hi": "3e89391801c3f0d2b87af9c8c43c47ac86c1341327c50a88cb7d3cb03e38b6f2",
+    "/usr/lib/ghc-8.2.2/site-local/polyparse-1.12/Text/ParserCombinators/Poly/StateParser.dyn_hi": "8108d40edc5931c094980b2347dc06ae0a6ca501acf6d076d0118f914d6afc60",
+    "/usr/lib/ghc-8.2.2/site-local/polyparse-1.12/Text/ParserCombinators/Poly/State.dyn_hi": "f4e5c3bfd4540b7314454af10f50b59d8cba71c43f046e899f894e276221d6ec",
+    "/usr/lib/ghc-8.2.2/site-local/polyparse-1.12/Text/ParserCombinators/Poly/StateLazy.dyn_hi": "bdc97cfa866ebaa5aef240b25b790f72c65398d4074c009a422dbd1da6f16a17",
+    "/usr/lib/ghc-8.2.2/site-local/polyparse-1.12/Text/ParserCombinators/Poly/Lex.dyn_hi": "6b8cbd4b10afcccdb9ee06899c0dfdfcb2ac6a483fb1545aaf25fb0dbcf83faa",
+    "/usr/lib/ghc-8.2.2/site-local/polyparse-1.12/Text/ParserCombinators/Poly/ByteString.dyn_hi": "de264b0c8333e33bb59d77754b48f6b28081cde7573f175cea19bd4b657b52c6",
+    "/usr/lib/ghc-8.2.2/site-local/polyparse-1.12/Text/ParserCombinators/Poly/ByteStringChar.dyn_hi": "9a6a237066dd0bcad448830010f278c2c28a596177036d4d3b3b8a4acf71f823",
+    "/usr/lib/ghc-8.2.2/site-local/polyparse-1.12/Text/ParserCombinators/Poly/Text.dyn_hi": "c8d0d83f77a4bee067dbef818ccedc42ab81ddc23bc55e87cb1f6a9f9d6b9dd7",
+    "/usr/lib/ghc-8.2.2/site-local/polyparse-1.12/Text/ParserCombinators/Poly/StateText.dyn_hi": "fae9d39ffdca900f632092c5c6f2b7160b6e25960e2de9fc922ce3fb4b88f6f9",
+    "/usr/lib/ghc-8.2.2/site-local/polyparse-1.12/Text/Parse/ByteString.dyn_hi": "f381546f563211168b1f69f13974c173a5829b4463042d3d487417c57ba0075b",
+    "/var/log/pacman.log": "015a5592c72c75307b6b6f0c9b8ce69dde5c8d58546df81d33c8648c5a0b35f8"
+  }
+}

@@ -1,1 +1,44 @@
-{"0.5.5-10": {"/usr/share/haskell/register/haskell-socks.sh": "aa74b74b16108d8ffd474fa9164aed9d602e50e47736f53dcd3e44643fc33f10", "/usr/share/haskell/unregister/haskell-socks.sh": "0fb3ff3b33cf1059c2e3a4505f57df938cfcb856e83379381a0ad5edca5d6bfb", "/usr/share/licenses/haskell-socks/LICENSE": "089f70ad4a776a413375675bb60ddc0684e5cc88365d7fa2987bc87270bf3c93", "/usr/lib/libHSsocks-0.5.5-3PzmqoQvPjb30Kpq8xDMYv-ghc8.2.1.so": "13a27860355b12c252f9a24fdb17172ddc47f079d6260ab6bad7c979a357d4d0", "/usr/lib/ghc-8.2.1/site-local/socks-0.5.5/Network/Socks5.dyn_hi": "2bb5ef7eede1204426f2de70cc7b6700cd4e42f96d94850178e4b51dc853e907", "/usr/lib/ghc-8.2.1/site-local/socks-0.5.5/Network/Socks5/Lowlevel.dyn_hi": "247ce367802e19bcb5d071051adf3482218c0021e90672582c113a8e984a4f5e", "/usr/lib/ghc-8.2.1/site-local/socks-0.5.5/Network/Socks5/Types.dyn_hi": "fe7546dc3ad15131c6cc86af39a743b4055c6c9c586e9ba43c3f59bc01b0998b", "/usr/lib/ghc-8.2.1/site-local/socks-0.5.5/Network/Socks5/Wire.dyn_hi": "bf5421285c6d7ecc5ded920922d46cc81e5d8dd9b1ba11deb94374fd9c45919e", "/usr/lib/ghc-8.2.1/site-local/socks-0.5.5/Network/Socks5/Conf.dyn_hi": "0fe306778fd1158d2fb0fb3c43a2d44bd1efe01bf6b4547a42ca58e80f327e42", "/usr/lib/ghc-8.2.1/site-local/socks-0.5.5/Network/Socks5/Command.dyn_hi": "66d20f1f93735a4eaf9e1aa65d10c901a181021c194882ce39d7187b4bba894e", "/usr/lib/ghc-8.2.1/site-local/socks-0.5.5/Network/Socks5/Parse.dyn_hi": "927dbfe0745814e558711942373166d9b9f53e43bc36955085eabbaf91e4dccc", "/var/log/pacman.log": "aaab3452f58aa54641365e6b54a7348fa2d6817e5c3ac1895d2a8cb75a4d7626"}, "0.5.5-11": {"/usr/share/haskell/register/haskell-socks.sh": "acbbba2e70cc68334c7f48f293570bbc0836db4dac53a3cfb8e26aec16420fc6", "/usr/share/haskell/unregister/haskell-socks.sh": "8df40d592daa00f2e4e5b6a552bfdb9eb72a3aa431a3fe15abb512c71424b44f", "/usr/share/licenses/haskell-socks/LICENSE": "089f70ad4a776a413375675bb60ddc0684e5cc88365d7fa2987bc87270bf3c93", "/usr/lib/libHSsocks-0.5.5-4odegxgbXj1KLW6jAXjW0e-ghc8.2.2.so": "3ff6ff65631c7fca1493b033422addd83e0c4be963823942c340cf7851004641", "/usr/lib/ghc-8.2.2/site-local/socks-0.5.5/Network/Socks5.dyn_hi": "164d0d27750ed79717eef1cb6aff1f570b0491cd6014ba8a995b5664585383b6", "/usr/lib/ghc-8.2.2/site-local/socks-0.5.5/Network/Socks5/Lowlevel.dyn_hi": "6af71b9c6cb3d16c0a7befcd637c665b5ea7338aa826f1a8e5b8bc9c7729c950", "/usr/lib/ghc-8.2.2/site-local/socks-0.5.5/Network/Socks5/Types.dyn_hi": "6fdabdda866219171b1b1704c5bd69d2d784bd7ab14dc66e59bc5536ff823330", "/usr/lib/ghc-8.2.2/site-local/socks-0.5.5/Network/Socks5/Wire.dyn_hi": "dba8e44dc400a3011aa7839b7515763e7de416e21976c8d8d60ad288f4312ea2", "/usr/lib/ghc-8.2.2/site-local/socks-0.5.5/Network/Socks5/Conf.dyn_hi": "5064ff891f4cf7801713a545733193590e7d842ba5574cf9962883b7360e1d9b", "/usr/lib/ghc-8.2.2/site-local/socks-0.5.5/Network/Socks5/Command.dyn_hi": "61f15fde84dcf07e541221b7a5396b6bbb8c9403623b348fc26061bf2b01ee6e", "/usr/lib/ghc-8.2.2/site-local/socks-0.5.5/Network/Socks5/Parse.dyn_hi": "ae06466ee2c6657e1c6b437bdefacab133b7991b962d577f7e5da9f7ae47558c", "/var/log/pacman.log": "4556a8fef03790d2c0fd23fb059c8c77f4e60000a63fe8f661a37caff108ce2e"}}
+{
+  "0.5.5-10": {
+    "/usr/share/haskell/register/haskell-socks.sh": "aa74b74b16108d8ffd474fa9164aed9d602e50e47736f53dcd3e44643fc33f10",
+    "/usr/share/haskell/unregister/haskell-socks.sh": "0fb3ff3b33cf1059c2e3a4505f57df938cfcb856e83379381a0ad5edca5d6bfb",
+    "/usr/share/licenses/haskell-socks/LICENSE": "089f70ad4a776a413375675bb60ddc0684e5cc88365d7fa2987bc87270bf3c93",
+    "/usr/lib/libHSsocks-0.5.5-3PzmqoQvPjb30Kpq8xDMYv-ghc8.2.1.so": "13a27860355b12c252f9a24fdb17172ddc47f079d6260ab6bad7c979a357d4d0",
+    "/usr/lib/ghc-8.2.1/site-local/socks-0.5.5/Network/Socks5.dyn_hi": "2bb5ef7eede1204426f2de70cc7b6700cd4e42f96d94850178e4b51dc853e907",
+    "/usr/lib/ghc-8.2.1/site-local/socks-0.5.5/Network/Socks5/Lowlevel.dyn_hi": "247ce367802e19bcb5d071051adf3482218c0021e90672582c113a8e984a4f5e",
+    "/usr/lib/ghc-8.2.1/site-local/socks-0.5.5/Network/Socks5/Types.dyn_hi": "fe7546dc3ad15131c6cc86af39a743b4055c6c9c586e9ba43c3f59bc01b0998b",
+    "/usr/lib/ghc-8.2.1/site-local/socks-0.5.5/Network/Socks5/Wire.dyn_hi": "bf5421285c6d7ecc5ded920922d46cc81e5d8dd9b1ba11deb94374fd9c45919e",
+    "/usr/lib/ghc-8.2.1/site-local/socks-0.5.5/Network/Socks5/Conf.dyn_hi": "0fe306778fd1158d2fb0fb3c43a2d44bd1efe01bf6b4547a42ca58e80f327e42",
+    "/usr/lib/ghc-8.2.1/site-local/socks-0.5.5/Network/Socks5/Command.dyn_hi": "66d20f1f93735a4eaf9e1aa65d10c901a181021c194882ce39d7187b4bba894e",
+    "/usr/lib/ghc-8.2.1/site-local/socks-0.5.5/Network/Socks5/Parse.dyn_hi": "927dbfe0745814e558711942373166d9b9f53e43bc36955085eabbaf91e4dccc",
+    "/var/log/pacman.log": "aaab3452f58aa54641365e6b54a7348fa2d6817e5c3ac1895d2a8cb75a4d7626"
+  },
+  "0.5.5-11": {
+    "/usr/share/haskell/register/haskell-socks.sh": "acbbba2e70cc68334c7f48f293570bbc0836db4dac53a3cfb8e26aec16420fc6",
+    "/usr/share/haskell/unregister/haskell-socks.sh": "8df40d592daa00f2e4e5b6a552bfdb9eb72a3aa431a3fe15abb512c71424b44f",
+    "/usr/share/licenses/haskell-socks/LICENSE": "089f70ad4a776a413375675bb60ddc0684e5cc88365d7fa2987bc87270bf3c93",
+    "/usr/lib/libHSsocks-0.5.5-4odegxgbXj1KLW6jAXjW0e-ghc8.2.2.so": "3ff6ff65631c7fca1493b033422addd83e0c4be963823942c340cf7851004641",
+    "/usr/lib/ghc-8.2.2/site-local/socks-0.5.5/Network/Socks5.dyn_hi": "164d0d27750ed79717eef1cb6aff1f570b0491cd6014ba8a995b5664585383b6",
+    "/usr/lib/ghc-8.2.2/site-local/socks-0.5.5/Network/Socks5/Lowlevel.dyn_hi": "6af71b9c6cb3d16c0a7befcd637c665b5ea7338aa826f1a8e5b8bc9c7729c950",
+    "/usr/lib/ghc-8.2.2/site-local/socks-0.5.5/Network/Socks5/Types.dyn_hi": "6fdabdda866219171b1b1704c5bd69d2d784bd7ab14dc66e59bc5536ff823330",
+    "/usr/lib/ghc-8.2.2/site-local/socks-0.5.5/Network/Socks5/Wire.dyn_hi": "dba8e44dc400a3011aa7839b7515763e7de416e21976c8d8d60ad288f4312ea2",
+    "/usr/lib/ghc-8.2.2/site-local/socks-0.5.5/Network/Socks5/Conf.dyn_hi": "5064ff891f4cf7801713a545733193590e7d842ba5574cf9962883b7360e1d9b",
+    "/usr/lib/ghc-8.2.2/site-local/socks-0.5.5/Network/Socks5/Command.dyn_hi": "61f15fde84dcf07e541221b7a5396b6bbb8c9403623b348fc26061bf2b01ee6e",
+    "/usr/lib/ghc-8.2.2/site-local/socks-0.5.5/Network/Socks5/Parse.dyn_hi": "ae06466ee2c6657e1c6b437bdefacab133b7991b962d577f7e5da9f7ae47558c",
+    "/var/log/pacman.log": "4556a8fef03790d2c0fd23fb059c8c77f4e60000a63fe8f661a37caff108ce2e"
+  },
+  "0.5.6-1": {
+    "/usr/share/haskell/register/haskell-socks.sh": "db2785932e23f40b052c771e90a5fc5d18ae3b8f6fcf16ae62699c2b34d401d4",
+    "/usr/share/haskell/unregister/haskell-socks.sh": "b3ae3fba79d35b44edadebcf3b55b3170f17c9da80bbd071dcd79a32181c482d",
+    "/usr/share/licenses/haskell-socks/LICENSE": "089f70ad4a776a413375675bb60ddc0684e5cc88365d7fa2987bc87270bf3c93",
+    "/usr/lib/libHSsocks-0.5.6-CGxDJ795GE7A3HlXr9HUsa-ghc8.2.2.so": "5fbb11d70fe7c7e7fa280fead6b33caa25830578de3a568a96ac519bfcfaf105",
+    "/usr/lib/ghc-8.2.2/site-local/socks-0.5.6/Network/Socks5.dyn_hi": "729700007a7d3e6ae03b74830168fc805f5ef1883cd2e538b0d2322b6d76bf88",
+    "/usr/lib/ghc-8.2.2/site-local/socks-0.5.6/Network/Socks5/Lowlevel.dyn_hi": "93f77d2a89bec32a7e86b2a2bf5ba9bb71d6829d0541a33b175b74cfb5c2ad64",
+    "/usr/lib/ghc-8.2.2/site-local/socks-0.5.6/Network/Socks5/Types.dyn_hi": "10aa6cd90e69c4fb0031b0940991dd7b24f90e2bcf94dbdf7fe455b280b1d057",
+    "/usr/lib/ghc-8.2.2/site-local/socks-0.5.6/Network/Socks5/Wire.dyn_hi": "2bbbd7de503951a5c64c5c3fdb1a04e1f8a9555fa95be0ce2a676a0afafb981c",
+    "/usr/lib/ghc-8.2.2/site-local/socks-0.5.6/Network/Socks5/Conf.dyn_hi": "42087678f60fb78e55c639f49e5068810798e467ab1bb434cec4371fec38a4d8",
+    "/usr/lib/ghc-8.2.2/site-local/socks-0.5.6/Network/Socks5/Command.dyn_hi": "4764658dd87524d65c1a863d3d08b8cc3ff9ddabdeea314e3768177a5089329e",
+    "/usr/lib/ghc-8.2.2/site-local/socks-0.5.6/Network/Socks5/Parse.dyn_hi": "c51a9bf6c0d4bf3d0fa59c75e4bc360666339acdf88aa7b3a9b395c842e1a1ff",
+    "/var/log/pacman.log": "6196991b51eee52aaad635150a6394e932721baeb3321eb5eae80039fdbce2c9"
+  }
+}

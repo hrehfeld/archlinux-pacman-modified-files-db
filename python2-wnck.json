@@ -1,0 +1,7 @@
+{
+  "2.32.0-17": {
+    "/usr/lib/python2.7/site-packages/gtk-2.0/wnck.so": "3320a6ed1ca056cd43472a40980d5417e892a1e103391e01da4729ca8866a09b",
+    "/usr/share/pygtk/2.0/defs/wnck.defs": "78ecdb3efeb895c8cdda88f71a2671975d6076efdaeed8d959c6532a95dcb704",
+    "/var/log/pacman.log": "a86e710690c0bbadb242ec2ec8b3ca676b0bc5c402712ec0f08fca342a542dea"
+  }
+}

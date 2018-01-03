@@ -1,1 +1,18 @@
-{"0.18.3-5": {"/usr/share/haskell/register/haskell-semigroups.sh": "959f4e5bd1d5cf70daaf9ef85f25b24d2b1540dc689f85003a484d489c21f23e", "/usr/share/haskell/unregister/haskell-semigroups.sh": "151881a2579505c32c1b126d1720050307458465f249465c8acf3452ddc9987d", "/usr/share/licenses/haskell-semigroups/LICENSE": "c9ed0c32e5332899f31bfad68cdb6e949a712a155318a0eb4872cc8f5bf4c95b", "/usr/lib/libHSsemigroups-0.18.3-6KPIVJcHqOOBHjBl8WA5LP-ghc8.2.1.so": "a79f4cc21de4e905c2338f7d51fd85f1f1fede45eb923e0f0ee6d139833c2a92", "/usr/lib/ghc-8.2.1/site-local/semigroups-0.18.3/Data/Semigroup/Generic.dyn_hi": "8cd58de2808e74a0f568fcd22b84d4fd94625535b0c4cc1add6c7a3f652ce717", "/var/log/pacman.log": "6367a3e8152d1c1ed21aced6d88525be55f34ae71e77e5c2c040f10eef622b66"}, "0.18.3-6": {"/usr/share/haskell/register/haskell-semigroups.sh": "6f89275469239dab0662043b234c4741ca7a1723c2744e87156ab10ad50099b8", "/usr/share/haskell/unregister/haskell-semigroups.sh": "0f2623276c2a334ae998fc1c7d147b33e62cd7324aa1ba1c6a2d2b85e792d2ce", "/usr/share/licenses/haskell-semigroups/LICENSE": "c9ed0c32e5332899f31bfad68cdb6e949a712a155318a0eb4872cc8f5bf4c95b", "/usr/lib/libHSsemigroups-0.18.3-3aCIuYG4ID286XaN6MuQu7-ghc8.2.2.so": "c91886d0e0e75fbe0fd08fd3881a9d532df9d79753a10152f27d2af6725df151", "/usr/lib/ghc-8.2.2/site-local/semigroups-0.18.3/Data/Semigroup/Generic.dyn_hi": "b1525d30ceea574c8ba94c86f53668aef411c9a6acab8ca07341cf1a5dbe94c2", "/var/log/pacman.log": "b91e6db313573da08ce391d9f35f106229ac57165754ad71ed172132afe9ce7b"}}
+{
+  "0.18.3-5": {
+    "/usr/share/haskell/register/haskell-semigroups.sh": "959f4e5bd1d5cf70daaf9ef85f25b24d2b1540dc689f85003a484d489c21f23e",
+    "/usr/share/haskell/unregister/haskell-semigroups.sh": "151881a2579505c32c1b126d1720050307458465f249465c8acf3452ddc9987d",
+    "/usr/share/licenses/haskell-semigroups/LICENSE": "c9ed0c32e5332899f31bfad68cdb6e949a712a155318a0eb4872cc8f5bf4c95b",
+    "/usr/lib/libHSsemigroups-0.18.3-6KPIVJcHqOOBHjBl8WA5LP-ghc8.2.1.so": "a79f4cc21de4e905c2338f7d51fd85f1f1fede45eb923e0f0ee6d139833c2a92",
+    "/usr/lib/ghc-8.2.1/site-local/semigroups-0.18.3/Data/Semigroup/Generic.dyn_hi": "8cd58de2808e74a0f568fcd22b84d4fd94625535b0c4cc1add6c7a3f652ce717",
+    "/var/log/pacman.log": "6367a3e8152d1c1ed21aced6d88525be55f34ae71e77e5c2c040f10eef622b66"
+  },
+  "0.18.3-6": {
+    "/usr/share/haskell/register/haskell-semigroups.sh": "6f89275469239dab0662043b234c4741ca7a1723c2744e87156ab10ad50099b8",
+    "/usr/share/haskell/unregister/haskell-semigroups.sh": "0f2623276c2a334ae998fc1c7d147b33e62cd7324aa1ba1c6a2d2b85e792d2ce",
+    "/usr/share/licenses/haskell-semigroups/LICENSE": "c9ed0c32e5332899f31bfad68cdb6e949a712a155318a0eb4872cc8f5bf4c95b",
+    "/usr/lib/libHSsemigroups-0.18.3-3aCIuYG4ID286XaN6MuQu7-ghc8.2.2.so": "c91886d0e0e75fbe0fd08fd3881a9d532df9d79753a10152f27d2af6725df151",
+    "/usr/lib/ghc-8.2.2/site-local/semigroups-0.18.3/Data/Semigroup/Generic.dyn_hi": "b1525d30ceea574c8ba94c86f53668aef411c9a6acab8ca07341cf1a5dbe94c2",
+    "/var/log/pacman.log": "b91e6db313573da08ce391d9f35f106229ac57165754ad71ed172132afe9ce7b"
+  }
+}

@@ -1,1 +1,20 @@
-{"0.5.1.4-6": {"/usr/share/haskell/register/haskell-transformers-compat.sh": "d48aef8526b9dc4360863d3f7d342372ec9b449364c46e916fb5721eaed90f51", "/usr/share/haskell/unregister/haskell-transformers-compat.sh": "3e1189b36a8022363030980f4d4d92a76b265ea64d189ec132eb1a502e066f42", "/usr/share/licenses/haskell-transformers-compat/LICENSE": "bbb4823c79bfc2d482513e9f7020d63bf490b91639cc5812a8500c5cbe167618", "/usr/lib/libHStransformers-compat-0.5.1.4-8ofY1OHzPhX5dvYk512o2v-ghc8.2.1.so": "2c475c45722419428caf1abe1ac99e7bdc648ba5ef807f411f7640a777b657ac", "/usr/lib/ghc-8.2.1/site-local/transformers-compat-0.5.1.4/Paths_transformers_compat.dyn_hi": "6f2b798cf681c488952a0eeacd17e228728171510eea8119bf43f49fb3218c51", "/usr/lib/ghc-8.2.1/site-local/transformers-compat-0.5.1.4/Control/Monad/Trans/Instances.dyn_hi": "f6d1baf9110879c74dd52d174966236e8eeac1e74f2acbeb1825f49877e4b414", "/var/log/pacman.log": "d75041cb3fa6a53e701f544899d5bdadc8777ae8ea8369563cb6d05290ca51de"}, "0.5.1.4-7": {"/usr/share/haskell/register/haskell-transformers-compat.sh": "54e1b35aeeadb87d7e42ef6bceef14353785d52f1ba836235e82ee0e2573a6f7", "/usr/share/haskell/unregister/haskell-transformers-compat.sh": "ff4d46eac27c13f68c24bef06fbd3dc35f7cd865341660bb96c8a888a57b9424", "/usr/share/licenses/haskell-transformers-compat/LICENSE": "bbb4823c79bfc2d482513e9f7020d63bf490b91639cc5812a8500c5cbe167618", "/usr/lib/libHStransformers-compat-0.5.1.4-EAh8Ccrgitz4vTZtbTPyCM-ghc8.2.2.so": "7a7e61c973f8aed58aabd6f770366d193ae6967951055f51344539a53a1c4814", "/usr/lib/ghc-8.2.2/site-local/transformers-compat-0.5.1.4/Paths_transformers_compat.dyn_hi": "47b41ab2e2cc6eaa6bdebe2caa987b90a4c1385fe14ac2b0f0e8417659bb0d45", "/usr/lib/ghc-8.2.2/site-local/transformers-compat-0.5.1.4/Control/Monad/Trans/Instances.dyn_hi": "17a259f6be88e7df50c4ab70f40af5fa38cc22d32a5af12a9667a3abb1c2ba31", "/var/log/pacman.log": "3324766eb40f202c7af2d0cb9d3e96a37686880ca1f7b270e93d27798a456420"}}
+{
+  "0.5.1.4-6": {
+    "/usr/share/haskell/register/haskell-transformers-compat.sh": "d48aef8526b9dc4360863d3f7d342372ec9b449364c46e916fb5721eaed90f51",
+    "/usr/share/haskell/unregister/haskell-transformers-compat.sh": "3e1189b36a8022363030980f4d4d92a76b265ea64d189ec132eb1a502e066f42",
+    "/usr/share/licenses/haskell-transformers-compat/LICENSE": "bbb4823c79bfc2d482513e9f7020d63bf490b91639cc5812a8500c5cbe167618",
+    "/usr/lib/libHStransformers-compat-0.5.1.4-8ofY1OHzPhX5dvYk512o2v-ghc8.2.1.so": "2c475c45722419428caf1abe1ac99e7bdc648ba5ef807f411f7640a777b657ac",
+    "/usr/lib/ghc-8.2.1/site-local/transformers-compat-0.5.1.4/Paths_transformers_compat.dyn_hi": "6f2b798cf681c488952a0eeacd17e228728171510eea8119bf43f49fb3218c51",
+    "/usr/lib/ghc-8.2.1/site-local/transformers-compat-0.5.1.4/Control/Monad/Trans/Instances.dyn_hi": "f6d1baf9110879c74dd52d174966236e8eeac1e74f2acbeb1825f49877e4b414",
+    "/var/log/pacman.log": "d75041cb3fa6a53e701f544899d5bdadc8777ae8ea8369563cb6d05290ca51de"
+  },
+  "0.5.1.4-7": {
+    "/usr/share/haskell/register/haskell-transformers-compat.sh": "54e1b35aeeadb87d7e42ef6bceef14353785d52f1ba836235e82ee0e2573a6f7",
+    "/usr/share/haskell/unregister/haskell-transformers-compat.sh": "ff4d46eac27c13f68c24bef06fbd3dc35f7cd865341660bb96c8a888a57b9424",
+    "/usr/share/licenses/haskell-transformers-compat/LICENSE": "bbb4823c79bfc2d482513e9f7020d63bf490b91639cc5812a8500c5cbe167618",
+    "/usr/lib/libHStransformers-compat-0.5.1.4-EAh8Ccrgitz4vTZtbTPyCM-ghc8.2.2.so": "7a7e61c973f8aed58aabd6f770366d193ae6967951055f51344539a53a1c4814",
+    "/usr/lib/ghc-8.2.2/site-local/transformers-compat-0.5.1.4/Paths_transformers_compat.dyn_hi": "47b41ab2e2cc6eaa6bdebe2caa987b90a4c1385fe14ac2b0f0e8417659bb0d45",
+    "/usr/lib/ghc-8.2.2/site-local/transformers-compat-0.5.1.4/Control/Monad/Trans/Instances.dyn_hi": "17a259f6be88e7df50c4ab70f40af5fa38cc22d32a5af12a9667a3abb1c2ba31",
+    "/var/log/pacman.log": "3324766eb40f202c7af2d0cb9d3e96a37686880ca1f7b270e93d27798a456420"
+  }
+}

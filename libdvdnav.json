@@ -1,1 +1,17 @@
-{"5.0.3-1": {"/usr/include/dvdnav/dvd_types.h": "0c59e45c5c55127b5dc1fa806204559e64c65f90238b01e9cd8b1d7627d6dc24", "/usr/include/dvdnav/dvdnav_events.h": "391a7f72d1bc7f472f810fb7f67d36f803256d2d7bdbb1f3c423fac1c8fe1f53", "/usr/include/dvdnav/dvdnav.h": "6a0885b35df02b33004e7dc81b91487914c56c4368ad934c7f3cb794e89d88d2", "/usr/lib/libdvdnav.so.4.2.0": "a8116b9d6e8060f3a44213749ebdf430e18e7a869b99426d00f9548078481f96", "/usr/lib/libdvdnav.so": "a8116b9d6e8060f3a44213749ebdf430e18e7a869b99426d00f9548078481f96", "/usr/lib/libdvdnav.so.4": "a8116b9d6e8060f3a44213749ebdf430e18e7a869b99426d00f9548078481f96", "/usr/lib/pkgconfig/dvdnav.pc": "42f2e2b7bac0c5994e498659e2e05a28109c9497e6bf51fed927bca968a73b35", "/usr/share/doc/libdvdnav/TODO": "5ca93ad1707e58bfa32543a6de6a993caaea869a6e94069da48f7600bf5b5cbe", "/usr/share/doc/libdvdnav/README": "cae4cf95cd8a5e3f7f01f6cd7d7d487401c74cf1a05bcae1fc07cbeeaab8d686", "/usr/share/doc/libdvdnav/COPYING": "32b1062f7da84967e7019d01ab805935caa7ab7321a7ced0e30ebe75e5df1670", "/usr/share/doc/libdvdnav/ChangeLog": "ee651141287529ee5e0053369d6b36d636027424f02f25819ae105f9a49a858e", "/usr/share/doc/libdvdnav/AUTHORS": "120360d44a585630a4bcef395da624620690023ec177857b1cb6baa02513265b", "/var/log/pacman.log": "5542a5fab817ae945f25e002e7dddcefad91a8fc9f4ec3d64a3e78bb336ac040"}}
+{
+  "5.0.3-1": {
+    "/usr/include/dvdnav/dvd_types.h": "0c59e45c5c55127b5dc1fa806204559e64c65f90238b01e9cd8b1d7627d6dc24",
+    "/usr/include/dvdnav/dvdnav_events.h": "391a7f72d1bc7f472f810fb7f67d36f803256d2d7bdbb1f3c423fac1c8fe1f53",
+    "/usr/include/dvdnav/dvdnav.h": "6a0885b35df02b33004e7dc81b91487914c56c4368ad934c7f3cb794e89d88d2",
+    "/usr/lib/libdvdnav.so.4.2.0": "a8116b9d6e8060f3a44213749ebdf430e18e7a869b99426d00f9548078481f96",
+    "/usr/lib/libdvdnav.so": "a8116b9d6e8060f3a44213749ebdf430e18e7a869b99426d00f9548078481f96",
+    "/usr/lib/libdvdnav.so.4": "a8116b9d6e8060f3a44213749ebdf430e18e7a869b99426d00f9548078481f96",
+    "/usr/lib/pkgconfig/dvdnav.pc": "42f2e2b7bac0c5994e498659e2e05a28109c9497e6bf51fed927bca968a73b35",
+    "/usr/share/doc/libdvdnav/TODO": "5ca93ad1707e58bfa32543a6de6a993caaea869a6e94069da48f7600bf5b5cbe",
+    "/usr/share/doc/libdvdnav/README": "cae4cf95cd8a5e3f7f01f6cd7d7d487401c74cf1a05bcae1fc07cbeeaab8d686",
+    "/usr/share/doc/libdvdnav/COPYING": "32b1062f7da84967e7019d01ab805935caa7ab7321a7ced0e30ebe75e5df1670",
+    "/usr/share/doc/libdvdnav/ChangeLog": "ee651141287529ee5e0053369d6b36d636027424f02f25819ae105f9a49a858e",
+    "/usr/share/doc/libdvdnav/AUTHORS": "120360d44a585630a4bcef395da624620690023ec177857b1cb6baa02513265b",
+    "/var/log/pacman.log": "5542a5fab817ae945f25e002e7dddcefad91a8fc9f4ec3d64a3e78bb336ac040"
+  }
+}

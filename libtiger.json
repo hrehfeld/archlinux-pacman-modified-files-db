@@ -1,1 +1,11 @@
-{"0.3.4-4": {"/usr/include/tiger/tiger_config.h": "15b6fa8e62cf99472a8d13cc1487e4a88a6072e3b2eb5b78f51c3325d5034d12", "/usr/include/tiger/tiger.h": "116a08ff685dd0a64bdd8e9ace90edb90ef99c57b2d358fa2d8421d6aea05f91", "/usr/lib/libtiger.so.5.0.2": "396861f3d57c55dad0b07c70159dc46a4a5bcda111ff03c181d5e8480cf0e19a", "/usr/lib/libtiger.so": "396861f3d57c55dad0b07c70159dc46a4a5bcda111ff03c181d5e8480cf0e19a", "/usr/lib/libtiger.so.5": "396861f3d57c55dad0b07c70159dc46a4a5bcda111ff03c181d5e8480cf0e19a", "/usr/lib/pkgconfig/tiger.pc": "d6b44ef817f45af8f4b6925c92af7ede636d5bff7edd87ca2c618abba3862986", "/var/log/pacman.log": "e6849b2b6b9523bf55fa778f6e0683536f110c6e73659d7f2055b87695bfa20b"}}
+{
+  "0.3.4-4": {
+    "/usr/include/tiger/tiger_config.h": "15b6fa8e62cf99472a8d13cc1487e4a88a6072e3b2eb5b78f51c3325d5034d12",
+    "/usr/include/tiger/tiger.h": "116a08ff685dd0a64bdd8e9ace90edb90ef99c57b2d358fa2d8421d6aea05f91",
+    "/usr/lib/libtiger.so.5.0.2": "396861f3d57c55dad0b07c70159dc46a4a5bcda111ff03c181d5e8480cf0e19a",
+    "/usr/lib/libtiger.so": "396861f3d57c55dad0b07c70159dc46a4a5bcda111ff03c181d5e8480cf0e19a",
+    "/usr/lib/libtiger.so.5": "396861f3d57c55dad0b07c70159dc46a4a5bcda111ff03c181d5e8480cf0e19a",
+    "/usr/lib/pkgconfig/tiger.pc": "d6b44ef817f45af8f4b6925c92af7ede636d5bff7edd87ca2c618abba3862986",
+    "/var/log/pacman.log": "e6849b2b6b9523bf55fa778f6e0683536f110c6e73659d7f2055b87695bfa20b"
+  }
+}

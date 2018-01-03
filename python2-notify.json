@@ -1,1 +1,11 @@
-{"0.1.1-13": {"/usr/lib/pkgconfig/notify-python.pc": "7f932cdcac838f51ae64ab16413c9231d45abe54be0569b043bc3cd1364845c3", "/usr/lib/python2.7/site-packages/gtk-2.0/pynotify/_pynotify.so": "27f28464bed8247fff4b929b4b9e0ded0c807e961f00bd9d93212e771e028aa5", "/usr/lib/python2.7/site-packages/gtk-2.0/pynotify/__init__.pyo": "69ef8ff5b762eeb211bd74355d87a1eafe9880c281419674cd836a3867ac4d09", "/usr/lib/python2.7/site-packages/gtk-2.0/pynotify/__init__.pyc": "69ef8ff5b762eeb211bd74355d87a1eafe9880c281419674cd836a3867ac4d09", "/usr/lib/python2.7/site-packages/gtk-2.0/pynotify/__init__.py": "5a6f3ac1cc31aab8c492c810cff12288e123ee54e5ae0ee33ef8fdaafd89dd44", "/usr/share/pygtk/2.0/defs/pynotify.defs": "3b3a51c4dbaf3397db12e7e289fe2f51e5d926361a90bb4a5e4b8ba44e81e0b4", "/var/log/pacman.log": "803f3cebd370d30ced4e10d4eaca9606eedc2d2305430cd937913df6b6ef57f4"}}
+{
+  "0.1.1-13": {
+    "/usr/lib/pkgconfig/notify-python.pc": "7f932cdcac838f51ae64ab16413c9231d45abe54be0569b043bc3cd1364845c3",
+    "/usr/lib/python2.7/site-packages/gtk-2.0/pynotify/_pynotify.so": "27f28464bed8247fff4b929b4b9e0ded0c807e961f00bd9d93212e771e028aa5",
+    "/usr/lib/python2.7/site-packages/gtk-2.0/pynotify/__init__.pyo": "69ef8ff5b762eeb211bd74355d87a1eafe9880c281419674cd836a3867ac4d09",
+    "/usr/lib/python2.7/site-packages/gtk-2.0/pynotify/__init__.pyc": "69ef8ff5b762eeb211bd74355d87a1eafe9880c281419674cd836a3867ac4d09",
+    "/usr/lib/python2.7/site-packages/gtk-2.0/pynotify/__init__.py": "5a6f3ac1cc31aab8c492c810cff12288e123ee54e5ae0ee33ef8fdaafd89dd44",
+    "/usr/share/pygtk/2.0/defs/pynotify.defs": "3b3a51c4dbaf3397db12e7e289fe2f51e5d926361a90bb4a5e4b8ba44e81e0b4",
+    "/var/log/pacman.log": "803f3cebd370d30ced4e10d4eaca9606eedc2d2305430cd937913df6b6ef57f4"
+  }
+}

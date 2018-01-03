@@ -1,1 +1,20 @@
-{"0.1.1.6-6": {"/usr/share/haskell/register/haskell-base16-bytestring.sh": "42028f0d85df066c70c307ffb9b35f0f861a2563170c7bcac41c801f17eb579d", "/usr/share/haskell/unregister/haskell-base16-bytestring.sh": "5e8a1d12d0fd427e0dfe63c6a52b4d64d799be3941c066973ba0acf33494bb2d", "/usr/share/licenses/haskell-base16-bytestring/LICENSE": "5ef16c55936f0ff95c50f40ab8394c0bff267a0240bba085c70dff080dadb69e", "/usr/lib/libHSbase16-bytestring-0.1.1.6-1RelFaTH3mXDxpXrCeJSko-ghc8.2.1.so": "ac3c947e10af60879ca7beba98aa2a3d8e862157c0b73af90fe72ec38455f422", "/usr/lib/ghc-8.2.1/site-local/base16-bytestring-0.1.1.6/Data/ByteString/Base16.dyn_hi": "8b6ccf87b64e43ecb293fecb68fd5734aee3eccb24b6a71bd493087928520ed7", "/usr/lib/ghc-8.2.1/site-local/base16-bytestring-0.1.1.6/Data/ByteString/Base16/Lazy.dyn_hi": "7c093bf294277e7191e240d898f51a62177b7e6d18c34131bb5ef8971429c0af", "/var/log/pacman.log": "ea9cabb0d6b35452e255dd7d0989ab05935298728e21e90ec89664bda93e6ac2"}, "0.1.1.6-7": {"/usr/share/haskell/register/haskell-base16-bytestring.sh": "183fe81d13e4232224c94d4290179c3071de013fe50c71ddd3832d31393ecae4", "/usr/share/haskell/unregister/haskell-base16-bytestring.sh": "e7aa174f7e658dd15fdf383615630fab15646490aa537340f158637662f1e2e7", "/usr/share/licenses/haskell-base16-bytestring/LICENSE": "5ef16c55936f0ff95c50f40ab8394c0bff267a0240bba085c70dff080dadb69e", "/usr/lib/libHSbase16-bytestring-0.1.1.6-Bd4rUARbKHBrsqzcqGjb8-ghc8.2.2.so": "a967f2b03cee5ad3651ecaf61089fffb8de2be50cce18f1baacffe84ab7c0a43", "/usr/lib/ghc-8.2.2/site-local/base16-bytestring-0.1.1.6/Data/ByteString/Base16.dyn_hi": "672b0c90e8748bd68ce2219e0d8873a3f22b3d361f2cca3eb9e39de89894be17", "/usr/lib/ghc-8.2.2/site-local/base16-bytestring-0.1.1.6/Data/ByteString/Base16/Lazy.dyn_hi": "d6c4cbc3e46c6da72ce1e7182e56a3d9dd5a23b4de9a055a9df0636c5d9c9415", "/var/log/pacman.log": "2dbb8238bd220e52e2119d48717e9a7277e8854bcfc8e0654f0e17010316f898"}}
+{
+  "0.1.1.6-6": {
+    "/usr/share/haskell/register/haskell-base16-bytestring.sh": "42028f0d85df066c70c307ffb9b35f0f861a2563170c7bcac41c801f17eb579d",
+    "/usr/share/haskell/unregister/haskell-base16-bytestring.sh": "5e8a1d12d0fd427e0dfe63c6a52b4d64d799be3941c066973ba0acf33494bb2d",
+    "/usr/share/licenses/haskell-base16-bytestring/LICENSE": "5ef16c55936f0ff95c50f40ab8394c0bff267a0240bba085c70dff080dadb69e",
+    "/usr/lib/libHSbase16-bytestring-0.1.1.6-1RelFaTH3mXDxpXrCeJSko-ghc8.2.1.so": "ac3c947e10af60879ca7beba98aa2a3d8e862157c0b73af90fe72ec38455f422",
+    "/usr/lib/ghc-8.2.1/site-local/base16-bytestring-0.1.1.6/Data/ByteString/Base16.dyn_hi": "8b6ccf87b64e43ecb293fecb68fd5734aee3eccb24b6a71bd493087928520ed7",
+    "/usr/lib/ghc-8.2.1/site-local/base16-bytestring-0.1.1.6/Data/ByteString/Base16/Lazy.dyn_hi": "7c093bf294277e7191e240d898f51a62177b7e6d18c34131bb5ef8971429c0af",
+    "/var/log/pacman.log": "ea9cabb0d6b35452e255dd7d0989ab05935298728e21e90ec89664bda93e6ac2"
+  },
+  "0.1.1.6-7": {
+    "/usr/share/haskell/register/haskell-base16-bytestring.sh": "183fe81d13e4232224c94d4290179c3071de013fe50c71ddd3832d31393ecae4",
+    "/usr/share/haskell/unregister/haskell-base16-bytestring.sh": "e7aa174f7e658dd15fdf383615630fab15646490aa537340f158637662f1e2e7",
+    "/usr/share/licenses/haskell-base16-bytestring/LICENSE": "5ef16c55936f0ff95c50f40ab8394c0bff267a0240bba085c70dff080dadb69e",
+    "/usr/lib/libHSbase16-bytestring-0.1.1.6-Bd4rUARbKHBrsqzcqGjb8-ghc8.2.2.so": "a967f2b03cee5ad3651ecaf61089fffb8de2be50cce18f1baacffe84ab7c0a43",
+    "/usr/lib/ghc-8.2.2/site-local/base16-bytestring-0.1.1.6/Data/ByteString/Base16.dyn_hi": "672b0c90e8748bd68ce2219e0d8873a3f22b3d361f2cca3eb9e39de89894be17",
+    "/usr/lib/ghc-8.2.2/site-local/base16-bytestring-0.1.1.6/Data/ByteString/Base16/Lazy.dyn_hi": "d6c4cbc3e46c6da72ce1e7182e56a3d9dd5a23b4de9a055a9df0636c5d9c9415",
+    "/var/log/pacman.log": "2dbb8238bd220e52e2119d48717e9a7277e8854bcfc8e0654f0e17010316f898"
+  }
+}

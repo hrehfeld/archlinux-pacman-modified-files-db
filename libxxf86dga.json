@@ -1,1 +1,33 @@
-{"1.1.4-1": {"/usr/include/X11/extensions/Xxf86dga.h": "e5f688a8d7bf1cbde65de3d3f3f4578bdcb3d088c49d01939de661d9ccdcda68", "/usr/include/X11/extensions/xf86dga1.h": "9352fd9d454c9e10f175f4d7f8f56257365f098474d6d9182e9ecb0b5ad72f8f", "/usr/share/licenses/libxxf86dga/COPYING": "dd27933ebc5c063128b158b085e4c442a36b0e6f704cf753116da119610191da", "/usr/share/man/man3/XDGAChangePixmapMode.3.gz": "59ea0feb18760b30ad64931eb698adb429eae94a33a7aba651c86a8167d03e48", "/usr/share/man/man3/XFree86-DGA.3.gz": "59ea0feb18760b30ad64931eb698adb429eae94a33a7aba651c86a8167d03e48", "/usr/share/man/man3/XDGAFillRectangle.3.gz": "59ea0feb18760b30ad64931eb698adb429eae94a33a7aba651c86a8167d03e48", "/usr/share/man/man3/XDGA.3.gz": "e0a9a2ccbef1022e39dccfb4233612bde9aa65606c4d9d43207cec8d3846d0bc", "/usr/share/man/man3/XDGAQueryModes.3.gz": "59ea0feb18760b30ad64931eb698adb429eae94a33a7aba651c86a8167d03e48", "/usr/share/man/man3/XF86DGA.3.gz": "59ea0feb18760b30ad64931eb698adb429eae94a33a7aba651c86a8167d03e48", "/usr/share/man/man3/XDGACopyTransparentArea.3.gz": "59ea0feb18760b30ad64931eb698adb429eae94a33a7aba651c86a8167d03e48", "/usr/share/man/man3/XDGACloseFramebuffer.3.gz": "59ea0feb18760b30ad64931eb698adb429eae94a33a7aba651c86a8167d03e48", "/usr/share/man/man3/XDGACopyArea.3.gz": "59ea0feb18760b30ad64931eb698adb429eae94a33a7aba651c86a8167d03e48", "/usr/share/man/man3/XDGASetClientVersion.3.gz": "59ea0feb18760b30ad64931eb698adb429eae94a33a7aba651c86a8167d03e48", "/usr/share/man/man3/XDGAKeyEventToXKeyEvent.3.gz": "59ea0feb18760b30ad64931eb698adb429eae94a33a7aba651c86a8167d03e48", "/usr/share/man/man3/XDGAInstallColormap.3.gz": "59ea0feb18760b30ad64931eb698adb429eae94a33a7aba651c86a8167d03e48", "/usr/share/man/man3/XDGASetMode.3.gz": "59ea0feb18760b30ad64931eb698adb429eae94a33a7aba651c86a8167d03e48", "/usr/share/man/man3/XDGASelectInput.3.gz": "59ea0feb18760b30ad64931eb698adb429eae94a33a7aba651c86a8167d03e48", "/usr/share/man/man3/XDGAGetViewportStatus.3.gz": "59ea0feb18760b30ad64931eb698adb429eae94a33a7aba651c86a8167d03e48", "/usr/share/man/man3/XDGAOpenFramebuffer.3.gz": "59ea0feb18760b30ad64931eb698adb429eae94a33a7aba651c86a8167d03e48", "/usr/share/man/man3/XDGASync.3.gz": "59ea0feb18760b30ad64931eb698adb429eae94a33a7aba651c86a8167d03e48", "/usr/share/man/man3/XDGAQueryVersion.3.gz": "59ea0feb18760b30ad64931eb698adb429eae94a33a7aba651c86a8167d03e48", "/usr/share/man/man3/XDGACreateColormap.3.gz": "59ea0feb18760b30ad64931eb698adb429eae94a33a7aba651c86a8167d03e48", "/usr/share/man/man3/XDGAQueryExtension.3.gz": "59ea0feb18760b30ad64931eb698adb429eae94a33a7aba651c86a8167d03e48", "/usr/share/man/man3/XDGASetViewport.3.gz": "59ea0feb18760b30ad64931eb698adb429eae94a33a7aba651c86a8167d03e48", "/usr/lib/libXxf86dga.so.1": "c59a23587cb1ead6409be8a7696927dae9813e0e488299944cb516bf5b1e501e", "/usr/lib/libXxf86dga.so": "c59a23587cb1ead6409be8a7696927dae9813e0e488299944cb516bf5b1e501e", "/usr/lib/libXxf86dga.so.1.0.0": "c59a23587cb1ead6409be8a7696927dae9813e0e488299944cb516bf5b1e501e", "/usr/lib/pkgconfig/xxf86dga.pc": "b87f292ab6cd09b1879ebc25e851e6aebc69545f3f088696578a045235883c65", "/var/log/pacman.log": "46c1865db19e8a6e368ad4dc4c09cd1c8c9247c6ecad8a465cdc6b8f60547227"}}
+{
+  "1.1.4-1": {
+    "/usr/include/X11/extensions/Xxf86dga.h": "e5f688a8d7bf1cbde65de3d3f3f4578bdcb3d088c49d01939de661d9ccdcda68",
+    "/usr/include/X11/extensions/xf86dga1.h": "9352fd9d454c9e10f175f4d7f8f56257365f098474d6d9182e9ecb0b5ad72f8f",
+    "/usr/share/licenses/libxxf86dga/COPYING": "dd27933ebc5c063128b158b085e4c442a36b0e6f704cf753116da119610191da",
+    "/usr/share/man/man3/XDGAChangePixmapMode.3.gz": "59ea0feb18760b30ad64931eb698adb429eae94a33a7aba651c86a8167d03e48",
+    "/usr/share/man/man3/XFree86-DGA.3.gz": "59ea0feb18760b30ad64931eb698adb429eae94a33a7aba651c86a8167d03e48",
+    "/usr/share/man/man3/XDGAFillRectangle.3.gz": "59ea0feb18760b30ad64931eb698adb429eae94a33a7aba651c86a8167d03e48",
+    "/usr/share/man/man3/XDGA.3.gz": "e0a9a2ccbef1022e39dccfb4233612bde9aa65606c4d9d43207cec8d3846d0bc",
+    "/usr/share/man/man3/XDGAQueryModes.3.gz": "59ea0feb18760b30ad64931eb698adb429eae94a33a7aba651c86a8167d03e48",
+    "/usr/share/man/man3/XF86DGA.3.gz": "59ea0feb18760b30ad64931eb698adb429eae94a33a7aba651c86a8167d03e48",
+    "/usr/share/man/man3/XDGACopyTransparentArea.3.gz": "59ea0feb18760b30ad64931eb698adb429eae94a33a7aba651c86a8167d03e48",
+    "/usr/share/man/man3/XDGACloseFramebuffer.3.gz": "59ea0feb18760b30ad64931eb698adb429eae94a33a7aba651c86a8167d03e48",
+    "/usr/share/man/man3/XDGACopyArea.3.gz": "59ea0feb18760b30ad64931eb698adb429eae94a33a7aba651c86a8167d03e48",
+    "/usr/share/man/man3/XDGASetClientVersion.3.gz": "59ea0feb18760b30ad64931eb698adb429eae94a33a7aba651c86a8167d03e48",
+    "/usr/share/man/man3/XDGAKeyEventToXKeyEvent.3.gz": "59ea0feb18760b30ad64931eb698adb429eae94a33a7aba651c86a8167d03e48",
+    "/usr/share/man/man3/XDGAInstallColormap.3.gz": "59ea0feb18760b30ad64931eb698adb429eae94a33a7aba651c86a8167d03e48",
+    "/usr/share/man/man3/XDGASetMode.3.gz": "59ea0feb18760b30ad64931eb698adb429eae94a33a7aba651c86a8167d03e48",
+    "/usr/share/man/man3/XDGASelectInput.3.gz": "59ea0feb18760b30ad64931eb698adb429eae94a33a7aba651c86a8167d03e48",
+    "/usr/share/man/man3/XDGAGetViewportStatus.3.gz": "59ea0feb18760b30ad64931eb698adb429eae94a33a7aba651c86a8167d03e48",
+    "/usr/share/man/man3/XDGAOpenFramebuffer.3.gz": "59ea0feb18760b30ad64931eb698adb429eae94a33a7aba651c86a8167d03e48",
+    "/usr/share/man/man3/XDGASync.3.gz": "59ea0feb18760b30ad64931eb698adb429eae94a33a7aba651c86a8167d03e48",
+    "/usr/share/man/man3/XDGAQueryVersion.3.gz": "59ea0feb18760b30ad64931eb698adb429eae94a33a7aba651c86a8167d03e48",
+    "/usr/share/man/man3/XDGACreateColormap.3.gz": "59ea0feb18760b30ad64931eb698adb429eae94a33a7aba651c86a8167d03e48",
+    "/usr/share/man/man3/XDGAQueryExtension.3.gz": "59ea0feb18760b30ad64931eb698adb429eae94a33a7aba651c86a8167d03e48",
+    "/usr/share/man/man3/XDGASetViewport.3.gz": "59ea0feb18760b30ad64931eb698adb429eae94a33a7aba651c86a8167d03e48",
+    "/usr/lib/libXxf86dga.so.1": "c59a23587cb1ead6409be8a7696927dae9813e0e488299944cb516bf5b1e501e",
+    "/usr/lib/libXxf86dga.so": "c59a23587cb1ead6409be8a7696927dae9813e0e488299944cb516bf5b1e501e",
+    "/usr/lib/libXxf86dga.so.1.0.0": "c59a23587cb1ead6409be8a7696927dae9813e0e488299944cb516bf5b1e501e",
+    "/usr/lib/pkgconfig/xxf86dga.pc": "b87f292ab6cd09b1879ebc25e851e6aebc69545f3f088696578a045235883c65",
+    "/var/log/pacman.log": "46c1865db19e8a6e368ad4dc4c09cd1c8c9247c6ecad8a465cdc6b8f60547227"
+  }
+}

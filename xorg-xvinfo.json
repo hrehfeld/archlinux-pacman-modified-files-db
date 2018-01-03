@@ -1,1 +1,8 @@
-{"1.1.3-1": {"/usr/share/licenses/xorg-xvinfo/COPYING": "7725b0484faa1832534814ecb577f5a86acc74f1bcce25f92c55dfc1b693717d", "/usr/share/man/man1/xvinfo.1.gz": "1e3036481005a7fb68ba277eb879cf7098da8f3fe679381da2652a410679920b", "/usr/bin/xvinfo": "0ff017275be9addf8081144817472cc6bd829e73d0a0b4769c5f296dc927ac9d", "/var/log/pacman.log": "ff26abea4ab916b49ecd5d9bd5788f4db085edb5b887816b06cb89e88344dd14"}}
+{
+  "1.1.3-1": {
+    "/usr/share/licenses/xorg-xvinfo/COPYING": "7725b0484faa1832534814ecb577f5a86acc74f1bcce25f92c55dfc1b693717d",
+    "/usr/share/man/man1/xvinfo.1.gz": "1e3036481005a7fb68ba277eb879cf7098da8f3fe679381da2652a410679920b",
+    "/usr/bin/xvinfo": "0ff017275be9addf8081144817472cc6bd829e73d0a0b4769c5f296dc927ac9d",
+    "/var/log/pacman.log": "ff26abea4ab916b49ecd5d9bd5788f4db085edb5b887816b06cb89e88344dd14"
+  }
+}

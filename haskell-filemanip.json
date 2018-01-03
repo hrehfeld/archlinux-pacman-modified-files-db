@@ -1,1 +1,24 @@
-{"0.3.6.3-10": {"/usr/share/haskell/register/haskell-filemanip.sh": "22df9b2afdd9e7c267acda6ac477f7345643fc31cd14bb3434a4c183128b79be", "/usr/share/haskell/unregister/haskell-filemanip.sh": "4aea3cbfa5d1b3b1f32ff56a2ba34122c3d5d7c9945f788666eebd899667f4b1", "/usr/share/licenses/haskell-filemanip/LICENSE": "5850af43bbf80c17ef3aab7bd77d7350f6d1bef2344eb82ef89d1a0e384061f4", "/usr/lib/libHSfilemanip-0.3.6.3-HRazNawHUwUFMqg3mdq5t4-ghc8.2.1.so": "c8a043e125071a476d2f05b53f5d81c8a3b120c55bb69c5ada243fb319c92105", "/usr/lib/ghc-8.2.1/site-local/filemanip-0.3.6.3/System/FilePath/Find.dyn_hi": "32b2f9a20b7d6fe990a4ee711ea2f74e5e0f86ca6e8c5368cc52c3b7e4e3cde5", "/usr/lib/ghc-8.2.1/site-local/filemanip-0.3.6.3/System/FilePath/Glob.dyn_hi": "2e93096bd438db0f8aaf5100bc59c25266f436a0b17fec3b71bd9166f3ace880", "/usr/lib/ghc-8.2.1/site-local/filemanip-0.3.6.3/System/FilePath/GlobPattern.dyn_hi": "7f6ece4f199446ba81f0192d6e94d0ccf4ea6428842065c1a2bdb99f8c4c6857", "/usr/lib/ghc-8.2.1/site-local/filemanip-0.3.6.3/System/FilePath/Manip.dyn_hi": "00da561a787a1b2af05d917eb3d000850caccdad24eed0fc9186ba81cec4a224", "/var/log/pacman.log": "9a1f22bdfbb103c0f8b7e4171cb969b8fd01ad255700408abb1ea5b54f527da4"}, "0.3.6.3-11": {"/usr/share/haskell/register/haskell-filemanip.sh": "011d1fdb3c1aebdfbf006e45da59c97c6f6b83f189c7a915338eef825ced8d38", "/usr/share/haskell/unregister/haskell-filemanip.sh": "f5ce359cd9537d12897774e8222e590087d23f1b343e75714c63e6d2d3027db5", "/usr/share/licenses/haskell-filemanip/LICENSE": "5850af43bbf80c17ef3aab7bd77d7350f6d1bef2344eb82ef89d1a0e384061f4", "/usr/lib/libHSfilemanip-0.3.6.3-9giY7J5s1R0FqQX715Wz4K-ghc8.2.2.so": "a8bfccc93e07fad80ee6dea579508ac799638656b9d31baee4d0d2b60d6767e7", "/usr/lib/ghc-8.2.2/site-local/filemanip-0.3.6.3/System/FilePath/Find.dyn_hi": "0bb43a1946d38daee3c92b85ff343a97f23e2dceaa8afe2d5675c6615c1f03cf", "/usr/lib/ghc-8.2.2/site-local/filemanip-0.3.6.3/System/FilePath/Glob.dyn_hi": "ae1589fd99efca79e5d778067c8efd912336cd94c206a753826e91bf8292706d", "/usr/lib/ghc-8.2.2/site-local/filemanip-0.3.6.3/System/FilePath/GlobPattern.dyn_hi": "66e7e886f0d5068e704e2e19edb9c75627d3f3d29a44eac03b65a4d3a093e1e2", "/usr/lib/ghc-8.2.2/site-local/filemanip-0.3.6.3/System/FilePath/Manip.dyn_hi": "bfa19cbce8ea8ddfb03f771fe24085d54da25bd304c4aee43ed748e226dcf837", "/var/log/pacman.log": "1c14d54c4aa4506241c14e1cbfe9618d8d6a098fd0c91c1207e8d0877b3ddae5"}}
+{
+  "0.3.6.3-10": {
+    "/usr/share/haskell/register/haskell-filemanip.sh": "22df9b2afdd9e7c267acda6ac477f7345643fc31cd14bb3434a4c183128b79be",
+    "/usr/share/haskell/unregister/haskell-filemanip.sh": "4aea3cbfa5d1b3b1f32ff56a2ba34122c3d5d7c9945f788666eebd899667f4b1",
+    "/usr/share/licenses/haskell-filemanip/LICENSE": "5850af43bbf80c17ef3aab7bd77d7350f6d1bef2344eb82ef89d1a0e384061f4",
+    "/usr/lib/libHSfilemanip-0.3.6.3-HRazNawHUwUFMqg3mdq5t4-ghc8.2.1.so": "c8a043e125071a476d2f05b53f5d81c8a3b120c55bb69c5ada243fb319c92105",
+    "/usr/lib/ghc-8.2.1/site-local/filemanip-0.3.6.3/System/FilePath/Find.dyn_hi": "32b2f9a20b7d6fe990a4ee711ea2f74e5e0f86ca6e8c5368cc52c3b7e4e3cde5",
+    "/usr/lib/ghc-8.2.1/site-local/filemanip-0.3.6.3/System/FilePath/Glob.dyn_hi": "2e93096bd438db0f8aaf5100bc59c25266f436a0b17fec3b71bd9166f3ace880",
+    "/usr/lib/ghc-8.2.1/site-local/filemanip-0.3.6.3/System/FilePath/GlobPattern.dyn_hi": "7f6ece4f199446ba81f0192d6e94d0ccf4ea6428842065c1a2bdb99f8c4c6857",
+    "/usr/lib/ghc-8.2.1/site-local/filemanip-0.3.6.3/System/FilePath/Manip.dyn_hi": "00da561a787a1b2af05d917eb3d000850caccdad24eed0fc9186ba81cec4a224",
+    "/var/log/pacman.log": "9a1f22bdfbb103c0f8b7e4171cb969b8fd01ad255700408abb1ea5b54f527da4"
+  },
+  "0.3.6.3-11": {
+    "/usr/share/haskell/register/haskell-filemanip.sh": "011d1fdb3c1aebdfbf006e45da59c97c6f6b83f189c7a915338eef825ced8d38",
+    "/usr/share/haskell/unregister/haskell-filemanip.sh": "f5ce359cd9537d12897774e8222e590087d23f1b343e75714c63e6d2d3027db5",
+    "/usr/share/licenses/haskell-filemanip/LICENSE": "5850af43bbf80c17ef3aab7bd77d7350f6d1bef2344eb82ef89d1a0e384061f4",
+    "/usr/lib/libHSfilemanip-0.3.6.3-9giY7J5s1R0FqQX715Wz4K-ghc8.2.2.so": "a8bfccc93e07fad80ee6dea579508ac799638656b9d31baee4d0d2b60d6767e7",
+    "/usr/lib/ghc-8.2.2/site-local/filemanip-0.3.6.3/System/FilePath/Find.dyn_hi": "0bb43a1946d38daee3c92b85ff343a97f23e2dceaa8afe2d5675c6615c1f03cf",
+    "/usr/lib/ghc-8.2.2/site-local/filemanip-0.3.6.3/System/FilePath/Glob.dyn_hi": "ae1589fd99efca79e5d778067c8efd912336cd94c206a753826e91bf8292706d",
+    "/usr/lib/ghc-8.2.2/site-local/filemanip-0.3.6.3/System/FilePath/GlobPattern.dyn_hi": "66e7e886f0d5068e704e2e19edb9c75627d3f3d29a44eac03b65a4d3a093e1e2",
+    "/usr/lib/ghc-8.2.2/site-local/filemanip-0.3.6.3/System/FilePath/Manip.dyn_hi": "bfa19cbce8ea8ddfb03f771fe24085d54da25bd304c4aee43ed748e226dcf837",
+    "/var/log/pacman.log": "1c14d54c4aa4506241c14e1cbfe9618d8d6a098fd0c91c1207e8d0877b3ddae5"
+  }
+}

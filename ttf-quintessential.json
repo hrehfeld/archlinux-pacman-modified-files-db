@@ -1,1 +1,7 @@
-{"1.001-3": {"/usr/share/fonts/TTF/Quintessential-Regular.ttf": "73d192f10dbfc716214aae282afb93036f12415d16adc9d6d0e981f34d829d32", "/usr/share/licenses/ttf-quintessential/LICENSE": "0786594992757ea0290ae4a490ab9249728f372adb13959c0c8ae4fec83057ff", "/var/log/pacman.log": "cc2cd6c1d63292da90c0d621d94aa04d6cab2a65d82775b254e5e4bbf69a4d92"}}
+{
+  "1.001-3": {
+    "/usr/share/fonts/TTF/Quintessential-Regular.ttf": "73d192f10dbfc716214aae282afb93036f12415d16adc9d6d0e981f34d829d32",
+    "/usr/share/licenses/ttf-quintessential/LICENSE": "0786594992757ea0290ae4a490ab9249728f372adb13959c0c8ae4fec83057ff",
+    "/var/log/pacman.log": "cc2cd6c1d63292da90c0d621d94aa04d6cab2a65d82775b254e5e4bbf69a4d92"
+  }
+}

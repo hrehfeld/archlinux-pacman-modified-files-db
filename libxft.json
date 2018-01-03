@@ -1,1 +1,13 @@
-{"2.3.2-1": {"/usr/include/X11/Xft/XftCompat.h": "045b56f07810c30d7979af4424a47c1116234139d101f157c6b210371f531426", "/usr/include/X11/Xft/Xft.h": "5beb4ffae3917d67d92a45e4f72d8ae97d23fa771fdeedb394b445099dc5296b", "/usr/share/licenses/libxft/COPYING": "7cda22286b1379b9b73df695f72cbad36595e65b039a5fbc5c89b69ecc44438c", "/usr/share/man/man3/Xft.3.gz": "218365282aaf559def37f3f7d626b6ca241ef69eeef0a787698ab0db4cf484a0", "/usr/lib/libXft.so": "bbc1efd7404bbf06356fe3e9a3771193aa9e19bd65886b112be48c2e41882efd", "/usr/lib/libXft.so.2": "bbc1efd7404bbf06356fe3e9a3771193aa9e19bd65886b112be48c2e41882efd", "/usr/lib/libXft.so.2.3.2": "bbc1efd7404bbf06356fe3e9a3771193aa9e19bd65886b112be48c2e41882efd", "/usr/lib/pkgconfig/xft.pc": "f4500a63d8a6d5fce265d959fd3e707ecbdacfd3685089c1e639862ff86253df", "/var/log/pacman.log": "a352e4a5b7e7a881575e6b3eca1376c417c26cc53cb07573ed315e52e4e64fb3"}}
+{
+  "2.3.2-1": {
+    "/usr/include/X11/Xft/XftCompat.h": "045b56f07810c30d7979af4424a47c1116234139d101f157c6b210371f531426",
+    "/usr/include/X11/Xft/Xft.h": "5beb4ffae3917d67d92a45e4f72d8ae97d23fa771fdeedb394b445099dc5296b",
+    "/usr/share/licenses/libxft/COPYING": "7cda22286b1379b9b73df695f72cbad36595e65b039a5fbc5c89b69ecc44438c",
+    "/usr/share/man/man3/Xft.3.gz": "218365282aaf559def37f3f7d626b6ca241ef69eeef0a787698ab0db4cf484a0",
+    "/usr/lib/libXft.so": "bbc1efd7404bbf06356fe3e9a3771193aa9e19bd65886b112be48c2e41882efd",
+    "/usr/lib/libXft.so.2": "bbc1efd7404bbf06356fe3e9a3771193aa9e19bd65886b112be48c2e41882efd",
+    "/usr/lib/libXft.so.2.3.2": "bbc1efd7404bbf06356fe3e9a3771193aa9e19bd65886b112be48c2e41882efd",
+    "/usr/lib/pkgconfig/xft.pc": "f4500a63d8a6d5fce265d959fd3e707ecbdacfd3685089c1e639862ff86253df",
+    "/var/log/pacman.log": "a352e4a5b7e7a881575e6b3eca1376c417c26cc53cb07573ed315e52e4e64fb3"
+  }
+}

@@ -1,1 +1,10 @@
-{"1.2.0.1-5": {"/usr/share/haskell/register/haskell-base-prelude.sh": "e957a71126f23e1b8f732f864063e4b2f863f772f217a1d5c9a9cbe713e00f0c", "/usr/share/haskell/unregister/haskell-base-prelude.sh": "e4fd1de18a4f82927211c22a7f13a8f7698e7ac802724ea3701196c89bcad854", "/usr/share/licenses/haskell-base-prelude/LICENSE": "7f21746411af2d836a3ea4d35add7eef85778799c97d0e3b71f405689f56c430", "/usr/lib/libHSbase-prelude-1.2.0.1-Jp4fn0lH8rP2DHoIPVF2qm-ghc8.2.2.so": "06763126653e52ff277ec3194af5d208ef3b8cbbf82db73f27cd3a1acff7274e", "/usr/lib/ghc-8.2.2/site-local/base-prelude-1.2.0.1/BasePrelude.dyn_hi": "5a11877eb53ea10cda008dc56bef07a2ccc99c2436842bac0f297b0fe8b0c944", "/var/log/pacman.log": "a974e6911b8c40865bdf223e172fdd38562f1041cf1712e7f655253845a867db"}}
+{
+  "1.2.0.1-5": {
+    "/usr/share/haskell/register/haskell-base-prelude.sh": "e957a71126f23e1b8f732f864063e4b2f863f772f217a1d5c9a9cbe713e00f0c",
+    "/usr/share/haskell/unregister/haskell-base-prelude.sh": "e4fd1de18a4f82927211c22a7f13a8f7698e7ac802724ea3701196c89bcad854",
+    "/usr/share/licenses/haskell-base-prelude/LICENSE": "7f21746411af2d836a3ea4d35add7eef85778799c97d0e3b71f405689f56c430",
+    "/usr/lib/libHSbase-prelude-1.2.0.1-Jp4fn0lH8rP2DHoIPVF2qm-ghc8.2.2.so": "06763126653e52ff277ec3194af5d208ef3b8cbbf82db73f27cd3a1acff7274e",
+    "/usr/lib/ghc-8.2.2/site-local/base-prelude-1.2.0.1/BasePrelude.dyn_hi": "5a11877eb53ea10cda008dc56bef07a2ccc99c2436842bac0f297b0fe8b0c944",
+    "/var/log/pacman.log": "a974e6911b8c40865bdf223e172fdd38562f1041cf1712e7f655253845a867db"
+  }
+}

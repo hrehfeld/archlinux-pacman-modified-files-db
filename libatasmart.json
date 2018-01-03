@@ -1,1 +1,14 @@
-{"0.19-3": {"/usr/include/atasmart.h": "377f051b87347769eb9ceca1163e63c21cb7e59f17e3435caff8209c28f40acf", "/usr/share/vala/vapi/atasmart.vapi": "dde29d140bac5389a42fab73ee6c964a17d3d9c0928a579f350f2372b864d9ee", "/usr/share/doc/libatasmart/README": "0b8c797e697bc964fde3376b321f087ef4253fb40f6709015461e3f9c825d9a8", "/usr/bin/sktest": "debb0299326cc6008e462222803d29980299fe84e714bbd558e9bdff6ae86f76", "/usr/bin/skdump": "967dad5e4c5a55a119cd8c7bce7ed305b9a9ab73cdf9d7155172970b86bcd150", "/usr/lib/libatasmart.so.4.0.5": "48233bf663e82e559faefd2a1728e37cee369842978d4588969813df48fa555d", "/usr/lib/libatasmart.so": "48233bf663e82e559faefd2a1728e37cee369842978d4588969813df48fa555d", "/usr/lib/libatasmart.so.4": "48233bf663e82e559faefd2a1728e37cee369842978d4588969813df48fa555d", "/usr/lib/pkgconfig/libatasmart.pc": "9ead97baf02749b4a32561d0ffd9831bfc56b310420278e59c6de8768a448c81", "/var/log/pacman.log": "4609a0eeade48dd25fa5c614e758c49d19320df7aa14b92865b7ce5e9f844ea0"}}
+{
+  "0.19-3": {
+    "/usr/include/atasmart.h": "377f051b87347769eb9ceca1163e63c21cb7e59f17e3435caff8209c28f40acf",
+    "/usr/share/vala/vapi/atasmart.vapi": "dde29d140bac5389a42fab73ee6c964a17d3d9c0928a579f350f2372b864d9ee",
+    "/usr/share/doc/libatasmart/README": "0b8c797e697bc964fde3376b321f087ef4253fb40f6709015461e3f9c825d9a8",
+    "/usr/bin/sktest": "debb0299326cc6008e462222803d29980299fe84e714bbd558e9bdff6ae86f76",
+    "/usr/bin/skdump": "967dad5e4c5a55a119cd8c7bce7ed305b9a9ab73cdf9d7155172970b86bcd150",
+    "/usr/lib/libatasmart.so.4.0.5": "48233bf663e82e559faefd2a1728e37cee369842978d4588969813df48fa555d",
+    "/usr/lib/libatasmart.so": "48233bf663e82e559faefd2a1728e37cee369842978d4588969813df48fa555d",
+    "/usr/lib/libatasmart.so.4": "48233bf663e82e559faefd2a1728e37cee369842978d4588969813df48fa555d",
+    "/usr/lib/pkgconfig/libatasmart.pc": "9ead97baf02749b4a32561d0ffd9831bfc56b310420278e59c6de8768a448c81",
+    "/var/log/pacman.log": "4609a0eeade48dd25fa5c614e758c49d19320df7aa14b92865b7ce5e9f844ea0"
+  }
+}

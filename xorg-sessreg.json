@@ -1,1 +1,8 @@
-{"1.1.1-1": {"/usr/share/licenses/xorg-sessreg/COPYING": "ac8f5cc696e6c473aea4caaf18650316dc8912fcf0f370cae1df5f395cea8631", "/usr/share/man/man1/sessreg.1.gz": "319b30b1879bc04b95ad6ab97200ba15a7d77379089b0912575edecf67a2e006", "/usr/bin/sessreg": "1bcd89140c92ac4351072b20c33fb82cb32b398b14ad54adbdde7969a2768cf7", "/var/log/pacman.log": "383c35d7a77f315dc1fae427fe13e17495fc28851a10c7de1eef4ec576e4af4c"}}
+{
+  "1.1.1-1": {
+    "/usr/share/licenses/xorg-sessreg/COPYING": "ac8f5cc696e6c473aea4caaf18650316dc8912fcf0f370cae1df5f395cea8631",
+    "/usr/share/man/man1/sessreg.1.gz": "319b30b1879bc04b95ad6ab97200ba15a7d77379089b0912575edecf67a2e006",
+    "/usr/bin/sessreg": "1bcd89140c92ac4351072b20c33fb82cb32b398b14ad54adbdde7969a2768cf7",
+    "/var/log/pacman.log": "383c35d7a77f315dc1fae427fe13e17495fc28851a10c7de1eef4ec576e4af4c"
+  }
+}

@@ -1,1 +1,13 @@
-{"1.29.7.7-1": {"/usr/include/faac.h": "2114797c15826ecd0df08fb513df3fee6e22737e4b517f5f8521842b8b11ffa1", "/usr/include/faaccfg.h": "aa14ceb3fbda2bc1f69ef474b16b1c6d027f07c3661dbeea718adedee32e907a", "/usr/lib/libfaac.so.0": "b61b75b5d51c0d31760dc97a7f66618eff3c435d32975f8e5ad8784ef3b4d4fe", "/usr/lib/libfaac.so": "b61b75b5d51c0d31760dc97a7f66618eff3c435d32975f8e5ad8784ef3b4d4fe", "/usr/lib/libfaac.so.0.0.0": "b61b75b5d51c0d31760dc97a7f66618eff3c435d32975f8e5ad8784ef3b4d4fe", "/usr/bin/faac": "f612ced5232302d62fee1d7eab3003fa399bb32d442ced3845b1edcb93cceced", "/usr/share/man/man1/faac.1.gz": "31427c4f4490b0033f6780ce211d49a4687ce427744dcb6cc0f191384897dc5d", "/usr/share/licenses/faac/LICENSE": "d245807f90032872d1438d741ed21e2490e1175dc8aa3afa5ddb6c8e529b58e5", "/var/log/pacman.log": "a40357bd8e0d2c0b3ee380d9a55529ef52586a550d7f202224b0da547c929eb2"}}
+{
+  "1.29.7.7-1": {
+    "/usr/include/faac.h": "2114797c15826ecd0df08fb513df3fee6e22737e4b517f5f8521842b8b11ffa1",
+    "/usr/include/faaccfg.h": "aa14ceb3fbda2bc1f69ef474b16b1c6d027f07c3661dbeea718adedee32e907a",
+    "/usr/lib/libfaac.so.0": "b61b75b5d51c0d31760dc97a7f66618eff3c435d32975f8e5ad8784ef3b4d4fe",
+    "/usr/lib/libfaac.so": "b61b75b5d51c0d31760dc97a7f66618eff3c435d32975f8e5ad8784ef3b4d4fe",
+    "/usr/lib/libfaac.so.0.0.0": "b61b75b5d51c0d31760dc97a7f66618eff3c435d32975f8e5ad8784ef3b4d4fe",
+    "/usr/bin/faac": "f612ced5232302d62fee1d7eab3003fa399bb32d442ced3845b1edcb93cceced",
+    "/usr/share/man/man1/faac.1.gz": "31427c4f4490b0033f6780ce211d49a4687ce427744dcb6cc0f191384897dc5d",
+    "/usr/share/licenses/faac/LICENSE": "d245807f90032872d1438d741ed21e2490e1175dc8aa3afa5ddb6c8e529b58e5",
+    "/var/log/pacman.log": "a40357bd8e0d2c0b3ee380d9a55529ef52586a550d7f202224b0da547c929eb2"
+  }
+}

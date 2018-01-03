@@ -1,1 +1,21 @@
-{"2.00.1-7": {"/usr/share/fonts/TTF/LiberationMono-Bold.ttf": "51024fd54bd726167996a9ed45ceb2ccae93be89a848045dd6b715856cb1561d", "/usr/share/fonts/TTF/LiberationMono-BoldItalic.ttf": "a0d13334ec3450aa57da0f0dcb356dc18775417e3662a23af88c94c4ea557e42", "/usr/share/fonts/TTF/LiberationMono-Italic.ttf": "7be4134e2499920a4d7013e0da9ed2d5bdaccf84825791368761c5cbbf5db48c", "/usr/share/fonts/TTF/LiberationMono-Regular.ttf": "a9b21391536aec1c8fad37f2d5f24750e7f2d63cd86bccbb2463b6e17005f52e", "/usr/share/fonts/TTF/LiberationSans-Bold.ttf": "d723d5a272970aedf296ef6fc628180df6074bce7769701ea9e0d222c052668c", "/usr/share/fonts/TTF/LiberationSans-BoldItalic.ttf": "24b7cf0d06040c9a1b16efc528dc2966a407288938dfa169ee7fe584140a3393", "/usr/share/fonts/TTF/LiberationSans-Italic.ttf": "e27e6da1f5bbba630d635b8cc2916f84f195735865ea539687df962ae5a98e72", "/usr/share/fonts/TTF/LiberationSans-Regular.ttf": "e5b0af421ea2bfbc1ac8d251d647268087ae82786234c57f757d1f0b90fa8b49", "/usr/share/fonts/TTF/LiberationSerif-Bold.ttf": "7a68170c1129e294639770c83f79033baaa59e384d561e979bbfc5ce11fc9854", "/usr/share/fonts/TTF/LiberationSerif-BoldItalic.ttf": "78c2810297cd3d9adead7a2bc242b67a095576ae020f19373a8825e504f5c52d", "/usr/share/fonts/TTF/LiberationSerif-Italic.ttf": "ac0d2e385900315fbe12e0a175b5e22c8e8340f500d8b1e9b0e99c5ac065a1eb", "/usr/share/fonts/TTF/LiberationSerif-Regular.ttf": "26cd653d3312cee66f1d4f2c1065ba2ad324abd411b298f771bf7057e213d723", "/usr/share/licenses/ttf-liberation/LICENSE": "93fed46019c38bbe566b479d22148e2e8a1e85ada614accb0211c37b2c61c19b", "/var/log/pacman.log": "8829e887d6afc290b336f7693fea248172397cfd2b3661f4acf35010bba7c136", "/etc/fonts/conf.avail/30-ttf-liberation-mono.conf": "238aa4fab2c0201611a203c938d38296118cae605055768c06955a8d85697b22", "/etc/fonts/conf.avail/30-ttf-liberation-sans.conf": "2a63fe17a2873c1021076a1fdfc02057a0e7f19ebd19a3fab3a56bf3eddf79cd", "/etc/fonts/conf.avail/30-ttf-liberation-serif.conf": "dca84cb4b7ec2bf6ee3dc822b73f5a32e0e3d009056e7ba9ba3a12812687330c"}}
+{
+  "2.00.1-7": {
+    "/usr/share/fonts/TTF/LiberationMono-Bold.ttf": "51024fd54bd726167996a9ed45ceb2ccae93be89a848045dd6b715856cb1561d",
+    "/usr/share/fonts/TTF/LiberationMono-BoldItalic.ttf": "a0d13334ec3450aa57da0f0dcb356dc18775417e3662a23af88c94c4ea557e42",
+    "/usr/share/fonts/TTF/LiberationMono-Italic.ttf": "7be4134e2499920a4d7013e0da9ed2d5bdaccf84825791368761c5cbbf5db48c",
+    "/usr/share/fonts/TTF/LiberationMono-Regular.ttf": "a9b21391536aec1c8fad37f2d5f24750e7f2d63cd86bccbb2463b6e17005f52e",
+    "/usr/share/fonts/TTF/LiberationSans-Bold.ttf": "d723d5a272970aedf296ef6fc628180df6074bce7769701ea9e0d222c052668c",
+    "/usr/share/fonts/TTF/LiberationSans-BoldItalic.ttf": "24b7cf0d06040c9a1b16efc528dc2966a407288938dfa169ee7fe584140a3393",
+    "/usr/share/fonts/TTF/LiberationSans-Italic.ttf": "e27e6da1f5bbba630d635b8cc2916f84f195735865ea539687df962ae5a98e72",
+    "/usr/share/fonts/TTF/LiberationSans-Regular.ttf": "e5b0af421ea2bfbc1ac8d251d647268087ae82786234c57f757d1f0b90fa8b49",
+    "/usr/share/fonts/TTF/LiberationSerif-Bold.ttf": "7a68170c1129e294639770c83f79033baaa59e384d561e979bbfc5ce11fc9854",
+    "/usr/share/fonts/TTF/LiberationSerif-BoldItalic.ttf": "78c2810297cd3d9adead7a2bc242b67a095576ae020f19373a8825e504f5c52d",
+    "/usr/share/fonts/TTF/LiberationSerif-Italic.ttf": "ac0d2e385900315fbe12e0a175b5e22c8e8340f500d8b1e9b0e99c5ac065a1eb",
+    "/usr/share/fonts/TTF/LiberationSerif-Regular.ttf": "26cd653d3312cee66f1d4f2c1065ba2ad324abd411b298f771bf7057e213d723",
+    "/usr/share/licenses/ttf-liberation/LICENSE": "93fed46019c38bbe566b479d22148e2e8a1e85ada614accb0211c37b2c61c19b",
+    "/var/log/pacman.log": "8829e887d6afc290b336f7693fea248172397cfd2b3661f4acf35010bba7c136",
+    "/etc/fonts/conf.avail/30-ttf-liberation-mono.conf": "238aa4fab2c0201611a203c938d38296118cae605055768c06955a8d85697b22",
+    "/etc/fonts/conf.avail/30-ttf-liberation-sans.conf": "2a63fe17a2873c1021076a1fdfc02057a0e7f19ebd19a3fab3a56bf3eddf79cd",
+    "/etc/fonts/conf.avail/30-ttf-liberation-serif.conf": "dca84cb4b7ec2bf6ee3dc822b73f5a32e0e3d009056e7ba9ba3a12812687330c"
+  }
+}

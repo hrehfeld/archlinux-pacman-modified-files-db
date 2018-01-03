@@ -1,1 +1,16 @@
-{"2.15-3": {"/usr/share/licenses/yubico-c-client/COPYING": "ec9526d3644a39a39d8a02ff87a62924f0bde026a135726c10ae6836424e40f8", "/usr/share/doc/yubico-c-client/README": "6b443ac3a81b97ce70b1a8eb3f3893a322d6a8cfc06ad5152d661cd335f94274", "/usr/share/man/man1/ykclient.1.gz": "a2e9195eb3aa080a81daf2e4b6bbf2e064115659d3faa7c9d0f8324d99320e82", "/usr/include/ykclient_server_response.h": "a316fe2241d309f31d671303428c7488964b15707987b83774d649357b48dfa1", "/usr/include/ykclient.h": "ccaf7b2331866251b3d38e894b56d1824ddf5438a14e9c51b1e205fd45778848", "/usr/include/ykclient_errors.h": "faee4c89a9fdbf85cb2d973cf04c30605e76ab45ee65254631c4d796bbcc7312", "/usr/include/ykclient_version.h": "0cd81f669e998d42ad5c346b30dd6143b96473fe3d1e7bbbbb927972c1bdd00a", "/usr/lib/libykclient.so.3": "b68d237cdae6c4d0a761647d8878661d3bbf25ab03b1722e8b2f71cbcc59bbae", "/usr/lib/libykclient.so": "b68d237cdae6c4d0a761647d8878661d3bbf25ab03b1722e8b2f71cbcc59bbae", "/usr/lib/libykclient.so.3.6.0": "b68d237cdae6c4d0a761647d8878661d3bbf25ab03b1722e8b2f71cbcc59bbae", "/usr/bin/ykclient": "c6bf25bd90c50c11b4f1d6cac5d1231f27a070011aeae8b41662e1b719adb3ab", "/var/log/pacman.log": "93d4611807ae65752b40f786a749207ca35989df437be87d989e0d715f9c3c3b"}}
+{
+  "2.15-3": {
+    "/usr/share/licenses/yubico-c-client/COPYING": "ec9526d3644a39a39d8a02ff87a62924f0bde026a135726c10ae6836424e40f8",
+    "/usr/share/doc/yubico-c-client/README": "6b443ac3a81b97ce70b1a8eb3f3893a322d6a8cfc06ad5152d661cd335f94274",
+    "/usr/share/man/man1/ykclient.1.gz": "a2e9195eb3aa080a81daf2e4b6bbf2e064115659d3faa7c9d0f8324d99320e82",
+    "/usr/include/ykclient_server_response.h": "a316fe2241d309f31d671303428c7488964b15707987b83774d649357b48dfa1",
+    "/usr/include/ykclient.h": "ccaf7b2331866251b3d38e894b56d1824ddf5438a14e9c51b1e205fd45778848",
+    "/usr/include/ykclient_errors.h": "faee4c89a9fdbf85cb2d973cf04c30605e76ab45ee65254631c4d796bbcc7312",
+    "/usr/include/ykclient_version.h": "0cd81f669e998d42ad5c346b30dd6143b96473fe3d1e7bbbbb927972c1bdd00a",
+    "/usr/lib/libykclient.so.3": "b68d237cdae6c4d0a761647d8878661d3bbf25ab03b1722e8b2f71cbcc59bbae",
+    "/usr/lib/libykclient.so": "b68d237cdae6c4d0a761647d8878661d3bbf25ab03b1722e8b2f71cbcc59bbae",
+    "/usr/lib/libykclient.so.3.6.0": "b68d237cdae6c4d0a761647d8878661d3bbf25ab03b1722e8b2f71cbcc59bbae",
+    "/usr/bin/ykclient": "c6bf25bd90c50c11b4f1d6cac5d1231f27a070011aeae8b41662e1b719adb3ab",
+    "/var/log/pacman.log": "93d4611807ae65752b40f786a749207ca35989df437be87d989e0d715f9c3c3b"
+  }
+}

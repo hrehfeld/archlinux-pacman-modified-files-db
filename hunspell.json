@@ -1,1 +1,35 @@
-{"1.6.2-1": {"/usr/include/hunspell/hunspell.h": "2ee510bfffe71eb07a4cb6bbda01acf2ccffc959b4d836d938b4ef5e308e4775", "/usr/include/hunspell/hunspell.hxx": "f560a45b2b6f7771c37a05c9306b751494f310e5b573602bce3947301b1c27a8", "/usr/include/hunspell/htypes.hxx": "b8119300b95b59a77cc8d6728fa4db9d8bd3cfe925bdd071282befc367cf5074", "/usr/include/hunspell/csutil.hxx": "850bbb7dd96c85cf6f8f0258ed937a6129331a629cdee901ccbc66b13b464497", "/usr/include/hunspell/atypes.hxx": "b5d140903f2ea7b72d3b11cb7dd83b9d9587950aaea48a37e7a4c086e459bb13", "/usr/include/hunspell/hunvisapi.h": "be5475552685376bb79c46e47eb087b46280f7ec3cdc9aac4e25241665629cde", "/usr/include/hunspell/w_char.hxx": "d4a506a798eff56281eeeedbbda56738001f0f622de06a89a0d36b77e2512e05", "/usr/share/man/man1/hzip.1.gz": "d2925d181f31811a67f04c2f868f27f6e4666b4b1e8707b96ae7357d93244d16", "/usr/share/man/man1/hunzip.1.gz": "bf65093ba0fc4d24834d544fb1775cc1992ae71b59c6643641b3c2c1e173e236", "/usr/share/man/man1/hunspell.1.gz": "6508e95e1fef77e9a36f725e0fbd63bc63408e41b6b7aa0452258b008dd856d2", "/usr/share/man/man5/hunspell.5.gz": "46378d6a836b1e6cb5a04815515d612f8a033456b484090086957706db7f6e30", "/usr/share/man/man3/hunspell.3.gz": "ced10a6624297dbab44b7195af4374e3807d8e427908ecaa6f1a1ecd04230daa", "/usr/share/man/hu/man1/hunspell.1.gz": "9a66c235f67ebbdede9740a6070c504ffa677da5ca9f247f8c8117f4b8460429", "/usr/bin/hunzip": "5ddc5e2d7579a5fe78bd8ff1baf944be816fee14a39fa858c59bad841d24d72e", "/usr/bin/munch": "da3c8aca3a6f598489e550e69496e4b72f4f1da7899f1390c0361d7530f8278b", "/usr/bin/ispellaff2myspell": "fd0b29ac769f3785d77540983c81d73edcd965a06669499ea84bbee5ba7656f5", "/usr/bin/wordforms": "0d0dffee1cc7d3d9fab39bf4d2a056663d2dcd70f5c2a16f34ee5be47b846850", "/usr/bin/hzip": "ca83fad4e73116573fb20710fa9dd9b2814175f469dd69db309e197308c72183", "/usr/bin/makealias": "1a8baf8d956b0aafaaf5dac36cfa54c6574b06b41564b2eac1ec235f81ab570c", "/usr/bin/affixcompress": "09a25799dc1a52b3aac86e5b18287278e931e0eee568cb6138b3babf3f063e28", "/usr/bin/wordlist2hunspell": "70bbb26eab40510ba14c481b7a4fa978026da45b5c12c2635d794d3538e591e2", "/usr/bin/hunspell": "610fa6ebd9405d6c0dd6d18ebd39e6205999e4193dd568a9c34cab2da7457574", "/usr/bin/unmunch": "058665f6e349f434999eb91f6552707c4eb238880edb2eb4a83f0ba3f96730c4", "/usr/bin/chmorph": "518655d70d32938bc71cdec329028e9993f4494bca4c40839dca417f28340f9d", "/usr/bin/analyze": "d0718eac6fadd6b17b7a0548a3e81ba00df998af8c58d9dfd86ef2a58a078ff2", "/usr/lib/libhunspell-1.6.so": "82fd4d89eaf227c03cd21272a1d7ff7b226e0aad12dc8713bf35a26077c31be9", "/usr/lib/libhunspell.so": "82fd4d89eaf227c03cd21272a1d7ff7b226e0aad12dc8713bf35a26077c31be9", "/usr/lib/libhunspell-1.6.so.0.0.1": "82fd4d89eaf227c03cd21272a1d7ff7b226e0aad12dc8713bf35a26077c31be9", "/usr/lib/libhunspell-1.6.so.0": "82fd4d89eaf227c03cd21272a1d7ff7b226e0aad12dc8713bf35a26077c31be9", "/usr/lib/pkgconfig/hunspell.pc": "94ed22bcfc2cc3253c1e3e4aeaaac58aa80bdaa44287c6d7159551f7a68da341", "/var/log/pacman.log": "742fee656d337bb07c55b468e9718105a377f27bad579e90131785058c97f576"}}
+{
+  "1.6.2-1": {
+    "/usr/include/hunspell/hunspell.h": "2ee510bfffe71eb07a4cb6bbda01acf2ccffc959b4d836d938b4ef5e308e4775",
+    "/usr/include/hunspell/hunspell.hxx": "f560a45b2b6f7771c37a05c9306b751494f310e5b573602bce3947301b1c27a8",
+    "/usr/include/hunspell/htypes.hxx": "b8119300b95b59a77cc8d6728fa4db9d8bd3cfe925bdd071282befc367cf5074",
+    "/usr/include/hunspell/csutil.hxx": "850bbb7dd96c85cf6f8f0258ed937a6129331a629cdee901ccbc66b13b464497",
+    "/usr/include/hunspell/atypes.hxx": "b5d140903f2ea7b72d3b11cb7dd83b9d9587950aaea48a37e7a4c086e459bb13",
+    "/usr/include/hunspell/hunvisapi.h": "be5475552685376bb79c46e47eb087b46280f7ec3cdc9aac4e25241665629cde",
+    "/usr/include/hunspell/w_char.hxx": "d4a506a798eff56281eeeedbbda56738001f0f622de06a89a0d36b77e2512e05",
+    "/usr/share/man/man1/hzip.1.gz": "d2925d181f31811a67f04c2f868f27f6e4666b4b1e8707b96ae7357d93244d16",
+    "/usr/share/man/man1/hunzip.1.gz": "bf65093ba0fc4d24834d544fb1775cc1992ae71b59c6643641b3c2c1e173e236",
+    "/usr/share/man/man1/hunspell.1.gz": "6508e95e1fef77e9a36f725e0fbd63bc63408e41b6b7aa0452258b008dd856d2",
+    "/usr/share/man/man5/hunspell.5.gz": "46378d6a836b1e6cb5a04815515d612f8a033456b484090086957706db7f6e30",
+    "/usr/share/man/man3/hunspell.3.gz": "ced10a6624297dbab44b7195af4374e3807d8e427908ecaa6f1a1ecd04230daa",
+    "/usr/share/man/hu/man1/hunspell.1.gz": "9a66c235f67ebbdede9740a6070c504ffa677da5ca9f247f8c8117f4b8460429",
+    "/usr/bin/hunzip": "5ddc5e2d7579a5fe78bd8ff1baf944be816fee14a39fa858c59bad841d24d72e",
+    "/usr/bin/munch": "da3c8aca3a6f598489e550e69496e4b72f4f1da7899f1390c0361d7530f8278b",
+    "/usr/bin/ispellaff2myspell": "fd0b29ac769f3785d77540983c81d73edcd965a06669499ea84bbee5ba7656f5",
+    "/usr/bin/wordforms": "0d0dffee1cc7d3d9fab39bf4d2a056663d2dcd70f5c2a16f34ee5be47b846850",
+    "/usr/bin/hzip": "ca83fad4e73116573fb20710fa9dd9b2814175f469dd69db309e197308c72183",
+    "/usr/bin/makealias": "1a8baf8d956b0aafaaf5dac36cfa54c6574b06b41564b2eac1ec235f81ab570c",
+    "/usr/bin/affixcompress": "09a25799dc1a52b3aac86e5b18287278e931e0eee568cb6138b3babf3f063e28",
+    "/usr/bin/wordlist2hunspell": "70bbb26eab40510ba14c481b7a4fa978026da45b5c12c2635d794d3538e591e2",
+    "/usr/bin/hunspell": "610fa6ebd9405d6c0dd6d18ebd39e6205999e4193dd568a9c34cab2da7457574",
+    "/usr/bin/unmunch": "058665f6e349f434999eb91f6552707c4eb238880edb2eb4a83f0ba3f96730c4",
+    "/usr/bin/chmorph": "518655d70d32938bc71cdec329028e9993f4494bca4c40839dca417f28340f9d",
+    "/usr/bin/analyze": "d0718eac6fadd6b17b7a0548a3e81ba00df998af8c58d9dfd86ef2a58a078ff2",
+    "/usr/lib/libhunspell-1.6.so": "82fd4d89eaf227c03cd21272a1d7ff7b226e0aad12dc8713bf35a26077c31be9",
+    "/usr/lib/libhunspell.so": "82fd4d89eaf227c03cd21272a1d7ff7b226e0aad12dc8713bf35a26077c31be9",
+    "/usr/lib/libhunspell-1.6.so.0.0.1": "82fd4d89eaf227c03cd21272a1d7ff7b226e0aad12dc8713bf35a26077c31be9",
+    "/usr/lib/libhunspell-1.6.so.0": "82fd4d89eaf227c03cd21272a1d7ff7b226e0aad12dc8713bf35a26077c31be9",
+    "/usr/lib/pkgconfig/hunspell.pc": "94ed22bcfc2cc3253c1e3e4aeaaac58aa80bdaa44287c6d7159551f7a68da341",
+    "/var/log/pacman.log": "742fee656d337bb07c55b468e9718105a377f27bad579e90131785058c97f576"
+  }
+}

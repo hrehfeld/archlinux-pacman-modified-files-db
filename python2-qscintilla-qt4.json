@@ -1,1 +1,12 @@
-{"2.10.1-1": {"/usr/lib/python2.7/site-packages/PyQt4/Qsci.pyi": "68b270ed563994713410a99746be9390f31799b87855fca9af8531d114bfca0f", "/usr/lib/python2.7/site-packages/PyQt4/Qsci.so": "750332e999203f0c636df790d5be397cfa48f04b9415b3797ff72c4edb69b222", "/var/log/pacman.log": "48a5c9503af3bf41405db0a5f46d80b1d3de531edd5150f77e3187d2583bb1b0"}, "2.10.2-1": {"/usr/lib/python2.7/site-packages/PyQt4/Qsci.pyi": "1ed3dbd06a34fb142729950d071795faca513f309aa8abf564fda804bcb1c96b", "/usr/lib/python2.7/site-packages/PyQt4/Qsci.so": "f351af2e1e8592be968db07e83cf8be756e409f5bfcd22f77326f7ec0487a9c9", "/var/log/pacman.log": "01b514ee0fe8ff2562f2d06c38ad2b65a6fa255550c4e563ed7e1a5d44dc8f5d"}}
+{
+  "2.10.1-1": {
+    "/usr/lib/python2.7/site-packages/PyQt4/Qsci.pyi": "68b270ed563994713410a99746be9390f31799b87855fca9af8531d114bfca0f",
+    "/usr/lib/python2.7/site-packages/PyQt4/Qsci.so": "750332e999203f0c636df790d5be397cfa48f04b9415b3797ff72c4edb69b222",
+    "/var/log/pacman.log": "48a5c9503af3bf41405db0a5f46d80b1d3de531edd5150f77e3187d2583bb1b0"
+  },
+  "2.10.2-1": {
+    "/usr/lib/python2.7/site-packages/PyQt4/Qsci.pyi": "1ed3dbd06a34fb142729950d071795faca513f309aa8abf564fda804bcb1c96b",
+    "/usr/lib/python2.7/site-packages/PyQt4/Qsci.so": "f351af2e1e8592be968db07e83cf8be756e409f5bfcd22f77326f7ec0487a9c9",
+    "/var/log/pacman.log": "01b514ee0fe8ff2562f2d06c38ad2b65a6fa255550c4e563ed7e1a5d44dc8f5d"
+  }
+}

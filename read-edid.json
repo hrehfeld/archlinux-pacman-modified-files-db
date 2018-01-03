@@ -1,1 +1,12 @@
-{"3.0.2-1": {"/usr/bin/parse-edid": "fc4701620f439f950cf6d6fc5b77e205da71029a70287c3804df13954cfaf12e", "/usr/bin/get-edid": "f57c97bd26a0bde846d60853fddef6ad07d5b8b82141d56c3e2a6b26503f7e3c", "/usr/share/doc/read-edid/README": "ba61f46686b5a3e30996e9cc66bb34013d8c1b6b7cc7c7ee5114811e2ce30d00", "/usr/share/doc/read-edid/LICENSE": "1f8e8a59865d73076ab0a015330bc5bde7332384281260093878a3c366b778b7", "/usr/share/doc/read-edid/ChangeLog": "e1e7085743c03eb92554c6e4f21271a06e87eda72419eba37ec3a8bc4fafe1fd", "/usr/share/doc/read-edid/AUTHORS": "5125be52b1666a206878e697bb4a8896c9a80c4df5f63110c854671aa6312766", "/usr/share/man/man1/get-edid.1.gz": "c898a70ec10638c94ecdd18a7fd585c5378668046f3ccaf223d859e00fac90ac", "/var/log/pacman.log": "5148a4fc3d8fc6d85fd627fe7a7b05de7ebec334320b5fb928d3538958b369eb"}}
+{
+  "3.0.2-1": {
+    "/usr/bin/parse-edid": "fc4701620f439f950cf6d6fc5b77e205da71029a70287c3804df13954cfaf12e",
+    "/usr/bin/get-edid": "f57c97bd26a0bde846d60853fddef6ad07d5b8b82141d56c3e2a6b26503f7e3c",
+    "/usr/share/doc/read-edid/README": "ba61f46686b5a3e30996e9cc66bb34013d8c1b6b7cc7c7ee5114811e2ce30d00",
+    "/usr/share/doc/read-edid/LICENSE": "1f8e8a59865d73076ab0a015330bc5bde7332384281260093878a3c366b778b7",
+    "/usr/share/doc/read-edid/ChangeLog": "e1e7085743c03eb92554c6e4f21271a06e87eda72419eba37ec3a8bc4fafe1fd",
+    "/usr/share/doc/read-edid/AUTHORS": "5125be52b1666a206878e697bb4a8896c9a80c4df5f63110c854671aa6312766",
+    "/usr/share/man/man1/get-edid.1.gz": "c898a70ec10638c94ecdd18a7fd585c5378668046f3ccaf223d859e00fac90ac",
+    "/var/log/pacman.log": "5148a4fc3d8fc6d85fd627fe7a7b05de7ebec334320b5fb928d3538958b369eb"
+  }
+}

@@ -1,1 +1,10 @@
-{"1.4.18-1": {"/usr/share/info/m4.info-2.gz": "099140a8a5e5adc4eba6c78df2b170b8f783d2018d706b435b73651a025cd5da", "/usr/share/info/m4.info-1.gz": "5f9e788711855aa48fa7d77b54c03ebb70396a57fa9f3bae2fdffb747e4b3a35", "/usr/share/info/m4.info.gz": "1804972e58ab609026fefec289bfe20c6144d3df5d0b12038011d66b63611040", "/usr/share/man/man1/m4.1.gz": "f0875ce8aaff6beb2884c161b327f510e8bb68b35aa35438017af5922dd20c12", "/usr/bin/m4": "335d9c19a8e246dcc4dc6a930824c8723ef9ae101b7d2af59a7daaa77bb6d469", "/var/log/pacman.log": "2da5726a62972e9c0da8409f1ed04d1dfc632204f07bb60720260beb90a322d5"}}
+{
+  "1.4.18-1": {
+    "/usr/share/info/m4.info-2.gz": "099140a8a5e5adc4eba6c78df2b170b8f783d2018d706b435b73651a025cd5da",
+    "/usr/share/info/m4.info-1.gz": "5f9e788711855aa48fa7d77b54c03ebb70396a57fa9f3bae2fdffb747e4b3a35",
+    "/usr/share/info/m4.info.gz": "1804972e58ab609026fefec289bfe20c6144d3df5d0b12038011d66b63611040",
+    "/usr/share/man/man1/m4.1.gz": "f0875ce8aaff6beb2884c161b327f510e8bb68b35aa35438017af5922dd20c12",
+    "/usr/bin/m4": "335d9c19a8e246dcc4dc6a930824c8723ef9ae101b7d2af59a7daaa77bb6d469",
+    "/var/log/pacman.log": "2da5726a62972e9c0da8409f1ed04d1dfc632204f07bb60720260beb90a322d5"
+  }
+}

@@ -1,1 +1,19 @@
-{"0.7.1-1": {"/usr/lib/libusbredirparser.so.1": "122c1d2b54def071abdcbf158be24be3b322acc2d458ffe402ad3505283e68cd", "/usr/lib/libusbredirhost.so.1.0.0": "ca0a6e2cb072159258f7bc14ce78ddb431c864d09822924104d31b9a386d1dc7", "/usr/lib/libusbredirhost.so.1": "ca0a6e2cb072159258f7bc14ce78ddb431c864d09822924104d31b9a386d1dc7", "/usr/lib/libusbredirparser.so": "122c1d2b54def071abdcbf158be24be3b322acc2d458ffe402ad3505283e68cd", "/usr/lib/libusbredirparser.so.1.0.0": "122c1d2b54def071abdcbf158be24be3b322acc2d458ffe402ad3505283e68cd", "/usr/lib/libusbredirhost.so": "ca0a6e2cb072159258f7bc14ce78ddb431c864d09822924104d31b9a386d1dc7", "/usr/lib/pkgconfig/libusbredirhost.pc": "f3b9b0752ba2f6dde00478a995ce2503d1327eef6d72e4a6fa0703b9ee131538", "/usr/lib/pkgconfig/libusbredirparser-0.5.pc": "5dd7228f07f645096f9bbe759235460b5a13c286c0ac8ad05f58e72247446563", "/usr/bin/usbredirserver": "ed6a0c2293ea1cfdd4789e0f43649a9fc9223bce029acd1d9b23877ffc91c526", "/usr/include/usbredirfilter.h": "386e43651f6c6a50f14e70c77bf5855ab1f1e4975596e8e2a68f74c34f047ce1", "/usr/include/usbredirparser.h": "dc132a74140014c6fb2cdfe6099341fab9a366d51d901840c3fedc580360f2b5", "/usr/include/usbredirhost.h": "70cd44183f198855171575ccda277689bdf3183d0ddaf2b89b44316025f4bed9", "/usr/include/usbredirproto.h": "37cabaaed260c4be977adec5e23081fc29d7874a2904ab76092a8cb999a674dd", "/usr/share/man/man1/usbredirserver.1.gz": "61090c7d815f218a9d2c35db246e6b07ba6da32bbc988c7499a2cd6c887eca66", "/var/log/pacman.log": "16e9baccb9664612ac3f1c9b69ab4cd81e49fba297ab58dc5b718ffe5df3efa7"}}
+{
+  "0.7.1-1": {
+    "/usr/lib/libusbredirparser.so.1": "122c1d2b54def071abdcbf158be24be3b322acc2d458ffe402ad3505283e68cd",
+    "/usr/lib/libusbredirhost.so.1.0.0": "ca0a6e2cb072159258f7bc14ce78ddb431c864d09822924104d31b9a386d1dc7",
+    "/usr/lib/libusbredirhost.so.1": "ca0a6e2cb072159258f7bc14ce78ddb431c864d09822924104d31b9a386d1dc7",
+    "/usr/lib/libusbredirparser.so": "122c1d2b54def071abdcbf158be24be3b322acc2d458ffe402ad3505283e68cd",
+    "/usr/lib/libusbredirparser.so.1.0.0": "122c1d2b54def071abdcbf158be24be3b322acc2d458ffe402ad3505283e68cd",
+    "/usr/lib/libusbredirhost.so": "ca0a6e2cb072159258f7bc14ce78ddb431c864d09822924104d31b9a386d1dc7",
+    "/usr/lib/pkgconfig/libusbredirhost.pc": "f3b9b0752ba2f6dde00478a995ce2503d1327eef6d72e4a6fa0703b9ee131538",
+    "/usr/lib/pkgconfig/libusbredirparser-0.5.pc": "5dd7228f07f645096f9bbe759235460b5a13c286c0ac8ad05f58e72247446563",
+    "/usr/bin/usbredirserver": "ed6a0c2293ea1cfdd4789e0f43649a9fc9223bce029acd1d9b23877ffc91c526",
+    "/usr/include/usbredirfilter.h": "386e43651f6c6a50f14e70c77bf5855ab1f1e4975596e8e2a68f74c34f047ce1",
+    "/usr/include/usbredirparser.h": "dc132a74140014c6fb2cdfe6099341fab9a366d51d901840c3fedc580360f2b5",
+    "/usr/include/usbredirhost.h": "70cd44183f198855171575ccda277689bdf3183d0ddaf2b89b44316025f4bed9",
+    "/usr/include/usbredirproto.h": "37cabaaed260c4be977adec5e23081fc29d7874a2904ab76092a8cb999a674dd",
+    "/usr/share/man/man1/usbredirserver.1.gz": "61090c7d815f218a9d2c35db246e6b07ba6da32bbc988c7499a2cd6c887eca66",
+    "/var/log/pacman.log": "16e9baccb9664612ac3f1c9b69ab4cd81e49fba297ab58dc5b718ffe5df3efa7"
+  }
+}

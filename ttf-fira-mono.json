@@ -1,1 +1,9 @@
-{"2:3.206-2": {"/usr/share/fonts/TTF/FiraMono-Bold.ttf": "2a28efd740e8da1da75d40ac79f0db4f60a0f1aead0b15ca16b4694a11b45fc6", "/usr/share/fonts/TTF/FiraMono-Medium.ttf": "5f9173ce3d05fadef74c7eed06570d54e4f75bd0cd9860726fb2987a7f848292", "/usr/share/fonts/TTF/FiraMono-Regular.ttf": "8c86f2963208a353c3435e28ecb38a99ab68f14d7433ba00c1822cef9a9c1b44", "/usr/share/licenses/ttf-fira-mono/LICENSE": "3d70884eedc6b82c9563e1848bc2a8189aacf1743e39d8fc4afb860c6da031a5", "/var/log/pacman.log": "73f19e5dbb7b02e4b921c43432e655dbad0f75b989388442ee9c82195f6d0078"}}
+{
+  "2:3.206-2": {
+    "/usr/share/fonts/TTF/FiraMono-Bold.ttf": "2a28efd740e8da1da75d40ac79f0db4f60a0f1aead0b15ca16b4694a11b45fc6",
+    "/usr/share/fonts/TTF/FiraMono-Medium.ttf": "5f9173ce3d05fadef74c7eed06570d54e4f75bd0cd9860726fb2987a7f848292",
+    "/usr/share/fonts/TTF/FiraMono-Regular.ttf": "8c86f2963208a353c3435e28ecb38a99ab68f14d7433ba00c1822cef9a9c1b44",
+    "/usr/share/licenses/ttf-fira-mono/LICENSE": "3d70884eedc6b82c9563e1848bc2a8189aacf1743e39d8fc4afb860c6da031a5",
+    "/var/log/pacman.log": "73f19e5dbb7b02e4b921c43432e655dbad0f75b989388442ee9c82195f6d0078"
+  }
+}

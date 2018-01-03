@@ -1,1 +1,20 @@
-{"0.2.3.2-4": {"/usr/share/haskell/register/haskell-split.sh": "51f4b943deafa5d3eca970af3b74a64074e5f5e7ec619d5ad6c8933c48e0bb2d", "/usr/share/haskell/unregister/haskell-split.sh": "47561a15d1e366ec1bad36e1a9ef222c844abb2e409afafee8aef3411c2136e1", "/usr/share/licenses/haskell-split/LICENSE": "9a7e7299feb31a257fc0cd08c49dfea35ec186c9bb59b0a3ff67c63fc29a8a58", "/usr/lib/libHSsplit-0.2.3.2-89BHvn20PlL73pGr1SBIHj-ghc8.2.1.so": "714398100140238d7cafd968cc2411f5b6550fd68cedaf5677287ee87b7ae181", "/usr/lib/ghc-8.2.1/site-local/split-0.2.3.2/Data/List/Split.dyn_hi": "cb41d962bc5785a4a1382cfd1fe1f666fef45a77e8bad181ab752cfb0f4a2c5c", "/usr/lib/ghc-8.2.1/site-local/split-0.2.3.2/Data/List/Split/Internals.dyn_hi": "38bc6f0ae508ecd74b283fe37a923b02b112f40aa0bb3ccc09ba7b6baa6f4e34", "/var/log/pacman.log": "d5039c7768b706d418eb080708bd1cf96782d757c5ef7e5bcb3de3b762e07994"}, "0.2.3.2-5": {"/usr/share/haskell/register/haskell-split.sh": "a940368d5e8a73d86fdde862bf35dc5c7846d4bbbf1b143613cf8eedfc68d4ce", "/usr/share/haskell/unregister/haskell-split.sh": "cd65d2474a5c90a1ee96dab3086baeb9738841d240a698f1cc7cacf1607eaa7d", "/usr/share/licenses/haskell-split/LICENSE": "9a7e7299feb31a257fc0cd08c49dfea35ec186c9bb59b0a3ff67c63fc29a8a58", "/usr/lib/libHSsplit-0.2.3.2-7cayvoeRj5XIrIBUB58mMy-ghc8.2.2.so": "4ceb4bb96d7a93c9b50401f2a7f39b8623159a62066e9d8e5fd5871bd6ef5765", "/usr/lib/ghc-8.2.2/site-local/split-0.2.3.2/Data/List/Split.dyn_hi": "ec94ef16b268be74c57c715254ed9448cb7e559f8a75299978932104cd024760", "/usr/lib/ghc-8.2.2/site-local/split-0.2.3.2/Data/List/Split/Internals.dyn_hi": "9b723e459557a088cf76d1cb25215627801a6a745df7400edc67a1de44a77070", "/var/log/pacman.log": "24f8466b8ffa17d8a77dca35e3bc6c1591d6795ea46bf4b8c34519b20b4ad044"}}
+{
+  "0.2.3.2-4": {
+    "/usr/share/haskell/register/haskell-split.sh": "51f4b943deafa5d3eca970af3b74a64074e5f5e7ec619d5ad6c8933c48e0bb2d",
+    "/usr/share/haskell/unregister/haskell-split.sh": "47561a15d1e366ec1bad36e1a9ef222c844abb2e409afafee8aef3411c2136e1",
+    "/usr/share/licenses/haskell-split/LICENSE": "9a7e7299feb31a257fc0cd08c49dfea35ec186c9bb59b0a3ff67c63fc29a8a58",
+    "/usr/lib/libHSsplit-0.2.3.2-89BHvn20PlL73pGr1SBIHj-ghc8.2.1.so": "714398100140238d7cafd968cc2411f5b6550fd68cedaf5677287ee87b7ae181",
+    "/usr/lib/ghc-8.2.1/site-local/split-0.2.3.2/Data/List/Split.dyn_hi": "cb41d962bc5785a4a1382cfd1fe1f666fef45a77e8bad181ab752cfb0f4a2c5c",
+    "/usr/lib/ghc-8.2.1/site-local/split-0.2.3.2/Data/List/Split/Internals.dyn_hi": "38bc6f0ae508ecd74b283fe37a923b02b112f40aa0bb3ccc09ba7b6baa6f4e34",
+    "/var/log/pacman.log": "d5039c7768b706d418eb080708bd1cf96782d757c5ef7e5bcb3de3b762e07994"
+  },
+  "0.2.3.2-5": {
+    "/usr/share/haskell/register/haskell-split.sh": "a940368d5e8a73d86fdde862bf35dc5c7846d4bbbf1b143613cf8eedfc68d4ce",
+    "/usr/share/haskell/unregister/haskell-split.sh": "cd65d2474a5c90a1ee96dab3086baeb9738841d240a698f1cc7cacf1607eaa7d",
+    "/usr/share/licenses/haskell-split/LICENSE": "9a7e7299feb31a257fc0cd08c49dfea35ec186c9bb59b0a3ff67c63fc29a8a58",
+    "/usr/lib/libHSsplit-0.2.3.2-7cayvoeRj5XIrIBUB58mMy-ghc8.2.2.so": "4ceb4bb96d7a93c9b50401f2a7f39b8623159a62066e9d8e5fd5871bd6ef5765",
+    "/usr/lib/ghc-8.2.2/site-local/split-0.2.3.2/Data/List/Split.dyn_hi": "ec94ef16b268be74c57c715254ed9448cb7e559f8a75299978932104cd024760",
+    "/usr/lib/ghc-8.2.2/site-local/split-0.2.3.2/Data/List/Split/Internals.dyn_hi": "9b723e459557a088cf76d1cb25215627801a6a745df7400edc67a1de44a77070",
+    "/var/log/pacman.log": "24f8466b8ffa17d8a77dca35e3bc6c1591d6795ea46bf4b8c34519b20b4ad044"
+  }
+}

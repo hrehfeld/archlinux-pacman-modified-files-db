@@ -1,1 +1,24 @@
-{"0.2.1.0-6": {"/usr/share/haskell/register/haskell-open-browser.sh": "ff7e750370083e5032aae3b32e30faca7c0bc8c24408d85c0a3f5426f7cd091f", "/usr/share/haskell/unregister/haskell-open-browser.sh": "4239c12af53fd393d393b0896963064b1c71080505e3f4afa23577a039c472cc", "/usr/share/licenses/haskell-open-browser/LICENSE": "f2de3af5934cb020b418a5d1dc8a41d14e78aa72988a10b1813d07fce0188417", "/usr/lib/libHSopen-browser-0.2.1.0-9GpIZqQBF2BDr0ObTk45Hh-ghc8.2.1.so": "b768c194dff6af542ca203a075adfad291fe0fdd35d518fe23dcc5f3478d21ab", "/usr/lib/ghc-8.2.1/site-local/open-browser-0.2.1.0/Web/Browser.dyn_hi": "aeb722d0f492e6199ab03f9a938c8ff4079166d11f17521162d57108b83941a3", "/usr/lib/ghc-8.2.1/site-local/open-browser-0.2.1.0/Web/Browser/Linux.dyn_hi": "164c6b5f716ab2be5dcd42128810c9e81e841617bf3e5affd6709792f74f9dc9", "/usr/lib/ghc-8.2.1/site-local/open-browser-0.2.1.0/Web/Browser/OSX.dyn_hi": "4917f612a5bee3c4bb4674f8b4d2b2683b6a17bcd20938b007fa4cecf2e72957", "/usr/bin/open-browser-example": "c88a4dfa5cf30e79b9efc321c1ee5408259bc320f6fb8e23c448b09e192603b2", "/var/log/pacman.log": "c9848c66ba998475ab597e74611a031e52b8e473a36876dea68000bb05c514a2"}, "0.2.1.0-7": {"/usr/share/haskell/register/haskell-open-browser.sh": "65198ffaecb42294908ce80621f7a8bc62420c19ea41a6c636aca694b11055a8", "/usr/share/haskell/unregister/haskell-open-browser.sh": "6b43483613447c6249ef18cd7025ec22e333f95f3ff6aeea6f4b480e88cc1537", "/usr/share/licenses/haskell-open-browser/LICENSE": "f2de3af5934cb020b418a5d1dc8a41d14e78aa72988a10b1813d07fce0188417", "/usr/lib/libHSopen-browser-0.2.1.0-IlmBbUU5IZGH2cVeTpoTFu-ghc8.2.2.so": "902ddb18d7750e419d0074cf0ea7d6e0c7111e0fcdbdb57ef2856a91c01ffb4c", "/usr/lib/ghc-8.2.2/site-local/open-browser-0.2.1.0/Web/Browser.dyn_hi": "af40d99b92732b551388f3e0efa77f2ef3ff778e8e94c31b391f24219dcbe42b", "/usr/lib/ghc-8.2.2/site-local/open-browser-0.2.1.0/Web/Browser/Linux.dyn_hi": "915662c02a5540754ad901ba20c3f776ff2c0bb08e5033cce3027e60f2560c31", "/usr/lib/ghc-8.2.2/site-local/open-browser-0.2.1.0/Web/Browser/OSX.dyn_hi": "95be96f943d485c60e6ca37055214aade1c9cacb3fcbfdcef8d1b9199445636d", "/usr/bin/open-browser-example": "76065833c970594625bf5c3fa43816f16832c4e5d2db7488b716dacb1f65e05f", "/var/log/pacman.log": "fc265ec1f0437d7628b8c1848ef0274569775ce5fee7ec8bc12d42da080065c6"}}
+{
+  "0.2.1.0-6": {
+    "/usr/share/haskell/register/haskell-open-browser.sh": "ff7e750370083e5032aae3b32e30faca7c0bc8c24408d85c0a3f5426f7cd091f",
+    "/usr/share/haskell/unregister/haskell-open-browser.sh": "4239c12af53fd393d393b0896963064b1c71080505e3f4afa23577a039c472cc",
+    "/usr/share/licenses/haskell-open-browser/LICENSE": "f2de3af5934cb020b418a5d1dc8a41d14e78aa72988a10b1813d07fce0188417",
+    "/usr/lib/libHSopen-browser-0.2.1.0-9GpIZqQBF2BDr0ObTk45Hh-ghc8.2.1.so": "b768c194dff6af542ca203a075adfad291fe0fdd35d518fe23dcc5f3478d21ab",
+    "/usr/lib/ghc-8.2.1/site-local/open-browser-0.2.1.0/Web/Browser.dyn_hi": "aeb722d0f492e6199ab03f9a938c8ff4079166d11f17521162d57108b83941a3",
+    "/usr/lib/ghc-8.2.1/site-local/open-browser-0.2.1.0/Web/Browser/Linux.dyn_hi": "164c6b5f716ab2be5dcd42128810c9e81e841617bf3e5affd6709792f74f9dc9",
+    "/usr/lib/ghc-8.2.1/site-local/open-browser-0.2.1.0/Web/Browser/OSX.dyn_hi": "4917f612a5bee3c4bb4674f8b4d2b2683b6a17bcd20938b007fa4cecf2e72957",
+    "/usr/bin/open-browser-example": "c88a4dfa5cf30e79b9efc321c1ee5408259bc320f6fb8e23c448b09e192603b2",
+    "/var/log/pacman.log": "c9848c66ba998475ab597e74611a031e52b8e473a36876dea68000bb05c514a2"
+  },
+  "0.2.1.0-7": {
+    "/usr/share/haskell/register/haskell-open-browser.sh": "65198ffaecb42294908ce80621f7a8bc62420c19ea41a6c636aca694b11055a8",
+    "/usr/share/haskell/unregister/haskell-open-browser.sh": "6b43483613447c6249ef18cd7025ec22e333f95f3ff6aeea6f4b480e88cc1537",
+    "/usr/share/licenses/haskell-open-browser/LICENSE": "f2de3af5934cb020b418a5d1dc8a41d14e78aa72988a10b1813d07fce0188417",
+    "/usr/lib/libHSopen-browser-0.2.1.0-IlmBbUU5IZGH2cVeTpoTFu-ghc8.2.2.so": "902ddb18d7750e419d0074cf0ea7d6e0c7111e0fcdbdb57ef2856a91c01ffb4c",
+    "/usr/lib/ghc-8.2.2/site-local/open-browser-0.2.1.0/Web/Browser.dyn_hi": "af40d99b92732b551388f3e0efa77f2ef3ff778e8e94c31b391f24219dcbe42b",
+    "/usr/lib/ghc-8.2.2/site-local/open-browser-0.2.1.0/Web/Browser/Linux.dyn_hi": "915662c02a5540754ad901ba20c3f776ff2c0bb08e5033cce3027e60f2560c31",
+    "/usr/lib/ghc-8.2.2/site-local/open-browser-0.2.1.0/Web/Browser/OSX.dyn_hi": "95be96f943d485c60e6ca37055214aade1c9cacb3fcbfdcef8d1b9199445636d",
+    "/usr/bin/open-browser-example": "76065833c970594625bf5c3fa43816f16832c4e5d2db7488b716dacb1f65e05f",
+    "/var/log/pacman.log": "fc265ec1f0437d7628b8c1848ef0274569775ce5fee7ec8bc12d42da080065c6"
+  }
+}

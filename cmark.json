@@ -1,1 +1,17 @@
-{"0.28.3-1": {"/usr/bin/cmark": "183ba6131e2f68682058ef6f224662caa6206a2df8a70ea70c20edde0a3e12e7", "/usr/lib/libcmark.so": "8d3d658b86c401350ed039c2f8a6e47b3c6543d9b1eb538b35b60839f3d4aa66", "/usr/lib/libcmark.so.0.28.3": "8d3d658b86c401350ed039c2f8a6e47b3c6543d9b1eb538b35b60839f3d4aa66", "/usr/lib/pkgconfig/libcmark.pc": "818f3f41f5557f7d71914e5a1277ba1966685861e399cc34b815ca29cd73540b", "/usr/lib/cmake/cmark.cmake": "373e417d367ce9d556dd623b183906ec7b8e41e41ad17b9d4e4ae7794a18e361", "/usr/lib/cmake/cmark-release.cmake": "484def8c687f369682cb3d83e8519b0d1fa12f954d47815fe261f6aa684bd129", "/usr/include/cmark.h": "d32568d687be9b1881a0a27854fba9c88153519a5fc2f2182db0b1572bae2461", "/usr/include/cmark_export.h": "cc4346eb13f4f0a8741fa89739ae9b9b7bcb5ec07dc238d1cb9ce158a6c1083b", "/usr/include/cmark_version.h": "8062f40b3d88a5721dfe5f18be323131817e74cc19835b0b62d89f4c2e499c2e", "/usr/share/man/man1/cmark.1.gz": "1710ffa8f8b4f939d51114075c6bbac197a7c358f581658f4773edc1aa93e732", "/usr/share/man/man3/cmark.3.gz": "6fc3c83c840b04c5f684184ab0e5c9c003cc7f105ee986eeb57d07707167e7a4", "/usr/share/licenses/cmark/COPYING": "c22e885f33b821bddb24cf007145e5540655b6c0f403e49e6c76a93c28e6d9a9", "/var/log/pacman.log": "afb28fdcebf8c3d1a1865a814a6d896beb861a04399992a243054a68a6212949"}}
+{
+  "0.28.3-1": {
+    "/usr/bin/cmark": "183ba6131e2f68682058ef6f224662caa6206a2df8a70ea70c20edde0a3e12e7",
+    "/usr/lib/libcmark.so": "8d3d658b86c401350ed039c2f8a6e47b3c6543d9b1eb538b35b60839f3d4aa66",
+    "/usr/lib/libcmark.so.0.28.3": "8d3d658b86c401350ed039c2f8a6e47b3c6543d9b1eb538b35b60839f3d4aa66",
+    "/usr/lib/pkgconfig/libcmark.pc": "818f3f41f5557f7d71914e5a1277ba1966685861e399cc34b815ca29cd73540b",
+    "/usr/lib/cmake/cmark.cmake": "373e417d367ce9d556dd623b183906ec7b8e41e41ad17b9d4e4ae7794a18e361",
+    "/usr/lib/cmake/cmark-release.cmake": "484def8c687f369682cb3d83e8519b0d1fa12f954d47815fe261f6aa684bd129",
+    "/usr/include/cmark.h": "d32568d687be9b1881a0a27854fba9c88153519a5fc2f2182db0b1572bae2461",
+    "/usr/include/cmark_export.h": "cc4346eb13f4f0a8741fa89739ae9b9b7bcb5ec07dc238d1cb9ce158a6c1083b",
+    "/usr/include/cmark_version.h": "8062f40b3d88a5721dfe5f18be323131817e74cc19835b0b62d89f4c2e499c2e",
+    "/usr/share/man/man1/cmark.1.gz": "1710ffa8f8b4f939d51114075c6bbac197a7c358f581658f4773edc1aa93e732",
+    "/usr/share/man/man3/cmark.3.gz": "6fc3c83c840b04c5f684184ab0e5c9c003cc7f105ee986eeb57d07707167e7a4",
+    "/usr/share/licenses/cmark/COPYING": "c22e885f33b821bddb24cf007145e5540655b6c0f403e49e6c76a93c28e6d9a9",
+    "/var/log/pacman.log": "afb28fdcebf8c3d1a1865a814a6d896beb861a04399992a243054a68a6212949"
+  }
+}

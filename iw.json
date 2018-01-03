@@ -1,1 +1,7 @@
-{"4.9-1": {"/usr/share/man/man8/iw.8.gz": "b842386b02f05c7a7592b4ed2784a82f8f4ab7ade29f4f0645b0b260171132c8", "/usr/bin/iw": "cbf81e479f7420b02fb8d2cc56f9775c6411956b35ead55744f9f7c5c61c11cb", "/var/log/pacman.log": "9318c1cef4e4ea94c9bd77f7eb5cc5d8e2d3c92182c7abefec24fff4c77a40a0"}}
+{
+  "4.9-1": {
+    "/usr/share/man/man8/iw.8.gz": "b842386b02f05c7a7592b4ed2784a82f8f4ab7ade29f4f0645b0b260171132c8",
+    "/usr/bin/iw": "cbf81e479f7420b02fb8d2cc56f9775c6411956b35ead55744f9f7c5c61c11cb",
+    "/var/log/pacman.log": "9318c1cef4e4ea94c9bd77f7eb5cc5d8e2d3c92182c7abefec24fff4c77a40a0"
+  }
+}

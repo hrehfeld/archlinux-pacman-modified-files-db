@@ -1,1 +1,16 @@
-{"1.1.6-1": {"/usr/share/man/man1/qtpass.1.gz": "0cf8fc4fcb770f5e57cfed871630ae8fa1a43f0dd26e82e40a3658a78a63702f", "/usr/share/applications/qtpass.desktop": "bab7d42be06497649d396ade1201d2c0223930c144625459340057db6813510a", "/usr/share/pixmaps/qtpass.png": "56e8464cf89eaeb9933d73053da5f19abe8ecf5065947d6134af6b122569fdac", "/usr/bin/qtpass": "27fb2fb938e2f8c36866c5115a4626aba9279d5c52770e83b8e17fa11be0bf2d", "/var/log/pacman.log": "c793ad67efde72d6d9a10efebb0975b2c11ddfbb6ac90cd03a1ae4126ec3d9ba"}, "1.2.0-1": {"/usr/bin/qtpass": "041b0def08e70544254b481bcb55a70d3a0260add4ccd616f997f18a62c27b27", "/usr/share/pixmaps/qtpass.png": "56e8464cf89eaeb9933d73053da5f19abe8ecf5065947d6134af6b122569fdac", "/usr/share/applications/qtpass.desktop": "bab7d42be06497649d396ade1201d2c0223930c144625459340057db6813510a", "/usr/share/man/man1/qtpass.1.gz": "0cf8fc4fcb770f5e57cfed871630ae8fa1a43f0dd26e82e40a3658a78a63702f", "/var/log/pacman.log": "88eb8a0a3d634241c9d33b2d5b678cb118e2984b9df451eb39594c19cd66474e"}}
+{
+  "1.1.6-1": {
+    "/usr/share/man/man1/qtpass.1.gz": "0cf8fc4fcb770f5e57cfed871630ae8fa1a43f0dd26e82e40a3658a78a63702f",
+    "/usr/share/applications/qtpass.desktop": "bab7d42be06497649d396ade1201d2c0223930c144625459340057db6813510a",
+    "/usr/share/pixmaps/qtpass.png": "56e8464cf89eaeb9933d73053da5f19abe8ecf5065947d6134af6b122569fdac",
+    "/usr/bin/qtpass": "27fb2fb938e2f8c36866c5115a4626aba9279d5c52770e83b8e17fa11be0bf2d",
+    "/var/log/pacman.log": "c793ad67efde72d6d9a10efebb0975b2c11ddfbb6ac90cd03a1ae4126ec3d9ba"
+  },
+  "1.2.0-1": {
+    "/usr/bin/qtpass": "041b0def08e70544254b481bcb55a70d3a0260add4ccd616f997f18a62c27b27",
+    "/usr/share/pixmaps/qtpass.png": "56e8464cf89eaeb9933d73053da5f19abe8ecf5065947d6134af6b122569fdac",
+    "/usr/share/applications/qtpass.desktop": "bab7d42be06497649d396ade1201d2c0223930c144625459340057db6813510a",
+    "/usr/share/man/man1/qtpass.1.gz": "0cf8fc4fcb770f5e57cfed871630ae8fa1a43f0dd26e82e40a3658a78a63702f",
+    "/var/log/pacman.log": "88eb8a0a3d634241c9d33b2d5b678cb118e2984b9df451eb39594c19cd66474e"
+  }
+}

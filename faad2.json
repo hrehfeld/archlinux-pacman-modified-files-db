@@ -1,1 +1,15 @@
-{"2.8.5-1": {"/usr/lib/libfaad.so.2": "056bb097b720daa6f931ea63f6d2c52e5a7a14101e26a18e01e0b3cd461b0cf2", "/usr/lib/libfaad.so": "056bb097b720daa6f931ea63f6d2c52e5a7a14101e26a18e01e0b3cd461b0cf2", "/usr/lib/libfaad_drm.so.2": "feb46f4eef8d6a072000bf3fb2e03fdf517582c91e94ba82d0867215987bb980", "/usr/lib/libfaad_drm.so": "feb46f4eef8d6a072000bf3fb2e03fdf517582c91e94ba82d0867215987bb980", "/usr/lib/libfaad_drm.so.2.0.0": "feb46f4eef8d6a072000bf3fb2e03fdf517582c91e94ba82d0867215987bb980", "/usr/lib/libfaad.so.2.0.0": "056bb097b720daa6f931ea63f6d2c52e5a7a14101e26a18e01e0b3cd461b0cf2", "/usr/include/faad.h": "2549fb8b6d01b4ae4b6707f8498f6d5fd928c97eeac13c2431614cd51707a776", "/usr/include/neaacdec.h": "2baea3bd33e74b2f4f99f190b4b9eb9d92011eb13c344539978c47a687defb48", "/usr/bin/faad": "95496313074def698dff4045b5f56b5cdcc7207de918d5b2a06ebb12e1935c2c", "/usr/share/man/man1/faad.1.gz": "180829d4dd58e3f7bb6a11016bb7d3a1e4795b7d9d4b810441eb9d4ec34e2fb3", "/var/log/pacman.log": "709fcba0a5bf6b15332829cbe01acff16c6ddc120c92213d2bbaa8457df2cc63"}}
+{
+  "2.8.5-1": {
+    "/usr/lib/libfaad.so.2": "056bb097b720daa6f931ea63f6d2c52e5a7a14101e26a18e01e0b3cd461b0cf2",
+    "/usr/lib/libfaad.so": "056bb097b720daa6f931ea63f6d2c52e5a7a14101e26a18e01e0b3cd461b0cf2",
+    "/usr/lib/libfaad_drm.so.2": "feb46f4eef8d6a072000bf3fb2e03fdf517582c91e94ba82d0867215987bb980",
+    "/usr/lib/libfaad_drm.so": "feb46f4eef8d6a072000bf3fb2e03fdf517582c91e94ba82d0867215987bb980",
+    "/usr/lib/libfaad_drm.so.2.0.0": "feb46f4eef8d6a072000bf3fb2e03fdf517582c91e94ba82d0867215987bb980",
+    "/usr/lib/libfaad.so.2.0.0": "056bb097b720daa6f931ea63f6d2c52e5a7a14101e26a18e01e0b3cd461b0cf2",
+    "/usr/include/faad.h": "2549fb8b6d01b4ae4b6707f8498f6d5fd928c97eeac13c2431614cd51707a776",
+    "/usr/include/neaacdec.h": "2baea3bd33e74b2f4f99f190b4b9eb9d92011eb13c344539978c47a687defb48",
+    "/usr/bin/faad": "95496313074def698dff4045b5f56b5cdcc7207de918d5b2a06ebb12e1935c2c",
+    "/usr/share/man/man1/faad.1.gz": "180829d4dd58e3f7bb6a11016bb7d3a1e4795b7d9d4b810441eb9d4ec34e2fb3",
+    "/var/log/pacman.log": "709fcba0a5bf6b15332829cbe01acff16c6ddc120c92213d2bbaa8457df2cc63"
+  }
+}

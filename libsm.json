@@ -1,1 +1,15 @@
-{"1.2.2-2": {"/usr/include/X11/SM/SMproto.h": "965cca37380cf71c0c4a2681c3c8b8e45a49a8807a1c82e7cf2a952cd63ec702", "/usr/include/X11/SM/SMlib.h": "d2aea2243d0ec61de6dbde0a7b389d1d6918aa23adc50354d88f7580f8eac11a", "/usr/include/X11/SM/SM.h": "3580529fdcd97370008a713ff8c4e9e22d7ce179b04d1eabad9ab21085cb3373", "/usr/lib/libSM.so.6": "6fb9e3bb3534a12d073cfbdc508d64b2187beb0ab3fe64507009200dd0d6bb9e", "/usr/lib/libSM.so": "6fb9e3bb3534a12d073cfbdc508d64b2187beb0ab3fe64507009200dd0d6bb9e", "/usr/lib/libSM.so.6.0.1": "6fb9e3bb3534a12d073cfbdc508d64b2187beb0ab3fe64507009200dd0d6bb9e", "/usr/lib/pkgconfig/sm.pc": "601a6010d276697823567c67cc58e45754ae66c2b954b2534b59f0da684bada0", "/usr/share/licenses/libsm/COPYING": "af7926a14d85ad367622688636e8c9c6f7807c8a6867536af1c530b5c262bfba", "/usr/share/doc/libSM/SMlib.xml": "ea551b96897a354d97c093bc477306f6de1077fd36af6ed0b8c959df9d5bfffe", "/usr/share/doc/libSM/xsmp.xml": "eea7256c95a5f342ed9addd4e111b64581f24040ff893ac558072df9927ebbfc", "/var/log/pacman.log": "d722ed8f3b3e17ef6cc87258b0f3f4d78e89f41fb68e90477e47fc379ca7038d"}}
+{
+  "1.2.2-2": {
+    "/usr/include/X11/SM/SMproto.h": "965cca37380cf71c0c4a2681c3c8b8e45a49a8807a1c82e7cf2a952cd63ec702",
+    "/usr/include/X11/SM/SMlib.h": "d2aea2243d0ec61de6dbde0a7b389d1d6918aa23adc50354d88f7580f8eac11a",
+    "/usr/include/X11/SM/SM.h": "3580529fdcd97370008a713ff8c4e9e22d7ce179b04d1eabad9ab21085cb3373",
+    "/usr/lib/libSM.so.6": "6fb9e3bb3534a12d073cfbdc508d64b2187beb0ab3fe64507009200dd0d6bb9e",
+    "/usr/lib/libSM.so": "6fb9e3bb3534a12d073cfbdc508d64b2187beb0ab3fe64507009200dd0d6bb9e",
+    "/usr/lib/libSM.so.6.0.1": "6fb9e3bb3534a12d073cfbdc508d64b2187beb0ab3fe64507009200dd0d6bb9e",
+    "/usr/lib/pkgconfig/sm.pc": "601a6010d276697823567c67cc58e45754ae66c2b954b2534b59f0da684bada0",
+    "/usr/share/licenses/libsm/COPYING": "af7926a14d85ad367622688636e8c9c6f7807c8a6867536af1c530b5c262bfba",
+    "/usr/share/doc/libSM/SMlib.xml": "ea551b96897a354d97c093bc477306f6de1077fd36af6ed0b8c959df9d5bfffe",
+    "/usr/share/doc/libSM/xsmp.xml": "eea7256c95a5f342ed9addd4e111b64581f24040ff893ac558072df9927ebbfc",
+    "/var/log/pacman.log": "d722ed8f3b3e17ef6cc87258b0f3f4d78e89f41fb68e90477e47fc379ca7038d"
+  }
+}

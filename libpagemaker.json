@@ -1,1 +1,14 @@
-{"0.0.3-1": {"/usr/include/libpagemaker-0.0/libpagemaker/libpagemaker.h": "fb21436317936d4e4e6beec88c16e45f9443f8ebba2b7a6b5c6044f03993e350", "/usr/include/libpagemaker-0.0/libpagemaker/PMDocument.h": "10a35468c3cd433c63162bb6ea42c818d652ee6aa9788ef0f58351f04deb7a90", "/usr/share/licenses/libpagemaker/COPYING": "fab3dd6bdab226f1c08630b1dd917e11fcb4ec5e1e020e2c16f83a0a13863e85", "/usr/bin/pmd2svg": "318fb4fb9071882b9cca62307f5b3f9f877466c80bcc75c097ca156c01bfad9e", "/usr/bin/pmd2raw": "dc7821e4a004aa7200633a8a99e3a244d20a1b9601a41f0a18c2530e1f0c393b", "/usr/lib/libpagemaker-0.0.so.0.0.3": "853d28095663935d5a16cf7b912a9ce3603d6c03a85b64678499c21b3776edb8", "/usr/lib/libpagemaker-0.0.so.0": "853d28095663935d5a16cf7b912a9ce3603d6c03a85b64678499c21b3776edb8", "/usr/lib/libpagemaker-0.0.so": "853d28095663935d5a16cf7b912a9ce3603d6c03a85b64678499c21b3776edb8", "/usr/lib/pkgconfig/libpagemaker-0.0.pc": "33237dcf124819cc4a5d6f92d401bf784d040a595400e8482ee84b779da7c5fb", "/var/log/pacman.log": "688b8281cfedbf6059258cc67ec1caa493c6faf853ca9f2f430d930eb09fb141"}}
+{
+  "0.0.3-1": {
+    "/usr/include/libpagemaker-0.0/libpagemaker/libpagemaker.h": "fb21436317936d4e4e6beec88c16e45f9443f8ebba2b7a6b5c6044f03993e350",
+    "/usr/include/libpagemaker-0.0/libpagemaker/PMDocument.h": "10a35468c3cd433c63162bb6ea42c818d652ee6aa9788ef0f58351f04deb7a90",
+    "/usr/share/licenses/libpagemaker/COPYING": "fab3dd6bdab226f1c08630b1dd917e11fcb4ec5e1e020e2c16f83a0a13863e85",
+    "/usr/bin/pmd2svg": "318fb4fb9071882b9cca62307f5b3f9f877466c80bcc75c097ca156c01bfad9e",
+    "/usr/bin/pmd2raw": "dc7821e4a004aa7200633a8a99e3a244d20a1b9601a41f0a18c2530e1f0c393b",
+    "/usr/lib/libpagemaker-0.0.so.0.0.3": "853d28095663935d5a16cf7b912a9ce3603d6c03a85b64678499c21b3776edb8",
+    "/usr/lib/libpagemaker-0.0.so.0": "853d28095663935d5a16cf7b912a9ce3603d6c03a85b64678499c21b3776edb8",
+    "/usr/lib/libpagemaker-0.0.so": "853d28095663935d5a16cf7b912a9ce3603d6c03a85b64678499c21b3776edb8",
+    "/usr/lib/pkgconfig/libpagemaker-0.0.pc": "33237dcf124819cc4a5d6f92d401bf784d040a595400e8482ee84b779da7c5fb",
+    "/var/log/pacman.log": "688b8281cfedbf6059258cc67ec1caa493c6faf853ca9f2f430d930eb09fb141"
+  }
+}

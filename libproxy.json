@@ -1,1 +1,21 @@
-{"0.4.15-6": {"/usr/lib/libproxy.so.1": "0dc2b59ea6104875d2ff13c7bc9d37a2f25835bde2e1edd743ca8a4d13aa1453", "/usr/lib/libproxy.so": "0dc2b59ea6104875d2ff13c7bc9d37a2f25835bde2e1edd743ca8a4d13aa1453", "/usr/lib/libproxy.so.1.0.0": "0dc2b59ea6104875d2ff13c7bc9d37a2f25835bde2e1edd743ca8a4d13aa1453", "/usr/lib/python2.7/site-packages/libproxy.py": "3412bf753e6f991ccd7699bfb9fd77189c984c44135329a4d32d479768ab1322", "/usr/lib/python3.6/site-packages/libproxy.py": "3412bf753e6f991ccd7699bfb9fd77189c984c44135329a4d32d479768ab1322", "/usr/lib/perl5/5.26/vendor_perl/Net/Libproxy.pm": "13d3e6740939860614111671c25787adb42e38b0da9917bf8d83adeb32d8ee18", "/usr/lib/perl5/5.26/vendor_perl/auto/Net/Libproxy/Libproxy.so": "829891ddab6a278d2be67ad3214909a4eb2a399f29065df70eacaad63d127ac7", "/usr/lib/libproxy/pxgsettings": "7869e1ab5dab76e6a25c8c212fa966c675032161ddac579dfa4f7b49c3301f09", "/usr/lib/libproxy/0.4.15/modules/pacrunner_webkit.so": "af952624f0264d5ab0266b739d41b7c4df52b64a13d5cbb573c6e067599b84af", "/usr/lib/libproxy/0.4.15/modules/network_networkmanager.so": "3f2295a06f9c583f31cdceac91cc3f650bbf47ea1b6b4fa5d598c632a98a0cdf", "/usr/lib/libproxy/0.4.15/modules/config_kde.so": "03b4429990da5a29106cb30f2d94a5805047a250eaf751372e8249cf18477af4", "/usr/lib/libproxy/0.4.15/modules/config_gnome3.so": "bc9c222f0a75d2e4caa0bbd0fa3b1f60bb7f7a260cdbd771ef611a038242d30b", "/usr/lib/pkgconfig/libproxy-1.0.pc": "d899e225d6815c66442bd9b988f5ff190123ba24ec125b87a94f16ebac32721e", "/usr/share/cmake/Modules/Findlibproxy.cmake": "0815ed6ed5c64db805bcad1ad4ebcaa0ccd6f030713fe6cb5e9dbaf826ad9451", "/usr/include/proxy.h": "57b4431a889c2910e798ad8a43bafbe3781a175aca3bfc167b433de5c22b539e", "/usr/bin/proxy": "7d28335ce6802c8552df0dd32ab8218bc9804adfb56a27c0d511b5368b952e06", "/var/log/pacman.log": "765368a84a9a393d1ed89bfcdc38357ce667ce4748ea9803a49061af30a56265"}}
+{
+  "0.4.15-6": {
+    "/usr/lib/libproxy.so.1": "0dc2b59ea6104875d2ff13c7bc9d37a2f25835bde2e1edd743ca8a4d13aa1453",
+    "/usr/lib/libproxy.so": "0dc2b59ea6104875d2ff13c7bc9d37a2f25835bde2e1edd743ca8a4d13aa1453",
+    "/usr/lib/libproxy.so.1.0.0": "0dc2b59ea6104875d2ff13c7bc9d37a2f25835bde2e1edd743ca8a4d13aa1453",
+    "/usr/lib/python2.7/site-packages/libproxy.py": "3412bf753e6f991ccd7699bfb9fd77189c984c44135329a4d32d479768ab1322",
+    "/usr/lib/python3.6/site-packages/libproxy.py": "3412bf753e6f991ccd7699bfb9fd77189c984c44135329a4d32d479768ab1322",
+    "/usr/lib/perl5/5.26/vendor_perl/Net/Libproxy.pm": "13d3e6740939860614111671c25787adb42e38b0da9917bf8d83adeb32d8ee18",
+    "/usr/lib/perl5/5.26/vendor_perl/auto/Net/Libproxy/Libproxy.so": "829891ddab6a278d2be67ad3214909a4eb2a399f29065df70eacaad63d127ac7",
+    "/usr/lib/libproxy/pxgsettings": "7869e1ab5dab76e6a25c8c212fa966c675032161ddac579dfa4f7b49c3301f09",
+    "/usr/lib/libproxy/0.4.15/modules/pacrunner_webkit.so": "af952624f0264d5ab0266b739d41b7c4df52b64a13d5cbb573c6e067599b84af",
+    "/usr/lib/libproxy/0.4.15/modules/network_networkmanager.so": "3f2295a06f9c583f31cdceac91cc3f650bbf47ea1b6b4fa5d598c632a98a0cdf",
+    "/usr/lib/libproxy/0.4.15/modules/config_kde.so": "03b4429990da5a29106cb30f2d94a5805047a250eaf751372e8249cf18477af4",
+    "/usr/lib/libproxy/0.4.15/modules/config_gnome3.so": "bc9c222f0a75d2e4caa0bbd0fa3b1f60bb7f7a260cdbd771ef611a038242d30b",
+    "/usr/lib/pkgconfig/libproxy-1.0.pc": "d899e225d6815c66442bd9b988f5ff190123ba24ec125b87a94f16ebac32721e",
+    "/usr/share/cmake/Modules/Findlibproxy.cmake": "0815ed6ed5c64db805bcad1ad4ebcaa0ccd6f030713fe6cb5e9dbaf826ad9451",
+    "/usr/include/proxy.h": "57b4431a889c2910e798ad8a43bafbe3781a175aca3bfc167b433de5c22b539e",
+    "/usr/bin/proxy": "7d28335ce6802c8552df0dd32ab8218bc9804adfb56a27c0d511b5368b952e06",
+    "/var/log/pacman.log": "765368a84a9a393d1ed89bfcdc38357ce667ce4748ea9803a49061af30a56265"
+  }
+}

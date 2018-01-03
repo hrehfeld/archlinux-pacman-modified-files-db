@@ -1,1 +1,27 @@
-{"1.6.34-2": {"/usr/bin/libpng16-config": "b6734ee19861139c92d6868c64f63985363459472f5e376098d9df4fee2b6e7d", "/usr/bin/libpng-config": "b6734ee19861139c92d6868c64f63985363459472f5e376098d9df4fee2b6e7d", "/usr/bin/pnm2png": "0713764755c7f3bb0a61b816fb6693991be788ce189a7dc33d122eed77210e7e", "/usr/bin/png2pnm": "39c530813b1e9cc00045b87ad497697d5ef5335fd2235d51ba166fe086437fc9", "/usr/bin/png-fix-itxt": "1d8baef8641b1bd8c66f7ba5304d82ddf74c83eb0905ec7e7d307978d125dcc9", "/usr/bin/pngfix": "fe8bd340ad7b352325d35cdfc0fcb56a0083e8e5690b399579abba12ec02b412", "/usr/share/man/man5/png.5.gz": "d4a3fab7bd6008af08b82d394e6a007bafc3e136f10852f06c4f6bc4250c7a9f", "/usr/share/man/man3/libpngpf.3.gz": "d46570fa0c7afaced5335ddc6f2b02ce794acba1e7fc3b794b87990151a32568", "/usr/share/man/man3/libpng.3.gz": "0ca90b0286c6a2c03955ff2405f622bbbab2b0cb27dfcc830e1fa0c6d78ff959", "/usr/share/licenses/libpng/LICENSE": "a247c24f82bacf0403fe2f3d5550493a91cdb575fe7036b764bda8cacf3efd9c", "/usr/include/pnglibconf.h": "c7d954adb2a0b3c8cfe6f74008bb1f54881c38df9704da2ba898aecbd744fe25", "/usr/include/png.h": "2f52f78596c0f524993ea1d70e2a0264ce7c25e2c7805a27e1c1fb7e28c19ff7", "/usr/include/pngconf.h": "38941181f21b8920f0035cb9b70064ba9bd8328fb779e5ccce1055ed55e7dc08", "/usr/include/libpng16/pnglibconf.h": "c7d954adb2a0b3c8cfe6f74008bb1f54881c38df9704da2ba898aecbd744fe25", "/usr/include/libpng16/png.h": "2f52f78596c0f524993ea1d70e2a0264ce7c25e2c7805a27e1c1fb7e28c19ff7", "/usr/include/libpng16/pngconf.h": "38941181f21b8920f0035cb9b70064ba9bd8328fb779e5ccce1055ed55e7dc08", "/usr/lib/libpng16.so.16": "bcb930681be48e7cb32bcfbb0107a9379e2a1f94c7ca199f129afe2f0fb81238", "/usr/lib/libpng16.so": "bcb930681be48e7cb32bcfbb0107a9379e2a1f94c7ca199f129afe2f0fb81238", "/usr/lib/libpng.so": "bcb930681be48e7cb32bcfbb0107a9379e2a1f94c7ca199f129afe2f0fb81238", "/usr/lib/libpng16.so.16.34.0": "bcb930681be48e7cb32bcfbb0107a9379e2a1f94c7ca199f129afe2f0fb81238", "/usr/lib/pkgconfig/libpng16.pc": "9c93ff32c1560a0b6cbb2f98a2497112df257080238432fed3436f4e9a15a4ac", "/usr/lib/pkgconfig/libpng.pc": "9c93ff32c1560a0b6cbb2f98a2497112df257080238432fed3436f4e9a15a4ac", "/var/log/pacman.log": "a34e840d4f5a4e1ecbb2acd72ce064bafe3023952a58fa49298fa0e5906dfa84"}}
+{
+  "1.6.34-2": {
+    "/usr/bin/libpng16-config": "b6734ee19861139c92d6868c64f63985363459472f5e376098d9df4fee2b6e7d",
+    "/usr/bin/libpng-config": "b6734ee19861139c92d6868c64f63985363459472f5e376098d9df4fee2b6e7d",
+    "/usr/bin/pnm2png": "0713764755c7f3bb0a61b816fb6693991be788ce189a7dc33d122eed77210e7e",
+    "/usr/bin/png2pnm": "39c530813b1e9cc00045b87ad497697d5ef5335fd2235d51ba166fe086437fc9",
+    "/usr/bin/png-fix-itxt": "1d8baef8641b1bd8c66f7ba5304d82ddf74c83eb0905ec7e7d307978d125dcc9",
+    "/usr/bin/pngfix": "fe8bd340ad7b352325d35cdfc0fcb56a0083e8e5690b399579abba12ec02b412",
+    "/usr/share/man/man5/png.5.gz": "d4a3fab7bd6008af08b82d394e6a007bafc3e136f10852f06c4f6bc4250c7a9f",
+    "/usr/share/man/man3/libpngpf.3.gz": "d46570fa0c7afaced5335ddc6f2b02ce794acba1e7fc3b794b87990151a32568",
+    "/usr/share/man/man3/libpng.3.gz": "0ca90b0286c6a2c03955ff2405f622bbbab2b0cb27dfcc830e1fa0c6d78ff959",
+    "/usr/share/licenses/libpng/LICENSE": "a247c24f82bacf0403fe2f3d5550493a91cdb575fe7036b764bda8cacf3efd9c",
+    "/usr/include/pnglibconf.h": "c7d954adb2a0b3c8cfe6f74008bb1f54881c38df9704da2ba898aecbd744fe25",
+    "/usr/include/png.h": "2f52f78596c0f524993ea1d70e2a0264ce7c25e2c7805a27e1c1fb7e28c19ff7",
+    "/usr/include/pngconf.h": "38941181f21b8920f0035cb9b70064ba9bd8328fb779e5ccce1055ed55e7dc08",
+    "/usr/include/libpng16/pnglibconf.h": "c7d954adb2a0b3c8cfe6f74008bb1f54881c38df9704da2ba898aecbd744fe25",
+    "/usr/include/libpng16/png.h": "2f52f78596c0f524993ea1d70e2a0264ce7c25e2c7805a27e1c1fb7e28c19ff7",
+    "/usr/include/libpng16/pngconf.h": "38941181f21b8920f0035cb9b70064ba9bd8328fb779e5ccce1055ed55e7dc08",
+    "/usr/lib/libpng16.so.16": "bcb930681be48e7cb32bcfbb0107a9379e2a1f94c7ca199f129afe2f0fb81238",
+    "/usr/lib/libpng16.so": "bcb930681be48e7cb32bcfbb0107a9379e2a1f94c7ca199f129afe2f0fb81238",
+    "/usr/lib/libpng.so": "bcb930681be48e7cb32bcfbb0107a9379e2a1f94c7ca199f129afe2f0fb81238",
+    "/usr/lib/libpng16.so.16.34.0": "bcb930681be48e7cb32bcfbb0107a9379e2a1f94c7ca199f129afe2f0fb81238",
+    "/usr/lib/pkgconfig/libpng16.pc": "9c93ff32c1560a0b6cbb2f98a2497112df257080238432fed3436f4e9a15a4ac",
+    "/usr/lib/pkgconfig/libpng.pc": "9c93ff32c1560a0b6cbb2f98a2497112df257080238432fed3436f4e9a15a4ac",
+    "/var/log/pacman.log": "a34e840d4f5a4e1ecbb2acd72ce064bafe3023952a58fa49298fa0e5906dfa84"
+  }
+}

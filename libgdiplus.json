@@ -1,1 +1,9 @@
-{"4.2-2": {"/usr/lib/libgdiplus.so.0.0.0": "57794a96f8ef7ad67c4845ba9262600672fe3e1c7d01d7867883ac1c7052d240", "/usr/lib/libgdiplus.so": "57794a96f8ef7ad67c4845ba9262600672fe3e1c7d01d7867883ac1c7052d240", "/usr/lib/libgdiplus.so.0": "57794a96f8ef7ad67c4845ba9262600672fe3e1c7d01d7867883ac1c7052d240", "/usr/lib/pkgconfig/libgdiplus.pc": "40f356dbcf243349f39f8efd31b25b9d4a20144bf03310e2e8e62571b8484d74", "/var/log/pacman.log": "f19e966a05a92370a0d75055d3be63e89c6054aab945d6ea88529401d3ea23a2"}}
+{
+  "4.2-2": {
+    "/usr/lib/libgdiplus.so.0.0.0": "57794a96f8ef7ad67c4845ba9262600672fe3e1c7d01d7867883ac1c7052d240",
+    "/usr/lib/libgdiplus.so": "57794a96f8ef7ad67c4845ba9262600672fe3e1c7d01d7867883ac1c7052d240",
+    "/usr/lib/libgdiplus.so.0": "57794a96f8ef7ad67c4845ba9262600672fe3e1c7d01d7867883ac1c7052d240",
+    "/usr/lib/pkgconfig/libgdiplus.pc": "40f356dbcf243349f39f8efd31b25b9d4a20144bf03310e2e8e62571b8484d74",
+    "/var/log/pacman.log": "f19e966a05a92370a0d75055d3be63e89c6054aab945d6ea88529401d3ea23a2"
+  }
+}

@@ -1,1 +1,47 @@
-{"2.4.10-5": {"/usr/share/haskell/register/haskell-fast-logger.sh": "10a36984ef63af14c99c9167b68ea2ef9c724c46680449077fa97284068cb4a0", "/usr/share/haskell/unregister/haskell-fast-logger.sh": "7d4720d49a836ff54e843ce3670da192d81390653c951ea0d3aac56a3315941d", "/usr/share/licenses/haskell-fast-logger/LICENSE": "cb2bd43a3d0c123d0d373fc6808492d477730473d480ab518865aeb797733045", "/usr/lib/libHSfast-logger-2.4.10-9IKpXM0932554g5cQqP0p7-ghc8.2.1.so": "658919f4129ffb51251f1b25931babd6fb8813f187afd3bfd0041ba9616f8de3", "/usr/lib/ghc-8.2.1/site-local/fast-logger-2.4.10/System/Log/FastLogger.dyn_hi": "4ca0654e0beea47589847582540005ed9ee13817a3721dd728c416ddca3c223c", "/usr/lib/ghc-8.2.1/site-local/fast-logger-2.4.10/System/Log/FastLogger/File.dyn_hi": "187336c64ed43ce2c506de2ef5e117920ba8f16cc87e82d8d9597613143804b9", "/usr/lib/ghc-8.2.1/site-local/fast-logger-2.4.10/System/Log/FastLogger/Date.dyn_hi": "76c3398dc10020bf08949980e8a1309d68afdf8477bb2041dfcced148e767e73", "/usr/lib/ghc-8.2.1/site-local/fast-logger-2.4.10/System/Log/FastLogger/IO.dyn_hi": "edc44b7470329c226f561478c85dd5f646d7648e6a54e26954b6928df2eff9df", "/usr/lib/ghc-8.2.1/site-local/fast-logger-2.4.10/System/Log/FastLogger/FileIO.dyn_hi": "0985d1859cb53355cd883147981874e965723e2e89c89554d6479cc00b2215a2", "/usr/lib/ghc-8.2.1/site-local/fast-logger-2.4.10/System/Log/FastLogger/IORef.dyn_hi": "469a17aa0539811ddbbe57db55ef539485e91c05ba065111a45109647dc6f486", "/usr/lib/ghc-8.2.1/site-local/fast-logger-2.4.10/System/Log/FastLogger/LogStr.dyn_hi": "2bb04840327c81357da300bd49fc111f58fb3c70ea85d54b8d7684a5ab710e31", "/usr/lib/ghc-8.2.1/site-local/fast-logger-2.4.10/System/Log/FastLogger/Logger.dyn_hi": "c4daaf3ea40f0cb6bcc4f4767cc6014c2f1aed07ea680fb46505d8648c2712e6", "/var/log/pacman.log": "0d20da993b295fc90b11ec792da6318f4b10c3ea0644bdbe5c0f71e67b4e99bf"}, "2.4.10-6": {"/usr/share/haskell/register/haskell-fast-logger.sh": "c230bd21785e0a1dacc51250fd0f6d1f6ed68e26d53cd201066269ff47064fe6", "/usr/share/haskell/unregister/haskell-fast-logger.sh": "6bbc57e819841e3c96502ab7f1c2d04ea0c8737d0d31b037652c57ff7c9737fb", "/usr/share/licenses/haskell-fast-logger/LICENSE": "cb2bd43a3d0c123d0d373fc6808492d477730473d480ab518865aeb797733045", "/usr/lib/libHSfast-logger-2.4.10-7IZhsa3SVBX2pZ1F8Lf30v-ghc8.2.2.so": "a996a3c79db8d554621c1afdb89f452b64e3726918be8567bcbb2a3ea37046e6", "/usr/lib/ghc-8.2.2/site-local/fast-logger-2.4.10/System/Log/FastLogger.dyn_hi": "c758099ed1937a30750e4525e6bd4129956791851c4d7230d14e96563f7b6aab", "/usr/lib/ghc-8.2.2/site-local/fast-logger-2.4.10/System/Log/FastLogger/File.dyn_hi": "3c5ee209f3521f402f5ed66f93f2fed0abf8e805e647756de6c4008f24b6debb", "/usr/lib/ghc-8.2.2/site-local/fast-logger-2.4.10/System/Log/FastLogger/Date.dyn_hi": "e5e62f2fdb57dcb7672fd861134679f4d6fb69413d18c6b3f376b82fd1f76674", "/usr/lib/ghc-8.2.2/site-local/fast-logger-2.4.10/System/Log/FastLogger/IO.dyn_hi": "11568c5fdf3c87dee3df536ed2fcd556e044d8a9c0130f7ccfb7b8fe799b65e9", "/usr/lib/ghc-8.2.2/site-local/fast-logger-2.4.10/System/Log/FastLogger/FileIO.dyn_hi": "e882163adc1cec584c648cf63f795f6277fd4dfadc30582bd899e017967673d5", "/usr/lib/ghc-8.2.2/site-local/fast-logger-2.4.10/System/Log/FastLogger/IORef.dyn_hi": "4d5f691057c4d9bbd2975e095d91537e13143242ad2c4d2db19520ff73383f8b", "/usr/lib/ghc-8.2.2/site-local/fast-logger-2.4.10/System/Log/FastLogger/LogStr.dyn_hi": "2991df3c0389a799c10afcb29266bd4968bd9b9b4c163ba89a5cc0c9a543cbde", "/usr/lib/ghc-8.2.2/site-local/fast-logger-2.4.10/System/Log/FastLogger/Logger.dyn_hi": "0dc83a8711f689131f73ccb4592a6021892aae9f8bcf84b0ffa0daee5599df76", "/var/log/pacman.log": "b5a567f708383e5e1eee23a20655c9882a77bf93674f4ab7d1cc149537b7d389"}}
+{
+  "2.4.10-5": {
+    "/usr/share/haskell/register/haskell-fast-logger.sh": "10a36984ef63af14c99c9167b68ea2ef9c724c46680449077fa97284068cb4a0",
+    "/usr/share/haskell/unregister/haskell-fast-logger.sh": "7d4720d49a836ff54e843ce3670da192d81390653c951ea0d3aac56a3315941d",
+    "/usr/share/licenses/haskell-fast-logger/LICENSE": "cb2bd43a3d0c123d0d373fc6808492d477730473d480ab518865aeb797733045",
+    "/usr/lib/libHSfast-logger-2.4.10-9IKpXM0932554g5cQqP0p7-ghc8.2.1.so": "658919f4129ffb51251f1b25931babd6fb8813f187afd3bfd0041ba9616f8de3",
+    "/usr/lib/ghc-8.2.1/site-local/fast-logger-2.4.10/System/Log/FastLogger.dyn_hi": "4ca0654e0beea47589847582540005ed9ee13817a3721dd728c416ddca3c223c",
+    "/usr/lib/ghc-8.2.1/site-local/fast-logger-2.4.10/System/Log/FastLogger/File.dyn_hi": "187336c64ed43ce2c506de2ef5e117920ba8f16cc87e82d8d9597613143804b9",
+    "/usr/lib/ghc-8.2.1/site-local/fast-logger-2.4.10/System/Log/FastLogger/Date.dyn_hi": "76c3398dc10020bf08949980e8a1309d68afdf8477bb2041dfcced148e767e73",
+    "/usr/lib/ghc-8.2.1/site-local/fast-logger-2.4.10/System/Log/FastLogger/IO.dyn_hi": "edc44b7470329c226f561478c85dd5f646d7648e6a54e26954b6928df2eff9df",
+    "/usr/lib/ghc-8.2.1/site-local/fast-logger-2.4.10/System/Log/FastLogger/FileIO.dyn_hi": "0985d1859cb53355cd883147981874e965723e2e89c89554d6479cc00b2215a2",
+    "/usr/lib/ghc-8.2.1/site-local/fast-logger-2.4.10/System/Log/FastLogger/IORef.dyn_hi": "469a17aa0539811ddbbe57db55ef539485e91c05ba065111a45109647dc6f486",
+    "/usr/lib/ghc-8.2.1/site-local/fast-logger-2.4.10/System/Log/FastLogger/LogStr.dyn_hi": "2bb04840327c81357da300bd49fc111f58fb3c70ea85d54b8d7684a5ab710e31",
+    "/usr/lib/ghc-8.2.1/site-local/fast-logger-2.4.10/System/Log/FastLogger/Logger.dyn_hi": "c4daaf3ea40f0cb6bcc4f4767cc6014c2f1aed07ea680fb46505d8648c2712e6",
+    "/var/log/pacman.log": "0d20da993b295fc90b11ec792da6318f4b10c3ea0644bdbe5c0f71e67b4e99bf"
+  },
+  "2.4.10-6": {
+    "/usr/share/haskell/register/haskell-fast-logger.sh": "c230bd21785e0a1dacc51250fd0f6d1f6ed68e26d53cd201066269ff47064fe6",
+    "/usr/share/haskell/unregister/haskell-fast-logger.sh": "6bbc57e819841e3c96502ab7f1c2d04ea0c8737d0d31b037652c57ff7c9737fb",
+    "/usr/share/licenses/haskell-fast-logger/LICENSE": "cb2bd43a3d0c123d0d373fc6808492d477730473d480ab518865aeb797733045",
+    "/usr/lib/libHSfast-logger-2.4.10-7IZhsa3SVBX2pZ1F8Lf30v-ghc8.2.2.so": "a996a3c79db8d554621c1afdb89f452b64e3726918be8567bcbb2a3ea37046e6",
+    "/usr/lib/ghc-8.2.2/site-local/fast-logger-2.4.10/System/Log/FastLogger.dyn_hi": "c758099ed1937a30750e4525e6bd4129956791851c4d7230d14e96563f7b6aab",
+    "/usr/lib/ghc-8.2.2/site-local/fast-logger-2.4.10/System/Log/FastLogger/File.dyn_hi": "3c5ee209f3521f402f5ed66f93f2fed0abf8e805e647756de6c4008f24b6debb",
+    "/usr/lib/ghc-8.2.2/site-local/fast-logger-2.4.10/System/Log/FastLogger/Date.dyn_hi": "e5e62f2fdb57dcb7672fd861134679f4d6fb69413d18c6b3f376b82fd1f76674",
+    "/usr/lib/ghc-8.2.2/site-local/fast-logger-2.4.10/System/Log/FastLogger/IO.dyn_hi": "11568c5fdf3c87dee3df536ed2fcd556e044d8a9c0130f7ccfb7b8fe799b65e9",
+    "/usr/lib/ghc-8.2.2/site-local/fast-logger-2.4.10/System/Log/FastLogger/FileIO.dyn_hi": "e882163adc1cec584c648cf63f795f6277fd4dfadc30582bd899e017967673d5",
+    "/usr/lib/ghc-8.2.2/site-local/fast-logger-2.4.10/System/Log/FastLogger/IORef.dyn_hi": "4d5f691057c4d9bbd2975e095d91537e13143242ad2c4d2db19520ff73383f8b",
+    "/usr/lib/ghc-8.2.2/site-local/fast-logger-2.4.10/System/Log/FastLogger/LogStr.dyn_hi": "2991df3c0389a799c10afcb29266bd4968bd9b9b4c163ba89a5cc0c9a543cbde",
+    "/usr/lib/ghc-8.2.2/site-local/fast-logger-2.4.10/System/Log/FastLogger/Logger.dyn_hi": "0dc83a8711f689131f73ccb4592a6021892aae9f8bcf84b0ffa0daee5599df76",
+    "/var/log/pacman.log": "b5a567f708383e5e1eee23a20655c9882a77bf93674f4ab7d1cc149537b7d389"
+  },
+  "2.4.10-7": {
+    "/usr/share/haskell/register/haskell-fast-logger.sh": "4b46d624d1f2fdca3b57fb7e0df939f8177ea109498961efbe46bfad4aa77705",
+    "/usr/share/haskell/unregister/haskell-fast-logger.sh": "6bbc57e819841e3c96502ab7f1c2d04ea0c8737d0d31b037652c57ff7c9737fb",
+    "/usr/share/licenses/haskell-fast-logger/LICENSE": "cb2bd43a3d0c123d0d373fc6808492d477730473d480ab518865aeb797733045",
+    "/usr/lib/libHSfast-logger-2.4.10-KsD9d4LCjX1W61gpe46SQ-ghc8.2.2.so": "23f482ce5ebdc6bd26ce56616618b446af1a5afa4721928ca1eb68e079fa884d",
+    "/usr/lib/ghc-8.2.2/site-local/fast-logger-2.4.10/System/Log/FastLogger.dyn_hi": "80488779e109a7e381979384313265b145ff3ff2220f3e7de70d0241c018443f",
+    "/usr/lib/ghc-8.2.2/site-local/fast-logger-2.4.10/System/Log/FastLogger/File.dyn_hi": "ce8e8fa5b50bebb6a9b5e6aaae1d160a844bd421dd7ff924a86d5adf09ae8920",
+    "/usr/lib/ghc-8.2.2/site-local/fast-logger-2.4.10/System/Log/FastLogger/Date.dyn_hi": "b63d17a768389a8a49ca5fe777e06bac1d16874083f774bd7ac6a4f9ccfe9be3",
+    "/usr/lib/ghc-8.2.2/site-local/fast-logger-2.4.10/System/Log/FastLogger/IO.dyn_hi": "fbfe754f0b72b7f24b03ec655c71ef1d81add2cccc285af600bfe4b0c25a9a36",
+    "/usr/lib/ghc-8.2.2/site-local/fast-logger-2.4.10/System/Log/FastLogger/FileIO.dyn_hi": "f96d7ae52c2975804b091c1d7fc450d5024368fa140241f1a256e25603b92470",
+    "/usr/lib/ghc-8.2.2/site-local/fast-logger-2.4.10/System/Log/FastLogger/IORef.dyn_hi": "c1114ab842a4f9fffac04b24bafe50d89a046423597d72fdd3605537e77737cf",
+    "/usr/lib/ghc-8.2.2/site-local/fast-logger-2.4.10/System/Log/FastLogger/LogStr.dyn_hi": "3cfbd3e3989a8d4ba70a9253698305be3d2450b4e1ccff4e3ea7c31f25a03b19",
+    "/usr/lib/ghc-8.2.2/site-local/fast-logger-2.4.10/System/Log/FastLogger/Logger.dyn_hi": "670085d64a7fccd5b1f432c1ce1eb5c50acba34bbd109b40708d88c5d66bb94e",
+    "/var/log/pacman.log": "383450168acc2a64cc5f10d84bd9c3a5a94461de0e4ece75c42fc7c590ce3324"
+  }
+}

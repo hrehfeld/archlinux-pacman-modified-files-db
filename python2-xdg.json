@@ -1,0 +1,32 @@
+{
+  "0.25-4": {
+    "/usr/lib/python2.7/site-packages/pyxdg-0.25-py2.7.egg-info": "b39e9ea8225eb3e426466c874356fc09204daee4034cde3e57368a79c857e1b7",
+    "/usr/lib/python2.7/site-packages/xdg/Mime.py": "97e55987821b9ddac671f0f1ab957eca8286a1848f367d19bbd71a4a7db8ba4c",
+    "/usr/lib/python2.7/site-packages/xdg/IniFile.py": "1d61fed7f8b350897beefb4f42b02054a6478d82a6d9196666f2ba9b204127e3",
+    "/usr/lib/python2.7/site-packages/xdg/Menu.py": "1dcd1c801a972d4e06db29adb63edb841058c4666ea9b78570d7ac07a57ea9e0",
+    "/usr/lib/python2.7/site-packages/xdg/Config.py": "95f7143248d42ab854d592e6be0eb4e57dace4e2fbb59bd353c7113feb232f20",
+    "/usr/lib/python2.7/site-packages/xdg/BaseDirectory.py": "f46f4d33417bfbfb686485258692870e11e579edfaf65113060603a143125333",
+    "/usr/lib/python2.7/site-packages/xdg/util.py": "ceb195e2392cf3d6362f8c0bb8d227c5f8c308cc593bb1eb1ae4cb9ae334c7b9",
+    "/usr/lib/python2.7/site-packages/xdg/DesktopEntry.py": "39d107cc3623fdd979412b66460a1e9ff094f395d25aa035158de2f5c19f5dd4",
+    "/usr/lib/python2.7/site-packages/xdg/Exceptions.py": "7879b764aeb630a11f4a61c7df271aebdb3f56a6eca45eb78e587dd18e0f3386",
+    "/usr/lib/python2.7/site-packages/xdg/IconTheme.py": "9c84cd9a0aec77ba17e16afd1e8340101db94a5ee084eea39ca4aa6594a5472b",
+    "/usr/lib/python2.7/site-packages/xdg/RecentFiles.py": "fadd7adb8408a3c8f961fcc7f1b32540988abb88b8565b4bac3001cd2f9bb5a8",
+    "/usr/lib/python2.7/site-packages/xdg/MenuEditor.py": "d3f666eb7806a18f3d13696fc57c93a51b3776796c4b9f5c5a94dcf197028f7f",
+    "/usr/lib/python2.7/site-packages/xdg/Locale.py": "813a926de08fa24b986f847570cb355f8e221769d8121b5db273ad9790c986f7",
+    "/usr/lib/python2.7/site-packages/xdg/__init__.py": "a6e97b6680ffce3c901ca68a67cbc515c8e663b5de7969319d2642a9b87de7f9",
+    "/usr/lib/python2.7/site-packages/xdg/Mime.pyc": "d7cf2917cb34e25c3c87f8c3b9787f4695338556b0d4c15856f863c721a2c89a",
+    "/usr/lib/python2.7/site-packages/xdg/IniFile.pyc": "2a9de339c7ca13dde43453d39200cc9d854928f607fde46e71d1923e96abec0d",
+    "/usr/lib/python2.7/site-packages/xdg/Menu.pyc": "d81f08568c88fac35b9ad70a043c2737583a057f5ae4aa0ceb1f20c4d79e866a",
+    "/usr/lib/python2.7/site-packages/xdg/Config.pyc": "0e905719076375e010df085cf6c1d2e696dfe643c53f9ea924cecd693e3706b4",
+    "/usr/lib/python2.7/site-packages/xdg/BaseDirectory.pyc": "7b4457699fcad52da60bb33f880ec17c4037382e12f1949995e445eca9bade53",
+    "/usr/lib/python2.7/site-packages/xdg/util.pyc": "f87faff8d99899d990af8845c033f30c25f26b00b9fd8d3e752a71d78bba6cd6",
+    "/usr/lib/python2.7/site-packages/xdg/DesktopEntry.pyc": "d89ea0d37900ad1f61fc4a537033552c8d658efb086ce0ec01e809ac9156bc7a",
+    "/usr/lib/python2.7/site-packages/xdg/Exceptions.pyc": "2ae3744d26f78c37fe2c6e6e349fe38d92c83ee7f42426d1797ad97bea91b1ad",
+    "/usr/lib/python2.7/site-packages/xdg/IconTheme.pyc": "3cbfc5b23cde1b97b55ab88a6df664a798b512da6abd6de4935f78c0a4edc80e",
+    "/usr/lib/python2.7/site-packages/xdg/RecentFiles.pyc": "feed04fd68c8d331aaabfe7adbb1e4edb576120d0c179e548b90ad385faaf2cb",
+    "/usr/lib/python2.7/site-packages/xdg/MenuEditor.pyc": "b4086f3c9c84e5e0b254318922b2ed56ce9a8c3fa8a38a9d398d11d27fa4a27e",
+    "/usr/lib/python2.7/site-packages/xdg/Locale.pyc": "eb869646391e9e5e7926a15c7081fa444c3cff9bf54b311ebaa222391999e75c",
+    "/usr/lib/python2.7/site-packages/xdg/__init__.pyc": "89d75a8ae4c4d7c8cfb63532b35ab4bd1a54d79269605b5c19efd0ec419c13a4",
+    "/var/log/pacman.log": "eac4e5fe00a21053b447bbba03512f6d40fe276d5e6ca1de73a33dc6aac55959"
+  }
+}

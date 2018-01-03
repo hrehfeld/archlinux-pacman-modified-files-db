@@ -1,1 +1,18 @@
-{"1.0.17-1": {"/usr/bin/tcat": "4846b042e0d0114c1192100544da7cb57bf1d75eaae86d68e550558513d5646b", "/usr/bin/untoast": "4846b042e0d0114c1192100544da7cb57bf1d75eaae86d68e550558513d5646b", "/usr/bin/toast": "4846b042e0d0114c1192100544da7cb57bf1d75eaae86d68e550558513d5646b", "/usr/lib/libgsm.so": "01b72f5a9f1b0457d2e155ba3c4e102888e860771c1dad4382a445dd1e081fe2", "/usr/lib/libgsm.so.1": "01b72f5a9f1b0457d2e155ba3c4e102888e860771c1dad4382a445dd1e081fe2", "/usr/lib/libgsm.so.1.0.13": "01b72f5a9f1b0457d2e155ba3c4e102888e860771c1dad4382a445dd1e081fe2", "/usr/include/gsm/gsm.h": "15f21a190dd189f833a7ec2d38fe97c5a282017d76802ccdf452973dde062197", "/usr/share/licenses/gsm/license.txt": "81c68a3374937ed9b5e4929c709e81a2c4b35b5d1f450ecf8c473e2daea46ff6", "/usr/share/man/man1/toast.1.gz": "f2f66d3ecc67a8d515d388ab76e2c19d009065c0a8148ee812f81d99cd2df1d1", "/usr/share/man/man3/gsm_print.3.gz": "a7d55f7ab90c722948bb817e4192a9c532b65de4a49c3b2b1d6c2a2d7915bcab", "/usr/share/man/man3/gsm_option.3.gz": "69b36d11b07b9cac4024d0ee871775fa3a326d303b3bcb3b5293f5692c45f279", "/usr/share/man/man3/gsm_explode.3.gz": "0f6e751848376c34afa07da79725c1a52b2feb784dbfa0553ea5a45aa6db8340", "/usr/share/man/man3/gsm.3.gz": "cec62012a16942ec79d0c967f8890ee5c6b27fa628d6e0c52a632bd65f1c987e", "/var/log/pacman.log": "98c6600b6d5edda93b2b938d47ab6cb9d0e7fe2a0f000cceffbb449bd38b215e"}}
+{
+  "1.0.17-1": {
+    "/usr/bin/tcat": "4846b042e0d0114c1192100544da7cb57bf1d75eaae86d68e550558513d5646b",
+    "/usr/bin/untoast": "4846b042e0d0114c1192100544da7cb57bf1d75eaae86d68e550558513d5646b",
+    "/usr/bin/toast": "4846b042e0d0114c1192100544da7cb57bf1d75eaae86d68e550558513d5646b",
+    "/usr/lib/libgsm.so": "01b72f5a9f1b0457d2e155ba3c4e102888e860771c1dad4382a445dd1e081fe2",
+    "/usr/lib/libgsm.so.1": "01b72f5a9f1b0457d2e155ba3c4e102888e860771c1dad4382a445dd1e081fe2",
+    "/usr/lib/libgsm.so.1.0.13": "01b72f5a9f1b0457d2e155ba3c4e102888e860771c1dad4382a445dd1e081fe2",
+    "/usr/include/gsm/gsm.h": "15f21a190dd189f833a7ec2d38fe97c5a282017d76802ccdf452973dde062197",
+    "/usr/share/licenses/gsm/license.txt": "81c68a3374937ed9b5e4929c709e81a2c4b35b5d1f450ecf8c473e2daea46ff6",
+    "/usr/share/man/man1/toast.1.gz": "f2f66d3ecc67a8d515d388ab76e2c19d009065c0a8148ee812f81d99cd2df1d1",
+    "/usr/share/man/man3/gsm_print.3.gz": "a7d55f7ab90c722948bb817e4192a9c532b65de4a49c3b2b1d6c2a2d7915bcab",
+    "/usr/share/man/man3/gsm_option.3.gz": "69b36d11b07b9cac4024d0ee871775fa3a326d303b3bcb3b5293f5692c45f279",
+    "/usr/share/man/man3/gsm_explode.3.gz": "0f6e751848376c34afa07da79725c1a52b2feb784dbfa0553ea5a45aa6db8340",
+    "/usr/share/man/man3/gsm.3.gz": "cec62012a16942ec79d0c967f8890ee5c6b27fa628d6e0c52a632bd65f1c987e",
+    "/var/log/pacman.log": "98c6600b6d5edda93b2b938d47ab6cb9d0e7fe2a0f000cceffbb449bd38b215e"
+  }
+}

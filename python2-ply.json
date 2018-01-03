@@ -1,1 +1,22 @@
-{"3.10-1": {"/usr/lib/python2.7/site-packages/ply/__init__.py": "ab8b3ce90c11b1845adb42fdb9e4b17e1fa13e28697ed0630cebd86b6fd24b66", "/usr/lib/python2.7/site-packages/ply/cpp.py": "605c161d63c2500f7960252242d83ffee1e31e38145d24f00a399318b6efd13f", "/usr/lib/python2.7/site-packages/ply/ctokens.py": "30a92c9cde344de84f86055fc422618e3fc18cbf78ddaa6b78004a633f9b9746", "/usr/lib/python2.7/site-packages/ply/lex.py": "b2c89e920aaaec62f3089e091c58b9a4f8956930da99276448b6957897c95630", "/usr/lib/python2.7/site-packages/ply/yacc.py": "d594b94497075e211266c3588bec4a7b237eb80d84ee39606cf1b4a30de62462", "/usr/lib/python2.7/site-packages/ply/ygen.py": "d8960d798b6b3f3d49ccb48b3b77781ac4bccc953c8d8fc8fc2475548f605ab0", "/usr/lib/python2.7/site-packages/ply/__init__.pyc": "83af6a89dd760e10c05cf5c6b4c6d5e026109cbd17f8bf45f8978f7792223183", "/usr/lib/python2.7/site-packages/ply/cpp.pyc": "c3a68d3e94d280909bff171a97e7fffef1ce08ceaa362596d54e36930e6d49f0", "/usr/lib/python2.7/site-packages/ply/ctokens.pyc": "f115c42843a09588f5375bebea9b335e6badc8a8e2484a48957178074ab5e42e", "/usr/lib/python2.7/site-packages/ply/lex.pyc": "d1a69ecc990ad70272a500a4e2206777d826c62efa3f2bb9b16e4d5ff24368ef", "/usr/lib/python2.7/site-packages/ply/yacc.pyc": "308066e573c5af447ea4f9c70fe3b5e54653bd271f98d9db46f56090384e6afa", "/usr/lib/python2.7/site-packages/ply/ygen.pyc": "1690f2abe78b8dc24232937e2e924083c0f3c47d9b9df2394cd6614c6d216b4f", "/usr/lib/python2.7/site-packages/ply-3.10-py2.7.egg-info/top_level.txt": "8036011d143b572d2d6340235f226d69dbd4d8b0da3ac1ea86157bd001ac8ac7", "/usr/lib/python2.7/site-packages/ply-3.10-py2.7.egg-info/SOURCES.txt": "d13961fa87f1769194156a1f776e0dd1804208a249b2e50ff8b4f364d50e2580", "/usr/lib/python2.7/site-packages/ply-3.10-py2.7.egg-info/PKG-INFO": "1e52e742f07ad2bdfc5cacfaf5a997c4c5b0059f1cffea82566b137cdc30d631", "/usr/lib/python2.7/site-packages/ply-3.10-py2.7.egg-info/dependency_links.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b", "/usr/share/licenses/python2-ply/LICENSE": "87c20dd0a774f4d4ff837b4f1555f7eb1ed1b8dc1e3223cd105e5c1e282d62bf", "/var/log/pacman.log": "03c1a65e7af7d033f0998fa235b457d372544809061479d635a6e91bcdd68a88"}}
+{
+  "3.10-1": {
+    "/usr/lib/python2.7/site-packages/ply/__init__.py": "ab8b3ce90c11b1845adb42fdb9e4b17e1fa13e28697ed0630cebd86b6fd24b66",
+    "/usr/lib/python2.7/site-packages/ply/cpp.py": "605c161d63c2500f7960252242d83ffee1e31e38145d24f00a399318b6efd13f",
+    "/usr/lib/python2.7/site-packages/ply/ctokens.py": "30a92c9cde344de84f86055fc422618e3fc18cbf78ddaa6b78004a633f9b9746",
+    "/usr/lib/python2.7/site-packages/ply/lex.py": "b2c89e920aaaec62f3089e091c58b9a4f8956930da99276448b6957897c95630",
+    "/usr/lib/python2.7/site-packages/ply/yacc.py": "d594b94497075e211266c3588bec4a7b237eb80d84ee39606cf1b4a30de62462",
+    "/usr/lib/python2.7/site-packages/ply/ygen.py": "d8960d798b6b3f3d49ccb48b3b77781ac4bccc953c8d8fc8fc2475548f605ab0",
+    "/usr/lib/python2.7/site-packages/ply/__init__.pyc": "83af6a89dd760e10c05cf5c6b4c6d5e026109cbd17f8bf45f8978f7792223183",
+    "/usr/lib/python2.7/site-packages/ply/cpp.pyc": "c3a68d3e94d280909bff171a97e7fffef1ce08ceaa362596d54e36930e6d49f0",
+    "/usr/lib/python2.7/site-packages/ply/ctokens.pyc": "f115c42843a09588f5375bebea9b335e6badc8a8e2484a48957178074ab5e42e",
+    "/usr/lib/python2.7/site-packages/ply/lex.pyc": "d1a69ecc990ad70272a500a4e2206777d826c62efa3f2bb9b16e4d5ff24368ef",
+    "/usr/lib/python2.7/site-packages/ply/yacc.pyc": "308066e573c5af447ea4f9c70fe3b5e54653bd271f98d9db46f56090384e6afa",
+    "/usr/lib/python2.7/site-packages/ply/ygen.pyc": "1690f2abe78b8dc24232937e2e924083c0f3c47d9b9df2394cd6614c6d216b4f",
+    "/usr/lib/python2.7/site-packages/ply-3.10-py2.7.egg-info/top_level.txt": "8036011d143b572d2d6340235f226d69dbd4d8b0da3ac1ea86157bd001ac8ac7",
+    "/usr/lib/python2.7/site-packages/ply-3.10-py2.7.egg-info/SOURCES.txt": "d13961fa87f1769194156a1f776e0dd1804208a249b2e50ff8b4f364d50e2580",
+    "/usr/lib/python2.7/site-packages/ply-3.10-py2.7.egg-info/PKG-INFO": "1e52e742f07ad2bdfc5cacfaf5a997c4c5b0059f1cffea82566b137cdc30d631",
+    "/usr/lib/python2.7/site-packages/ply-3.10-py2.7.egg-info/dependency_links.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "/usr/share/licenses/python2-ply/LICENSE": "87c20dd0a774f4d4ff837b4f1555f7eb1ed1b8dc1e3223cd105e5c1e282d62bf",
+    "/var/log/pacman.log": "03c1a65e7af7d033f0998fa235b457d372544809061479d635a6e91bcdd68a88"
+  }
+}

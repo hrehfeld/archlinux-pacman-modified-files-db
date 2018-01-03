@@ -1,1 +1,8 @@
-{"1.2.1-3": {"/usr/share/licenses/xineramaproto/COPYING": "b2d8cda803e900915ce10f0ba735ff2c033b39c7cc5a8a436667ca583d4066fa", "/usr/include/X11/extensions/panoramiXproto.h": "e880fa47d06263f394c4ee0eaec1dd72b6c4447a727bdde57be5ccb372925ed5", "/usr/lib/pkgconfig/xineramaproto.pc": "5f2a1a6cac7a2408f2e651eb1b7fa94049d5d0d97ef47c5ae444de931b20f147", "/var/log/pacman.log": "32b33bed195897a22a1150e2fa63a4177e410e6f356319b92fc28146b2c50a6d"}}
+{
+  "1.2.1-3": {
+    "/usr/share/licenses/xineramaproto/COPYING": "b2d8cda803e900915ce10f0ba735ff2c033b39c7cc5a8a436667ca583d4066fa",
+    "/usr/include/X11/extensions/panoramiXproto.h": "e880fa47d06263f394c4ee0eaec1dd72b6c4447a727bdde57be5ccb372925ed5",
+    "/usr/lib/pkgconfig/xineramaproto.pc": "5f2a1a6cac7a2408f2e651eb1b7fa94049d5d0d97ef47c5ae444de931b20f147",
+    "/var/log/pacman.log": "32b33bed195897a22a1150e2fa63a4177e410e6f356319b92fc28146b2c50a6d"
+  }
+}

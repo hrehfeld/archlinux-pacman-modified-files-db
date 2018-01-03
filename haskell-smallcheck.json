@@ -1,1 +1,54 @@
-{"1.1.2-3": {"/usr/share/haskell/register/haskell-smallcheck.sh": "0e802d7f0bff7c73d386535e78baad87975dd29e8ed74bc12b0c6e3bed4d7e7e", "/usr/share/haskell/unregister/haskell-smallcheck.sh": "35bff9c9c85e6091d4df07cf2beae540f2c3be1f03821b6f0b568fb49643a35b", "/usr/share/licenses/haskell-smallcheck/LICENSE": "ac62a592f3331cf4b37664fd41d149159344fe167ef3ac00c524b9c3530eb276", "/usr/lib/libHSsmallcheck-1.1.2-4gPZcheDqS6L156DM7moIy-ghc8.2.1.so": "e5b951d5102977dd17a1de43ce8b736f927631551b6ee19f19a04007f7225f0d", "/usr/lib/ghc-8.2.1/site-local/smallcheck-1.1.2/Test/SmallCheck.dyn_hi": "1687411a009fd192c82d31e744e97b7884b9bcf2d3e9eef1bee94a69ce393771", "/usr/lib/ghc-8.2.1/site-local/smallcheck-1.1.2/Test/SmallCheck/Drivers.dyn_hi": "cc5cdc76dcfd8647aca5afe147b77bce50a930d9368c8d07d75e218d42f3ab40", "/usr/lib/ghc-8.2.1/site-local/smallcheck-1.1.2/Test/SmallCheck/Series.dyn_hi": "f634ae14b0b222f6cf5ac6503a85fa27bd26a08c0c0ca48a45ba9c66d2ca2a5e", "/usr/lib/ghc-8.2.1/site-local/smallcheck-1.1.2/Test/SmallCheck/Property.dyn_hi": "1cc4a3081cf1b8f5989c12ca4c8b38b315e23a5fb858ea591cc05f9492bc1598", "/usr/lib/ghc-8.2.1/site-local/smallcheck-1.1.2/Test/SmallCheck/SeriesMonad.dyn_hi": "80ceea64f627cc83aa9ba30f7869135f92f4f324ead1fed73c9208f052bc6d99", "/usr/lib/ghc-8.2.1/site-local/smallcheck-1.1.2/Test/SmallCheck/Property/Result.dyn_hi": "99619b535ac96311c928caca5ec1ef2eb6d70803b737564332e5f43ad6dbd05f", "/var/log/pacman.log": "5b4aa55d25ccebf59382041d4197bcd9e630de3f2cec585dd09511a5587e8c22"}, "1.1.2-4": {"/usr/share/haskell/register/haskell-smallcheck.sh": "5cad734bdc120a6a06f84ca5f748aa06017ed62a1ed7ec261c3d008211eb6a91", "/usr/share/haskell/unregister/haskell-smallcheck.sh": "2d5c3a09f7d4d51cb874838e7cfcc157de8c80abd6e193c1c5343a8c60395612", "/usr/share/licenses/haskell-smallcheck/LICENSE": "ac62a592f3331cf4b37664fd41d149159344fe167ef3ac00c524b9c3530eb276", "/usr/lib/libHSsmallcheck-1.1.2-9sgfSIY97hc9eZoBXsyzEb-ghc8.2.2.so": "f978103d7f3dca8a5ecbcfbd529147b0adda153c370c1ce6df7e1b28e109d0aa", "/usr/lib/ghc-8.2.2/site-local/smallcheck-1.1.2/Test/SmallCheck.dyn_hi": "b5507a1149a23589c59617fa01e35201a1b56c5b853a0215acc167a15e36175d", "/usr/lib/ghc-8.2.2/site-local/smallcheck-1.1.2/Test/SmallCheck/Drivers.dyn_hi": "9683904d2c1d44ac381c51c648637305a052e44aa85c75795c901ec07383247c", "/usr/lib/ghc-8.2.2/site-local/smallcheck-1.1.2/Test/SmallCheck/Series.dyn_hi": "90d98088cc290333b5046d192dd78cd7671a7142a47e63c19290a22cdf7345a3", "/usr/lib/ghc-8.2.2/site-local/smallcheck-1.1.2/Test/SmallCheck/Property.dyn_hi": "656179c03425e8b00115699bafd28f0effe066e2f9d383405ffd705fdf1e5a4d", "/usr/lib/ghc-8.2.2/site-local/smallcheck-1.1.2/Test/SmallCheck/SeriesMonad.dyn_hi": "42d31e886c9d01be69f41d14343de5bc92229bf25cc46725148d4f1e3852ed94", "/usr/lib/ghc-8.2.2/site-local/smallcheck-1.1.2/Test/SmallCheck/Property/Result.dyn_hi": "58e531cf48d60afb0358f91d2236d8ac88e497fe95a1d2702aa15af6c67e9685", "/var/log/pacman.log": "542863b2725d0391d20d6385cc5b24a018f22ac06ed73fecc303a8884220262a"}}
+{
+  "1.1.2-3": {
+    "/usr/share/haskell/register/haskell-smallcheck.sh": "0e802d7f0bff7c73d386535e78baad87975dd29e8ed74bc12b0c6e3bed4d7e7e",
+    "/usr/share/haskell/unregister/haskell-smallcheck.sh": "35bff9c9c85e6091d4df07cf2beae540f2c3be1f03821b6f0b568fb49643a35b",
+    "/usr/share/licenses/haskell-smallcheck/LICENSE": "ac62a592f3331cf4b37664fd41d149159344fe167ef3ac00c524b9c3530eb276",
+    "/usr/lib/libHSsmallcheck-1.1.2-4gPZcheDqS6L156DM7moIy-ghc8.2.1.so": "e5b951d5102977dd17a1de43ce8b736f927631551b6ee19f19a04007f7225f0d",
+    "/usr/lib/ghc-8.2.1/site-local/smallcheck-1.1.2/Test/SmallCheck.dyn_hi": "1687411a009fd192c82d31e744e97b7884b9bcf2d3e9eef1bee94a69ce393771",
+    "/usr/lib/ghc-8.2.1/site-local/smallcheck-1.1.2/Test/SmallCheck/Drivers.dyn_hi": "cc5cdc76dcfd8647aca5afe147b77bce50a930d9368c8d07d75e218d42f3ab40",
+    "/usr/lib/ghc-8.2.1/site-local/smallcheck-1.1.2/Test/SmallCheck/Series.dyn_hi": "f634ae14b0b222f6cf5ac6503a85fa27bd26a08c0c0ca48a45ba9c66d2ca2a5e",
+    "/usr/lib/ghc-8.2.1/site-local/smallcheck-1.1.2/Test/SmallCheck/Property.dyn_hi": "1cc4a3081cf1b8f5989c12ca4c8b38b315e23a5fb858ea591cc05f9492bc1598",
+    "/usr/lib/ghc-8.2.1/site-local/smallcheck-1.1.2/Test/SmallCheck/SeriesMonad.dyn_hi": "80ceea64f627cc83aa9ba30f7869135f92f4f324ead1fed73c9208f052bc6d99",
+    "/usr/lib/ghc-8.2.1/site-local/smallcheck-1.1.2/Test/SmallCheck/Property/Result.dyn_hi": "99619b535ac96311c928caca5ec1ef2eb6d70803b737564332e5f43ad6dbd05f",
+    "/var/log/pacman.log": "5b4aa55d25ccebf59382041d4197bcd9e630de3f2cec585dd09511a5587e8c22"
+  },
+  "1.1.2-4": {
+    "/usr/share/haskell/register/haskell-smallcheck.sh": "5cad734bdc120a6a06f84ca5f748aa06017ed62a1ed7ec261c3d008211eb6a91",
+    "/usr/share/haskell/unregister/haskell-smallcheck.sh": "2d5c3a09f7d4d51cb874838e7cfcc157de8c80abd6e193c1c5343a8c60395612",
+    "/usr/share/licenses/haskell-smallcheck/LICENSE": "ac62a592f3331cf4b37664fd41d149159344fe167ef3ac00c524b9c3530eb276",
+    "/usr/lib/libHSsmallcheck-1.1.2-9sgfSIY97hc9eZoBXsyzEb-ghc8.2.2.so": "f978103d7f3dca8a5ecbcfbd529147b0adda153c370c1ce6df7e1b28e109d0aa",
+    "/usr/lib/ghc-8.2.2/site-local/smallcheck-1.1.2/Test/SmallCheck.dyn_hi": "b5507a1149a23589c59617fa01e35201a1b56c5b853a0215acc167a15e36175d",
+    "/usr/lib/ghc-8.2.2/site-local/smallcheck-1.1.2/Test/SmallCheck/Drivers.dyn_hi": "9683904d2c1d44ac381c51c648637305a052e44aa85c75795c901ec07383247c",
+    "/usr/lib/ghc-8.2.2/site-local/smallcheck-1.1.2/Test/SmallCheck/Series.dyn_hi": "90d98088cc290333b5046d192dd78cd7671a7142a47e63c19290a22cdf7345a3",
+    "/usr/lib/ghc-8.2.2/site-local/smallcheck-1.1.2/Test/SmallCheck/Property.dyn_hi": "656179c03425e8b00115699bafd28f0effe066e2f9d383405ffd705fdf1e5a4d",
+    "/usr/lib/ghc-8.2.2/site-local/smallcheck-1.1.2/Test/SmallCheck/SeriesMonad.dyn_hi": "42d31e886c9d01be69f41d14343de5bc92229bf25cc46725148d4f1e3852ed94",
+    "/usr/lib/ghc-8.2.2/site-local/smallcheck-1.1.2/Test/SmallCheck/Property/Result.dyn_hi": "58e531cf48d60afb0358f91d2236d8ac88e497fe95a1d2702aa15af6c67e9685",
+    "/var/log/pacman.log": "542863b2725d0391d20d6385cc5b24a018f22ac06ed73fecc303a8884220262a"
+  },
+  "1.1.3-1": {
+    "/usr/share/haskell/register/haskell-smallcheck.sh": "dc780fb2d1153a739d2c6f3f334370dc689d173f6276cf9f7bcbeb43a9c5508b",
+    "/usr/share/haskell/unregister/haskell-smallcheck.sh": "7934e1070e4275e7570eb86c64c4c14bfa81954dd5e6b11abc30e6e67f357432",
+    "/usr/share/licenses/haskell-smallcheck/LICENSE": "ac62a592f3331cf4b37664fd41d149159344fe167ef3ac00c524b9c3530eb276",
+    "/usr/lib/libHSsmallcheck-1.1.3.1-2Miv8N1ey2Y42lN13Kj39w-ghc8.2.2.so": "faedfd5e0e8f1230f774e3407a4d63a6f9a54da7f04f2b2223522352685347d2",
+    "/usr/lib/ghc-8.2.2/site-local/smallcheck-1.1.3.1/Test/SmallCheck.dyn_hi": "d68e5c6ea8cdb80ae3dfa9c0c3b48dcaf12dfc1c0774381f110df152454fdfa5",
+    "/usr/lib/ghc-8.2.2/site-local/smallcheck-1.1.3.1/Test/SmallCheck/Drivers.dyn_hi": "0ac6072ac866b54cbc010c4f92f7f4f3718175c636fa780ac5a975bc4d6a0ba1",
+    "/usr/lib/ghc-8.2.2/site-local/smallcheck-1.1.3.1/Test/SmallCheck/Series.dyn_hi": "341fc6c87e6a2a1db9e6a4cdf4a39591375646c439ad5d4caeb6308bd7c1eddd",
+    "/usr/lib/ghc-8.2.2/site-local/smallcheck-1.1.3.1/Test/SmallCheck/Property.dyn_hi": "4d3c6c0ade38c7ffd013d3648c1c0c427665141fd199f21aee583116781b3d08",
+    "/usr/lib/ghc-8.2.2/site-local/smallcheck-1.1.3.1/Test/SmallCheck/SeriesMonad.dyn_hi": "86d5c83757a9ec7ee76af8a610bc871460b766de7d792fd10e099309bb65b2d8",
+    "/usr/lib/ghc-8.2.2/site-local/smallcheck-1.1.3.1/Test/SmallCheck/Property/Result.dyn_hi": "b0cec17e151a38734fe0fffa2d0d8f9dbc328896c24bb5f73f4bf8871bf6159b",
+    "/var/log/pacman.log": "55530146c40a6b2e9d246e412b16713b91c8a4ea094f6d783e6a676f8bad1e33"
+  },
+  "1.1.3.1-1": {
+    "/usr/share/haskell/register/haskell-smallcheck.sh": "dc780fb2d1153a739d2c6f3f334370dc689d173f6276cf9f7bcbeb43a9c5508b",
+    "/usr/share/haskell/unregister/haskell-smallcheck.sh": "7934e1070e4275e7570eb86c64c4c14bfa81954dd5e6b11abc30e6e67f357432",
+    "/usr/share/licenses/haskell-smallcheck/LICENSE": "ac62a592f3331cf4b37664fd41d149159344fe167ef3ac00c524b9c3530eb276",
+    "/usr/lib/libHSsmallcheck-1.1.3.1-2Miv8N1ey2Y42lN13Kj39w-ghc8.2.2.so": "faedfd5e0e8f1230f774e3407a4d63a6f9a54da7f04f2b2223522352685347d2",
+    "/usr/lib/ghc-8.2.2/site-local/smallcheck-1.1.3.1/Test/SmallCheck.dyn_hi": "d68e5c6ea8cdb80ae3dfa9c0c3b48dcaf12dfc1c0774381f110df152454fdfa5",
+    "/usr/lib/ghc-8.2.2/site-local/smallcheck-1.1.3.1/Test/SmallCheck/Drivers.dyn_hi": "0ac6072ac866b54cbc010c4f92f7f4f3718175c636fa780ac5a975bc4d6a0ba1",
+    "/usr/lib/ghc-8.2.2/site-local/smallcheck-1.1.3.1/Test/SmallCheck/Series.dyn_hi": "341fc6c87e6a2a1db9e6a4cdf4a39591375646c439ad5d4caeb6308bd7c1eddd",
+    "/usr/lib/ghc-8.2.2/site-local/smallcheck-1.1.3.1/Test/SmallCheck/Property.dyn_hi": "4d3c6c0ade38c7ffd013d3648c1c0c427665141fd199f21aee583116781b3d08",
+    "/usr/lib/ghc-8.2.2/site-local/smallcheck-1.1.3.1/Test/SmallCheck/SeriesMonad.dyn_hi": "86d5c83757a9ec7ee76af8a610bc871460b766de7d792fd10e099309bb65b2d8",
+    "/usr/lib/ghc-8.2.2/site-local/smallcheck-1.1.3.1/Test/SmallCheck/Property/Result.dyn_hi": "b0cec17e151a38734fe0fffa2d0d8f9dbc328896c24bb5f73f4bf8871bf6159b",
+    "/var/log/pacman.log": "ff0007b92f732f236be30d42c03d5ea6f4e10ee9530ea32f7567eb214253729e"
+  }
+}

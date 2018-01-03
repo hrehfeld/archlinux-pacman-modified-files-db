@@ -1,1 +1,10 @@
-{"3.33-2": {"/usr/share/ca-certificates/trust-source/mozilla.trust.p11-kit": "1a068e7d0e37bbc9cdc43bb0f6d095f25d756666d3c433ed7222f0e1a4ec429d", "/var/log/pacman.log": "679dfedffdc42e9a9272edfcfd968d54ce4c3cef6db1440c8698bcb41c15645d"}, "3.34.1-1": {"/usr/share/ca-certificates/trust-source/mozilla.trust.p11-kit": "1ae0be878f8e6fcc8ed6ee9e5e5b37a19606cdcc318519325f43dc19fefe95ac", "/var/log/pacman.log": "c9f7eddc06509f36f7d674a8db8f4e357eb4c5c6d5439b1707e7c965468d00fb"}}
+{
+  "3.33-2": {
+    "/usr/share/ca-certificates/trust-source/mozilla.trust.p11-kit": "1a068e7d0e37bbc9cdc43bb0f6d095f25d756666d3c433ed7222f0e1a4ec429d",
+    "/var/log/pacman.log": "679dfedffdc42e9a9272edfcfd968d54ce4c3cef6db1440c8698bcb41c15645d"
+  },
+  "3.34.1-1": {
+    "/usr/share/ca-certificates/trust-source/mozilla.trust.p11-kit": "1ae0be878f8e6fcc8ed6ee9e5e5b37a19606cdcc318519325f43dc19fefe95ac",
+    "/var/log/pacman.log": "c9f7eddc06509f36f7d674a8db8f4e357eb4c5c6d5439b1707e7c965468d00fb"
+  }
+}
