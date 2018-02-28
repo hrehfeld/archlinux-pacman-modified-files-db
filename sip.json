@@ -13,5 +13,10 @@
     "/usr/bin/sip": "380a1f6dc07fbb5a5af885668b207c62c387881d19cf5e1741016ade2dd396a1",
     "/usr/share/licenses/sip/LICENSE": "accecbfda71ad4497bce0d451796706e734e405e5ecf3b3f9ee0cc68300a3d9c",
     "/var/log/pacman.log": "56d3a276d3b53346fa19a932d002b4781e6b914a524f6408046f0f98e9f025ba"
+  },
+  "4.19.7-1": {
+    "/usr/bin/sip": "c9876919bbceeb7554831bdc93e7cd1fa79324f3c2d64d22172238ac80b89284",
+    "/usr/share/licenses/sip/LICENSE": "accecbfda71ad4497bce0d451796706e734e405e5ecf3b3f9ee0cc68300a3d9c",
+    "/var/log/pacman.log": "60811e804c92c8e2542fe978fdef28f402a633aa28429053a651cb87d516dfca"
   }
 }

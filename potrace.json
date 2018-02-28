@@ -10,5 +10,17 @@
     "/usr/share/man/man1/mkbitmap.1.gz": "12b9eb0c41541286ff51a7ec3294ae534fff08930ccc9442bede3604b4e41e0e",
     "/usr/share/doc/potrace/placement.pdf": "b0fbb67446705df1afb5eed44338bb6cf39438c56ca73a55baae5f45999a4082",
     "/var/log/pacman.log": "9c41e9bbb1ad17bbe79d743c05e7fac7feb50d0ac3dcaec8bee1d05d4727fa91"
+  },
+  "1.15-1": {
+    "/usr/lib/libpotrace.so.0": "c644a014bc211336f0d493b322d7e948d72c6d1a4236e16718aa6ee0950bc365",
+    "/usr/lib/libpotrace.so": "c644a014bc211336f0d493b322d7e948d72c6d1a4236e16718aa6ee0950bc365",
+    "/usr/lib/libpotrace.so.0.0.5": "c644a014bc211336f0d493b322d7e948d72c6d1a4236e16718aa6ee0950bc365",
+    "/usr/include/potracelib.h": "858205ddc2c3984394734b3c445882cdb37f305c5480c1af2994966c80fd5fd6",
+    "/usr/bin/mkbitmap": "f0a6602c0f13797a7537e92a0965a7abbc295532090644746157cc52bfb34660",
+    "/usr/bin/potrace": "b97d5cd099b850001dde6744954d9a01c68eaa76853f731d71a2cf213a6e00b0",
+    "/usr/share/doc/potrace/placement.pdf": "b0fbb67446705df1afb5eed44338bb6cf39438c56ca73a55baae5f45999a4082",
+    "/usr/share/man/man1/mkbitmap.1.gz": "77528fea05d08d0e8fdc60dcf6fd6b252e766b16fad189461dac2b182c8f6fa5",
+    "/usr/share/man/man1/potrace.1.gz": "7bda0b4d4dabf5b8b57578a2445aadda63f2c0dc21fbece735832cb4b4d40c20",
+    "/var/log/pacman.log": "48dd3217aaa3aa56d1b121c9a8a13722e2f0b19d6e9ff8a68408f9e7d256ac6b"
   }
 }

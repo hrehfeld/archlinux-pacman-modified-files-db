@@ -1,0 +1,12 @@
+{
+  "2.6.2-6": {
+    "/usr/share/licenses/tinyxml/LICENSE": "a65b8363834ccbe31ab7b49dcba723ed204622df30326793e0121435624c1a8d",
+    "/usr/include/tinystr.h": "718e05d00ae40d2eabd688c64b980fa40419ace7c12d9685c710888caf102dd5",
+    "/usr/include/tinyxml.h": "8f47fcee1d21dd777414065c94a016f9bb4fe1a38bfb7f217cf73c24cb36866f",
+    "/usr/lib/libtinyxml.so": "e6242cf41567f3b9572cfed87d337c8dd5c6ac76f9f34bde7d74c8e9be748d21",
+    "/usr/lib/libtinyxml.so.0": "e6242cf41567f3b9572cfed87d337c8dd5c6ac76f9f34bde7d74c8e9be748d21",
+    "/usr/lib/libtinyxml.so.0.2.6.2": "e6242cf41567f3b9572cfed87d337c8dd5c6ac76f9f34bde7d74c8e9be748d21",
+    "/usr/lib/pkgconfig/tinyxml.pc": "0e37a568eaebb8f0644f148a3d3efa921ac518217e1c0de46c2859d26516bcc4",
+    "/var/log/pacman.log": "292a6cf4bb2091fef2693f4c4891518ac1034da3cc4f7356119c584aa212d3b9"
+  }
+}

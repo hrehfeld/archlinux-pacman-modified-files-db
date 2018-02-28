@@ -22,5 +22,29 @@
     "/usr/share/gtk-doc/html/raqm/raqm-Raqm.html": "f7726ee03f6ab8b2a364529892cb8dcb0318369eff1286c3cbce6b31ab6366c5",
     "/usr/share/licenses/libraqm/LICENSE": "bd20511a077235fa2c2eb45c0bc79da29f1f300bb2506faf26b1c6bd6246fd0c",
     "/var/log/pacman.log": "3891305f97ab15a09feeb40150e907b6eec3eb8cfa2ad8e21e91a0449d3477ce"
+  },
+  "0.4.0-1": {
+    "/usr/lib/libraqm.so.0": "92739a6b5f87af73b0fbba9b4837ad5f08ff66f8d8b765849e22b61d072d07a3",
+    "/usr/lib/libraqm.so": "92739a6b5f87af73b0fbba9b4837ad5f08ff66f8d8b765849e22b61d072d07a3",
+    "/usr/lib/libraqm.so.0.400.0": "92739a6b5f87af73b0fbba9b4837ad5f08ff66f8d8b765849e22b61d072d07a3",
+    "/usr/lib/pkgconfig/raqm.pc": "93e165ff8c1f8bc5a0a4a7982615360953937245bafdf64317eb193ca852851f",
+    "/usr/include/raqm.h": "11c06f49478646b5523f8fd8d14de7b6153638b69652c94e2d581750ae60a97b",
+    "/usr/share/gtk-doc/html/raqm/home.png": "7a8d24b00f5fb6bbb0446249b605efdd36598e8a0f65ac3fab2e18438c73b91e",
+    "/usr/share/gtk-doc/html/raqm/left-insensitive.png": "303355d93cac53410997dc7a3f9bd60f3ce0d8ebae7908978c8731fe9bb139ff",
+    "/usr/share/gtk-doc/html/raqm/left.png": "0eb96fe775524c2d4d4f167d79041b17c5cc8ae9112478665132c31a1417fb4a",
+    "/usr/share/gtk-doc/html/raqm/raqm.devhelp2": "1a8a108222f4728065f3f61e8d1d315538da2f162994ad11baaa0a8f2df05e8b",
+    "/usr/share/gtk-doc/html/raqm/right-insensitive.png": "794050c64c498420599162f2b3b6928232dd0be7991d942b1dc0b1670eb8695e",
+    "/usr/share/gtk-doc/html/raqm/right.png": "0629ad38280184be1b94602f2015707a28170151058f7171aeda501fcf0979d3",
+    "/usr/share/gtk-doc/html/raqm/style.css": "852c77f7f01fe8d2828a4878390416a8e7c7359f8edefaf881b05cd516a88007",
+    "/usr/share/gtk-doc/html/raqm/up-insensitive.png": "0420f2040eebf418098a86a3fb2ef5a9659c87d37b81ee85b69316b045a9453a",
+    "/usr/share/gtk-doc/html/raqm/up.png": "c54b75948f4d26357dd018159078f36f90deeaf29ce3b9d2bd0ea6655ef1bda8",
+    "/usr/share/gtk-doc/html/raqm/annotation-glossary.html": "57461424d02b7666a8092e0de7da6bae7b12f0509cac08c7df1d6a6eedd4f1fa",
+    "/usr/share/gtk-doc/html/raqm/api-index-full.html": "423ea8651fc09bede40d18151752322112296d0c43d98b5282d84846c795fb97",
+    "/usr/share/gtk-doc/html/raqm/ch01.html": "934f8402b3cb778a3743320a6e7f5ac484d7bf45c3691f0ab467cc5d3442eeb4",
+    "/usr/share/gtk-doc/html/raqm/index.html": "4f44573efc7ec1d9e22309531a36b86250538767a95c8a443734d76025e8cd04",
+    "/usr/share/gtk-doc/html/raqm/object-tree.html": "18bc6fb7b1d3a3ee054bc9994168d175a4c302e8d051eca9d99b3717cb0be889",
+    "/usr/share/gtk-doc/html/raqm/raqm-Raqm.html": "51fcd77fefbfb70178daa0a07a08d12b1886bb86f1e48923f8208d1f407d7bb6",
+    "/usr/share/licenses/libraqm/LICENSE": "bd20511a077235fa2c2eb45c0bc79da29f1f300bb2506faf26b1c6bd6246fd0c",
+    "/var/log/pacman.log": "bfc92451db3bf5d2481c6f0fcf4bca9e066b63589fe2458c0d22077b40d7bf35"
   }
 }

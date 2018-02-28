@@ -34,5 +34,14 @@
     "/usr/lib/libHSdoctemplates-0.2.1-DKOrQrg7EjXD5LtbZPFovQ-ghc8.2.2.so": "4612bbe155b6afae8e665d083fd9a8266f0df9ff4e496e23e913916e4978baa6",
     "/usr/lib/ghc-8.2.2/site-local/doctemplates-0.2.1/Text/DocTemplates.dyn_hi": "60eed40cf5b25eb76783440f4049ff74fb68870a335f4dbfac4fcbf00cf6d5ac",
     "/var/log/pacman.log": "e8c7b8acc016af98995d839366ce79bff6ec74f3963c08e9d716a4c9677b3d7c"
+  },
+  "0.2.1-7": {
+    "/usr/share/haskell/register/haskell-doctemplates.sh": "5f45ad5c10066fae788acfaf3e2687b2ce1c6fa4d521454ec208ed7870685572",
+    "/usr/share/haskell/unregister/haskell-doctemplates.sh": "1524ed2d64f775a0146a883c06b27c9890bf2b01c7e7356e942bfc1c796ef607",
+    "/usr/share/haskell-doctemplates/README.md": "ec2c1d4eaa0c616d03b5e972f904ee1ea2e3eb638902d986064330d386354682",
+    "/usr/share/licenses/haskell-doctemplates/LICENSE": "ad04ed761b1cd7d7615438cea11481776af5c82b0a94017847b7accfaec72c7e",
+    "/usr/lib/libHSdoctemplates-0.2.1-3pafIgApOyKFgQfQnYQEpI-ghc8.2.2.so": "de409444abfce0a1a9cf514d8461a62fe4cae58af2dca648466c0cd05cf2dec8",
+    "/usr/lib/ghc-8.2.2/site-local/doctemplates-0.2.1/Text/DocTemplates.dyn_hi": "d63bf9490875032be6cd4898554c282eb0df6b277b7042019abf59e01f1a46c1",
+    "/var/log/pacman.log": "73e01680e313b06a840fff7e960bbd38d2f989175a7e514411b54c7f15c55861"
   }
 }

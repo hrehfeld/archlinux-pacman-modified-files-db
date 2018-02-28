@@ -64,5 +64,24 @@
     "/usr/lib/ghc-8.2.2/site-local/hslua-0.9.3/Foreign/Lua/Types/Lua.dyn_hi": "9bf74fa758dabe5778968af1a80f3bd0a93cdd3b66d7917b08216e9fa1592ba9",
     "/usr/lib/ghc-8.2.2/site-local/hslua-0.9.3/Foreign/Lua/Types/ToLuaStack.dyn_hi": "14d10252a2c5feeadb2e7b0c6b090149056be8ceb71670c4104ce8eab6791061",
     "/var/log/pacman.log": "f24408428c8c79d5982a5788c8de8fde7de9c6afa6e9ad599e920f8322c9ba1a"
+  },
+  "0.9.5-2": {
+    "/usr/share/haskell/register/haskell-hslua.sh": "4f861061ac52a7db2fb90545f0d9789a69ccd83ae2bb234a01df299a224bd112",
+    "/usr/share/haskell/unregister/haskell-hslua.sh": "a2dbf4413119363243de93656eb42532c809c9a4deeb524cfd8e410b510270ad",
+    "/usr/share/licenses/haskell-hslua/COPYRIGHT": "214afef9c8e302789967bee956a52415e2cc684973a8c43173e9455b56096a80",
+    "/usr/lib/libHShslua-0.9.5-KKFXqVfcURY4sVgltAqw7W-ghc8.2.2.so": "23d2cddeec63a86d0c3e8b23e77e9ab70dc1e5be218b81c64960c15e8776a7e7",
+    "/usr/lib/ghc-8.2.2/site-local/hslua-0.9.5/Foreign/Lua.dyn_hi": "81d382166d893b073addace0c8240bcc55ade878c0e8f67c2aefb7ff3e6b2d08",
+    "/usr/lib/ghc-8.2.2/site-local/hslua-0.9.5/Foreign/Lua/Api.dyn_hi": "cd10ccdff0eeb8077c71f59af0062ea02d899a0924a41ac6e1e1950b401a3b93",
+    "/usr/lib/ghc-8.2.2/site-local/hslua-0.9.5/Foreign/Lua/FunctionCalling.dyn_hi": "b81503e17f88c8a7343a2378af756cc4abe0125e86aeee38b0c114b93fa7df11",
+    "/usr/lib/ghc-8.2.2/site-local/hslua-0.9.5/Foreign/Lua/Types.dyn_hi": "59e7e9bfe5caf340cad8661cf4d96c2b91ec2d3cd94460e756c12d41b5dcbb16",
+    "/usr/lib/ghc-8.2.2/site-local/hslua-0.9.5/Foreign/Lua/Util.dyn_hi": "a88c2af5fd90f45f76baeda4e1ce815ed1d1fe671d8cce69208bba690e47c409",
+    "/usr/lib/ghc-8.2.2/site-local/hslua-0.9.5/Foreign/Lua/Api/Constants.dyn_hi": "f50176811e147732f53b31588dad40f19aafd3758d6d4ae3a6d550c966c0d216",
+    "/usr/lib/ghc-8.2.2/site-local/hslua-0.9.5/Foreign/Lua/Api/RawBindings.dyn_hi": "5b79cac498cd668ee5149fe7cc47b6ec41c7595934d69947d0b16b7e67f652aa",
+    "/usr/lib/ghc-8.2.2/site-local/hslua-0.9.5/Foreign/Lua/Api/Types.dyn_hi": "7972de4287f1177e938854624c995279687db07146dcb2c8441ce5bf777b054e",
+    "/usr/lib/ghc-8.2.2/site-local/hslua-0.9.5/Foreign/Lua/Types/Error.dyn_hi": "e566c7fe40872d36f41da9a7c113ae147aee9563a0d271c73ea2be9262b01270",
+    "/usr/lib/ghc-8.2.2/site-local/hslua-0.9.5/Foreign/Lua/Types/FromLuaStack.dyn_hi": "6f13d7ab9bb11771f594d26e8de2c0984a17a3baf86159d0084b9cfafd5f6fc4",
+    "/usr/lib/ghc-8.2.2/site-local/hslua-0.9.5/Foreign/Lua/Types/Lua.dyn_hi": "d22aa1062e3c9d06953c32d8d476290f2260f5fbc5cccdc19bda48f7d9849e58",
+    "/usr/lib/ghc-8.2.2/site-local/hslua-0.9.5/Foreign/Lua/Types/ToLuaStack.dyn_hi": "ea1056b45274dc38da90cdcf9bc5d918b10b046b8e358abad0ad049134b34379",
+    "/var/log/pacman.log": "5d610ac9adf6a0942573f60e2f5532705cf4d1427f188e157624fbf1bb74faa5"
   }
 }

@@ -21,5 +21,28 @@
     "/usr/lib/libinproctrace.so": "74577bc2a21c801df7ded61d38f97f88083f8848ee29f145e5143a651623919f",
     "/var/log/pacman.log": "888f539bbffda933e9a4a1728de014f6e79a903d962ecb525d07d82a920bf395",
     "/etc/gdb/gdbinit": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "8.1-1": {
+    "/usr/bin/gdbserver": "860bc057ce969a1b058970332c931a55a0e24a03b464114977d4938be1df0cc9",
+    "/usr/bin/gcore": "4d9c986dc5cd1ed54a257f8043abf09b11536c5d8f09d0b21ee94859267c7526",
+    "/usr/bin/gdb": "d4deb964f24c37eee64cb9cbad7ab6cc6e71a9ea81b4df7c63eafc5d8b4cca85",
+    "/usr/lib/libinproctrace.so": "d8b6256ef6dff45487d989394a1255eaf8288d17a6c54ffe08a3730c9864f61b",
+    "/usr/share/info/gdb.info-4.gz": "97e9ca2a395f8798d3a43d4eb59e7d75a633552a47a3ac529d43cef84514f209",
+    "/usr/share/info/gdb.info-5.gz": "8bf91f897b83e290053c21b3a67566c104b7dde7f0fd3a6ad31caff491aac6cf",
+    "/usr/share/info/stabs.info.gz": "b33890a0ccaec0df970e6acea5d5fc1f4fd171329c99d8a6806600abc8eb9ac4",
+    "/usr/share/info/gdb.info-6.gz": "77b9c64192e8657c958fd12adff794ab0412b7c78955cad10672329b4fc78471",
+    "/usr/share/info/gdb.info-3.gz": "ca37edbaadf92f262602933ecf3d2b3c8a29ba5ee3607900073504e528e3444f",
+    "/usr/share/info/annotate.info.gz": "03cc065f069c1e6f1c419d98129fe75e5142e45f143c62740f3010eab7cfdda3",
+    "/usr/share/info/gdb.info-1.gz": "dc3b873ac0bd9b93db40b82a07a7ba1c18f0a50d80c16cd44e6b1f4ca55c66cb",
+    "/usr/share/info/gdb.info-2.gz": "094bafbc2dbadafbf56a5cb246c775753bfbeea790635f644869110d19030930",
+    "/usr/share/info/gdb.info.gz": "d59e82785de3bad176c186a36bde6a8c80315287210c3b7c2a59d4111d18b2cb",
+    "/usr/share/info/gdb.info-7.gz": "b53b2ca521a6ef06247fecf5ef995410d113eeb5ea10fa4d15a624fd93f3da9a",
+    "/usr/share/man/man5/gdbinit.5.gz": "c477096db266ac14ef0f429060b2519eb53e2068791bb5f88e69785dc9699392",
+    "/usr/share/man/man1/gcore.1.gz": "8b5bfe5559baff62206ada0d08085658e100c6108342a7529c042b14386618eb",
+    "/usr/share/man/man1/gdb.1.gz": "8ec24ba9f37d9bfbfe476be9dad5a6f9e22a4ecbd2092ea787210c51cf278af8",
+    "/usr/share/man/man1/gdbserver.1.gz": "7811bae9080d5ce034ec7e720f1f88e97b04609fa5f5c20ea3305b288e6c66d9",
+    "/usr/include/gdb/jit-reader.h": "4c3725b4be78c8f783c0cdf520ab37869cd6556bcfe99dc1a937fa006164b5dd",
+    "/var/log/pacman.log": "a621a5a98926cad52840efe7c9d4e2f32998e92a978a52c0280a306efa6873a0",
+    "/etc/gdb/gdbinit": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   }
 }

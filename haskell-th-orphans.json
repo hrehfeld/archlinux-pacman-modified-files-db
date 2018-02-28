@@ -22,5 +22,13 @@
     "/usr/lib/libHSth-orphans-0.13.4-LwqqRiMLrtE3AAHk7YUFBx-ghc8.2.2.so": "67ee4c6b97c412fcfa8a8d2f8dcebc900bde3dc7c4397307a03279b4404624db",
     "/usr/lib/ghc-8.2.2/site-local/th-orphans-0.13.4/Language/Haskell/TH/Instances.dyn_hi": "9d615cc936d4d8b459bad5d95c806f8d633551fad56e7accdd0c6c124911b224",
     "/var/log/pacman.log": "0f9f59cd7f7ad33197936687bc89d3bbf2176ffdf2317e4643080b4bf0f1048b"
+  },
+  "0.13.5-3": {
+    "/usr/share/haskell/register/haskell-th-orphans.sh": "38f86faaf5beff419aec20cda173a9d6217584d378751d1abdc6076c273f3da6",
+    "/usr/share/haskell/unregister/haskell-th-orphans.sh": "c80715507edc2d41dc949921fbb9e2bc8485b04dc69ff3c6deba21bba147f9ca",
+    "/usr/share/licenses/haskell-th-orphans/LICENSE": "59e4d19ff79d37d5c229bec1df472b12ea3087c32923a1870a104056f5ca6203",
+    "/usr/lib/libHSth-orphans-0.13.5-KbmBG7mw3GtGKLRO2h0mQq-ghc8.2.2.so": "46f69b9aa5474c59ebfd3a9517abdfcb46f51c9d8b5d113c6a85897c34976c80",
+    "/usr/lib/ghc-8.2.2/site-local/th-orphans-0.13.5/Language/Haskell/TH/Instances.dyn_hi": "b92b210f9f29315234285677a571243c0012017d0c5d6201ab82156b5f2426f3",
+    "/var/log/pacman.log": "f2ea46ccc7bc1a97c795deac06cfe1e258b0697b2d96806226a8cacf20a46605"
   }
 }

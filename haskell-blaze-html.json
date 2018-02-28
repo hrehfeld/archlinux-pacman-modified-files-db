@@ -82,5 +82,33 @@
     "/usr/lib/ghc-8.2.2/site-local/blaze-html-0.9.0.1/Text/Blaze/XHtml1/Transitional/Attributes.dyn_hi": "6e10f682d8e38681c7e3be19561501a7f36767194f5c1b092c26e9446906a0d1",
     "/usr/lib/ghc-8.2.2/site-local/blaze-html-0.9.0.1/Text/Blaze/XHtml5/Attributes.dyn_hi": "1fdfe67a47c83881b5ed73add9ee34f8529c4fce1bc43c829dec5b45e447fc14",
     "/var/log/pacman.log": "6e9ce3a33716004ad4420d3a2a574fc4f57937a704ab11e32ffd717410358e94"
+  },
+  "0.9.0.1-6": {
+    "/usr/share/haskell/register/haskell-blaze-html.sh": "4ab6cbbb6386e2061cbef895c242e806fe3bc86f56b4fe87c8415290c1dafcfd",
+    "/usr/share/haskell/unregister/haskell-blaze-html.sh": "9f489f4499405240bc34dc62c20489e5f3fe828d8ea1a036e795199d1ad673d2",
+    "/usr/share/licenses/haskell-blaze-html/LICENSE": "638a822a64744369c64170ac05d229ebe19a60617ef3816d1ab47513746a354c",
+    "/usr/lib/libHSblaze-html-0.9.0.1-2Wxj0X1c4OOA0Fs6NGHGGN-ghc8.2.2.so": "4f4008d4f76ed0ed0b278148cf4dc7b3072bf48a3ba16ab6920b39634f3f6cb2",
+    "/usr/lib/ghc-8.2.2/site-local/blaze-html-0.9.0.1/Text/Blaze/Html.dyn_hi": "5ac1067f6bad7f4091570bb96ad65293bb476913f6664bf63090994865c67180",
+    "/usr/lib/ghc-8.2.2/site-local/blaze-html-0.9.0.1/Text/Blaze/Html5.dyn_hi": "359a4a90773ed91b7139b8a19dc8895b038f1bcb10769e8f26353374aee611f2",
+    "/usr/lib/ghc-8.2.2/site-local/blaze-html-0.9.0.1/Text/Blaze/XHtml5.dyn_hi": "188c4941149439c34e127457b22b49a7e3685566baf593a340bbba10bd569408",
+    "/usr/lib/ghc-8.2.2/site-local/blaze-html-0.9.0.1/Text/Blaze/Html/Renderer/Pretty.dyn_hi": "ed1641b9c579477b9b344521621133b8216e612a77a53e83074ac7395ca3f8cd",
+    "/usr/lib/ghc-8.2.2/site-local/blaze-html-0.9.0.1/Text/Blaze/Html/Renderer/String.dyn_hi": "b0ed27cdd237fc8ee4324a555457aeb3067c6cf7a4b9fdff7a324c6c39e6e706",
+    "/usr/lib/ghc-8.2.2/site-local/blaze-html-0.9.0.1/Text/Blaze/Html/Renderer/Text.dyn_hi": "dcc0160fe053a0472187fc7602d251b379fef4f7f99048f3e034713af13f7cb9",
+    "/usr/lib/ghc-8.2.2/site-local/blaze-html-0.9.0.1/Text/Blaze/Html/Renderer/Utf8.dyn_hi": "e70700d5f3b6167c7f855bbae6ad632757ace99c2f311f28d1f618457e5dc352",
+    "/usr/lib/ghc-8.2.2/site-local/blaze-html-0.9.0.1/Text/Blaze/Html4/FrameSet.dyn_hi": "a13fce4aaef1b8ba2a5d59975b98da93b75c0634defd261e0fe4592b9fcbd159",
+    "/usr/lib/ghc-8.2.2/site-local/blaze-html-0.9.0.1/Text/Blaze/Html4/Strict.dyn_hi": "26d3adc1b5a45ada1d1d7bb205776472056803e5a796721f47cb63307a6b2002",
+    "/usr/lib/ghc-8.2.2/site-local/blaze-html-0.9.0.1/Text/Blaze/Html4/Transitional.dyn_hi": "c8880b1336b6c2b5e9869f20d7cf8d9d6bb9487d6c244b23fcc4aaf1bbd012f2",
+    "/usr/lib/ghc-8.2.2/site-local/blaze-html-0.9.0.1/Text/Blaze/Html4/FrameSet/Attributes.dyn_hi": "278743a098a44f5ddebe824cfdaa58833c21ef7e26121b895b0cc35561c82d54",
+    "/usr/lib/ghc-8.2.2/site-local/blaze-html-0.9.0.1/Text/Blaze/Html4/Strict/Attributes.dyn_hi": "d0e2ea67660819a398a6b49f2a8781cfe19280aa83772cb2b6227c00e61749b4",
+    "/usr/lib/ghc-8.2.2/site-local/blaze-html-0.9.0.1/Text/Blaze/Html4/Transitional/Attributes.dyn_hi": "172b42d043e93d58dfed92f052a759948b4c096a38104ca63908cf056570c2cd",
+    "/usr/lib/ghc-8.2.2/site-local/blaze-html-0.9.0.1/Text/Blaze/Html5/Attributes.dyn_hi": "68a7bf0f4332500ec76fc1b328a6e288eba6d6dd7f429539bbc23c995fa1099b",
+    "/usr/lib/ghc-8.2.2/site-local/blaze-html-0.9.0.1/Text/Blaze/XHtml1/FrameSet.dyn_hi": "adbec0b49e000d75ad44c00448c18746291a5ae7acf67d7ff5df7fd7f14c3572",
+    "/usr/lib/ghc-8.2.2/site-local/blaze-html-0.9.0.1/Text/Blaze/XHtml1/Strict.dyn_hi": "158de89caf20af18df6c55707055e717ddbe0d5e5158218992898a0b99df00fd",
+    "/usr/lib/ghc-8.2.2/site-local/blaze-html-0.9.0.1/Text/Blaze/XHtml1/Transitional.dyn_hi": "d9a4a55bb601d358392d8c8c6a75b54bae71fecfe6375218e1b341477e453659",
+    "/usr/lib/ghc-8.2.2/site-local/blaze-html-0.9.0.1/Text/Blaze/XHtml1/FrameSet/Attributes.dyn_hi": "ddcef904de74e2e5a536b74c13d00b5aab8d10531a2059eda6ec3a006e3348fa",
+    "/usr/lib/ghc-8.2.2/site-local/blaze-html-0.9.0.1/Text/Blaze/XHtml1/Strict/Attributes.dyn_hi": "29872e9951730f3dbc8b465907097f5bcdab3c88ce0635adf64e8a4cf9086e17",
+    "/usr/lib/ghc-8.2.2/site-local/blaze-html-0.9.0.1/Text/Blaze/XHtml1/Transitional/Attributes.dyn_hi": "5231abf053c79d22d16e6f7a8208f2994a600c9e1bdb67c36ef11425a7f2d199",
+    "/usr/lib/ghc-8.2.2/site-local/blaze-html-0.9.0.1/Text/Blaze/XHtml5/Attributes.dyn_hi": "806d096a8c90f6b077d15c141502294df3d6f0cb6bc1b2c765c53ac7e86dc9e5",
+    "/var/log/pacman.log": "2766be0b7c7a25f356dc2201bdb229c9e55f5bfb79a85308d3e3c40540b380c1"
   }
 }

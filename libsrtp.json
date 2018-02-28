@@ -43,5 +43,17 @@
     "/usr/lib/pkgconfig/libsrtp.pc": "d34011c0f147fe2002f0b27db359e46add34737185a3ba5306c5b0a6aec811a4",
     "/usr/share/licenses/libsrtp/LICENSE": "8defed37d52096ae14b60adc499c33d43975109bc265552ee67e9a888c634b93",
     "/var/log/pacman.log": "dead80affa8daa4abfdfa4e44b61d9c52cb8c4dedbb1fd35421109d516b59e76"
+  },
+  "1:2.1.0-1": {
+    "/usr/include/srtp2/srtp.h": "f749ccf7b7a1ceea6f792b882a4fd278ed473055adf6f6786bb4e018a8b10e59",
+    "/usr/include/srtp2/cipher.h": "d11aa4644c4557b46638c5e710d6bc29799f0cd8983a9bab2868a139c7a1ad96",
+    "/usr/include/srtp2/auth.h": "3c5c2d9fd5ef97d286f6a4661162ff154744ca0fbbf477be166d1fff36532dc9",
+    "/usr/include/srtp2/crypto_types.h": "79f57660cda7e1d0b3a684a08a55ca962f207b575089b7ba4e72bb48fe528fe8",
+    "/usr/lib/libsrtp2.so": "a708200e8a9b2e4b2f368c917b59b3d2704839d19747fc141a17f6a4e89f9798",
+    "/usr/lib/libsrtp2.so.1": "a708200e8a9b2e4b2f368c917b59b3d2704839d19747fc141a17f6a4e89f9798",
+    "/usr/lib/libsrtp2.a": "1085518cf1c53cfc83a00a6cc104d77e48bb4bd4e185b3af8617d0c7f49f7a3a",
+    "/usr/lib/pkgconfig/libsrtp2.pc": "fe5082496258ef76110ab16f60e6f362af3b25bc94afefdda49331ed3dc46f68",
+    "/usr/share/licenses/libsrtp/LICENSE": "8e19d42a1eec9561f3f347253ddf2e385c55f392f025bb0fd41b88dbf38db5ae",
+    "/var/log/pacman.log": "21a5e76f817fa56df80d46e64476e5b524c1c9bbfa8e040cb746fa8f76af804a"
   }
 }

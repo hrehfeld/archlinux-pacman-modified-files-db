@@ -55,5 +55,24 @@
     "/usr/lib/ghc-8.2.2/site-local/asn1-encoding-0.9.5/Data/ASN1/BinaryEncoding/Parse.dyn_hi": "0d808d2c9f3219ce81f4fbe48bf773ddbb42429a06b56523287653625401ca7a",
     "/usr/lib/ghc-8.2.2/site-local/asn1-encoding-0.9.5/Data/ASN1/BinaryEncoding/Writer.dyn_hi": "9b231c833bf033a62a1051ab6ae89c497753740510ca03dd32dc8ec8a7cd93af",
     "/var/log/pacman.log": "1e56435b3f22e01444bd40bf8fd808639e0a18dffbee7e99fe9defc998e81e4a"
+  },
+  "0.9.5-29": {
+    "/usr/share/haskell/register/haskell-asn1-encoding.sh": "06f19f9713b63c13e9ebeebd1cf6ca17e8543a3f7769fb4dcfb0ab53611eaead",
+    "/usr/share/haskell/unregister/haskell-asn1-encoding.sh": "ce8c808f253f5eccbb5a6f33be73fa4bfe535147fd85d00ed0ab8d8980fd5290",
+    "/usr/share/licenses/haskell-asn1-encoding/LICENSE": "43d820ad7c467c6c9cd6eedb385cfe89d1545a48eca4d40bfe3b7bcd80c298cb",
+    "/usr/lib/libHSasn1-encoding-0.9.5-A5G1GHuEVVgH8Bnh2Wt4mc-ghc8.2.2.so": "cfd24a453659d6664d0ec6e4f802eba7aa1583fbf0096b506d7ab8d4ca700476",
+    "/usr/lib/ghc-8.2.2/site-local/asn1-encoding-0.9.5/Data/ASN1/Error.dyn_hi": "d3941a1a246c446700b3d47503a8be3bce194d45e7b323fbcd2dc4a27321bab5",
+    "/usr/lib/ghc-8.2.2/site-local/asn1-encoding-0.9.5/Data/ASN1/BinaryEncoding.dyn_hi": "329a5740fe55810bd9481bbc59328974931d3329a9db9a9f9c27490d40322ac5",
+    "/usr/lib/ghc-8.2.2/site-local/asn1-encoding-0.9.5/Data/ASN1/Encoding.dyn_hi": "1c56d842f5b2aae7b409fb42207a38d269d6f4760956d6588b1a9863aa99b747",
+    "/usr/lib/ghc-8.2.2/site-local/asn1-encoding-0.9.5/Data/ASN1/Stream.dyn_hi": "d2e8bef443f9403fcf1cf52b71071929f9b1c62df249e179671dc99b145f52a8",
+    "/usr/lib/ghc-8.2.2/site-local/asn1-encoding-0.9.5/Data/ASN1/Object.dyn_hi": "76ed536d3c97b1e1124d7ec1b5162c9738dfdd4817f93f291779db9a5d95bc08",
+    "/usr/lib/ghc-8.2.2/site-local/asn1-encoding-0.9.5/Data/ASN1/Prim.dyn_hi": "7e747a2267bb2f3458a218c95fda7053c15e3a5ff82e5169ba6abcedf9efd9ca",
+    "/usr/lib/ghc-8.2.2/site-local/asn1-encoding-0.9.5/Data/ASN1/Internal.dyn_hi": "b00ae928bef73e264c197d6e31c3f712a95af428181c024b5fc504ffa1b7f8a6",
+    "/usr/lib/ghc-8.2.2/site-local/asn1-encoding-0.9.5/Data/ASN1/Serialize.dyn_hi": "bc91b4701d1b46ed870e0a872b7cff5eb6ec0ae9bb1442e48b977157d44f2d42",
+    "/usr/lib/ghc-8.2.2/site-local/asn1-encoding-0.9.5/Data/ASN1/Get.dyn_hi": "bad9b872be9d9814bc456e436ce41f359dc76565ab1e7f2f18f3a7a1856ce0b5",
+    "/usr/lib/ghc-8.2.2/site-local/asn1-encoding-0.9.5/Data/ASN1/BinaryEncoding/Raw.dyn_hi": "a16d8fb3e8ec54de100522c7397f50cf94f52860ee03ff108d2c8140fed2115f",
+    "/usr/lib/ghc-8.2.2/site-local/asn1-encoding-0.9.5/Data/ASN1/BinaryEncoding/Parse.dyn_hi": "18747de26ce36c03e7ae5a5b2649dbaebc18896e7d28ccbbff2d9d1894eef7df",
+    "/usr/lib/ghc-8.2.2/site-local/asn1-encoding-0.9.5/Data/ASN1/BinaryEncoding/Writer.dyn_hi": "de211b8d294b63592ef5e07d4b87240df97440826eb918f34b9633d5c99a5f8e",
+    "/var/log/pacman.log": "9e15f1c2fe80ab8eccc162ebd8f598e6f8250a624392adac9a7fdddd91cff545"
   }
 }

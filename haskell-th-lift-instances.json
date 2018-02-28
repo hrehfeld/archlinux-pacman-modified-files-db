@@ -22,5 +22,13 @@
     "/usr/lib/libHSth-lift-instances-0.1.11-GbnQOH2K7Mx6pX0wfMQd1l-ghc8.2.2.so": "c533721c0917b0b814c60a2863bf1efaed42bd8b919830d466b1fd879f536656",
     "/usr/lib/ghc-8.2.2/site-local/th-lift-instances-0.1.11/Instances/TH/Lift.dyn_hi": "bccf9f51ec000cc05a7d501b439e88f0a4f415843c34e6b5957c35079b32429f",
     "/var/log/pacman.log": "16ab19f1107f3b09cd399c4a099fa2888eb4d6498a986a09a20ad23c12b4684b"
+  },
+  "0.1.11-11": {
+    "/usr/share/haskell/register/haskell-th-lift-instances.sh": "0cd8ab3c75d63ea3e3d2faacc9781032f4a1f3d084957caa025745754ee9d683",
+    "/usr/share/haskell/unregister/haskell-th-lift-instances.sh": "dd6fbcf2338cdcd6737bddc0fb3d0e705c715a990066a1829a299ab01fada985",
+    "/usr/share/licenses/haskell-th-lift-instances/LICENSE": "279e8b294b88efe17e57fc8cb2b669836d32823c2b32d89b7f07f37c5b94b280",
+    "/usr/lib/libHSth-lift-instances-0.1.11-3bQxmESUBwW8ybCIwcRIFZ-ghc8.2.2.so": "bcf5790f5ea5c6be4703feda6e957f88fd2b412f863e68785e3c5524f46e37e6",
+    "/usr/lib/ghc-8.2.2/site-local/th-lift-instances-0.1.11/Instances/TH/Lift.dyn_hi": "a6cbc7f8784e9216bcb9ed1986f69f0bfc144bb44eb83b3b3a47485c8e5401b0",
+    "/var/log/pacman.log": "3c634e2a6539af5fdb7cc0974be234d4f1ee1e5db5fcff3a36b43d5c14cce781"
   }
 }

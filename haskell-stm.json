@@ -32,5 +32,22 @@
     "/usr/lib/ghc-8.2.2/site-local/stm-2.4.4.1/Control/Monad/STM.dyn_hi": "015b61e7c0d9726b87606cc0dca015d4e2110bb43a531439d4f1b5c7cdda1538",
     "/usr/lib/ghc-8.2.2/site-local/stm-2.4.4.1/Control/Sequential/STM.dyn_hi": "40ce7c7fd08125c1cd23764e76b97896e2c8eead9d6c546abf6bdf8b7e53f466",
     "/var/log/pacman.log": "2de7603d5d5c0490913fc9b2fe3ef79b8100c26f0e069c34833dabccdd28eedd"
+  },
+  "2.4.5.0-1": {
+    "/usr/share/haskell/register/haskell-stm.sh": "2f589d40dff7fc3a8a54c680b84ddb38e5ac7e2d01c349c28adc1e2a76de9903",
+    "/usr/share/haskell/unregister/haskell-stm.sh": "bd5807980768628b7e211ae5839d27333f59bdc1fe16473767f6b81674534ddd",
+    "/usr/share/licenses/haskell-stm/LICENSE": "3c1256f4dcca630614312dca24be15db94a7cfdaf4584b4a90d6f4dbf3db2c23",
+    "/usr/lib/libHSstm-2.4.5.0-7j9Z9j03i0pHiTKIV2qS3x-ghc8.2.2.so": "525df2ead9881667d0904e361bd90391c7ea688e1161b02e9092702c8adf5c1a",
+    "/usr/lib/ghc-8.2.2/site-local/stm-2.4.5.0/Control/Concurrent/STM.dyn_hi": "73e1914f136f48e213006fff9136bf6019b8d9dc00264ed99590beb19b0253a8",
+    "/usr/lib/ghc-8.2.2/site-local/stm-2.4.5.0/Control/Concurrent/STM/TArray.dyn_hi": "05f81e61f6bd419b2ed675a0a44ab04207ffe0a5b001562c78375e18a9d90da0",
+    "/usr/lib/ghc-8.2.2/site-local/stm-2.4.5.0/Control/Concurrent/STM/TVar.dyn_hi": "26a357c2144f7dfe5b68c77042f0fa93050c6520a49f753683cae277ad8ee50d",
+    "/usr/lib/ghc-8.2.2/site-local/stm-2.4.5.0/Control/Concurrent/STM/TChan.dyn_hi": "fe6df9bf3be5e941e61f14f651f489411eb161dc11cab2f0fd4c19ba9f0e2718",
+    "/usr/lib/ghc-8.2.2/site-local/stm-2.4.5.0/Control/Concurrent/STM/TMVar.dyn_hi": "04d0602503eb2e2b748d03c2ff1afc1c729c204cac69b16839e356eb84326a7f",
+    "/usr/lib/ghc-8.2.2/site-local/stm-2.4.5.0/Control/Concurrent/STM/TQueue.dyn_hi": "aaa2d2793dbdd239066f4ebe32b36c892e41b90c736b064d6a61dbfe5f0a3692",
+    "/usr/lib/ghc-8.2.2/site-local/stm-2.4.5.0/Control/Concurrent/STM/TBQueue.dyn_hi": "6ccd7c915d5bc44408c26423b08f73240747d8ba729d6821ba8eafb589c0f660",
+    "/usr/lib/ghc-8.2.2/site-local/stm-2.4.5.0/Control/Concurrent/STM/TSem.dyn_hi": "f70510225229e717f02c735fa01c29fe190d0b28b33c0a3213e19a3b66d4964c",
+    "/usr/lib/ghc-8.2.2/site-local/stm-2.4.5.0/Control/Monad/STM.dyn_hi": "1a76b67314a0ec83543ab9c92e9d2de4e7d085fed30aa5ee6dd86ca13d187a24",
+    "/usr/lib/ghc-8.2.2/site-local/stm-2.4.5.0/Control/Sequential/STM.dyn_hi": "4804c6bf677789f77e37fd16703d4058d40f8f1e7bfdc2bfc94df639937af4f5",
+    "/var/log/pacman.log": "0615bce0f98336be7e1028afb39040f5615efae1d3159b90b4e0dede2daed751"
   }
 }

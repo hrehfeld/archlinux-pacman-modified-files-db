@@ -22,5 +22,13 @@
     "/usr/lib/libHSaeson-compat-0.3.7.1-DBedSJNAvcaHY7mCD7ipvN-ghc8.2.2.so": "54ad18649f40db3e0054c8531425b63165ac8b552cc001b6628b779b38dfaf9e",
     "/usr/lib/ghc-8.2.2/site-local/aeson-compat-0.3.7.1/Data/Aeson/Compat.dyn_hi": "3b772535d54c822e42f6614e7f811338a0f3d9743b70e8e27e2f6f0a6f47c1d5",
     "/var/log/pacman.log": "fd7803fdfb4a2a24840003be8f10a6fcbf5c662f864a570c03cfe263209aa739"
+  },
+  "0.3.7.1-13": {
+    "/usr/share/haskell/register/haskell-aeson-compat.sh": "8f11a5d5408b62dde5944812e3fcd0ac98ef85d7bd4454cffa59828f899f91c4",
+    "/usr/share/haskell/unregister/haskell-aeson-compat.sh": "7f2bad655c4e416d6808a66ad7bc072154916f7af7a002a9a593f5cb1ab982ee",
+    "/usr/share/licenses/haskell-aeson-compat/LICENSE": "eef5ffdb683ddc4f93095f3a222f2d29b109c0e3dcb4dc46e1ed3b984e61391a",
+    "/usr/lib/libHSaeson-compat-0.3.7.1-IqvlqWaYSen98pW8vEEXDT-ghc8.2.2.so": "af15889c39dfa794ea577bcf87b698baf9b189d2e317d398e1667191c633b041",
+    "/usr/lib/ghc-8.2.2/site-local/aeson-compat-0.3.7.1/Data/Aeson/Compat.dyn_hi": "5ef09508f7a37cd466e0cd1eeeeffe4c7f4565e23bc7018800ae40088761bda6",
+    "/var/log/pacman.log": "9f5711291812dc5b1541022bb9aa64e4046b0eeb594e06f7a5b08fd814f06904"
   }
 }

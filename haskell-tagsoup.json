@@ -58,5 +58,25 @@
     "/usr/lib/ghc-8.2.2/site-local/tagsoup-0.14.2/Text/HTML/TagSoup/Specification.dyn_hi": "e302c256fd52131fae9b4a26c8229d7e727f0683c47260de890699b3ef9f3cec",
     "/usr/lib/ghc-8.2.2/site-local/tagsoup-0.14.2/Text/HTML/TagSoup/Type.dyn_hi": "642da54dbc5a3423fd4790a50f9d37af42b7bd0a4c90aa9c3bcfdd5c87b97a53",
     "/var/log/pacman.log": "f5004acbdff4a6b531817264d033bc81f0d24a751cbf63004584df822331cfcc"
+  },
+  "0.14.3-1": {
+    "/usr/share/haskell/register/haskell-tagsoup.sh": "b12fbaea1a47145678a843867c944e6bb9e132bf7b060b2085285d4efc09e094",
+    "/usr/share/haskell/unregister/haskell-tagsoup.sh": "20514e36c9a8a5b385c2960ae2da77a6a1bd94148d8800337b6dd15b7c6eecd9",
+    "/usr/share/licenses/haskell-tagsoup/LICENSE": "5514195cefe138905e8624eff9e9317d98cbcbdc7a64ece9203cdca288ade554",
+    "/usr/lib/libHStagsoup-0.14.3-19uVu5Flcy8Esb4Yvzzgji-ghc8.2.2.so": "02c5afbc4df789dd43a1a998eb6ada54bb318d7a8944f0cbbcdeb61c01ba99cc",
+    "/usr/lib/ghc-8.2.2/site-local/tagsoup-0.14.3/Text/StringLike.dyn_hi": "f2ac3fc2c39d1d52adbf9a32513d444c00abe105418ad36f5bfa7afbf1fedbff",
+    "/usr/lib/ghc-8.2.2/site-local/tagsoup-0.14.3/Text/HTML/TagSoup.dyn_hi": "c67aee065d04fcf50a15943f4ba8b5a806239211d0064689c811e2428a50715b",
+    "/usr/lib/ghc-8.2.2/site-local/tagsoup-0.14.3/Text/HTML/TagSoup/Entity.dyn_hi": "e2a1d14aeb2b59ab1d6e42898b43d383943106ec2e92d9a7214cfb8af3f89e2c",
+    "/usr/lib/ghc-8.2.2/site-local/tagsoup-0.14.3/Text/HTML/TagSoup/Match.dyn_hi": "91c20a020a673a3b19667d566ef99ec405bc195488976ce337efff66d79fc577",
+    "/usr/lib/ghc-8.2.2/site-local/tagsoup-0.14.3/Text/HTML/TagSoup/Tree.dyn_hi": "0ef66fcd8ecf43dbe9a5e729975dbc031771529bbf0401b37a3f3cd695dd056f",
+    "/usr/lib/ghc-8.2.2/site-local/tagsoup-0.14.3/Text/HTML/TagSoup/Generated.dyn_hi": "11ffb0dfaae6695128c4694fd7fb33176fb8b8b424604828cb974f95349060b6",
+    "/usr/lib/ghc-8.2.2/site-local/tagsoup-0.14.3/Text/HTML/TagSoup/Implementation.dyn_hi": "ae9c3483aab7f16eac26a9406d94f574b97ca7836f4964d55b19ba61975085e2",
+    "/usr/lib/ghc-8.2.2/site-local/tagsoup-0.14.3/Text/HTML/TagSoup/Manual.dyn_hi": "22f1f4ee8336049ab8592b2c678bbd42f20343b41b6e9e290267a79a2d1a86de",
+    "/usr/lib/ghc-8.2.2/site-local/tagsoup-0.14.3/Text/HTML/TagSoup/Options.dyn_hi": "abf264f538fc48d336d2c4421401f55d9cf9c9ca9310c607798aa5a03f0e27f4",
+    "/usr/lib/ghc-8.2.2/site-local/tagsoup-0.14.3/Text/HTML/TagSoup/Parser.dyn_hi": "cfb854cd8eaae6f56e174e2fa1413d4a6c89b4b25980acfe4b53a093a13de58d",
+    "/usr/lib/ghc-8.2.2/site-local/tagsoup-0.14.3/Text/HTML/TagSoup/Render.dyn_hi": "be9259f553122b7ae7418f5fe868d512afeff619a3dfa3334e19650006c9d7b8",
+    "/usr/lib/ghc-8.2.2/site-local/tagsoup-0.14.3/Text/HTML/TagSoup/Specification.dyn_hi": "d3909fbc35ef2541e3a5dff3db911b6e612219fc3e6c038fc65328b0143d228a",
+    "/usr/lib/ghc-8.2.2/site-local/tagsoup-0.14.3/Text/HTML/TagSoup/Type.dyn_hi": "cd7b9179c38622eaf5205a807df8a2924e6533248fa838e3756e21b71c7f2d7c",
+    "/var/log/pacman.log": "d1732522cfc32e98431ae8e26c1c30a7a0bf0192338ecadc0af481e023ba29c9"
   }
 }

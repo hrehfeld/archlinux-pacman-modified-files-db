@@ -28,5 +28,15 @@
     "/usr/lib/ghc-8.2.2/site-local/x509-system-1.6.6/System/X509/Unix.dyn_hi": "4bb920341e37fee1763aa03367781203561a862b5b30b7f255caf59d23bfafd6",
     "/usr/lib/ghc-8.2.2/site-local/x509-system-1.6.6/System/X509/MacOS.dyn_hi": "2d60f4579b527c45b16c26ccf874691139f89839215357428a11a27e99ace800",
     "/var/log/pacman.log": "ac01e9c4233de9377f1679b90eba423043628cdb2b077f25f3c5ba860bc17a6b"
+  },
+  "1.6.6-17": {
+    "/usr/share/haskell/register/haskell-x509-system.sh": "1eabc6b363be025dcdf1244ab306f1be7654d762583ec73f702707714b1d46d4",
+    "/usr/share/haskell/unregister/haskell-x509-system.sh": "0ac9d9357186bb63051bfe2c03f132f3c254b59890169f495cabae1272fe5144",
+    "/usr/share/licenses/haskell-x509-system/LICENSE": "43d820ad7c467c6c9cd6eedb385cfe89d1545a48eca4d40bfe3b7bcd80c298cb",
+    "/usr/lib/libHSx509-system-1.6.6-1RJ3jtP4g1HJKXNRi4CAGr-ghc8.2.2.so": "464825b41f590f2ee8dc2201e53cce2724dab8463c2cd9616827a71809c7bbd1",
+    "/usr/lib/ghc-8.2.2/site-local/x509-system-1.6.6/System/X509.dyn_hi": "6ee0fae947509a60bec889158bb376e425c4b3c9fd57609170152f7431eebc59",
+    "/usr/lib/ghc-8.2.2/site-local/x509-system-1.6.6/System/X509/Unix.dyn_hi": "2cea04cf0c58cf1d5504b664fc2918a5c8e22f091ceb5a21dfb1b7eb3888f634",
+    "/usr/lib/ghc-8.2.2/site-local/x509-system-1.6.6/System/X509/MacOS.dyn_hi": "fb34b6cb77dd42e21c8fb80c168082627bf56c79395c9ed6c54ea2274627a729",
+    "/var/log/pacman.log": "14942d14418d4cd73583040a7719d78fb60ad55f75576a301b569284d5e975a7"
   }
 }

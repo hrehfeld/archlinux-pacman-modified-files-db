@@ -32,5 +32,22 @@
     "/usr/lib/ghc-8.2.2/site-local/math-functions-0.2.1.0/Numeric/SpecFunctions/Extra.dyn_hi": "bd0547d248cfc003aee992795a8e042e20d274ed9453c7224dd6c58c1191475d",
     "/usr/lib/ghc-8.2.2/site-local/math-functions-0.2.1.0/Numeric/SpecFunctions/Internal.dyn_hi": "c31577b4c99d13e9dd0588344fcf67872ea57739e4508d6f1c578a191ad64b96",
     "/var/log/pacman.log": "3837ff47cc7532a9465a91791be040254ed58c7fa1428426a4d5c651b2480eb1"
+  },
+  "0.2.1.0-7": {
+    "/usr/share/haskell/register/haskell-math-functions.sh": "e772a8ce84f62e14fdd5d6b74b9317f356b779879634f14cd5fda95053d528fb",
+    "/usr/share/haskell/unregister/haskell-math-functions.sh": "fcb5330715123e07d5f4bfe48a4191ac7356f1e6b906ca0a7128000eaa2d1059",
+    "/usr/share/licenses/haskell-math-functions/LICENSE": "ae8364c5b2c9cb94aa3b7492d89ce9dbc609c5ecf5fda6f4967babd70debcf40",
+    "/usr/lib/libHSmath-functions-0.2.1.0-FckyLalNjBiATwdDdbNlRT-ghc8.2.2.so": "ff998d91d242c9d4ccb5d05aa5447a737e5fd8b0d8abe7e0480ad5e353125d3e",
+    "/usr/lib/ghc-8.2.2/site-local/math-functions-0.2.1.0/Numeric/Polynomial.dyn_hi": "91d4b338de5a63fb7dcd5cfd38fa41ef7d44afefff9b5fd45a829799cf545279",
+    "/usr/lib/ghc-8.2.2/site-local/math-functions-0.2.1.0/Numeric/RootFinding.dyn_hi": "32adb441b53b19ee2f2b72dc51a3b690574ffddb985626d15194d20929bf3eaa",
+    "/usr/lib/ghc-8.2.2/site-local/math-functions-0.2.1.0/Numeric/SpecFunctions.dyn_hi": "99b391a3e566b0b26827ce0ad906efb026ba4d6d67c4daa71ddf0cc948a980a2",
+    "/usr/lib/ghc-8.2.2/site-local/math-functions-0.2.1.0/Numeric/Series.dyn_hi": "0a2219f976d10349eee3ba43256732ec7ce47ba894d4d6418496e8391fb1c797",
+    "/usr/lib/ghc-8.2.2/site-local/math-functions-0.2.1.0/Numeric/Sum.dyn_hi": "f4baa9fa3a7d0781ae7ccf8baf7ee25dad973cf488a334c1edc6e9cc0675764c",
+    "/usr/lib/ghc-8.2.2/site-local/math-functions-0.2.1.0/Numeric/MathFunctions/Constants.dyn_hi": "68aa34e6618747d2d5b880eeb4cd14d3d3b1cc4964b49f1a1048b5a26949cbd0",
+    "/usr/lib/ghc-8.2.2/site-local/math-functions-0.2.1.0/Numeric/MathFunctions/Comparison.dyn_hi": "408ff39ed41e5e2395268dc6cd91efb1cdd29063a5f78360ee77bfd8dc15140c",
+    "/usr/lib/ghc-8.2.2/site-local/math-functions-0.2.1.0/Numeric/Polynomial/Chebyshev.dyn_hi": "b8abe9365fccf6d7efc17b532de44236c82267fc154eed0e3c1e99eeb064326a",
+    "/usr/lib/ghc-8.2.2/site-local/math-functions-0.2.1.0/Numeric/SpecFunctions/Extra.dyn_hi": "cc2ab45122c12e92292948385d395f7f55022578ba4c064b6ac1cc223ba84288",
+    "/usr/lib/ghc-8.2.2/site-local/math-functions-0.2.1.0/Numeric/SpecFunctions/Internal.dyn_hi": "1940afac8d6c70f625c517cdd1e69b95d7010afec9eba65e74055c946bda8440",
+    "/var/log/pacman.log": "46effbec904723d81079d9fb6e93640a28ca3659b0d02250ddc0dab00cdc65bf"
   }
 }

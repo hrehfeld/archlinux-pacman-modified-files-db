@@ -37,5 +37,18 @@
     "/usr/lib/ghc-8.2.2/site-local/blaze-markup-0.8.0.0/Text/Blaze/Renderer/Text.dyn_hi": "339772ba692c1b4ba91ef2bee8fd1630080fbd36821ad64b4883a569c73d7343",
     "/usr/lib/ghc-8.2.2/site-local/blaze-markup-0.8.0.0/Text/Blaze/Renderer/Utf8.dyn_hi": "a84f537b0393a38daa319986dc6929ea23d3bbc678743a324a882ce3a8937976",
     "/var/log/pacman.log": "487b17d2b28fc51ca54885e23a1c4bf715e21dc2ffe818d0691822c457d125a9"
+  },
+  "0.8.2.0-1": {
+    "/usr/share/haskell/register/haskell-blaze-markup.sh": "8d8391cf6b0a5bf659a00f58521c5e30093a0b4dde8560b4e03580c32be0921d",
+    "/usr/share/haskell/unregister/haskell-blaze-markup.sh": "99b574ae75689469c3bfe8f01013b5b6f5af2c46e363306f06dddda1ea3c5e3a",
+    "/usr/share/licenses/haskell-blaze-markup/LICENSE": "638a822a64744369c64170ac05d229ebe19a60617ef3816d1ab47513746a354c",
+    "/usr/lib/libHSblaze-markup-0.8.2.0-JO1Oy9jYgbGFSxqAItqjWc-ghc8.2.2.so": "4d8e2a55706b1d4b49fa12be237370ab6df818b652b60211a16e35d6e5e00eea",
+    "/usr/lib/ghc-8.2.2/site-local/blaze-markup-0.8.2.0/Text/Blaze.dyn_hi": "c1c589af70193572be124a4b759d9fb2856dab7159a0d8ba181b3e0b5ea6c1e1",
+    "/usr/lib/ghc-8.2.2/site-local/blaze-markup-0.8.2.0/Text/Blaze/Internal.dyn_hi": "9404a78a4104f05d7f6043e8ec1a9b1b6878a62185c77f46fb516b7bf6899694",
+    "/usr/lib/ghc-8.2.2/site-local/blaze-markup-0.8.2.0/Text/Blaze/Renderer/Pretty.dyn_hi": "19d2d0a148081d0000cb72d40fec74d14a701aae1be311ff27d92c38f37186d5",
+    "/usr/lib/ghc-8.2.2/site-local/blaze-markup-0.8.2.0/Text/Blaze/Renderer/String.dyn_hi": "d7eb571c52f5b7b31c0f74891bfd65110c9b7fcd8ca7a8ae4b5a22794b5c76ed",
+    "/usr/lib/ghc-8.2.2/site-local/blaze-markup-0.8.2.0/Text/Blaze/Renderer/Text.dyn_hi": "24b0f97f12bd5fde7fe306ac18f9492e75e632ed2634c7b7224b7a9572411ccc",
+    "/usr/lib/ghc-8.2.2/site-local/blaze-markup-0.8.2.0/Text/Blaze/Renderer/Utf8.dyn_hi": "855eabeb12ff035d1d354b3732fddac1bf4c5ce2a526d732c47a90cb573fc83a",
+    "/var/log/pacman.log": "4f68a30ba4ab090c44598173239370ebf4d91f88f619aba2f6b475239b722f15"
   }
 }

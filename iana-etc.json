@@ -6,5 +6,13 @@
     "/var/log/pacman.log": "c78c3278a1027dbaabeb4b5f71a907f1a79c4ea2a88ae5547d27e4ce7671c844",
     "/etc/services": "c3efa9af16473a5f08e85243d205ff61d92f29a9f5946f0ccb15caa4c08ddc1f",
     "/etc/protocols": "0d4d7e876e9a95bf388d8a289c1a8d0a7b444ca6561720fa6f0dff052c330d36"
+  },
+  "20180131-1": {
+    "/usr/share/licenses/iana-etc/LICENSE": "dd37e92942d5a4024f1c77df49d61ca77fc6284691814903a741785df61f78cb",
+    "/usr/share/iana-etc/protocol-numbers.iana": "4992fbc5453d0feb48492e6abda96bf9285ff4d2516f6924a0f92f773dc4cea2",
+    "/usr/share/iana-etc/port-numbers.iana": "59285ddb71cd7816184911ac9732956ea320d9a4ab3caf4cdc8d44eae86348f9",
+    "/var/log/pacman.log": "10c8c4c1533aa0924b4d4218fbab12f57ea400723428bc666bffe83d868bfb8b",
+    "/etc/protocols": "0d4d7e876e9a95bf388d8a289c1a8d0a7b444ca6561720fa6f0dff052c330d36",
+    "/etc/services": "f6d965556e1562624f44c188094667ede6a2130c3ce9c1d846ce1443223f390e"
   }
 }

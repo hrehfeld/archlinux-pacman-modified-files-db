@@ -25,5 +25,14 @@
     "/usr/lib/pkgconfig/harfbuzz-icu.pc": "bc7b4c5d7b02948e1a272646c839de8d863c48680e899d6613b51f60e6f59845",
     "/usr/share/licenses/harfbuzz-icu/COPYING": "2a886915de4f296cdae5ed67064f86dba01d0c55286d86e8487f2a5caaf40216",
     "/var/log/pacman.log": "643a1458fc3827d3ef0ef38f00d089f62241f5c9843f0da1853e4020d0a75a6c"
+  },
+  "1.7.5-1": {
+    "/usr/include/harfbuzz/hb-icu.h": "f2eaa478e7ecc533be912d75288e6fa8c2157191edbc03b2bd68c302bbcd0f6e",
+    "/usr/lib/libharfbuzz-icu.so": "225916494055eb7756a888119f05ee8676d758ec3f42ab9c295167aee04231d4",
+    "/usr/lib/libharfbuzz-icu.so.0": "225916494055eb7756a888119f05ee8676d758ec3f42ab9c295167aee04231d4",
+    "/usr/lib/libharfbuzz-icu.so.0.10705.0": "225916494055eb7756a888119f05ee8676d758ec3f42ab9c295167aee04231d4",
+    "/usr/lib/pkgconfig/harfbuzz-icu.pc": "73bff3a3e2b9a62d3d8871dda3cec5c40b12c8c349eac3b49506b9cd2a89ee7c",
+    "/usr/share/licenses/harfbuzz-icu/COPYING": "2a886915de4f296cdae5ed67064f86dba01d0c55286d86e8487f2a5caaf40216",
+    "/var/log/pacman.log": "49368a25115977c1cb291a325f7bfadbae413375c40194085c8c088246df1791"
   }
 }

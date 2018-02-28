@@ -11,5 +11,10 @@
     "/usr/lib/sysusers.d/android-udev.conf": "4466723284046b56b868fe9d5c3c1f9eab348610ee4b551d7a1efc2ab8ab82af",
     "/usr/lib/udev/rules.d/51-android.rules": "9ded26a403b3d9decbf88aacb18abe5b6bf23186a04043aa1b62e42b4ea75788",
     "/var/log/pacman.log": "2b21e6c143be56d9865da636a0da49eb92201dfe38fa1324a8003093e58cd90d"
+  },
+  "20180112-1": {
+    "/usr/lib/sysusers.d/android-udev.conf": "4466723284046b56b868fe9d5c3c1f9eab348610ee4b551d7a1efc2ab8ab82af",
+    "/usr/lib/udev/rules.d/51-android.rules": "328f0eee807d8e67135ce1f170174c5530d921e229db1ccb8f3d99416ada4ce4",
+    "/var/log/pacman.log": "687fdf25afbb580b22905f8d651d88b7c86e799e5cbc40d4438368306f9a83c9"
   }
 }

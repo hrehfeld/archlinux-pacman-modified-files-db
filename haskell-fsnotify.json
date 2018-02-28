@@ -40,5 +40,19 @@
     "/usr/lib/ghc-8.2.2/site-local/fsnotify-0.2.1.1/System/FSNotify/Types.dyn_hi": "1d408a7e8c36401dcaa8dd98cf9ed3fa6d097991abd8be9742c02260a9656015",
     "/usr/lib/ghc-8.2.2/site-local/fsnotify-0.2.1.1/System/FSNotify/Linux.dyn_hi": "e78d7d5b6ac315bbd0c0aed3b1d9692398d6dcc45116091090ea74c27c79c730",
     "/var/log/pacman.log": "6377303a1e9a373c80e2677834c7b2da89db2deaca21849cd3c9381e382a7f2e"
+  },
+  "0.2.1.1-6": {
+    "/usr/share/haskell/register/haskell-fsnotify.sh": "f661315f29fc6c6d1e044ea95142cf3df31f7555e58404efd5a6d14ee9ee8f72",
+    "/usr/share/haskell/unregister/haskell-fsnotify.sh": "197bab6228b44d6faddeb0b0f27504e4c953f8e0406c053752c13738121f1012",
+    "/usr/share/licenses/haskell-fsnotify/LICENSE": "7d86c78b12cc2fd24e9e28caa48a7c3c816f313dbe684d95ffece5e79abc0f7c",
+    "/usr/lib/libHSfsnotify-0.2.1.1-DDsropDW7bB10WticE3Xxt-ghc8.2.2.so": "5e710865f3f79d34591d8613ad42d89e51a2b969cf9f7bf07ad0c33ec6090922",
+    "/usr/lib/ghc-8.2.2/site-local/fsnotify-0.2.1.1/System/FSNotify.dyn_hi": "092482d47878d634b6fcf758a85a8c9983b8ce2de75e7f3125c654d52733a861",
+    "/usr/lib/ghc-8.2.2/site-local/fsnotify-0.2.1.1/System/FSNotify/Devel.dyn_hi": "77114b0e1c7c3054cb25698ea37f04abe80dac7f6de49b201f16004b44f170b5",
+    "/usr/lib/ghc-8.2.2/site-local/fsnotify-0.2.1.1/System/FSNotify/Listener.dyn_hi": "ca8e08ec65add11a09085e508f70cb6fa4d225281068463d1d2e4671fdd2a78b",
+    "/usr/lib/ghc-8.2.2/site-local/fsnotify-0.2.1.1/System/FSNotify/Path.dyn_hi": "8d8937fb7ddd34e395719ec1b4ff0d3f924a1b4aba79ef793ca73de87732c951",
+    "/usr/lib/ghc-8.2.2/site-local/fsnotify-0.2.1.1/System/FSNotify/Polling.dyn_hi": "c4686f0535795e8b6fdc504e0d9a0963f277ca6ac9fbff0a82bc54150a41beb3",
+    "/usr/lib/ghc-8.2.2/site-local/fsnotify-0.2.1.1/System/FSNotify/Types.dyn_hi": "fec9cc7ea51b7240005be70a548a6ea1a51a7ec97c4f83b44a759a94a71c724e",
+    "/usr/lib/ghc-8.2.2/site-local/fsnotify-0.2.1.1/System/FSNotify/Linux.dyn_hi": "3651b8cec773e8c1959e863079d23cc6e9a1274b5db3224ad6b912d658e0bbe0",
+    "/var/log/pacman.log": "c015fbc48f35d5526b3f19f9a08c50747788511bdadaa0a6c6071ca1aa704a31"
   }
 }

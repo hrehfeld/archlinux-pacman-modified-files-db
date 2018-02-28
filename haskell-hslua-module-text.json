@@ -14,5 +14,13 @@
     "/usr/lib/libHShslua-module-text-0.1.2.1-LUlReidMwRa1PoOHmhJr1e-ghc8.2.2.so": "4db9b595aa4aba8a9743d8c67f86071303613b37fd7ee2961f0a5dd122bac1ee",
     "/usr/lib/ghc-8.2.2/site-local/hslua-module-text-0.1.2.1/Foreign/Lua/Module/Text.dyn_hi": "303c055471dbba023bd6a372fef192049d25afda3c030f663221ceafb1402d0b",
     "/var/log/pacman.log": "75879d759b42e6e1ef6d69b7f341af220035e7bb77223833cb224cee4f06e5a3"
+  },
+  "0.1.2.1-6": {
+    "/usr/share/haskell/register/haskell-hslua-module-text.sh": "4b033bbba779df32730807952bcf3590a93a70dd0e51b1a63d19926cf4bb6d67",
+    "/usr/share/haskell/unregister/haskell-hslua-module-text.sh": "15a099eea85302aa1be1b7b65e5f3b6900acd0b5864d13a83ddb7b46d6336af0",
+    "/usr/share/licenses/haskell-hslua-module-text/LICENSE": "7ac1dcc010312301c11f2dec8bc1a0f9f4f5af711e509c230f6c21ef46f275ef",
+    "/usr/lib/libHShslua-module-text-0.1.2.1-AmIS7z6eJPAHQWVR1b1KOd-ghc8.2.2.so": "97649dbf280877a67ba43f316061f5b14974b43ce40c932f8aa33fc7ed14e020",
+    "/usr/lib/ghc-8.2.2/site-local/hslua-module-text-0.1.2.1/Foreign/Lua/Module/Text.dyn_hi": "8505e2e56360256c95c44dc98a10887ab9e047aaf7a3ca73393544ee27b9ba69",
+    "/var/log/pacman.log": "541bf79e4945ca083f4b1c118f8b4344b6ad191b75403bb422caaea647cd30fb"
   }
 }

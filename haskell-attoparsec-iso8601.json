@@ -25,5 +25,14 @@
     "/usr/lib/ghc-8.2.2/site-local/attoparsec-iso8601-1.0.0.0/Data/Attoparsec/Time.dyn_hi": "67f1d16af575ba54893b0e98ba82c5140a883913125d26cd70269d3afc1ac96b",
     "/usr/lib/ghc-8.2.2/site-local/attoparsec-iso8601-1.0.0.0/Data/Attoparsec/Time/Internal.dyn_hi": "b2567f29ffdbc311f2acdb305bfbec133bc2c2f9cfa82e2c96fd2a018663115c",
     "/var/log/pacman.log": "3a8c2145a50cf6909b864fc9962eef74d53b652ce39b71afdf56726cba2eab02"
+  },
+  "1.0.0.0-18": {
+    "/usr/share/haskell/register/haskell-attoparsec-iso8601.sh": "1861c40f3c75cfe9476c289dcea90049e9d13c14a9399b60c1b7c13e158cdf81",
+    "/usr/share/haskell/unregister/haskell-attoparsec-iso8601.sh": "1774fa4164b64d1ab8d0c8033560be7c7c4401812412f5f7c6b1da67fc3187fc",
+    "/usr/share/licenses/haskell-attoparsec-iso8601/LICENSE": "ad33b0ce49deffa788aa9b8867a4c4fbbeff7b67f0a004a760eac9aecbf21a8b",
+    "/usr/lib/libHSattoparsec-iso8601-1.0.0.0-9FaKqxV5VUB4JzygSq8dvw-ghc8.2.2.so": "2fac6fff05303c2930b70f18e5bb487a78df1d28e2c414b9fdad2461bfdea68a",
+    "/usr/lib/ghc-8.2.2/site-local/attoparsec-iso8601-1.0.0.0/Data/Attoparsec/Time.dyn_hi": "170911a38fe555a9fe3ed77d672309a9166dc655c806817ab0a8b90e8b29bcbf",
+    "/usr/lib/ghc-8.2.2/site-local/attoparsec-iso8601-1.0.0.0/Data/Attoparsec/Time/Internal.dyn_hi": "520166b70421a58d81baa3d8730349ed197ddff019ebb3cdacb3bc15f73f717e",
+    "/var/log/pacman.log": "7b19592687e0dfecacb964ba6a832904ebb4d525f060db443bb81036993e255d"
   }
 }

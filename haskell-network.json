@@ -38,5 +38,25 @@
     "/usr/lib/ghc-8.2.2/site-local/network-2.6.3.2/Network/Socket/ByteString/MsgHdr.dyn_hi": "212ebddfec41289cdd8454c3f9c0956a0b8d9a5fd1e110aec7f80917fdebea23",
     "/usr/lib/ghc-8.2.2/site-local/network-2.6.3.2/Network/Socket/ByteString/Lazy/Posix.dyn_hi": "c2ab827036762633db70a4bfb91d49b928429cbacd216998c28d9c5b05a3ad2d",
     "/var/log/pacman.log": "f23df3f198be9e1c0ad00917b3d9b6c865d975d8d5f41dd26e2f99ab5098a4da"
+  },
+  "2.6.3.3-1": {
+    "/usr/share/haskell/register/haskell-network.sh": "d2119fd592c14e10cda51c11cbfb8a4ecdab0d38c0552a142c253ea0d0abd3b4",
+    "/usr/share/haskell/unregister/haskell-network.sh": "e9102e018f7a8e3ab09b60ca1b0bf3c99867416ea7da337df123fc320443d3c1",
+    "/usr/share/licenses/haskell-network/LICENSE": "52b7b34c66e567678e498103d010a1bd163ef8b06e7e044016b04286a08db982",
+    "/usr/lib/libHSnetwork-2.6.3.3-BsPhUcUvmHlbFKWY24Oor-ghc8.2.2.so": "4e784fb9517e443bc3ad3ee1fa30826cb1571a25d24b8da416f8f5c6a2bf2112",
+    "/usr/lib/ghc-8.2.2/site-local/network-2.6.3.3/Network.dyn_hi": "e6236976fe6ad73017ad2d780a9e53e2997ef3bdc2fa545102280a15a97da814",
+    "/usr/lib/ghc-8.2.2/site-local/network-2.6.3.3/include/HsNet.h": "603e24ed41545e551497ee34a5695431b2c133e32b9de795af848dde6922f399",
+    "/usr/lib/ghc-8.2.2/site-local/network-2.6.3.3/include/HsNetworkConfig.h": "f1de325f104a06e91a1fb1b778c2299dcf98f204516454cc1b34831643f76e6d",
+    "/usr/lib/ghc-8.2.2/site-local/network-2.6.3.3/Network/BSD.dyn_hi": "3e6aa5658a073fd9d6fcf6edc779fb86a9feea198273fbe9e272f6cc4d01e3b9",
+    "/usr/lib/ghc-8.2.2/site-local/network-2.6.3.3/Network/Socket.dyn_hi": "22510cc44d90e4c60ae5876250231f6726b5ed94771fc78d36bd0c88405e4211",
+    "/usr/lib/ghc-8.2.2/site-local/network-2.6.3.3/Network/Socket/ByteString.dyn_hi": "0b77c4a3dd9c537990ae3961d49ea98765eca7cb70bd2529102a235335b99aa2",
+    "/usr/lib/ghc-8.2.2/site-local/network-2.6.3.3/Network/Socket/Internal.dyn_hi": "6fe7601404e95ee780549b164e6bf54865fa117ff9454ff8dd60e94c635fc887",
+    "/usr/lib/ghc-8.2.2/site-local/network-2.6.3.3/Network/Socket/Types.dyn_hi": "29047d76fee1741169bc50e33343f1d016abd3e13b7a88ecc9caeba21f3ecc19",
+    "/usr/lib/ghc-8.2.2/site-local/network-2.6.3.3/Network/Socket/ByteString/Lazy.dyn_hi": "4a618036e06ae96590a719a2d2901ac5e302793b063e2050345f26bfca8e5c31",
+    "/usr/lib/ghc-8.2.2/site-local/network-2.6.3.3/Network/Socket/ByteString/Internal.dyn_hi": "528adba5ed7a5f14a9c82cb4953c14999e8062a144fda34c03367fa6084fd28d",
+    "/usr/lib/ghc-8.2.2/site-local/network-2.6.3.3/Network/Socket/ByteString/IOVec.dyn_hi": "d01e99738f055a1e2496ece89117875de326cfe187d72b93224d228d3d092300",
+    "/usr/lib/ghc-8.2.2/site-local/network-2.6.3.3/Network/Socket/ByteString/MsgHdr.dyn_hi": "94340a9b734d383224353a2e396fe6f868ba1f3c6c112812e6634a53b8ddfc20",
+    "/usr/lib/ghc-8.2.2/site-local/network-2.6.3.3/Network/Socket/ByteString/Lazy/Posix.dyn_hi": "be5053b2c83de0884e126bbf72b4d6e9f5a63d2b46b6eca04e53ebc8b16c2081",
+    "/var/log/pacman.log": "5de90f71a5f096efcf0927fd8cea913521e59e14fd47141194e61f8102e51816"
   }
 }

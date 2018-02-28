@@ -30,5 +30,13 @@
     "/usr/lib/libHShttp-client-tls-0.3.5.1-Bxvcr1oXX473HZqQ28AyYN-ghc8.2.2.so": "b5cec2c7f3126580ba4a887617e98926b4811cccae127998a34c6e9027f3c5de",
     "/usr/lib/ghc-8.2.2/site-local/http-client-tls-0.3.5.1/Network/HTTP/Client/TLS.dyn_hi": "58928647a43f346f5e9055407c2fdc19b7c5b6da35ede05f4c06ca52e03bce53",
     "/var/log/pacman.log": "9fbaab6c9f55d7a68f7112a09ffd9340f5eaff30a8e46e9ab18adef5d0012e5b"
+  },
+  "0.3.5.3-1": {
+    "/usr/share/haskell/register/haskell-http-client-tls.sh": "f6223d6ed459d9dc05bf4c58d6a7c3e3a6cf28fef969e628bdba9a5bd0e17c27",
+    "/usr/share/haskell/unregister/haskell-http-client-tls.sh": "c2eff51f0aea364cd37c9a06ed5f2951a4acbaf6b6e4350383867a0362288137",
+    "/usr/share/licenses/haskell-http-client-tls/LICENSE": "b986b1413f8388c5729491f607f2869e139f19228e76117875980cb3ec9fa8ef",
+    "/usr/lib/libHShttp-client-tls-0.3.5.3-FpTWZda3VSm3i31SmOMdnM-ghc8.2.2.so": "2f157b134a9eaa688e5f38692009e97186f6c0f15d1b918b66cae506b59cd1db",
+    "/usr/lib/ghc-8.2.2/site-local/http-client-tls-0.3.5.3/Network/HTTP/Client/TLS.dyn_hi": "6db8a4d5b103bb6f0cff28e6ff0216f5c7942b7a3d99dc106234dda51e2ce2ae",
+    "/var/log/pacman.log": "f58baaf244be22dbf943f4ec0d016be71e580b9dda76d0dcd7812ed83c662c19"
   }
 }

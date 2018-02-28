@@ -22,5 +22,13 @@
     "/usr/lib/libHStext-metrics-0.3.0-FDxATb53U0D25DaBchqZg3-ghc8.2.2.so": "77e844d3ef936f9fa5071b7bc0de08db27bf9b0754e51dd508ea2b3261f2f203",
     "/usr/lib/ghc-8.2.2/site-local/text-metrics-0.3.0/Data/Text/Metrics.dyn_hi": "c49832f56396a3b702300506e037c2914012910d4c99fafbe186813394ea442f",
     "/var/log/pacman.log": "7bb0dba7aacf19aafba6f6d18c8065803e2f2e940dfc12cbf3d177cb9f3a774c"
+  },
+  "0.3.0-5": {
+    "/usr/share/haskell/register/haskell-text-metrics.sh": "ff3f2b861a679e7e4b0a01a7f6d25c1435df18d60df297926db50034938b1f24",
+    "/usr/share/haskell/unregister/haskell-text-metrics.sh": "6c878ae48cf9aef6fe91251097d2cb3658ecbbc126ce9946ac37cb8fd2ac0f78",
+    "/usr/share/licenses/haskell-text-metrics/LICENSE.md": "fb0bf8f509d946fe0a199d16804d3c2f6e1c95a6df04d9792fb07c1c392a8655",
+    "/usr/lib/libHStext-metrics-0.3.0-EFYtxF2maUbHCce05tlYic-ghc8.2.2.so": "3200cefcc650659e3944ddcc84a659aaec853132ad3b0224a796abfddb8dea22",
+    "/usr/lib/ghc-8.2.2/site-local/text-metrics-0.3.0/Data/Text/Metrics.dyn_hi": "fa48ef5784b040961429441bdc620019169f5d39da6721c2336ea493ca7704ff",
+    "/var/log/pacman.log": "1a3f1e3062834330540fa1774d0aa9365f9c7783bc70507aeb6ae0b6704866cc"
   }
 }

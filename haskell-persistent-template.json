@@ -30,5 +30,13 @@
     "/usr/lib/libHSpersistent-template-2.5.3-E2PLMcnPDS19i5qcjAtNpp-ghc8.2.2.so": "a36354d3a892286d9308286f27d2c44e9f71931a1e37ad8a4d7181cb3462cebd",
     "/usr/lib/ghc-8.2.2/site-local/persistent-template-2.5.3/Database/Persist/TH.dyn_hi": "5acb015aaf73951d45e5933f613887db70e9873324d7025841345eb3b6cdafe3",
     "/var/log/pacman.log": "e8e28b3a9e77b354dee46de9860a2cf21621324ef2f1f424cead6626f04e50e0"
+  },
+  "2.5.3.1-3": {
+    "/usr/share/haskell/register/haskell-persistent-template.sh": "a6eeb065fd2355a948db040aa4ae7c57137c828b1f94d38e83b776d163d5a894",
+    "/usr/share/haskell/unregister/haskell-persistent-template.sh": "0981570cfdfe00a01d764bb94cf90d0987644f42389d8d26af4f4391c501de69",
+    "/usr/share/licenses/haskell-persistent-template/LICENSE": "bebc00cb81ab4a16c3f27768fad205a203d0d7b56944299808dc3c35b53e198d",
+    "/usr/lib/libHSpersistent-template-2.5.3.1-3j43mN5nlGJ99HLPTV1rma-ghc8.2.2.so": "817150e1b398c33591c5dbdc971112c10e8cdf8a7340802afa4c12b2efe053ca",
+    "/usr/lib/ghc-8.2.2/site-local/persistent-template-2.5.3.1/Database/Persist/TH.dyn_hi": "ec16a74f4884e05a6f99fbed989ce9fea736acfaf9558cd25277655dcc5cf4b5",
+    "/var/log/pacman.log": "a8d3d3614f61fcb1f76111ee6c98b232840fa8f792ecb4b2e23e257f637b8c3d"
   }
 }

@@ -8,5 +8,15 @@
     "/usr/lib/pkgconfig/bytesize.pc": "98193f792ee9aad0ce87969f8b8edf1ccf1cdd552296cad9b1839fb726b14d1f",
     "/usr/include/bytesize/bs_size.h": "caefe0d3c8ecf1c29d690a4a7d85ee1a7b6f37fbc181d23933e8b0c61acd6966",
     "/var/log/pacman.log": "9bd5a979b961646db66eaa3c672c5ac692d9273651cd9a5208b6538d08bb9478"
+  },
+  "1.0-2": {
+    "/usr/lib/libbytesize.so.1": "df4ffd68ce378d44cec944bb15cd36a8a4f48ffadc38761a3e1c58416f217535",
+    "/usr/lib/libbytesize.so": "df4ffd68ce378d44cec944bb15cd36a8a4f48ffadc38761a3e1c58416f217535",
+    "/usr/lib/libbytesize.so.1.0.0": "df4ffd68ce378d44cec944bb15cd36a8a4f48ffadc38761a3e1c58416f217535",
+    "/usr/lib/python3.6/site-packages/bytesize/bytesize.py": "7f1e7c5f827514b9bb55855a70f29e8de4c55beb916db810662342c0dac1c2c7",
+    "/usr/lib/python3.6/site-packages/bytesize/__init__.py": "12f99bed762f4480128d395b038629526bb88891d8f5e7bae065bf94dae9e03c",
+    "/usr/lib/pkgconfig/bytesize.pc": "98193f792ee9aad0ce87969f8b8edf1ccf1cdd552296cad9b1839fb726b14d1f",
+    "/usr/include/bytesize/bs_size.h": "caefe0d3c8ecf1c29d690a4a7d85ee1a7b6f37fbc181d23933e8b0c61acd6966",
+    "/var/log/pacman.log": "73cf15a31640e82f054e0d0db071920cc346d2d1b9a60a3d7128f4228ca8ca4f"
   }
 }

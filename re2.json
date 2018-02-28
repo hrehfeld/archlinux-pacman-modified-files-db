@@ -22,5 +22,17 @@
     "/usr/lib/pkgconfig/re2.pc": "2e5ec2eca608521509ba86e6f3ecf4dd06c70f0d58745875c3fecf91b5477341",
     "/usr/share/licenses/re2/LICENSE": "6040cda75d90b1738292a631d89934c411ef7ffd543c4d6a1b7edfc8edf29449",
     "/var/log/pacman.log": "a219f9dbbcafb96d6691fd8c323753bb60421e3652afdf0ddb4fd29912669d24"
+  },
+  "20180201-1": {
+    "/usr/include/re2/filtered_re2.h": "0e3291e98477b2a3220c6eeaf29e11ee6929f4a394a5c307994a846e412a4b8a",
+    "/usr/include/re2/re2.h": "5ff150cc8fc3d7358e5bc35302eb048c8577ea524e18b3d4535dca00348ee7e0",
+    "/usr/include/re2/set.h": "71fcf57098987bb4025825f4da1483663424fa27c6f2f0b5b4a39319e3e48685",
+    "/usr/include/re2/stringpiece.h": "1ab7629ceafda0db93f85e6ae61296712fbeda42f74bcd8b8b8580f77cebb58d",
+    "/usr/lib/libre2.so.0": "e0f83731a771b4843932880c133418bdb791131a65422a19238e38236c760ff3",
+    "/usr/lib/libre2.so": "e0f83731a771b4843932880c133418bdb791131a65422a19238e38236c760ff3",
+    "/usr/lib/libre2.so.0.0.0": "e0f83731a771b4843932880c133418bdb791131a65422a19238e38236c760ff3",
+    "/usr/lib/pkgconfig/re2.pc": "2e5ec2eca608521509ba86e6f3ecf4dd06c70f0d58745875c3fecf91b5477341",
+    "/usr/share/licenses/re2/LICENSE": "6040cda75d90b1738292a631d89934c411ef7ffd543c4d6a1b7edfc8edf29449",
+    "/var/log/pacman.log": "08c2e6042a1e9d3cc58efedea3bb8782b06aff335917bcd9702038babe4fe363"
   }
 }

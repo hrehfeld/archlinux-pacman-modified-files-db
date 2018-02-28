@@ -9,5 +9,16 @@
     "/usr/include/blosc-export.h": "35845da65bd13b4b610752116d8c0cae703cf22a86a007574133c35bc8395b20",
     "/usr/share/licenses/blosc/LICENCE": "d7d6ea3deb4f9b68cf5e327cc554f5b1ffd5eca3cdc9e60f797ec50b6160d66a",
     "/var/log/pacman.log": "5ca15b8f488e0f1e9d66fe6949cdc0de1cb1345b67cc676bbeb56f177a640890"
+  },
+  "1.13.7-1": {
+    "/usr/lib/libblosc.so.1": "ccc1383e45e8ab381bfa4c6d76043d13f2946d88bd0f2cc986483afeb50063fd",
+    "/usr/lib/libblosc.so": "ccc1383e45e8ab381bfa4c6d76043d13f2946d88bd0f2cc986483afeb50063fd",
+    "/usr/lib/libblosc.a": "101225315cee7a6178421f4c27dfd261572137f5f065d724eba6a05b3318f81b",
+    "/usr/lib/libblosc.so.1.13.7": "ccc1383e45e8ab381bfa4c6d76043d13f2946d88bd0f2cc986483afeb50063fd",
+    "/usr/lib/pkgconfig/blosc.pc": "0c30bbcf94c454892fc5c170c614c0fe0429aeddcfed27436e5b0ea3f3a81853",
+    "/usr/include/blosc.h": "1786ffa6d6e57a2b04011085ca39961d7187326f7873f633769bb55e1ca281bb",
+    "/usr/include/blosc-export.h": "35845da65bd13b4b610752116d8c0cae703cf22a86a007574133c35bc8395b20",
+    "/usr/share/licenses/blosc/LICENCE": "d7d6ea3deb4f9b68cf5e327cc554f5b1ffd5eca3cdc9e60f797ec50b6160d66a",
+    "/var/log/pacman.log": "41b3f1b050d286e0a7a62374dc80dd85e3d8f8151549ee82613afb798c1f9155"
   }
 }

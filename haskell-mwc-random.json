@@ -18,5 +18,15 @@
     "/usr/lib/ghc-8.2.2/site-local/mwc-random-0.13.6.0/System/Random/MWC/Distributions.dyn_hi": "b3331d22a20b5e418e9766f6e11cce9e85d42749b08c2b83bf6cd7adf83fab42",
     "/usr/lib/ghc-8.2.2/site-local/mwc-random-0.13.6.0/System/Random/MWC/CondensedTable.dyn_hi": "f757c28884148a55665bc097a914711444467dcb7dde7ee60d8111a49240627f",
     "/var/log/pacman.log": "5fe491ca24428f1b367c62b0b250588bc700a23b3663cb8c52d0a695ac5928e0"
+  },
+  "0.13.6.0-6": {
+    "/usr/share/haskell/register/haskell-mwc-random.sh": "95e0d18e391fa087daf8bcc5ef695146e171d4f2f404a2426c5ca32826144cf7",
+    "/usr/share/haskell/unregister/haskell-mwc-random.sh": "a6c7225270a08f2607ec47c10860eb2f237c3b3bb25b9d99c176fd3a2c36712f",
+    "/usr/share/licenses/haskell-mwc-random/LICENSE": "55f55259732c8eeba2580b50ce2356ac5b541302227a89a5239c99aa8093ad66",
+    "/usr/lib/libHSmwc-random-0.13.6.0-KJiIvjcL2lWLnFThQq321j-ghc8.2.2.so": "2c69cec1ca532f95204a80f305984dfc13159995455903080255a28044a05d8a",
+    "/usr/lib/ghc-8.2.2/site-local/mwc-random-0.13.6.0/System/Random/MWC.dyn_hi": "0539e4dd9693dcb83eef22451c020254de67ab68103731134d5c7a3df3017302",
+    "/usr/lib/ghc-8.2.2/site-local/mwc-random-0.13.6.0/System/Random/MWC/Distributions.dyn_hi": "d9b109a6857af0d0784c9a239d6a518fe82634cd029850cbd2e85f3c7dc525ca",
+    "/usr/lib/ghc-8.2.2/site-local/mwc-random-0.13.6.0/System/Random/MWC/CondensedTable.dyn_hi": "bb2717b1d93cc73848a27aaca7a04181c354192fc80bb9f793cfcf1c88c12de1",
+    "/var/log/pacman.log": "39b9c8bc9025a9e6688b155705fad437fdf8769c4b4597d937ebeac395c092ff"
   }
 }

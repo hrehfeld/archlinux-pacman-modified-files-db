@@ -48,5 +48,15 @@
     "/usr/lib/ghc-8.2.2/site-local/http-conduit-2.2.4/Network/HTTP/Simple.dyn_hi": "359034a59631f8bbf75464a696e80f9eff410d9f1342d74eaddace24671707b5",
     "/usr/lib/ghc-8.2.2/site-local/http-conduit-2.2.4/Network/HTTP/Client/Conduit.dyn_hi": "a3b29f779edcbe6ab96b6dcef8f1a42579db89a4a6c6c1884c25dbe32f96bee2",
     "/var/log/pacman.log": "fec1522f89319737b81e7791af632fb492b3926b69a6679a667cd4c62918d194"
+  },
+  "2.2.4-26": {
+    "/usr/share/haskell/register/haskell-http-conduit.sh": "2d48aaab5ef78d9ea2a29d0e93c2e1ff983636ed4b670c1365ac7af31cdd0ee9",
+    "/usr/share/haskell/unregister/haskell-http-conduit.sh": "a05278106d35080839df8721dc436b8767871dc57f4b7008595bce12500af28c",
+    "/usr/share/licenses/haskell-http-conduit/LICENSE": "5c2ac6c341ec398d6d2703116f71ccda15ce3d41e0f3e6bad71222d3ae3c6940",
+    "/usr/lib/libHShttp-conduit-2.2.4-2gbaUtnpnnl30mAD0ONuKz-ghc8.2.2.so": "af9a545b97e5b3b05b7e8d8d849489dd7fc9075908eda0447b40ec5a0fa55e14",
+    "/usr/lib/ghc-8.2.2/site-local/http-conduit-2.2.4/Network/HTTP/Conduit.dyn_hi": "d804635604b3e4ba1d02a3acccd61b70f6a09c3ff667ec46a106b4d7e035fcc9",
+    "/usr/lib/ghc-8.2.2/site-local/http-conduit-2.2.4/Network/HTTP/Simple.dyn_hi": "a5ad01c16acffa78b147a4d091b7e6db2ed39826ec37954e797f5e52b46b37e9",
+    "/usr/lib/ghc-8.2.2/site-local/http-conduit-2.2.4/Network/HTTP/Client/Conduit.dyn_hi": "b6ceefc4e4250910adbcaeccdc6bd4cec833542803c37d1a0f52a2455ba0993f",
+    "/var/log/pacman.log": "e618b17917e69a9906113770b25b18272502c3abb81eca8885a6b34a1aa1be8c"
   }
 }

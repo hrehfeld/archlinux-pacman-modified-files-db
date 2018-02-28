@@ -18,5 +18,25 @@
     "/usr/lib/python3.6/site-packages/html2text-2017.10.4-py3.6.egg-info/SOURCES.txt": "ca71a98901f2e4ec6711c240bfd3556bc13a3e7525bcf7a9e17de01c99d46f5a",
     "/usr/lib/python3.6/site-packages/html2text-2017.10.4-py3.6.egg-info/dependency_links.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
     "/var/log/pacman.log": "632cc23a75f6f565b9ac9921a758c8cd432ae025bcb8aeebb138ab2158c270a6"
+  },
+  "2018.1.9-1": {
+    "/usr/bin/html2text": "1609098447f2f4fd534e6cbb4796e750de01c12385ec84b61523794e5dd668c6",
+    "/usr/lib/python3.6/site-packages/html2text-2018.1.9-py3.6.egg-info/PKG-INFO": "a3dc72e350de063d85844660c8658fb1a03850d748c29e75171ff5753430a716",
+    "/usr/lib/python3.6/site-packages/html2text-2018.1.9-py3.6.egg-info/top_level.txt": "21f57d4a1a09eca93a5a829e90b7c4904278451b349da1f0b1a5cde4937cb2b8",
+    "/usr/lib/python3.6/site-packages/html2text-2018.1.9-py3.6.egg-info/entry_points.txt": "0edfe6e9f4fba33c0bdb3a8b05408cdb511db9ba10d6d76a036778d8510187ca",
+    "/usr/lib/python3.6/site-packages/html2text-2018.1.9-py3.6.egg-info/not-zip-safe": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "/usr/lib/python3.6/site-packages/html2text-2018.1.9-py3.6.egg-info/SOURCES.txt": "0f849cdd7c6c889a075bc0272fb1bd1fb9b0dddf94cc505efdcbbde59c55381c",
+    "/usr/lib/python3.6/site-packages/html2text-2018.1.9-py3.6.egg-info/dependency_links.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "/usr/lib/python3.6/site-packages/html2text/__init__.py": "3e90b7ce9afe78eb3e9eacc133cb388ce9744ede0be781ea9bf2719cfed59487",
+    "/usr/lib/python3.6/site-packages/html2text/compat.py": "977f2318431686d301b1123ab04fd6ca5c6239e6fc2734d10ca48ca38d6dd442",
+    "/usr/lib/python3.6/site-packages/html2text/utils.py": "d345d9485fe355ee73014fcb951127ed1fe944a50955db4c4a6b7c85feb41d41",
+    "/usr/lib/python3.6/site-packages/html2text/config.py": "aecda86e34ecf02fa30071dceb28560f5d6d5c81a4574f0300d78c97ea61817c",
+    "/usr/lib/python3.6/site-packages/html2text/cli.py": "14b10f41708f9147faedd1651fc3bed68fd21a0ec1bd4594dc0e4ac30e6c910c",
+    "/usr/lib/python3.6/site-packages/html2text/__pycache__/compat.cpython-36.pyc": "c3092958ef64e31d01c742d75df50be8e1364180810c56165f001900d6d6a9fe",
+    "/usr/lib/python3.6/site-packages/html2text/__pycache__/__init__.cpython-36.pyc": "b277e5a60e4088b44822ffd40769b2bb285407769f4f90e41c7160e393349643",
+    "/usr/lib/python3.6/site-packages/html2text/__pycache__/config.cpython-36.pyc": "9f58ad06271e616b58c08dee55e97dac1fb5bef5e8045874d3ebf7df6720ae65",
+    "/usr/lib/python3.6/site-packages/html2text/__pycache__/utils.cpython-36.pyc": "3d345f2a96a338aaf977fb29521bb5b0084b049227ec5c74e9ca71b45348ce0f",
+    "/usr/lib/python3.6/site-packages/html2text/__pycache__/cli.cpython-36.pyc": "66b72bbd8dd32222d308dfe9ae905134817d1061c283ded521ecab44696addcc",
+    "/var/log/pacman.log": "7584bc0a74cd9132fbb56a894f9ba5939afda0c998be8262e9ae8afbf1fb6b3c"
   }
 }

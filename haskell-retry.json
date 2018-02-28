@@ -30,5 +30,13 @@
     "/usr/lib/libHSretry-0.7.5.1-RdMBt9iy2gLVx9rlWwlUA-ghc8.2.2.so": "201c4f6c3da2af96e144d9ca06954d238961235170e7601581e3727b5a2d6cb6",
     "/usr/lib/ghc-8.2.2/site-local/retry-0.7.5.1/Control/Retry.dyn_hi": "9ff93638b34f12c905242fd0e2725c0c8a6ffb76aa4834ee17df458d707a6e95",
     "/var/log/pacman.log": "93cf536747646eac05bfce4d3d07e4bb13d1d1596d245d8218525d859d642b72"
+  },
+  "0.7.5.1-2": {
+    "/usr/share/haskell/register/haskell-retry.sh": "3b6024cb207b07a750e6635b51df4f3d0d6395f174c1f46ec596a0ddceae2303",
+    "/usr/share/haskell/unregister/haskell-retry.sh": "a40ecb23549e36e1bd2084f47e4fb91946095f226bfa45d35f9f170b05580ba7",
+    "/usr/share/licenses/haskell-retry/LICENSE": "81c623d2af020cc64e40280e076e46c0ddad70764e092685cedab15dbe9ef671",
+    "/usr/lib/libHSretry-0.7.5.1-BYsXNp6b2EI3ZoFYcx20iT-ghc8.2.2.so": "b5047b2cee1a8b3e9167e6c8f27e532e9710abc30a5dc983915cd1896a1c5020",
+    "/usr/lib/ghc-8.2.2/site-local/retry-0.7.5.1/Control/Retry.dyn_hi": "6a76c36619b0359dbf30ff36a8dec6771d28aedb12def20f1ef4577ea73c4e99",
+    "/var/log/pacman.log": "fb0956300ffd1b6aafda3d7c3a34a94f0670a308d0bfc5311e60019e56a496a5"
   }
 }

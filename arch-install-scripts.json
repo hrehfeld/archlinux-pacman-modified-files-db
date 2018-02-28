@@ -5,5 +5,12 @@
     "/usr/bin/genfstab": "221fa2fd7d88702a804f85d1f5c005e638a95963f6d703005cfe6bceac5e3d58",
     "/usr/bin/arch-chroot": "311f7b115de98147697dacc2d9f9e54db3fe1dd591727db72d419a0790f89e4f",
     "/var/log/pacman.log": "7bc94c0d343e8b1ed967fe513ec5f68873d27e4edb24267ffba144dfa7558d1d"
+  },
+  "18-1": {
+    "/usr/bin/pacstrap": "9457015692f65ccf2e46af158d6d334e797ec36f05b60132bccde1258b02c7b9",
+    "/usr/bin/arch-chroot": "ef9bef679112bde5f1fdd436e64b90513b9344c7ea80e0e9951e84a4da60c83e",
+    "/usr/bin/genfstab": "316d32403bf0f88e0154c3468c5d67e3f3f41ad939d38e3386b290964e69e8ba",
+    "/usr/share/zsh/site-functions/_archinstallscripts": "e56b8f0109033ca1555baec23b5cceb8a4e4b7f4e5ade4df77c5083954ed0657",
+    "/var/log/pacman.log": "5e6f0d90c94b016176d285ebe5fe3b969d1db027cc1acfb142dfcb1299bb21dd"
   }
 }

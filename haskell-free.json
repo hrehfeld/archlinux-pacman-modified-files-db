@@ -90,5 +90,28 @@
     "/usr/lib/ghc-8.2.2/site-local/free-4.12.4/Control/Monad/Trans/Iter.dyn_hi": "8264f8efd4e934b2b685449dbc1c5b013d62adcf1af8572fdd4357baef50d1fb",
     "/usr/lib/ghc-8.2.2/site-local/free-4.12.4/Control/Monad/Trans/Free/Church.dyn_hi": "9656dc8dd11fe86054cf9d46f51d3e8d6942fe9424072de04f7ba419cffc63aa",
     "/var/log/pacman.log": "faa9e48c3e1d089ad1348729d3d66a4a1581855e8ff2e532513f2515910eb655"
+  },
+  "4.12.4-46": {
+    "/usr/share/haskell/register/haskell-free.sh": "f029cc7ffe741c3025fffc0c55abe3d7dad584fa9354e1aaceba54d99198f968",
+    "/usr/share/haskell/unregister/haskell-free.sh": "e44897fdb4a5a6a7330ca2cc312bc4352912b662e1ef66a01707dbda46629073",
+    "/usr/share/licenses/haskell-free/LICENSE": "db35bea497d16c9f0398e1e71db178d51349221fda8bdfc30774e6e1be2f3984",
+    "/usr/lib/libHSfree-4.12.4-HkGeSdMzOXjJtgc05gmQas-ghc8.2.2.so": "191de919d70eb447573d79f92cb362af1b86e7a501d757a51fe66984801ed246",
+    "/usr/lib/ghc-8.2.2/site-local/free-4.12.4/Control/Applicative/Free.dyn_hi": "0c95493ad47b6432f67fc8c18d1117095a7bbf39f227023a77fa094fb63f51b3",
+    "/usr/lib/ghc-8.2.2/site-local/free-4.12.4/Control/Applicative/Free/Final.dyn_hi": "eba5fcfd8141228d41871c62afe77c0f75f331d7209d51128d9a26a4a28b4eb4",
+    "/usr/lib/ghc-8.2.2/site-local/free-4.12.4/Control/Applicative/Trans/Free.dyn_hi": "95177cad9ccfe38810d065c2965090f1d5ff836feca89761d74db1d96849affb",
+    "/usr/lib/ghc-8.2.2/site-local/free-4.12.4/Control/Alternative/Free.dyn_hi": "ef2e0d60caa6d9f499357780842bfb4c2c1c371aa8960334bfa845e68ea9002e",
+    "/usr/lib/ghc-8.2.2/site-local/free-4.12.4/Control/Alternative/Free/Final.dyn_hi": "19effb8d38aa4fcda829a9823500860c98d1f1445e7d22c100a28b145c5e81c2",
+    "/usr/lib/ghc-8.2.2/site-local/free-4.12.4/Control/Comonad/Cofree.dyn_hi": "0438bfde2247a949838d01732127c9a3cd5c0b803ef97214b4dccbfa805dd2e0",
+    "/usr/lib/ghc-8.2.2/site-local/free-4.12.4/Control/Comonad/Cofree/Class.dyn_hi": "d75ebd24290760ad59e80f14dab9e62bda3589f671efeeb31b63bb9256c6a94c",
+    "/usr/lib/ghc-8.2.2/site-local/free-4.12.4/Control/Comonad/Trans/Cofree.dyn_hi": "8d51a4f375daccfe21f2949d16f45935fbf4934faec6320a232d1362aeca0d5a",
+    "/usr/lib/ghc-8.2.2/site-local/free-4.12.4/Control/Comonad/Trans/Coiter.dyn_hi": "a5fe594f318d97ea1096627b07cc37b0fe82c5cb14b4505ee1e2d5c6f9ae3aaf",
+    "/usr/lib/ghc-8.2.2/site-local/free-4.12.4/Control/Monad/Free.dyn_hi": "27f1dab3131ebeb8a9905e43fb7848d7d88b714d79c3cf09ddb78f4c5b2c6b8d",
+    "/usr/lib/ghc-8.2.2/site-local/free-4.12.4/Control/Monad/Free/Church.dyn_hi": "afb67c91c664d6232101fd15ef3fe2069c6fe5551501296e577857e83b6d0064",
+    "/usr/lib/ghc-8.2.2/site-local/free-4.12.4/Control/Monad/Free/Class.dyn_hi": "233f88a2277744cd0abc1e0a3d6d794b5743ee8a1313879c0a74744592f4fd44",
+    "/usr/lib/ghc-8.2.2/site-local/free-4.12.4/Control/Monad/Free/TH.dyn_hi": "6633b18b8304d3476210664c56e7b1e6cd18b45815d8e3fe8a14a0855b463673",
+    "/usr/lib/ghc-8.2.2/site-local/free-4.12.4/Control/Monad/Trans/Free.dyn_hi": "e0c59989d53dfa31ebe22eca600706538a653404d6e7d361b20d76fd5bd2a4b9",
+    "/usr/lib/ghc-8.2.2/site-local/free-4.12.4/Control/Monad/Trans/Iter.dyn_hi": "33cc1f780d2ba4db942cf10dbb6ca520ed9f767ccffb8256bad1edb5ef8bc64e",
+    "/usr/lib/ghc-8.2.2/site-local/free-4.12.4/Control/Monad/Trans/Free/Church.dyn_hi": "c4c42b9c6e8ea27e923da5d6076af0136681f7f40ed33a14c24d816852a9ff88",
+    "/var/log/pacman.log": "1cc148f0ace374ef1f33694c24b8e33b4e69ee0d0fb8efdaf2e525fc77e3aa30"
   }
 }

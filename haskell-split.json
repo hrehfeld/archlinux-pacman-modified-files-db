@@ -16,5 +16,14 @@
     "/usr/lib/ghc-8.2.2/site-local/split-0.2.3.2/Data/List/Split.dyn_hi": "ec94ef16b268be74c57c715254ed9448cb7e559f8a75299978932104cd024760",
     "/usr/lib/ghc-8.2.2/site-local/split-0.2.3.2/Data/List/Split/Internals.dyn_hi": "9b723e459557a088cf76d1cb25215627801a6a745df7400edc67a1de44a77070",
     "/var/log/pacman.log": "24f8466b8ffa17d8a77dca35e3bc6c1591d6795ea46bf4b8c34519b20b4ad044"
+  },
+  "0.2.3.3-1": {
+    "/usr/share/haskell/register/haskell-split.sh": "bf4f1497902f17bee1f67431f3a9626cad1d927255f13d65d12cf3c79d06c79c",
+    "/usr/share/haskell/unregister/haskell-split.sh": "0ca8fd267cabbf4c556dbfe2fa3c26199fdaeb8d7d9fb9809a4c47cc92c49fd0",
+    "/usr/share/licenses/haskell-split/LICENSE": "9a7e7299feb31a257fc0cd08c49dfea35ec186c9bb59b0a3ff67c63fc29a8a58",
+    "/usr/lib/libHSsplit-0.2.3.3-BN2ylJ9hXZBIaY8HiUVge7-ghc8.2.2.so": "9564049f7060e31e7000c74c168b77995cbc91565e800fc381085503390e0f31",
+    "/usr/lib/ghc-8.2.2/site-local/split-0.2.3.3/Data/List/Split.dyn_hi": "d2c9b1b407e75a2308f4db42d1aaa737626d3530603bfc5112a4d8af0f5fa154",
+    "/usr/lib/ghc-8.2.2/site-local/split-0.2.3.3/Data/List/Split/Internals.dyn_hi": "319b3384cb3f2d3a3bb145603fd3118a30fae669306ac8498d3af57163c8bab5",
+    "/var/log/pacman.log": "c8fc55577e00d269c22984741bfdc7019374a1d55680434a257ec9e2d8e9bc34"
   }
 }

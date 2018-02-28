@@ -26,5 +26,19 @@
     "/usr/lib/ghc-8.2.2/site-local/Glob-0.7.14/System/FilePath/Glob/Simplify.dyn_hi": "c8a8eb4ae894fbe90ca6675fdbb9c7261be0475f6dafff954a6819e6a4b5102a",
     "/usr/lib/ghc-8.2.2/site-local/Glob-0.7.14/System/FilePath/Glob/Utils.dyn_hi": "5b358d834669271a329a58cecc4275f51129f8502b0b1208fba36fd4842d7c4b",
     "/var/log/pacman.log": "618920abccd72947f52a00908ee85a3a0dfb38ccf015fff4aa76763dfacf1ecb"
+  },
+  "0.9.1-2": {
+    "/usr/share/haskell/register/haskell-glob.sh": "a791c273c65a22bef1f99a53ae489dfabeb149bcbded5c3ecb45e67e71b75b2e",
+    "/usr/share/haskell/unregister/haskell-glob.sh": "7047d839e9bddfd46b903f94c074c3c107a47f80462f706882e648f19bc51914",
+    "/usr/share/licenses/haskell-glob/LICENSE.txt": "71a57235f2f0f2ed967175b75c0d79d0a9ef1c45b304aef5194f9b98a11f3c76",
+    "/usr/lib/libHSGlob-0.9.1-6YcAbT5wqosERCyEFB7odX-ghc8.2.2.so": "50e246c9c9947998f9c11d5a974a3c221b70427224c2a37d6215522a7b92ac7c",
+    "/usr/lib/ghc-8.2.2/site-local/Glob-0.9.1/System/FilePath/Glob.dyn_hi": "f95cbbba2714b5b0a9165329a03eb61e5b63b331d7ac27a7cc8e24633abcac01",
+    "/usr/lib/ghc-8.2.2/site-local/Glob-0.9.1/System/FilePath/Glob/Primitive.dyn_hi": "9e20fccf70a7c12a7cb9825e486735486c77928af74e36685ddbfd40c3920936",
+    "/usr/lib/ghc-8.2.2/site-local/Glob-0.9.1/System/FilePath/Glob/Base.dyn_hi": "a511e15cde6e37733b93aa646db8ddb86e4220f2f8473051b0c00359d1220eb5",
+    "/usr/lib/ghc-8.2.2/site-local/Glob-0.9.1/System/FilePath/Glob/Directory.dyn_hi": "b6fb8823d3508060fade9f78e10e917cb199af6bef89767ef2c52f18d9d07e69",
+    "/usr/lib/ghc-8.2.2/site-local/Glob-0.9.1/System/FilePath/Glob/Match.dyn_hi": "3085a767881eddbdbee530c91ce8cd690e3c8db8bc6cb140f6b12ddde4db7bad",
+    "/usr/lib/ghc-8.2.2/site-local/Glob-0.9.1/System/FilePath/Glob/Simplify.dyn_hi": "4702ebf07642a880fd915c4801a43ff1c7b949e2db3affdb5270168489ddda89",
+    "/usr/lib/ghc-8.2.2/site-local/Glob-0.9.1/System/FilePath/Glob/Utils.dyn_hi": "f2ab62add2ea92061b60e4c2e2df9620db0aee6075a3ff3097b8439bb1f91ee4",
+    "/var/log/pacman.log": "9ea8670e8ab25aea34524419e6aa2f0923bad6de723815872843bf59390e155a"
   }
 }

@@ -22,5 +22,13 @@
     "/usr/lib/libHSresource-pool-0.2.3.2-AxpUqZgHU341wPjgPw9ojm-ghc8.2.2.so": "98cc0511431ca66d0dfdcd5842f8f290efc651a06ad8d16781d2b7574d990757",
     "/usr/lib/ghc-8.2.2/site-local/resource-pool-0.2.3.2/Data/Pool.dyn_hi": "4fd4dfe6081f9b75c8e89dde4e3b03a2d6ff75157ca73e8b646dfe91df78d161",
     "/var/log/pacman.log": "8e9a3c039783db61000e7e17c6fde669eef6df2f2f3c7fe677a4ba5cf4aba014"
+  },
+  "0.2.3.2-25": {
+    "/usr/share/haskell/register/haskell-resource-pool.sh": "fd1a3e00b32ebbc2fc92b451d56ba71f5385b78d15254f8b99593b86a736a9b0",
+    "/usr/share/haskell/unregister/haskell-resource-pool.sh": "8187b03c3885a2bb824cc713dc89d9d952d2698991941e0f0fad970e08e78d51",
+    "/usr/share/licenses/haskell-resource-pool/LICENSE": "ad33b0ce49deffa788aa9b8867a4c4fbbeff7b67f0a004a760eac9aecbf21a8b",
+    "/usr/lib/libHSresource-pool-0.2.3.2-JwLWIAEPuNiEkt6UPEV6jI-ghc8.2.2.so": "bec3de63da6c9e13c721f6b87971b9e1275bf1b230c393f11bb813b718b8bce9",
+    "/usr/lib/ghc-8.2.2/site-local/resource-pool-0.2.3.2/Data/Pool.dyn_hi": "f76b807a864b25e6028e5f11c63bcfc03d55e2fea7be456a375de2ea7ec3bce5",
+    "/var/log/pacman.log": "c396ded8628843fb4a7641e9d88bf4aa1453aa7a3e6504a96ce1882cc3c670e1"
   }
 }

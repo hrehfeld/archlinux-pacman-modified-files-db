@@ -21,5 +21,28 @@
     "/usr/lib/libjson-c.so.2": "833607a5c85dd3e8861a68ca47ce690014e1f65514ae7a6563d8dc2747a24e5c",
     "/usr/lib/pkgconfig/json-c.pc": "b1447cf7115cb0f846008d221c70cef5796c9c84e7a21a44d1b35c120937612e",
     "/var/log/pacman.log": "0164a6cf3fb1d5fb2ddcdd7f7974442ffd629eb3450fbc0cc5e18c318d4f4d97"
+  },
+  "0.13-1": {
+    "/usr/lib/libjson-c.so.3": "eabbed93acdd85e8c6dce538497e0f0f5f3af94bf6d08db1766c647e13963bd8",
+    "/usr/lib/libjson-c.so": "eabbed93acdd85e8c6dce538497e0f0f5f3af94bf6d08db1766c647e13963bd8",
+    "/usr/lib/libjson-c.so.3.0.1": "eabbed93acdd85e8c6dce538497e0f0f5f3af94bf6d08db1766c647e13963bd8",
+    "/usr/lib/pkgconfig/json-c.pc": "c55db2e02621f445201cb73965d8d0db4bd8be7ddb6f1b382ec73144a1352a52",
+    "/usr/include/json-c/arraylist.h": "a80db992dda4f3f28102e271d2656d52a0f487c9fd82c501ba9e2b36e76213f8",
+    "/usr/include/json-c/bits.h": "bbfdb896632342dae0c54fee47f197d68cd569f24aa1ee441acb09474f04e0c7",
+    "/usr/include/json-c/debug.h": "e3d410a05f1cdcf19360d0bdb3fcd5d595f7e56716a5665c6d95100b29ddfeae",
+    "/usr/include/json-c/json.h": "5abff761849c8311a2257d2f7da69c24910a277e2cb3af665488fe0de5b23d07",
+    "/usr/include/json-c/json_c_version.h": "61912222172103c468674ba13a6add2511115288abd3dc8e1badc8e598c76397",
+    "/usr/include/json-c/json_config.h": "8d813790eeb6efec103a6b4a3e21319b61cd20ea3c39d158b9736d89bf3cba84",
+    "/usr/include/json-c/json_inttypes.h": "1bdbc555098885ef8ed52e5423e5a6c75de94766e85d80b89e9173d2287f20cf",
+    "/usr/include/json-c/json_object.h": "d077763c0ad7c486a90e08cad2f7d8a2f89cb3923b17130df708a6af5cdbf18d",
+    "/usr/include/json-c/json_object_iterator.h": "a77eff9ef87bc540d1d85e07557a9e4b0f6c91e5cf6c8853ba101c32de202646",
+    "/usr/include/json-c/json_pointer.h": "1265a2c8691597ed54585119148f28763bcabadaf63d4c52ecd27e1db952a1b0",
+    "/usr/include/json-c/json_tokener.h": "9cb92b15a41f3e3dd8c014a782ba602eba1eb6b8851e0b2d90cb693ba0519500",
+    "/usr/include/json-c/json_util.h": "d78a518c4f169006eabaf3e14a20c46931b534e4edd02e309013c3c5e8387e49",
+    "/usr/include/json-c/json_visit.h": "dbb45b3ffc3ff4a4f254ec58673bda46eac015a41c60fbab32a8466db79d8df6",
+    "/usr/include/json-c/linkhash.h": "5010dd33562c3949e0bcf987b403d104714073e98708d067c8128b7c4d83efdf",
+    "/usr/include/json-c/printbuf.h": "4b47c81d33bb1ae5906d32ee7776132301d9fada182bbc6d6be2e8fe180bee95",
+    "/usr/share/licenses/json-c/COPYING": "74c1e6ca5eba76b54d0ad00d4815c8315c1b3bc45ff99de61d103dc92486284c",
+    "/var/log/pacman.log": "d5dadf88d72be2d5de341b7ee36845841a04ae79f5611058cb420ad8db70ed23"
   }
 }

@@ -110,5 +110,33 @@
     "/usr/lib/ghc-8.2.2/site-local/texmath-0.10.1/Text/TeXMath/Unicode/ToASCII.dyn_hi": "c82d29ca62397ee974d05fa807555ed2b5fe4f43e47ba4a330e6031b54517c4b",
     "/usr/lib/ghc-8.2.2/site-local/texmath-0.10.1/Text/TeXMath/Unicode/Fonts.dyn_hi": "1d133b92e5e7f84b592202d01d20b0eda477d3a1d65e3ea4a0894e2a87b4e8c1",
     "/var/log/pacman.log": "b949c18d674406cb826ad6244dacbe4c77bedcee2c67b5ad75db6aa06aed1af0"
+  },
+  "0.10.1.1-1": {
+    "/usr/share/haskell/register/haskell-texmath.sh": "defe272387d07498bcde5b4443f54016eba8a6e623839ee374cb6a9a9b0e420e",
+    "/usr/share/haskell/unregister/haskell-texmath.sh": "6b569e95d7469ea30555d6371f4692d9c47f4bdf000d13f27428bbdc544c6804",
+    "/usr/share/licenses/haskell-texmath/LICENSE": "d786ff257af0ced9650a8733b17713d251ac3d6ccb0236edb49a16a965638601",
+    "/usr/lib/libHStexmath-0.10.1.1-3lUPgJrjpGPJpMBcIrpHMR-ghc8.2.2.so": "71e0995ee9047694f93751728afab02654f99476fe1980118f6b3586e43b2540",
+    "/usr/lib/ghc-8.2.2/site-local/texmath-0.10.1.1/Paths_texmath.dyn_hi": "d4ef31038be384395d1c7f869c185cf20caa5af24564b1fffaaf342ffda8bd68",
+    "/usr/lib/ghc-8.2.2/site-local/texmath-0.10.1.1/Text/TeXMath.dyn_hi": "b02cf42f4e49df97c8bf8a011c9ef50dfdec1ee01bb147254ee28c1249a476aa",
+    "/usr/lib/ghc-8.2.2/site-local/texmath-0.10.1.1/Text/TeXMath/Types.dyn_hi": "c727e87e024367b03b688730c4403280f5e1eebcc7b9dd1f115fc24cfb3dadac",
+    "/usr/lib/ghc-8.2.2/site-local/texmath-0.10.1.1/Text/TeXMath/TeX.dyn_hi": "fcd84ff0614165bdc7e63e59c55f6d268ecce89d6d91e98ba1fd14ed64d4ef80",
+    "/usr/lib/ghc-8.2.2/site-local/texmath-0.10.1.1/Text/TeXMath/Compat.dyn_hi": "fc98d3a9aaf417573a7ae31aca99e8dbbaec0b5f16ab2c9f5b20e64f59ac7c4e",
+    "/usr/lib/ghc-8.2.2/site-local/texmath-0.10.1.1/Text/TeXMath/Shared.dyn_hi": "d67812e75d48151d6c0b459c1202d6e13605903fdf6ba74c20cd6dee30f42f93",
+    "/usr/lib/ghc-8.2.2/site-local/texmath-0.10.1.1/Text/TeXMath/Readers/TeX.dyn_hi": "dcc4ca78c7d1d6dc1d4fc8246c5e6e5226667081f5edec15eb4266cd086458b1",
+    "/usr/lib/ghc-8.2.2/site-local/texmath-0.10.1.1/Text/TeXMath/Readers/MathML.dyn_hi": "73a0ae93e2423df5bcaf6c5c971bb59c2827982c19d09d558dacf14132364aea",
+    "/usr/lib/ghc-8.2.2/site-local/texmath-0.10.1.1/Text/TeXMath/Readers/OMML.dyn_hi": "e3044028d8f6e9f83bac4b3e05a7419634dad1ce57c44c9e0dd054a0ae79ab7c",
+    "/usr/lib/ghc-8.2.2/site-local/texmath-0.10.1.1/Text/TeXMath/Readers/TeX/Macros.dyn_hi": "d8244c8f4c7e20bdc98dd854f75882bbd80908e3054145003089a24563701562",
+    "/usr/lib/ghc-8.2.2/site-local/texmath-0.10.1.1/Text/TeXMath/Readers/MathML/MMLDict.dyn_hi": "9341812290c11384b60595cdb8b441bde5baefa49b38f8bc2bb02dac52c9f00d",
+    "/usr/lib/ghc-8.2.2/site-local/texmath-0.10.1.1/Text/TeXMath/Readers/MathML/EntityMap.dyn_hi": "04a0352b77443e54c7699a2b23a6413466bd97fd65cbb8ba5e9d1338271e1ae2",
+    "/usr/lib/ghc-8.2.2/site-local/texmath-0.10.1.1/Text/TeXMath/Writers/MathML.dyn_hi": "fc566c7c4c499aad444e2e21cf4844d7a93c840cf3280146f1d11ad9a55c8062",
+    "/usr/lib/ghc-8.2.2/site-local/texmath-0.10.1.1/Text/TeXMath/Writers/OMML.dyn_hi": "fffaefaf1d56af6e7f4187ddd05f28bffb7eb0d34d8e2b205eee0f8287e3ba92",
+    "/usr/lib/ghc-8.2.2/site-local/texmath-0.10.1.1/Text/TeXMath/Writers/Pandoc.dyn_hi": "5a8366c1f79d3829d5232518c222674d48316e7f794da55b5e4c3aa31a6405be",
+    "/usr/lib/ghc-8.2.2/site-local/texmath-0.10.1.1/Text/TeXMath/Writers/TeX.dyn_hi": "0105a368c0f5779fda3aa959c04ba8f34db6571b67105de9a8bc3b324bf87fba",
+    "/usr/lib/ghc-8.2.2/site-local/texmath-0.10.1.1/Text/TeXMath/Writers/Eqn.dyn_hi": "d91a493341b1594fba8458f7cc447daf9edbe49ed247a7ce7eb3ef1c6faa9da7",
+    "/usr/lib/ghc-8.2.2/site-local/texmath-0.10.1.1/Text/TeXMath/Unicode/ToUnicode.dyn_hi": "0ad2ee32adc0dc7f3c6b461af9e24dc2d886acb42877fd9776b217397e0cb2d4",
+    "/usr/lib/ghc-8.2.2/site-local/texmath-0.10.1.1/Text/TeXMath/Unicode/ToTeX.dyn_hi": "45a0c75958ec24247828df7f8d130de9ef71dedb599e8d1e88aaffd4ad8dd525",
+    "/usr/lib/ghc-8.2.2/site-local/texmath-0.10.1.1/Text/TeXMath/Unicode/ToASCII.dyn_hi": "a8de36d9c01658d6a39d9d663aaf1334a610e2078e0132cfac4010a25b8e1db4",
+    "/usr/lib/ghc-8.2.2/site-local/texmath-0.10.1.1/Text/TeXMath/Unicode/Fonts.dyn_hi": "69de3a5c0d456f18687578d2047fa563600247b8542c4f0709dcaa9b0478f805",
+    "/var/log/pacman.log": "8e00537eaaad66da41207f73ae94a00fe1e1c07912ba383b737dd3072cac9a5b"
   }
 }

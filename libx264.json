@@ -6,5 +6,13 @@
     "/usr/lib/libx264.so": "109ba88c291911e6102ad5e8f97f594299c8a9f3fe887678caf0a23771955dda",
     "/usr/lib/pkgconfig/x264.pc": "2cdd76227efcfd6b135cb2ca61bd769cd881d863e9df3f9545dbe3c36e234da7",
     "/var/log/pacman.log": "66f546d68473b70040c85af5e0d2249423bd18a1620d45f7b1fbcf5c01d987f4"
+  },
+  "2:152.20171224-1": {
+    "/usr/include/x264.h": "818ec792d07fa9e4f58fc981e476d4a66d5d57476799e02f4ea896be6ad4360d",
+    "/usr/include/x264_config.h": "6de5fa4810198318d1029bd6c2e56879c4b92a33dcdbd339494b599852896ffd",
+    "/usr/lib/libx264.so": "66a544fff972be96af8eeeaf2cd00895ee6b979432ba4519e8a3d0eadf9139e2",
+    "/usr/lib/libx264.so.152": "66a544fff972be96af8eeeaf2cd00895ee6b979432ba4519e8a3d0eadf9139e2",
+    "/usr/lib/pkgconfig/x264.pc": "9566f7314a63ed3994422e13b3c58cd9e3dc1a75290ff69027a7f7df72bf950f",
+    "/var/log/pacman.log": "abdbe914a987f3d6fbd7c8656ff53e1944cff7c788cccefe56d0f0177766847f"
   }
 }

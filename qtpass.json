@@ -12,5 +12,12 @@
     "/usr/share/applications/qtpass.desktop": "bab7d42be06497649d396ade1201d2c0223930c144625459340057db6813510a",
     "/usr/share/man/man1/qtpass.1.gz": "0cf8fc4fcb770f5e57cfed871630ae8fa1a43f0dd26e82e40a3658a78a63702f",
     "/var/log/pacman.log": "88eb8a0a3d634241c9d33b2d5b678cb118e2984b9df451eb39594c19cd66474e"
+  },
+  "1.2.1-2": {
+    "/usr/bin/qtpass": "dbe44ea29906b5dd2ba0ee6aab8cb27ca7c3d30ad0add9ef8ce180eebdb5e3d3",
+    "/usr/share/pixmaps/qtpass.png": "56e8464cf89eaeb9933d73053da5f19abe8ecf5065947d6134af6b122569fdac",
+    "/usr/share/applications/qtpass.desktop": "bd1b83e8b2e611629cf22001c70fb7ff3c741dd4fa9f601a8c7d67cb76a11a56",
+    "/usr/share/man/man1/qtpass.1.gz": "0cf8fc4fcb770f5e57cfed871630ae8fa1a43f0dd26e82e40a3658a78a63702f",
+    "/var/log/pacman.log": "539ff45beea6a2fc5ed9b08b7661f265b68e108f01c9e8764e52f97f7a8400e8"
   }
 }

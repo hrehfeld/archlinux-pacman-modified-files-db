@@ -25,5 +25,14 @@
     "/usr/lib/ghc-8.2.2/site-local/path-0.6.1/Path.dyn_hi": "faa0c11ac03a6d471d893f484923e561ea0cac82a99dcdda407790fe614a0928",
     "/usr/lib/ghc-8.2.2/site-local/path-0.6.1/Path/Internal.dyn_hi": "75c51c88acdc7e5956a075243be38d6e8208f7d5704d8e687b7db8140d7954dd",
     "/var/log/pacman.log": "d8495e3340bcaaae95622a4442be62aee6ecde4d83774945392b5c55eb0946f2"
+  },
+  "0.6.1-17": {
+    "/usr/share/haskell/register/haskell-path.sh": "a84a046f69daf81fc66b2ce58c643f27934ac31f811bd69fddf606db528337e2",
+    "/usr/share/haskell/unregister/haskell-path.sh": "9e095bb624aa0100d00844b3505f6d6698a5f567b020bf8074e113d5766fdc67",
+    "/usr/share/licenses/haskell-path/LICENSE": "eec74ad599b4ba65c44e85752a6c89ebb05aa04c1dfc1d1de45ad302d4b21aaa",
+    "/usr/lib/libHSpath-0.6.1-I9K2RsRnV9HGQG9nNbsgml-ghc8.2.2.so": "b0409b7b1597c7009058c3c8a5a2e3ddd9578c6e171a36edae3461eb3e34c35f",
+    "/usr/lib/ghc-8.2.2/site-local/path-0.6.1/Path.dyn_hi": "3c2a48428e744cb69e13923bc87cf1efe74eba4e6cfd3c28d314db7cc4cecec3",
+    "/usr/lib/ghc-8.2.2/site-local/path-0.6.1/Path/Internal.dyn_hi": "1a5d761b343a294007bc3f9279cba4c232b52d238c125710288c6fdc3264eab6",
+    "/var/log/pacman.log": "7dada171a8d52f1f83109543cdb20c1a357f29b74e04eb66d6693ebd8c1e588b"
   }
 }

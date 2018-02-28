@@ -42,5 +42,25 @@
     "/usr/share/doc/jsoncpp/README.md": "2fa80642a523952975c6ac8d07c4f007049d88c3065857ef495aa0e4cb899ed0",
     "/usr/share/licenses/jsoncpp/LICENSE": "95039d77a20e75b428207740d9a8f97b2dce3c89da4b21f1ad862b5997160e0a",
     "/var/log/pacman.log": "73ecbe03ccaf3119366a998347e9baa50e6df10d848178af538d3cb361fc16ad"
+  },
+  "1.8.4-2": {
+    "/usr/include/json/config.h": "7f4e7d3d34752a4c897761dc4b69a5f42eacc07e118713962c1c427ffdfc8b68",
+    "/usr/include/json/autolink.h": "f77dcb91b8264a57496190084b28b315deae421de2b00f90b6968649417b72ce",
+    "/usr/include/json/version.h": "264832731704fd0878758d8cc0879dd86f924da41052993fe619ab068a0b608e",
+    "/usr/include/json/forwards.h": "0957ac7b5178975a557e4642707622af171a9395cbccca25c80eb86c4d40ede6",
+    "/usr/include/json/writer.h": "7b0af26501c77f09ba0ab7678489d3652ba94b7a813c303e4914319f0697dc04",
+    "/usr/include/json/allocator.h": "f47a5d2fb2d106895577dbc721bbfd7c9e142a1380b054e94998d7a5a573060b",
+    "/usr/include/json/json.h": "6d028ecc5dd4f4eda35535b0ff699a1550300ba6901f1603205be632596c4849",
+    "/usr/include/json/value.h": "7026023b9dfc52cf13bd3517a401eac79d9f1b31eafb53ea6cb7bd6d77c72cea",
+    "/usr/include/json/assertions.h": "26a9c0499534cc1e4fa2168255a0cadaf82fb587a4b3df6ed1eb218220b7e7e8",
+    "/usr/include/json/reader.h": "7a7209153e8fd6cd99b23e6963938d3e27253150731a6f0b21c606631a03fa7c",
+    "/usr/include/json/features.h": "941184b5c5407bdf8175867c19b884d0db7fcd4a62a1705efd63656742ad8ddc",
+    "/usr/lib/libjsoncpp.a": "5f66c43e261efa4109af417902f3236880ac34f1522bef73f91cf5b3d2737e90",
+    "/usr/lib/libjsoncpp.so": "91c37b1707bd1b4119dea4a926e97717d7a900e555173958cc06cd2fc32fbdb6",
+    "/usr/lib/libjsoncpp.so.20": "91c37b1707bd1b4119dea4a926e97717d7a900e555173958cc06cd2fc32fbdb6",
+    "/usr/lib/pkgconfig/jsoncpp.pc": "ad455786a5c6c571c17705627014384fa162aa6e5a02c16f6a0fc46eac5781f2",
+    "/usr/share/doc/jsoncpp/README.md": "d89730c3acc0785777b67888fce0baa3ea6be5d7235ed3765737412aeaed7f10",
+    "/usr/share/licenses/jsoncpp/LICENSE": "95039d77a20e75b428207740d9a8f97b2dce3c89da4b21f1ad862b5997160e0a",
+    "/var/log/pacman.log": "b8704f485e39f2e67f35c16c284918d539386e67d178ca1e5f47188da0dc1325"
   }
 }

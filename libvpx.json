@@ -19,5 +19,26 @@
     "/usr/lib/libvpx.so.4": "1840cede5398f63bf33d1520ed2e52cf5383c649d97581b527793746bd63076e",
     "/usr/lib/pkgconfig/vpx.pc": "8c9ddfc6d3e43e287cfa9989cbd2b2ad55b44dd774c581c24c40b2290cb0e16e",
     "/var/log/pacman.log": "da2d2db1b02161ed0b789bc4eb94407e2c2275465ca99417ac6da79585c01a04"
+  },
+  "1.7.0-1": {
+    "/usr/include/vpx/vp8dx.h": "bba15427ad75ebc1cf25d1d4114d8e0e40bd770032f143f89b315b9e4446ef98",
+    "/usr/include/vpx/vpx_integer.h": "763a49cbb6c961c4d0deb9ca7c74493565ba8cd00e52e731928b0ce2da3b856e",
+    "/usr/include/vpx/vpx_decoder.h": "5874e1c7138c166d511fc444c9233844d08b1c5dae50cb17f2ed52fd95ec0e9c",
+    "/usr/include/vpx/svc_context.h": "2257d719d4bfd31bff5e68f130c2e6ab5fcfc2ed1227ed2b773e8af6c5ecc2c4",
+    "/usr/include/vpx/vpx_image.h": "4d3590d7bd09eae41363640ea0be7fb9cd7715562e0ba457ac610aabf2d75aa1",
+    "/usr/include/vpx/vp8.h": "af0daa706c2696d7eb144d289cf43bdeefb10c38da92b2fc463bc394a725a242",
+    "/usr/include/vpx/vpx_frame_buffer.h": "135c6d6d847c93eb083247b3da9019f8bedffadfdf3f3b0caa460390ae662549",
+    "/usr/include/vpx/vpx_encoder.h": "2744447543edc542b431afd636d27ed8da8b497f208139424eb6588b559e8b94",
+    "/usr/include/vpx/vp8cx.h": "f5ba8a020dd07e1e089ecf45c81c534c4596abb7c1f6905ac712e6a44898bd16",
+    "/usr/include/vpx/vpx_codec.h": "9b8234addd573dd47be8a84d50a960e8e7625ccd825fa31be60b49a37f9f38dc",
+    "/usr/share/licenses/libvpx/LICENSE": "8267348d5af1262c11d1a08de2f5afc77457755f1ac658627dd9acf71011d615",
+    "/usr/bin/vpxenc": "67290cf6a3a1762c9248f743c552795e04b773ed9bb10c1d09f624a70fa9eee7",
+    "/usr/bin/vpxdec": "3db4ab785b29fe09487557bdea032f43b8b3fdf9fd77f4e7c390513544ade762",
+    "/usr/lib/libvpx.so.5.0.0": "d2952935fc84ac74a35b60654c200ab5af6ca33ed38f8748613580d3cb49a346",
+    "/usr/lib/libvpx.so.5.0": "d2952935fc84ac74a35b60654c200ab5af6ca33ed38f8748613580d3cb49a346",
+    "/usr/lib/libvpx.so.5": "d2952935fc84ac74a35b60654c200ab5af6ca33ed38f8748613580d3cb49a346",
+    "/usr/lib/libvpx.so": "d2952935fc84ac74a35b60654c200ab5af6ca33ed38f8748613580d3cb49a346",
+    "/usr/lib/pkgconfig/vpx.pc": "cdf206dabc1533cce89f2a5453c89ad695f8397e1f14199b3cf314d58ed794e7",
+    "/var/log/pacman.log": "eb0cb8e3f7794e30f92ef872a65c837fbc1f220ff4ab5dfc5ca1498ccfdc8767"
   }
 }

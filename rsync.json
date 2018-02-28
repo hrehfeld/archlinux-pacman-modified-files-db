@@ -10,5 +10,17 @@
     "/var/log/pacman.log": "df20998d27ba2f9ad721f9942ddeeefa0f355269627ae2c228e533009ffa908f",
     "/etc/rsyncd.conf": "733ccb571721433c3a6262c58b658253ca6553bec79c2bdd0011810bb4f2156b",
     "/etc/xinetd.d/rsync": "da0ec9ce07bf2edafbc8e44020da29a58038b00c3048a22de57017c56318a767"
+  },
+  "3.1.3-1": {
+    "/usr/bin/rsync": "be6de5de158308eb6b9fe77189f21e8963e589ee73dcd1072e6cae5f7731855a",
+    "/usr/share/man/man1/rsync.1.gz": "186ebdd3de051e9e2224b634353b80ab5acb56dcf725c50672aa710021b68369",
+    "/usr/share/man/man5/rsyncd.conf.5.gz": "8ad8d81f306e77df5b483b57ded9d253883db176b543fae3986d042d8ccde4d8",
+    "/usr/lib/systemd/system/rsyncd.service": "6ad010a1f85f5637bdd0972403c032ca30d71608a36943c71c34ba1c5b463cd6",
+    "/usr/lib/systemd/system/rsyncd.socket": "551f17407de0e539c8419fc2cd48dd0124eb0253a186690b165b51703ffad1a5",
+    "/usr/lib/systemd/system/rsyncd@.service": "21983037aa116943b89ec982bc88e02c12376763e46f5ab25944cc1da29235ae",
+    "/usr/lib/rsync/rrsync": "8c9482dee40c77622e3bde2da3967cc92a0b04e0c0ce3978738410d2dbd3d436",
+    "/var/log/pacman.log": "bd97d3c2972283a919c48a9fdd266efe92ae5864a34abbc31ff876f5b97810bb",
+    "/etc/rsyncd.conf": "733ccb571721433c3a6262c58b658253ca6553bec79c2bdd0011810bb4f2156b",
+    "/etc/xinetd.d/rsync": "da0ec9ce07bf2edafbc8e44020da29a58038b00c3048a22de57017c56318a767"
   }
 }

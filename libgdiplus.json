@@ -5,5 +5,17 @@
     "/usr/lib/libgdiplus.so.0": "57794a96f8ef7ad67c4845ba9262600672fe3e1c7d01d7867883ac1c7052d240",
     "/usr/lib/pkgconfig/libgdiplus.pc": "40f356dbcf243349f39f8efd31b25b9d4a20144bf03310e2e8e62571b8484d74",
     "/var/log/pacman.log": "f19e966a05a92370a0d75055d3be63e89c6054aab945d6ea88529401d3ea23a2"
+  },
+  "5.6-1": {
+    "/usr/lib/libgdiplus.so.0.0.0": "f617a65f5e42356c3334d253355cb4de64dccd7cdbe1ece22cc6401e8a9499a5",
+    "/usr/lib/libgdiplus.so": "f617a65f5e42356c3334d253355cb4de64dccd7cdbe1ece22cc6401e8a9499a5",
+    "/usr/lib/libgdiplus.so.0": "f617a65f5e42356c3334d253355cb4de64dccd7cdbe1ece22cc6401e8a9499a5",
+    "/usr/lib/pkgconfig/libgdiplus.pc": "2909d57b881ab55e9474aa367df4503d195e3e662735e37d8c256a216c1c8f63",
+    "/usr/share/doc/libgdiplus/NEWS": "cb6b1098d806d3f0f255733e3d19443ee18b3485291b2fb72fe64430ede990a9",
+    "/usr/share/doc/libgdiplus/TODO": "b5554694d94e575528658dc1b85a53f6b9bf749c19c2d8f9f7943fdf010a77cc",
+    "/usr/share/doc/libgdiplus/README": "3e4e062ac7a92c31995e5a01ab6034d22e0151b25dce845884bcf17df4354e57",
+    "/usr/share/doc/libgdiplus/ChangeLog": "38172958d57025b104a9a0087c10e8754d2b138c6c28ba23447d7ef298e83bb2",
+    "/usr/share/doc/libgdiplus/AUTHORS": "e33d5d72981217d2cf601fea4fa160f2f6180f4e26e5954b815ca4d786ebbe81",
+    "/var/log/pacman.log": "333d8538dbddcdb880fcfb2a17869208b21afe6c29dba3e964f414f93c277efa"
   }
 }

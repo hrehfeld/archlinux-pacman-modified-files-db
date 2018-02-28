@@ -35,5 +35,14 @@
     "/usr/lib/ghc-8.2.2/site-local/either-5/Data/Either/Combinators.dyn_hi": "61c8404d65687bb426ddb8832839f7190252e6d4e49995a8a98c38060b4e2edc",
     "/usr/lib/ghc-8.2.2/site-local/either-5/Data/Either/Validation.dyn_hi": "9a9d71f0ba9fc225760bbb7b19bf28bcb302343cefa9180e4cecc22403e9a1c4",
     "/var/log/pacman.log": "e0f927e06c950171419df3d922a34fbb968011ef9302f21ee00231dff4b02520"
+  },
+  "5-8": {
+    "/usr/share/haskell/register/haskell-either.sh": "8c4f867318a1a42ceb7c82bfa1d176c3c475a6ee32710f229d60dfb9e6e016d3",
+    "/usr/share/haskell/unregister/haskell-either.sh": "8c9df16c0c87a0a09a6b9209c6136500af051c2e7fc9fa0b835ca0ad358a23c7",
+    "/usr/share/licenses/haskell-either/LICENSE": "417f3f0bc725643573d2258169fa0c0c140e628128abfd543995be3bfbc2ecab",
+    "/usr/lib/libHSeither-5-8GqbV6g0V1VJHPkplqznAK-ghc8.2.2.so": "93d32e29c00ba1acf556c7df6292a50ab3b5ed411231a738aac05b645cd4f015",
+    "/usr/lib/ghc-8.2.2/site-local/either-5/Data/Either/Combinators.dyn_hi": "0c97a59b4dbf8b2bb7f7646d627f303dfdc836cb3b79f1bd5bddbc1152d3b5db",
+    "/usr/lib/ghc-8.2.2/site-local/either-5/Data/Either/Validation.dyn_hi": "e8ba3c3db02913998bbcfb69a8fef615f6426c235d10479ba8a8eb7266e7d122",
+    "/var/log/pacman.log": "3d5ea9fb8409911ffc8a475b359a94096138a77f82999a421f27b95a62326dc9"
   }
 }

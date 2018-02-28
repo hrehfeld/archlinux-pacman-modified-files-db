@@ -40,5 +40,28 @@
     "/usr/lib/libmpfr.so": "2a65715a9c5c625843883d71a5c69168e75e9b599431db77c5692995d1af62aa",
     "/usr/lib/libmpfr.so.4.1.6": "2a65715a9c5c625843883d71a5c69168e75e9b599431db77c5692995d1af62aa",
     "/var/log/pacman.log": "0aba5cea20520a62ffb73713b97f363759583022cbc4c08ac406dc75ae8af187"
+  },
+  "4.0.0-1": {
+    "/usr/share/doc/mpfr/FAQ.html": "6f7fbe117e33976d31ae755222dfe505f89c14dd562ed970783833dfa884df0d",
+    "/usr/share/doc/mpfr/AUTHORS": "5381838b1cdf7df68106e6a33bf843186d5cf62747c790fe46c4832eae48975b",
+    "/usr/share/doc/mpfr/BUGS": "359a2edb9acb3bc4beb7cd1ce333695dfe1a7c77a3eed7eaf339ff1fca9d5c63",
+    "/usr/share/doc/mpfr/COPYING": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+    "/usr/share/doc/mpfr/COPYING.LESSER": "a853c2ffec17057872340eee242ae4d96cbf2b520ae27d903e1b2fef1a5f9d1c",
+    "/usr/share/doc/mpfr/NEWS": "0b58ae3acb5c2031a5caa7b3540103415d27afed2b39f4da30487eacbdad0496",
+    "/usr/share/doc/mpfr/TODO": "66214309383261052baf0c7d12ce6408688c57e03b528590d36731950f07e10c",
+    "/usr/share/doc/mpfr/examples/ReadMe": "4b503f2cd881013af415ae498ab1ac88a2c4cb5ed766fa6f5e227113145c53d0",
+    "/usr/share/doc/mpfr/examples/divworst.c": "0fe8fe334831d7c7ff7e5a6c9d5d0fa21d7ad5d4ffbf800a5be1dadcf33400c8",
+    "/usr/share/doc/mpfr/examples/rndo-add.c": "df40baebb169c7e3f4314afcc5bd1ae9a971eab31b65df194e7c83ebb3339352",
+    "/usr/share/doc/mpfr/examples/sample.c": "eea7a7a3ea2828e580ed72900442c930aa1ed524c51184a6986219c9e7741204",
+    "/usr/share/doc/mpfr/examples/version.c": "6b20ad5dafe2173288ff9f6d09e0fb89d5b5b99721077d5ff885aa5bacb45753",
+    "/usr/share/doc/mpfr/examples/can_round.c": "361eac640fe3ca72cb77e2c254c9bf2c3288cd3606d02ad2157333a34d2e1577",
+    "/usr/share/info/mpfr.info.gz": "a8a2b42c4666af8e4e76e4d2cf3a8b5ac13ac90757e6da31073fada949892f6b",
+    "/usr/include/mpfr.h": "23db46ba46ca8730fcf62642d446a1761fd2d3c310bed99ba1966073eecc99f8",
+    "/usr/include/mpf2mpfr.h": "06f67c0a14b04cd9669666ce87402c83e2648b601c9f6c753b05491c817ca77c",
+    "/usr/lib/libmpfr.so.6": "713ab8a2a5a120cd2372b4a47ddb7951c089a388799efb191deaff5a2ae5d001",
+    "/usr/lib/libmpfr.so": "713ab8a2a5a120cd2372b4a47ddb7951c089a388799efb191deaff5a2ae5d001",
+    "/usr/lib/libmpfr.so.6.0.0": "713ab8a2a5a120cd2372b4a47ddb7951c089a388799efb191deaff5a2ae5d001",
+    "/usr/lib/pkgconfig/mpfr.pc": "5770da954c663f9dba210f53d6a820294b4d18edc1053e42a5f98aa2bab233c5",
+    "/var/log/pacman.log": "bd19206de5d6ad9f7d473941ed6633025e47ca80d47382a31c67032f8e7b47e4"
   }
 }

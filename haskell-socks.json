@@ -40,5 +40,19 @@
     "/usr/lib/ghc-8.2.2/site-local/socks-0.5.6/Network/Socks5/Command.dyn_hi": "4764658dd87524d65c1a863d3d08b8cc3ff9ddabdeea314e3768177a5089329e",
     "/usr/lib/ghc-8.2.2/site-local/socks-0.5.6/Network/Socks5/Parse.dyn_hi": "c51a9bf6c0d4bf3d0fa59c75e4bc360666339acdf88aa7b3a9b395c842e1a1ff",
     "/var/log/pacman.log": "6196991b51eee52aaad635150a6394e932721baeb3321eb5eae80039fdbce2c9"
+  },
+  "0.5.6-2": {
+    "/usr/share/haskell/register/haskell-socks.sh": "9ebacaf6a39e2c7414a89776742ee156156dff0d6dc19d21c208316f53111d41",
+    "/usr/share/haskell/unregister/haskell-socks.sh": "b3ae3fba79d35b44edadebcf3b55b3170f17c9da80bbd071dcd79a32181c482d",
+    "/usr/share/licenses/haskell-socks/LICENSE": "089f70ad4a776a413375675bb60ddc0684e5cc88365d7fa2987bc87270bf3c93",
+    "/usr/lib/libHSsocks-0.5.6-4c4t0W7L3wu5tjeTVmHXBT-ghc8.2.2.so": "06d0a9a27b1768ce415884f1315614f515d38b8f976490a9c57efd733a5df01f",
+    "/usr/lib/ghc-8.2.2/site-local/socks-0.5.6/Network/Socks5.dyn_hi": "c338012f897d6069e1cc346a0da3a9f666d14f84cfde3364e336b8ce14269ed4",
+    "/usr/lib/ghc-8.2.2/site-local/socks-0.5.6/Network/Socks5/Lowlevel.dyn_hi": "2379921b1511d6a6d931ac5b89bb595fb01b3575341a32d5eaa9f984746ce6f3",
+    "/usr/lib/ghc-8.2.2/site-local/socks-0.5.6/Network/Socks5/Types.dyn_hi": "71c20e57467c2fd82f3d158a611ced5b8180aa832b294d748d08e01d3188e6ae",
+    "/usr/lib/ghc-8.2.2/site-local/socks-0.5.6/Network/Socks5/Wire.dyn_hi": "441a877aa6f5a3e76d6e69824d79b323c6bfabc201b822211720b787fea05a67",
+    "/usr/lib/ghc-8.2.2/site-local/socks-0.5.6/Network/Socks5/Conf.dyn_hi": "0bdad4540b0243b50a5ae1b4e3284f630ca4736c9d37c8bb88f69701d8574548",
+    "/usr/lib/ghc-8.2.2/site-local/socks-0.5.6/Network/Socks5/Command.dyn_hi": "4c02b802b29cf52d1f1569af9548dafe5f6f968271a2e9ec311c9746ed2c838b",
+    "/usr/lib/ghc-8.2.2/site-local/socks-0.5.6/Network/Socks5/Parse.dyn_hi": "023b94e8a4177f4f359c3ca9a9772e7bf5ef54565371acaeddf4afee697669d6",
+    "/var/log/pacman.log": "9a7309cb70a3082110332756dd08cfc934c418efafd5baadfe3f0feeeae9b71c"
   }
 }

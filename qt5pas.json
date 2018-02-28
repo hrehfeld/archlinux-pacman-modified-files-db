@@ -1,0 +1,9 @@
+{
+  "2.6.r57057-1": {
+    "/usr/lib/libQt5Pas.so.1.2.6": "9843dfba42ed188c7696709f0df1bf168dde25cac356efce483d85c4a8042926",
+    "/usr/lib/libQt5Pas.so.1": "9843dfba42ed188c7696709f0df1bf168dde25cac356efce483d85c4a8042926",
+    "/usr/lib/libQt5Pas.so": "9843dfba42ed188c7696709f0df1bf168dde25cac356efce483d85c4a8042926",
+    "/usr/lib/libQt5Pas.so.1.2": "9843dfba42ed188c7696709f0df1bf168dde25cac356efce483d85c4a8042926",
+    "/var/log/pacman.log": "6687e1470767d415ab70107f7b77adaaa1bb9191863dbc1ee79e8b1550db5312"
+  }
+}

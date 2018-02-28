@@ -84,5 +84,28 @@
     "/usr/lib/ghc-8.2.2/site-local/hpack-0.21.2/Hpack/Util.dyn_hi": "6096c09f5d0de539a35e282107f445009e377148f07a5fdeb3c628fefb784d6e",
     "/usr/bin/hpack": "b4ad7c11aa01207725991553f34c7fb4b63c6f5f82645e4ad5f3ac13742ee80a",
     "/var/log/pacman.log": "529ba15c746cc9ca1380c6a99aa7704211752a078c9deee9e45067ebf963b58d"
+  },
+  "0.21.2-21": {
+    "/usr/share/haskell/register/haskell-hpack.sh": "e281b4204d5069cfa27f5cbedb8d5f46202f324a729c7242eb7b599e914eb010",
+    "/usr/share/haskell/unregister/haskell-hpack.sh": "2c15775160a1a8d570caa269e375f1a42c609a52f70fc04165432f9199cc77fb",
+    "/usr/share/licenses/haskell-hpack/LICENSE": "ab942e4f13b3708e485ff96d590478c5fb0a61a8a40da051a344411a8cbd154b",
+    "/usr/lib/libHShpack-0.21.2-4FlWvaNUTrImTMcZ4AHlm-ghc8.2.2.so": "a8bafb17d13bdd3812cf306a6fd7d8a0baf012eeeb755b5be115c706c258f5a6",
+    "/usr/lib/ghc-8.2.2/site-local/hpack-0.21.2/Hpack.dyn_hi": "6d01dc708b5d6ac04ca8b74e4066543be5969c1e22e30d9a4229960a8cb05c6e",
+    "/usr/lib/ghc-8.2.2/site-local/hpack-0.21.2/Paths_hpack.dyn_hi": "24069d7fff7f8441264fe007f9805e85922a664110dce2691cbc170b3f379617",
+    "/usr/lib/ghc-8.2.2/site-local/hpack-0.21.2/Hpack/Config.dyn_hi": "ba990846b1b03604dcb29b30f666edf950bc014154887d6aae5d11097c582f58",
+    "/usr/lib/ghc-8.2.2/site-local/hpack-0.21.2/Hpack/Run.dyn_hi": "095fb54b16f6322077af8600169b6567bbd96aafe9569094ba98dc20f21b6887",
+    "/usr/lib/ghc-8.2.2/site-local/hpack-0.21.2/Hpack/Yaml.dyn_hi": "7d1d11d4673fc6fa08e1859fe9a841c6afe20e3bb84b5d1ff9ab8ef89c1a6d03",
+    "/usr/lib/ghc-8.2.2/site-local/hpack-0.21.2/Hpack/CabalFile.dyn_hi": "deb984bb90e08ef4843aeff6fd34861c3466061899c222f4de24c4da3bd90e98",
+    "/usr/lib/ghc-8.2.2/site-local/hpack-0.21.2/Hpack/Dependency.dyn_hi": "01686a1ec7ccbb752121ff464e26236a148f770f8528ac0b49e6b33181adb48e",
+    "/usr/lib/ghc-8.2.2/site-local/hpack-0.21.2/Hpack/FormattingHints.dyn_hi": "016fe43a3dfdd8bcbb87a02450d03a5ec2531e491cba364c920ee175b86fa574",
+    "/usr/lib/ghc-8.2.2/site-local/hpack-0.21.2/Hpack/GenericsUtil.dyn_hi": "585613137d123582bd06f2b556b14b25f8ebec167a696e8a596b6a065ebde98b",
+    "/usr/lib/ghc-8.2.2/site-local/hpack-0.21.2/Hpack/Haskell.dyn_hi": "35def5ac864409a055d19c4262a8a5c4cebf5339e8e10af14d90848a05a624f9",
+    "/usr/lib/ghc-8.2.2/site-local/hpack-0.21.2/Hpack/Options.dyn_hi": "951f204acde525b32dac9456e52bd62305eaaa1a60491ed6821f0efced60ffdf",
+    "/usr/lib/ghc-8.2.2/site-local/hpack-0.21.2/Hpack/Render.dyn_hi": "3515afdc3e80a5d2b40dbc5fb490f19071ad6c881f5e779ddc5305e59da77a01",
+    "/usr/lib/ghc-8.2.2/site-local/hpack-0.21.2/Hpack/UnknownFields.dyn_hi": "ccae8e39853e743370941bb5e83aa8b136cf959092d35584c420dd0fc62b8bcb",
+    "/usr/lib/ghc-8.2.2/site-local/hpack-0.21.2/Hpack/Utf8.dyn_hi": "e648b2804caed33ef28a36abd508abc02dc22cf56811856d162543e6e48d2ee2",
+    "/usr/lib/ghc-8.2.2/site-local/hpack-0.21.2/Hpack/Util.dyn_hi": "72ed9699d1b2715366e7689e4bac752e175461f429c5ddd8172ddbaec0a0aa8c",
+    "/usr/bin/hpack": "5a6e58319122f765d476c18a3ed951793b249c6a62b7aa38ec0ccd4f3a58ecc3",
+    "/var/log/pacman.log": "a5f74e11ddb654b856e79f9edf355923e3263efd07e4d229c69267bdb391dbf0"
   }
 }

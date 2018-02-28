@@ -14,5 +14,13 @@
     "/usr/lib/libHSdata-default-0.7.1.1-FICujruwzSN8grhdf3Hr65-ghc8.2.2.so": "6dc0cb1aeae4c71f0056d35b7e43e0728844234e64d1c00ae796f02b63128715",
     "/usr/lib/ghc-8.2.2/site-local/data-default-0.7.1.1/Data/Default.dyn_hi": "c4145b501ea6fbde07f7c821885a6cd22f84235838b8a82fb32b37913b20b2a2",
     "/var/log/pacman.log": "41063587d7bfae1ed08be1187fd27630c1e2fad06d07ed3bd32c984aaef6e26a"
+  },
+  "0.7.1.1-11": {
+    "/usr/share/haskell/register/haskell-data-default.sh": "07366ee71a17a1ae40dd2c64b9d112f391a27b90cf031638bc9b2c7bb71246c4",
+    "/usr/share/haskell/unregister/haskell-data-default.sh": "0e4b1d76ebb1b182c305c89431c30acb4a0c0b013aaaf8a5992f497e9543ef89",
+    "/usr/share/licenses/haskell-data-default/LICENSE": "b8d4c7a7e39894a73d288b7a648077b12dd703d432107f281bf3df357ae6b62c",
+    "/usr/lib/libHSdata-default-0.7.1.1-AA4CT1Ft3yBIiqFbrFdPSr-ghc8.2.2.so": "a593e86bd16212c4ef3544c5020436cd1611ebf27eef2d7c5c799536ee346cc9",
+    "/usr/lib/ghc-8.2.2/site-local/data-default-0.7.1.1/Data/Default.dyn_hi": "29b8ff2d4476e75adc4dea5c18b4ec3999409eeeffcfc5022722f8708f910559",
+    "/var/log/pacman.log": "370e4c7207b66cbd7cec0b3885ab776be908581f96bbcb057bb3a712e9b06801"
   }
 }

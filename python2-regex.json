@@ -38,5 +38,26 @@
     "/usr/share/doc/python2-regex/Features.rst": "0d9165c8dc17a4d732f52e39246082ca5cc77bfe2bd536c1c0f88a986a1e542f",
     "/usr/share/doc/python2-regex/Features.html": "b24d9bebd8ea5570b07a36637495d82238470070f870791716f1227687507b7c",
     "/var/log/pacman.log": "dae03167535c5f7af33eeebc289a3fca148911f1f4c63850bc498df113cc812e"
+  },
+  "2018.02.08-1": {
+    "/usr/share/licenses/python2-regex/LICENSE": "e7b6ce7154a576d10bb492ad0b48c2cf2b6e0998e19d6c2c9456c28b40af1fa4",
+    "/usr/share/doc/python2-regex/UnicodeProperties.txt": "8539437cdb54b181edf96356a1e145237c48caceddeec957925449a2a0845d59",
+    "/usr/share/doc/python2-regex/Features.rst": "f9ebbe54f3ed23f0db35cbc0596829d250126479141f45213106ec960a30d017",
+    "/usr/share/doc/python2-regex/Features.html": "ac0e5e31401c985dcc75ae389806c1fc87f25d533b1bf8406e4ca3583cac22b8",
+    "/usr/lib/python2.7/site-packages/_regex.so": "36cbadf5fce1e5d0a6d3d15b0a7deb8cb94e95bbfdfd1b4e062b6e09b0a5ba79",
+    "/usr/lib/python2.7/site-packages/test_regex.pyo": "202e932a68b51877393d40d0e1e19291c6be8af276887f2ee92209a109b4f076",
+    "/usr/lib/python2.7/site-packages/_regex_core.pyo": "2096336f27f90beaa0052e428d9aa05706e28a2a224b5fa0bcd8758f091a1709",
+    "/usr/lib/python2.7/site-packages/regex.pyo": "4d1c5cd45eadec366881e927a3f4d1a4ae04b8776cb63fac816723d84f7793f4",
+    "/usr/lib/python2.7/site-packages/test_regex.pyc": "202e932a68b51877393d40d0e1e19291c6be8af276887f2ee92209a109b4f076",
+    "/usr/lib/python2.7/site-packages/_regex_core.pyc": "ba75f823043f92e02a5d85db550f73712cf72ce61534dcb1fc52ae87fb60de0c",
+    "/usr/lib/python2.7/site-packages/regex.pyc": "4aeb873acd0a95cee4ae1816affb9106f896dd7f2032a47e243889f9bfd569f1",
+    "/usr/lib/python2.7/site-packages/test_regex.py": "ee9d2b3597a28cebb7a34e26df4067c5d4abf6f7ebfce27ca547a21c7362226d",
+    "/usr/lib/python2.7/site-packages/_regex_core.py": "dc377d101dd1b97a80c9927b33fea134597ce6498a4bac2b23ae647b27936f46",
+    "/usr/lib/python2.7/site-packages/regex.py": "66eac54a061d27822c646a80a1b9ac037fd6ff4017919e7c9e3c01cc8def12bd",
+    "/usr/lib/python2.7/site-packages/regex-2018.2.8-py2.7.egg-info/SOURCES.txt": "2163dc3e5e95b714a4e2821e9c05c9d084c0c3839f2c037fa567b7e10e3e7c88",
+    "/usr/lib/python2.7/site-packages/regex-2018.2.8-py2.7.egg-info/dependency_links.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "/usr/lib/python2.7/site-packages/regex-2018.2.8-py2.7.egg-info/top_level.txt": "b70e7e08a117d6c1b120cb2f97b47f5b3957d07f9abd37754007ae17123655e4",
+    "/usr/lib/python2.7/site-packages/regex-2018.2.8-py2.7.egg-info/PKG-INFO": "0e0fefec09914e5441ba44f59279d3300c484e5069135f658e8893c8922eed84",
+    "/var/log/pacman.log": "9314464fe855df121d520320eff9f2fcdba20a03f9be54f2680a93b8fdc31bcd"
   }
 }

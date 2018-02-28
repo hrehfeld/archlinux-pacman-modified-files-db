@@ -1,0 +1,11 @@
+{
+  "2.0.11-4": {
+    "/usr/lib/libSDL_ttf-2.0.so.0": "b770df71d094eb7c232a163a05746723486f5467f6ae7421fb978b3c5dafac33",
+    "/usr/lib/libSDL_ttf.so": "b770df71d094eb7c232a163a05746723486f5467f6ae7421fb978b3c5dafac33",
+    "/usr/lib/libSDL_ttf-2.0.so.0.10.1": "b770df71d094eb7c232a163a05746723486f5467f6ae7421fb978b3c5dafac33",
+    "/usr/lib/pkgconfig/SDL_ttf.pc": "d7850eab57ec9a98c599be306014cd550db8849b3e30da682dc49039c808f28b",
+    "/usr/include/SDL/SDL_ttf.h": "3c52109d6ec58ac677e2a93d2a74e258a552dfa6439532607b6ff8360586a2f5",
+    "/usr/share/licenses/sdl_ttf/LICENSE": "b609721d3d4ac67facaf86f068c8b311b6c5f6cef89b6d84268aa38b7867ab7b",
+    "/var/log/pacman.log": "e4f09764b4ac028bff6ac85d51ebabcc943ba852ce18f02f0b1d9deb054aca72"
+  }
+}

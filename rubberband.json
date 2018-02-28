@@ -13,5 +13,20 @@
     "/usr/include/rubberband/rubberband-c.h": "dcfed561f9c2c539d28f1ed53ecf5441a611a7173553020af0918c0dc4157483",
     "/usr/bin/rubberband": "689df05489e6e8aecb86bda6c3d90ab3d604f38b757f9cb1321a356e897221e1",
     "/var/log/pacman.log": "44651b7dd79546a6e1fe3f2f4030cd9f578bd139ff1371677a2ae4d60b47e46f"
+  },
+  "1.8.1-4": {
+    "/usr/bin/rubberband": "886cdef1546317374f1525901e8656cb6613db73d7fd38ccc304250e6c30d968",
+    "/usr/include/rubberband/rubberband-c.h": "dcfed561f9c2c539d28f1ed53ecf5441a611a7173553020af0918c0dc4157483",
+    "/usr/include/rubberband/RubberBandStretcher.h": "28bc5619e8a51182e95d4334a198aa107e46590371dd2c8fa9ed8437fc25b215",
+    "/usr/lib/librubberband.so.2": "33b1a62d47f43928e180c3e0e8e2bb8c37dc918d7701b7414031103854cce897",
+    "/usr/lib/librubberband.so": "33b1a62d47f43928e180c3e0e8e2bb8c37dc918d7701b7414031103854cce897",
+    "/usr/lib/librubberband.so.2.1.0": "33b1a62d47f43928e180c3e0e8e2bb8c37dc918d7701b7414031103854cce897",
+    "/usr/lib/vamp/vamp-rubberband.cat": "ca41c204a0f597ca0319cdc03264fadb9815e636428566ded3031e0685a78fe2",
+    "/usr/lib/vamp/vamp-rubberband.so": "acf34aade5c05fce59797873017837c24040dc73353de7fcff32df6f021405fe",
+    "/usr/lib/ladspa/ladspa-rubberband.cat": "9ccb2a12195f110d718dc15d307aa64290085c551276632d6421d1cc6dfdcf38",
+    "/usr/lib/ladspa/ladspa-rubberband.so": "98ad7bde5777d93ef497e4031ff7107a015d4b03b7051b0e3dbfda9a5cadf219",
+    "/usr/lib/pkgconfig/rubberband.pc": "50930926b0f7ea2b81c49f45dd2cfb23252093775108d6297503a7b9b32bb2b4",
+    "/usr/share/ladspa/rdf/ladspa-rubberband.rdf": "ba3f77d59c86ee8002f67608027eb4298db46b660d0d6ddfc38a6f5fe12f1511",
+    "/var/log/pacman.log": "f9dcb00831eb84b13ccd2a1510055da205703cfdc7990743d15d4c9f723611a8"
   }
 }

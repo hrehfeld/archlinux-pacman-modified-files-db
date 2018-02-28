@@ -34,5 +34,17 @@
     "/usr/lib/ghc-8.2.2/site-local/scientific-0.3.5.2/Data/Text/Lazy/Builder/Scientific.dyn_hi": "33d60320b8029c0b5a85127823cc0439d73000c7e286f7adc01ccf940d84e745",
     "/usr/lib/ghc-8.2.2/site-local/scientific-0.3.5.2/GHC/Integer/Compat.dyn_hi": "c3e28839ee9e67d4b112d493a939be0106e7111954c5183d6e368a36cbb697fb",
     "/var/log/pacman.log": "7b685ee0088147dabf649b2772abc008adbef5677efb18365526b6cdadf0d095"
+  },
+  "0.3.5.2-5": {
+    "/usr/share/haskell/register/haskell-scientific.sh": "0286c6ae86d2376640d0e9548c2b21d4a200402ba59fae81d8dab80ca2352781",
+    "/usr/share/haskell/unregister/haskell-scientific.sh": "6e5feebefa1c02e0795e8bd035b6825a8a84d2323fef8148424d4655c0b943ef",
+    "/usr/share/licenses/haskell-scientific/LICENSE": "4809f8a687a81a714ca99fc2a9a366d3fa5dec4adc284a5e026c909da924ba53",
+    "/usr/lib/libHSscientific-0.3.5.2-IWSZVQGiPwx2zNrAPvmBEO-ghc8.2.2.so": "a8af26d565651df1701ed1d25e0fb9cedbba40e49de17adab9418d5c5d8959d7",
+    "/usr/lib/ghc-8.2.2/site-local/scientific-0.3.5.2/Utils.dyn_hi": "68f9aaaf7a0d82a61557908e24c872ab4bcb254f38958f04898e164af7a1b8ce",
+    "/usr/lib/ghc-8.2.2/site-local/scientific-0.3.5.2/Data/Scientific.dyn_hi": "1f107ae8c091c16a16d8c6bc57e63ca1b74379b5ed9a857604bfb2765d56a526",
+    "/usr/lib/ghc-8.2.2/site-local/scientific-0.3.5.2/Data/ByteString/Builder/Scientific.dyn_hi": "ad493a447e12b7af50e31c575a4eb0ddfcb81e560cd1572e142689e1a140e9a4",
+    "/usr/lib/ghc-8.2.2/site-local/scientific-0.3.5.2/Data/Text/Lazy/Builder/Scientific.dyn_hi": "b1556b4f51f3be8781c0516161b608a6bb96a0f58b3f8e93e0b444c2895b2ef3",
+    "/usr/lib/ghc-8.2.2/site-local/scientific-0.3.5.2/GHC/Integer/Compat.dyn_hi": "59aa5848c67ee2ebc3bae97cf1782cd0e408c840ccbc233bc43f05d53991f16f",
+    "/var/log/pacman.log": "a5643c26f177c696b4e516cce972a51d825837ca29d36332b85f418551db8b2b"
   }
 }

@@ -1,0 +1,7 @@
+{
+  "2.08-1": {
+    "/usr/share/man/man1/pwgen.1.gz": "dc72065ac9fd2c293c6974d1959e154ef71499a45f5659a9920d8d219320d57a",
+    "/usr/bin/pwgen": "f85ed48ab4511edeb1b60a745316a60e184eab20d80a8558e225fc0c7672b87d",
+    "/var/log/pacman.log": "c36cff63ef108e56520d65288c7ad287687b9e8eeca9dd69234c3bde90bafe6d"
+  }
+}

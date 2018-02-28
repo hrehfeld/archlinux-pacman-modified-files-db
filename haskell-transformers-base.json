@@ -14,5 +14,13 @@
     "/usr/lib/libHStransformers-base-0.4.4-5PiUpfNfiYhLklP2PyVZJ2-ghc8.2.2.so": "886d4b4c7f040156bfa208f50573821a2fa171193076a925124e2237715d9a29",
     "/usr/lib/ghc-8.2.2/site-local/transformers-base-0.4.4/Control/Monad/Base.dyn_hi": "eb45db4ee63e742630b5ad79d64a5953ac0f269db545954620a8f900b58fcb77",
     "/var/log/pacman.log": "44781d12e6da71572b29c67a37a9b4094cc56893a38d6a7b5723edf07e2ea28c"
+  },
+  "0.4.4-10": {
+    "/usr/share/haskell/register/haskell-transformers-base.sh": "a0d22fc0f3a1d0b34f7b1eaa9e3a4428273ea94f451e66ad1282a36b96d28c4d",
+    "/usr/share/haskell/unregister/haskell-transformers-base.sh": "8870dbfdd8fd1cc58da39bbbb65abd857853f4d85217bdb88b3f6b0a866396d4",
+    "/usr/share/licenses/haskell-transformers-base/LICENSE": "f933a281071d2ef8400155a032f705dcf1c17a140cc220efd1b03cd34f516dd1",
+    "/usr/lib/libHStransformers-base-0.4.4-E8cVJ8zOMCQDdcbsfJzxdl-ghc8.2.2.so": "90fce5e5fca306f0027803d3e37046600f020280c1b620f3ec77526dbd16005e",
+    "/usr/lib/ghc-8.2.2/site-local/transformers-base-0.4.4/Control/Monad/Base.dyn_hi": "dff7c5e93f6ceae263f01c22cb601445c6a5dfe0c5145bf3ab2f56e5f0d78549",
+    "/var/log/pacman.log": "0dad50f17a8dd7dbc7f9edef1eaaa27f33ab94c0e9ee5ea64506316ab814c815"
   }
 }

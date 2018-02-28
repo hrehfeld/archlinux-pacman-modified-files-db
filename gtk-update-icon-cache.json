@@ -16,5 +16,11 @@
     "/usr/share/libalpm/hooks/gtk-update-icon-cache.hook": "496064a9dd6214bd58f689dd817dbdc4d7f17d42a8c9940a87018c3f829ce308",
     "/usr/share/libalpm/scripts/gtk-update-icon-cache": "f1d3a0dbfd82f7339301abecdbe5f024337919b48bd0e09296bb0e79863b2541",
     "/var/log/pacman.log": "41ab8fb3f04b29415afcef7c89eaf0f5cd96a84f87e97cd55d559c0c713c1bad"
+  },
+  "3.22.26+161+g60750b3ffd-1": {
+    "/usr/bin/gtk-update-icon-cache": "4134b50ea14968b10c7f1276f5fcfc161a9f87ce92a42678e933f41d4d740f67",
+    "/usr/share/libalpm/hooks/gtk-update-icon-cache.hook": "496064a9dd6214bd58f689dd817dbdc4d7f17d42a8c9940a87018c3f829ce308",
+    "/usr/share/libalpm/scripts/gtk-update-icon-cache": "f1d3a0dbfd82f7339301abecdbe5f024337919b48bd0e09296bb0e79863b2541",
+    "/var/log/pacman.log": "91f5876014137b113c68260800de843a96b787659bc6be79cb34982f61929ca7"
   }
 }

@@ -40,5 +40,16 @@
     "/usr/lib/ghc-8.2.2/site-local/cryptonite-conduit-0.2.2/Crypto/Hash/Conduit.dyn_hi": "9ef32ff893f7b0e3361a9a28ef5d564c786555dcec56ef6b007e5447e8251f48",
     "/usr/lib/ghc-8.2.2/site-local/cryptonite-conduit-0.2.2/Crypto/PubKey/ECIES/Conduit.dyn_hi": "9310e6da8aeab975167bb8b0391902e3b23e71e14812cad86ba03d14af05a302",
     "/var/log/pacman.log": "20065db60bb18ffb0bc7090fb3f77483b899714db6a16255233f532ad8259152"
+  },
+  "0.2.2-23": {
+    "/usr/share/haskell/register/haskell-cryptonite-conduit.sh": "14dcbececfdf38040c0d574050db2ba021bc70b5dc9232a8d14b852aa34a74e3",
+    "/usr/share/haskell/unregister/haskell-cryptonite-conduit.sh": "96e8ae9a1123c503931bc7b96e351c43131470554a3e164c6753a2540c049ac8",
+    "/usr/share/licenses/haskell-cryptonite-conduit/LICENSE": "d71955c9331fe47022510736c0e390d5f374cfcc2a830fa6fe176cdd83964d52",
+    "/usr/lib/libHScryptonite-conduit-0.2.2-LGBGi0MgB9R7Id0MB8KchV-ghc8.2.2.so": "759365dfadd8851fb8672d25e4cffe584326acffd16f04247adc9b36a096cc5e",
+    "/usr/lib/ghc-8.2.2/site-local/cryptonite-conduit-0.2.2/Crypto/Cipher/ChaChaPoly1305/Conduit.dyn_hi": "4b1788363965bcd21441168307b638c6ff2495d0e6c9d437eb3d0630cbfcd8c0",
+    "/usr/lib/ghc-8.2.2/site-local/cryptonite-conduit-0.2.2/Crypto/MAC/HMAC/Conduit.dyn_hi": "d7622214278052e8d9098d07efd9ffc33212dfddb0e4171895008c87584e026b",
+    "/usr/lib/ghc-8.2.2/site-local/cryptonite-conduit-0.2.2/Crypto/Hash/Conduit.dyn_hi": "14aab0fef4b0c71e01709fa10d7799d2c2f755eac24cd3d914b62ad0eea95a9d",
+    "/usr/lib/ghc-8.2.2/site-local/cryptonite-conduit-0.2.2/Crypto/PubKey/ECIES/Conduit.dyn_hi": "971fd468ad5f1312b2f383adc881ec8f371b952e16524eb289416e5cdaf7f0cc",
+    "/var/log/pacman.log": "8d6f7c76d236bbad22fae2d812328f18d5ce3ba3e56e0b3725bcb88216da8513"
   }
 }

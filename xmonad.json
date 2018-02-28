@@ -46,5 +46,29 @@
     "/usr/lib/ghc-8.2.2/site-local/xmonad-0.13/XMonad/StackSet.dyn_hi": "4d69062bc52ccd28c5ed8b0e7cb5c0ff6a05fc2f7c728ec50f735d5bc329bd39",
     "/usr/bin/xmonad": "f676383126a8cabb934256b2513e4ea159010e6c1e6833ca81e5f6c40396b86f",
     "/var/log/pacman.log": "fd557cbe8287363c549e2334a8df4f1c29fd29ed04f4cce22da4b87829414336"
+  },
+  "0.13-11": {
+    "/usr/share/haskell/register/xmonad.sh": "a833027837eabbcde04d5dfe1ee7eb6db7c1c1802b93e434d624e4cbf85ce061",
+    "/usr/share/haskell/unregister/xmonad.sh": "befc0ab447de6f5b4c56c7bcfa81d62f8fda36dfc04aa5017f9bc3e56124f1f5",
+    "/usr/share/xmonad/man/xmonad.hs": "c66de64f106b7d7f814f5946fba945e36b4bffa021741bd5dace8e6c1586656b",
+    "/usr/share/xmonad/man/xmonad.1": "045a3bb01b291b9cca311171cb6163ddcde1349cc36f95176c198bd916020d3f",
+    "/usr/share/xmonad/man/xmonad.1.html": "7ebd6600bc263b70bbf4d3ecc5f744c99630fe1bd7c8ee642a879d5311feb634",
+    "/usr/share/doc/xmonad/LICENSE": "591d03fbff964ac9642593059570fa0e683fe6797cfa915d310936b032bf2858",
+    "/usr/share/man/man1/xmonad.1.gz": "243d3e8cc07059cf9df592fadaa1e2cb04be5908d03e11c2d486caab41e334ac",
+    "/usr/share/licenses/xmonad/LICENSE": "591d03fbff964ac9642593059570fa0e683fe6797cfa915d310936b032bf2858",
+    "/usr/share/pixmaps/xmonad.svg": "2c0603f8779346dcbe2db5b04eaeddb908e15602d3ff5c86905898b9df51cb91",
+    "/usr/share/xsessions/xmonad.desktop": "b059602aab37488393df31d82c7ac3414cb3586fffec91b476fd35e1f50bdde2",
+    "/usr/lib/libHSxmonad-0.13-E9je7XJKvxRFE8dOkBsrrT-ghc8.2.2.so": "f296b2e9b5a3f56e08d003f22613d0e42c6b7a78dc2f3e4babf1c76a6dd4006c",
+    "/usr/lib/ghc-8.2.2/site-local/xmonad-0.13/XMonad.dyn_hi": "5c0ff7175f5e9ae9fe315835f30ddc6f58152e7d1e7e1b5621f80ef86c658afa",
+    "/usr/lib/ghc-8.2.2/site-local/xmonad-0.13/Paths_xmonad.dyn_hi": "3991769d1575446d1ffa87f456245dbe6ebcf94bff3e8b0e2aa405b6e54658d3",
+    "/usr/lib/ghc-8.2.2/site-local/xmonad-0.13/XMonad/Main.dyn_hi": "2703854c6b776e0dc71666ab53718d261f7883b841b8e3db80da060c9f42fafe",
+    "/usr/lib/ghc-8.2.2/site-local/xmonad-0.13/XMonad/Core.dyn_hi": "939a84611dd560142a4b8cc956c31d1557aa6fbe10e5cfd301507afd65fb561c",
+    "/usr/lib/ghc-8.2.2/site-local/xmonad-0.13/XMonad/Config.dyn_hi": "a293ab1b2745538878c859dabaf2dcf81c573e3f270ecf1cb8b7c62a4aec4abb",
+    "/usr/lib/ghc-8.2.2/site-local/xmonad-0.13/XMonad/Layout.dyn_hi": "7797e0afa75ab07cc322c14c9732e37a740ec283c8f59188cf119e5aa9a30209",
+    "/usr/lib/ghc-8.2.2/site-local/xmonad-0.13/XMonad/ManageHook.dyn_hi": "1dcaad43db12e7754cbf192a84088eaaea471818fd378ce2abf97b7e2e094f42",
+    "/usr/lib/ghc-8.2.2/site-local/xmonad-0.13/XMonad/Operations.dyn_hi": "9367235986bd743abee73b08084d68bb4f9ecf7406925170a43b9addeeb23008",
+    "/usr/lib/ghc-8.2.2/site-local/xmonad-0.13/XMonad/StackSet.dyn_hi": "8ec2754d8bcffcb2f6beccb8c7066ba29cafa1b02e0c6c659bd52862dcffcee7",
+    "/usr/bin/xmonad": "3d3bb14bf52508c5edc908db993e769ad4fd0f04fbce814c7ae5465966e116e7",
+    "/var/log/pacman.log": "dadba745c33a96ffa88fb5b9d067459de6d6eae6084a2d6307860b11d0e97c46"
   }
 }

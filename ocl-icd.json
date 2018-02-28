@@ -9,5 +9,16 @@
     "/usr/share/doc/ocl-icd/examples/ocl_icd_bindings.c": "48a478f276af5f3504f28e7f7152d1d1bf7a9cfd090e937929cee6ff0d11d3f7",
     "/usr/share/licenses/ocl-icd/COPYING": "06fa5c0267b1caf5c781623b6ef5b3b13cfd7403aa1edb445df60f6851da383a",
     "/var/log/pacman.log": "316b08b61b88422715be2bf504d95e304e394f2d9c5f84d521d82919cdbc4bf8"
+  },
+  "2.2.12-1": {
+    "/usr/lib/libOpenCL.so.1": "e5c53b597b0799d0d2cd0abd3607149570c9cbd3acb121f93f664b1a113e1470",
+    "/usr/lib/libOpenCL.so": "e5c53b597b0799d0d2cd0abd3607149570c9cbd3acb121f93f664b1a113e1470",
+    "/usr/lib/libOpenCL.so.1.0.0": "e5c53b597b0799d0d2cd0abd3607149570c9cbd3acb121f93f664b1a113e1470",
+    "/usr/lib/pkgconfig/OpenCL.pc": "f0e3519317db3727e204ea9eeddd06c74698d6c80e11d230c41d79c0c4a898e7",
+    "/usr/lib/pkgconfig/ocl-icd.pc": "fc65e7cdca97a80076e9ac380a811789836e8c9afad9e7cae1b9dcc8ee90e431",
+    "/usr/include/ocl_icd.h": "510bceb71c7838f0543e1aa2646676dfc11291d0cfb16e761d0d90db51e4cdd9",
+    "/usr/share/doc/ocl-icd/examples/ocl_icd_bindings.c": "a2897c5e95ae2307a862e9092e17831cc08a8a6661690eabec6c2842af6ee5a2",
+    "/usr/share/licenses/ocl-icd/COPYING": "06fa5c0267b1caf5c781623b6ef5b3b13cfd7403aa1edb445df60f6851da383a",
+    "/var/log/pacman.log": "eb4285c2430c34e837697816ae0177f931c6e8a76f92d872b655b6763b17864a"
   }
 }

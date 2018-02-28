@@ -12,5 +12,19 @@
     "/usr/include/sord-0/sord/sordmm.hpp": "88a2ff66f98cc427857b2c8a9c0da720f524be337b52a09933b02d4cc2bef771",
     "/usr/include/sord-0/sord/sord.h": "245fbed40dca474c0ef63d9ca8d37118c36356d3b5f5c5016de08ac0f9b59118",
     "/var/log/pacman.log": "1a24914229e3108cb821cc8e8331416576de880c400ac437c1c1d2d4fb0705a8"
+  },
+  "0.14.0-2": {
+    "/usr/include/sord-0/sord/sordmm.hpp": "88a2ff66f98cc427857b2c8a9c0da720f524be337b52a09933b02d4cc2bef771",
+    "/usr/include/sord-0/sord/sord.h": "245fbed40dca474c0ef63d9ca8d37118c36356d3b5f5c5016de08ac0f9b59118",
+    "/usr/share/man/man1/sordi.1.gz": "2e7516e45011ec3ba8e8e41b9fc3c92b23d9913b1a9709f72a53bc500ad1cbe8",
+    "/usr/share/man/man1/sord_validate.1.gz": "dc9210236d239ff812acb0a48a3b8db784fe4f0b42e720d4635ad4ff900959b3",
+    "/usr/share/licenses/sord/LICENSE": "0b99f922f5491193ece7bfbe793e0e16002beb58341693be4faa5a7b86b06bc7",
+    "/usr/lib/libsord-0.so": "8a56a8be98bf845dd72ddd69365fc68baa4d8247d991e3573d247471932ad195",
+    "/usr/lib/libsord-0.so.0": "8a56a8be98bf845dd72ddd69365fc68baa4d8247d991e3573d247471932ad195",
+    "/usr/lib/libsord-0.so.0.14.0": "8a56a8be98bf845dd72ddd69365fc68baa4d8247d991e3573d247471932ad195",
+    "/usr/lib/pkgconfig/sord-0.pc": "c8ddd682bfe216c012364f65ce96b42126a89d14ca465339de00947fe6803266",
+    "/usr/bin/sord_validate": "35b7d7d6d77932775cc7f4ee1cebe924b4e03d45c7e16db78b043b8e9e6cba01",
+    "/usr/bin/sordi": "062dcbe82a5c8a20bbc859ee85c70f0d861bcd4ebe28212613de5d5d2fc38528",
+    "/var/log/pacman.log": "69a228af25cb4546018c1dfee1bbbe887f1a01fcc2c6a21b52130c09cf6b2307"
   }
 }

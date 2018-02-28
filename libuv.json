@@ -34,5 +34,23 @@
     "/usr/share/doc/libuv/ChangeLog": "faaabbb8a98300981d7c88462f1c1b41d09811e3d51718fcaeb2d07ac8f22d5d",
     "/usr/share/man/man1/libuv.1.gz": "501fc96cd6590659d01dcf237a657550be48d5e2235de7877faef3a91f3c85cf",
     "/var/log/pacman.log": "78d8168e28758591223113cdbb805e7435d4035156704c43c8ca91646126482e"
+  },
+  "1.19.1-1": {
+    "/usr/lib/libuv.so.1": "6f5d871fbfb6aa0a43168e09bf9e7295448e0428a9d21714ef8874ddb8ecc746",
+    "/usr/lib/libuv.so": "6f5d871fbfb6aa0a43168e09bf9e7295448e0428a9d21714ef8874ddb8ecc746",
+    "/usr/lib/libuv.so.1.0.0": "6f5d871fbfb6aa0a43168e09bf9e7295448e0428a9d21714ef8874ddb8ecc746",
+    "/usr/lib/pkgconfig/libuv.pc": "7ec2e830878a450ca1935dc358ff348231a3f10d62cbdadb8307fc7c3f83566a",
+    "/usr/include/uv.h": "746610ebbc8b017b14372651809cad297c9404cf8538e1b91eb0772e9c395858",
+    "/usr/include/uv-errno.h": "d3dd19fdb9b1fce180c13a67306845e120c4cd1448387fe0e4e5fb12ee31a0c7",
+    "/usr/include/uv-threadpool.h": "43cb2c06d4e30e08126d6aa92441ab18f360e38fe768211ce1bcde499bb2c103",
+    "/usr/include/uv-version.h": "aa092d7989a1485feead63d878697db9e76d44d776f665324a65d5520f036f8f",
+    "/usr/include/uv-unix.h": "ddc836af13c2162616773f4880b1923b7f44e22a0471a143fab221574865d018",
+    "/usr/include/uv-linux.h": "a5fff8961e8f3da165fabf55d70cfb1eb44562cc0b8bf3b93b53bc3c9d283c86",
+    "/usr/share/licenses/libuv/LICENSE": "6d20216ae022fbeed23916f48508fd807ece3d8464992330643b0e64e5c0c24b",
+    "/usr/share/doc/libuv/AUTHORS": "ab659ac12dbb6422bb5b9f915131759b83c60aef10ad811c2b355064ccf427a1",
+    "/usr/share/doc/libuv/README.md": "a4cf18dcd820d0a1e125c2e8fff54e4c7944fe7501111afdb2c9eb1f731a0f71",
+    "/usr/share/doc/libuv/ChangeLog": "056f655c678bedea637f5c2301139b12970ebec84fb273cbfa082e755ed211ec",
+    "/usr/share/man/man1/libuv.1.gz": "5e49cb8b35c6039f9b9e7c8d58d8f9184a2f763759841708797eeade7891dfda",
+    "/var/log/pacman.log": "f38b25ad1d4b9fe814b2a33b60d744addacd5c34248432c1e7fe63a56feb2e25"
   }
 }

@@ -30,5 +30,21 @@
     "/usr/lib/ghc-8.2.2/site-local/lifted-base-0.2.3.11/Foreign/Marshal/Utils/Lifted.dyn_hi": "588e7ab461a1ba19c1956280491df91587bda7d314652848de660dd1b3c88a36",
     "/usr/lib/ghc-8.2.2/site-local/lifted-base-0.2.3.11/System/Timeout/Lifted.dyn_hi": "8701094781cc3f8784b81bfa248e5a353752488665bdcb664df9aaa3e9e7e265",
     "/var/log/pacman.log": "8fd1de1bc09d16b20295a5e82e3bd1749e50d566c4d53a0c850f3bc281abf302"
+  },
+  "0.2.3.11-9": {
+    "/usr/share/haskell/register/haskell-lifted-base.sh": "354c35b96512708238fdd59c58dcf39e541806438d457a4ccf5c4ddb3222618d",
+    "/usr/share/haskell/unregister/haskell-lifted-base.sh": "074b3e880c6fd3a3893bc176e494726ff350e131191d618679586c1263245b07",
+    "/usr/share/licenses/haskell-lifted-base/LICENSE": "809674ffd20970dad25480561763808456f31c7a018850d2651e74bd920087b7",
+    "/usr/lib/libHSlifted-base-0.2.3.11-JW0adBPJA4N3rmPOFWyFnS-ghc8.2.2.so": "d5618b073f8c6b0a1813c18089a6dbeef639576761b6a60797e79b5fc6c20c4f",
+    "/usr/lib/ghc-8.2.2/site-local/lifted-base-0.2.3.11/Control/Exception/Lifted.dyn_hi": "0a15d4531768558923068cb6fa91eaade7a7724bd4f6cf6f0f6ae54f349ec93e",
+    "/usr/lib/ghc-8.2.2/site-local/lifted-base-0.2.3.11/Control/Concurrent/Lifted.dyn_hi": "b19baaef1425dd25ae42fb2eaaaa909f75b6e909dbb27f6f4a513b593f264031",
+    "/usr/lib/ghc-8.2.2/site-local/lifted-base-0.2.3.11/Control/Concurrent/MVar/Lifted.dyn_hi": "c45e3fbec27bf741feaef8a3f3a19618c92f51c613ca85705be428a6dfdadc4b",
+    "/usr/lib/ghc-8.2.2/site-local/lifted-base-0.2.3.11/Control/Concurrent/Chan/Lifted.dyn_hi": "e5de7c404eb9fc3477cac95fd2f3f6b3a645f4a26676a6cc99d657351bedd24b",
+    "/usr/lib/ghc-8.2.2/site-local/lifted-base-0.2.3.11/Control/Concurrent/QSem/Lifted.dyn_hi": "c47026f8d7d77418621023acd19dc81515014826cad3bbf7450cec0dc41f59a2",
+    "/usr/lib/ghc-8.2.2/site-local/lifted-base-0.2.3.11/Control/Concurrent/QSemN/Lifted.dyn_hi": "696537b8449cf5765e4e0e19024c8b9831f29ca9573ee664dd27e5ca0ba3fbf5",
+    "/usr/lib/ghc-8.2.2/site-local/lifted-base-0.2.3.11/Data/IORef/Lifted.dyn_hi": "ec8eb8dba0177bb9e510d941d72f2c9e0e793077b6ec4db7f9876ee9307d9f22",
+    "/usr/lib/ghc-8.2.2/site-local/lifted-base-0.2.3.11/Foreign/Marshal/Utils/Lifted.dyn_hi": "2f008f84799f47744bf9419948365b383f007e8797c1d0c9213472928de9af8c",
+    "/usr/lib/ghc-8.2.2/site-local/lifted-base-0.2.3.11/System/Timeout/Lifted.dyn_hi": "79abd2c8d42f7ef32bcc35e99bf12822950a4e188585cb9d8b2b85202aeea02c",
+    "/var/log/pacman.log": "7446e8f5ab50f74b40881fe3a59e452fb9f0c7f00e37c6c39e4a712113373785"
   }
 }

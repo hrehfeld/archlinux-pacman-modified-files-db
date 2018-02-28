@@ -7,5 +7,14 @@
     "/usr/bin/doxygen": "4963dcb9c31e33ecd2c88c1fc92712b0f8f826c0eabf44b8739acfe91a46a820",
     "/usr/bin/doxywizard": "49ae82d10d29dd228e19ddcada245a3c6712df2b0f7221c645c052a0ed9c097e",
     "/var/log/pacman.log": "dda3b6faaa642f7dc2a29915dda8c8da8997f0499d6d8f697eff580f8ccc8342"
+  },
+  "1.8.14-1": {
+    "/usr/bin/doxywizard": "be417b700d2440a8aa82d0dcedfc71bbbd0a97b1596ece3373beba2670262532",
+    "/usr/bin/doxygen": "b4d29ef8e24a2a685a9af18752424ff7bbae4a4a317db5b5a0f0ad34177847f3",
+    "/usr/share/man/man1/doxysearch.1.gz": "51d79bf6973a81b4308d5b26392a60b8a5dfae064c3d8e547ab3291a34b81c7f",
+    "/usr/share/man/man1/doxywizard.1.gz": "f7133d649af4f69aeec9d2bae69eb9f5cbb3c590e453ac4772f6a8d34c153dde",
+    "/usr/share/man/man1/doxyindexer.1.gz": "51bacc0010c7511b29ee57731cf6469d355108861656817ee2e22675fb67b9b3",
+    "/usr/share/man/man1/doxygen.1.gz": "a0071487bbdcec421b9e17dc4040e499d3b30ad4181425247e1db7dd2d0a8cb9",
+    "/var/log/pacman.log": "34051ada7f52b7850cddfcc8af8d80d9b1ed20cdccb0dcb9a3b2fe42f4b3a533"
   }
 }

@@ -14,5 +14,13 @@
     "/usr/lib/libHSStateVar-1.1.0.4-9t2MQGHACWrEvPZcjjU4Hn-ghc8.2.2.so": "f4555de27c1babf8fd11b79bcc238c761daf08e1914b887c6d57d8bc90fefa43",
     "/usr/lib/ghc-8.2.2/site-local/StateVar-1.1.0.4/Data/StateVar.dyn_hi": "4d4a3aae25873f0e8da021966b4a255a2d21969fb59c2f3ea64a9135c311f48a",
     "/var/log/pacman.log": "65b16dbe48b26a5632585e2cebca2ddf5f249de681a7d83b34a2fed9696a9a15"
+  },
+  "1.1.0.4-7": {
+    "/usr/share/haskell/register/haskell-statevar.sh": "7e1264679091ceac171a4333986017912f2a4f5410c0f02d246e15c506fc8a79",
+    "/usr/share/haskell/unregister/haskell-statevar.sh": "a80984fd928dedacd894ac151bd259f3dc8dbf6a96bf82a372d8b24936e180d8",
+    "/usr/share/licenses/haskell-statevar/LICENSE": "7a87be2fb4872fa30151c613aafc11ec66d42b21f85efc483d15f1a100adcda5",
+    "/usr/lib/libHSStateVar-1.1.0.4-GRmz1UWBbi54rweYG8Cc71-ghc8.2.2.so": "197eeca58ebaf8f2e318f9beea9d0550761e5284d7755ed50a99fef433043f74",
+    "/usr/lib/ghc-8.2.2/site-local/StateVar-1.1.0.4/Data/StateVar.dyn_hi": "c291f50e273ddc9c1abb6e9014d02abfdc749f4ddaa9f0855c208f97fc1480bf",
+    "/var/log/pacman.log": "898e8487d5cc6c15c08a50b2a4d6a7d1db3710e530f5614dffd82ab22ba3068c"
   }
 }

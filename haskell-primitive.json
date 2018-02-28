@@ -38,5 +38,25 @@
     "/usr/lib/ghc-8.2.2/site-local/primitive-0.6.2.0/Data/Primitive/Internal/Compat.dyn_hi": "18742d1912e393d34486f73795362a0f84b1343f13173ec800355ce80668efb9",
     "/usr/lib/ghc-8.2.2/site-local/primitive-0.6.2.0/Data/Primitive/Internal/Operations.dyn_hi": "51ffa26b5f314a27c4d71028cb849cbd3b99f1dc730c6599302135eea7a61c73",
     "/var/log/pacman.log": "fd4548abbbc8dc788075b76d5c816a657bfd9a025eed95943854a2dfc0444bd9"
+  },
+  "0.6.3.0-1": {
+    "/usr/share/haskell/register/haskell-primitive.sh": "86db148d7fd5f5efbffefb5d26dc640aa383ab110737c56a262ee604b81d23e9",
+    "/usr/share/haskell/unregister/haskell-primitive.sh": "1e3b79bdd3014ee1e52fb9cc5eda85176d118589e05f801973c3a644dbf1a37a",
+    "/usr/share/licenses/haskell-primitive/LICENSE": "cd6b51ecce7bc97a7bbd8500797c350a72f2f9c8e3aaf9d7154b9064d16316ea",
+    "/usr/lib/libHSprimitive-0.6.3.0-CXy1O9sQYlI58rn9KQkFyo-ghc8.2.2.so": "a13a982b379d2442409cdd08da871267c73329ff685eba72e3837b578f5fbcd3",
+    "/usr/lib/ghc-8.2.2/site-local/primitive-0.6.3.0/include/primitive-memops.h": "17434e886e7167f98fb77a8173d227c23afba9af92d24b9b6d8f4893adf855d5",
+    "/usr/lib/ghc-8.2.2/site-local/primitive-0.6.3.0/Control/Monad/Primitive.dyn_hi": "ff6f81cc1582409a903b16cc2ba3c99254f5d191c70bb9b2d1d45af7ac411ba1",
+    "/usr/lib/ghc-8.2.2/site-local/primitive-0.6.3.0/Data/Primitive.dyn_hi": "c37847ac182642cddbd2ed9e582306d2a60c8529da817db2f1f71742cf6a3690",
+    "/usr/lib/ghc-8.2.2/site-local/primitive-0.6.3.0/Data/Primitive/MachDeps.dyn_hi": "cd86a389054e12378c8a953eaa396f2c819ab9f8969d1bf9baf337479650cd8b",
+    "/usr/lib/ghc-8.2.2/site-local/primitive-0.6.3.0/Data/Primitive/Types.dyn_hi": "8118db8d45cd70b8098e0db782875ef08e243a3667a754b9953a4c98e276dd5c",
+    "/usr/lib/ghc-8.2.2/site-local/primitive-0.6.3.0/Data/Primitive/Array.dyn_hi": "499c0a0883d76509271bfa5a8fb66b30d94fd9149a905cc497bc8ec71e302c7e",
+    "/usr/lib/ghc-8.2.2/site-local/primitive-0.6.3.0/Data/Primitive/ByteArray.dyn_hi": "a0eb022efc484528d5a91be2979bf93d5fe6a9f186e62cd5dc439d7695766f90",
+    "/usr/lib/ghc-8.2.2/site-local/primitive-0.6.3.0/Data/Primitive/SmallArray.dyn_hi": "468cd80b25f9c274e967154f106d47d16c7ec309ee4d837ad5cc74b70a049652",
+    "/usr/lib/ghc-8.2.2/site-local/primitive-0.6.3.0/Data/Primitive/UnliftedArray.dyn_hi": "584e6ac1651ee8f83891936259ec1a8b80756a054c134759217a635475e13eee",
+    "/usr/lib/ghc-8.2.2/site-local/primitive-0.6.3.0/Data/Primitive/Addr.dyn_hi": "0d5d5d44187eae57e74285b81f3cef2e0ffa168f7e5c8684b8ae00a291a66dd5",
+    "/usr/lib/ghc-8.2.2/site-local/primitive-0.6.3.0/Data/Primitive/MutVar.dyn_hi": "b6ea04ba5f5263c742ad9ebdf12ef206e58cacc310105ad3b654bba51126949f",
+    "/usr/lib/ghc-8.2.2/site-local/primitive-0.6.3.0/Data/Primitive/Internal/Compat.dyn_hi": "4bcc74fc048edae8d3db0189701230af15b85e96283a8d978eabc67baded5ca4",
+    "/usr/lib/ghc-8.2.2/site-local/primitive-0.6.3.0/Data/Primitive/Internal/Operations.dyn_hi": "3be72b572ec0fd59774942afa28a665698478cd88fdc47a6f64819f74df51e1e",
+    "/var/log/pacman.log": "77b2b3a546f54256bba6844082f5a5f9c055ba2b65f67f35f3f999c1a90d4d4c"
   }
 }

@@ -11,5 +11,18 @@
     "/usr/lib/pkgconfig/suil-0.pc": "844907a350956bdb417775a77aa79ff81eff95f40131ea8c5d4ee8dbe6abf2ca",
     "/usr/include/suil-0/suil/suil.h": "0087704351b461ea2d71d35c00feff9d96dee8b2b64ec51bb219c17f09da3396",
     "/var/log/pacman.log": "460c9590a9035055a6d95027930ad6bebf97db8c2c60e0728c41d0b118f658d2"
+  },
+  "0.8.2-3": {
+    "/usr/include/suil-0/suil/suil.h": "0087704351b461ea2d71d35c00feff9d96dee8b2b64ec51bb219c17f09da3396",
+    "/usr/lib/libsuil-0.so.0": "59d3efd7b3d60b804b3c70ffe7988242b6bbefc772bac24a134e4934bab071e2",
+    "/usr/lib/libsuil-0.so": "59d3efd7b3d60b804b3c70ffe7988242b6bbefc772bac24a134e4934bab071e2",
+    "/usr/lib/libsuil-0.so.0.8.2": "59d3efd7b3d60b804b3c70ffe7988242b6bbefc772bac24a134e4934bab071e2",
+    "/usr/lib/pkgconfig/suil-0.pc": "844907a350956bdb417775a77aa79ff81eff95f40131ea8c5d4ee8dbe6abf2ca",
+    "/usr/lib/suil-0/libsuil_x11_in_qt4.so": "7745ee5024572719d198830614a76c2089a63f7ffbe310105bfabe5971294e90",
+    "/usr/lib/suil-0/libsuil_x11_in_gtk2.so": "a069821d02ab94b30cacf322ebd112b5fca983cb8d45eb5b1ccb0cf13afc0f1d",
+    "/usr/lib/suil-0/libsuil_qt4_in_gtk2.so": "d500f74d42b373385dbe79c70c576a16d3fb55ab7ce2d64e677f3d9888afea07",
+    "/usr/lib/suil-0/libsuil_gtk2_in_qt4.so": "77f4faa62f5a7ce19208709bab30c1c12771ce8d888a56f77f31470165f4015a",
+    "/usr/share/licenses/suil/LICENSE": "5b1d96ec5b8ae3744fdf30ee89cd709f6ced08cd970a9eab9094b6a281a3cdda",
+    "/var/log/pacman.log": "f4a28fc19f23530bfc5057f2450dcd45d841166a269e8d3f6fead08422dfec22"
   }
 }

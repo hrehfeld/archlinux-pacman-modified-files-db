@@ -16,5 +16,14 @@
     "/usr/lib/ghc-8.2.2/site-local/ansi-wl-pprint-0.6.8.1/Text/PrettyPrint/ANSI/Leijen.dyn_hi": "3ec53a2b0a8a8cb5457c5484ffb09cf572da50d303ef94c975d123de580b8946",
     "/usr/lib/ghc-8.2.2/site-local/ansi-wl-pprint-0.6.8.1/Text/PrettyPrint/ANSI/Leijen/Internal.dyn_hi": "df32bc14f29699b2303b4587e4239cecd9ce6d5d2d07bd57b52ad7430be2e6a0",
     "/var/log/pacman.log": "50489bbc5568bbde3d991f419a17a8000381097a8e81e81507a756a8d6fce922"
+  },
+  "0.6.8.2-1": {
+    "/usr/share/haskell/register/haskell-ansi-wl-pprint.sh": "98c7f95c5949a3638cd77152893dc4a2180fcb4b35e97e4b0806449e3e4a3697",
+    "/usr/share/haskell/unregister/haskell-ansi-wl-pprint.sh": "6c7959f99f3d729392f5d3883ecd3d1af05bcf4193ae87082011a45c19180e2f",
+    "/usr/share/licenses/haskell-ansi-wl-pprint/LICENSE": "59f0a9fac99c12098a3dde108db3b12da7562ebc6a29665884fc79c7f6b26231",
+    "/usr/lib/libHSansi-wl-pprint-0.6.8.2-BNZ0whVIB6cJKOld8QNm1B-ghc8.2.2.so": "947ebfb24c5de1144b68176e7f52d65593e9d43dddaed82c4aed7e4c99c3e63b",
+    "/usr/lib/ghc-8.2.2/site-local/ansi-wl-pprint-0.6.8.2/Text/PrettyPrint/ANSI/Leijen.dyn_hi": "1b432f28e51ecf3bf6743adc1dc67a6ae06796e2ab4a43e8a4fdbba51f520074",
+    "/usr/lib/ghc-8.2.2/site-local/ansi-wl-pprint-0.6.8.2/Text/PrettyPrint/ANSI/Leijen/Internal.dyn_hi": "99f84c90972c7ce6d9cdf924319c922682005fcc1b838198baaedc44c25aa228",
+    "/var/log/pacman.log": "f8c3b21c526efbb589f7ef99779f4afaf349510deed23a825ce86bff375e4311"
   }
 }

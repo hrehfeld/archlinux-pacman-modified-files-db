@@ -16,5 +16,14 @@
     "/usr/lib/ghc-8.2.2/site-local/exceptions-0.8.3/Control/Monad/Catch.dyn_hi": "b65fd575656ac07bf5f16b557b655da0f7796f560b2af8c9c2f71666e3c69b47",
     "/usr/lib/ghc-8.2.2/site-local/exceptions-0.8.3/Control/Monad/Catch/Pure.dyn_hi": "ec854d733f601270eeed7d57ab65335ceb79b551cb8af500c38aed89a1f5f2c3",
     "/var/log/pacman.log": "8096551b5c076637ce287a76c87a972df57088f84eb236e288ba7e23a1af4da4"
+  },
+  "0.8.3-6": {
+    "/usr/share/haskell/register/haskell-exceptions.sh": "1dad4bd12006c57ad6b764384fd8696863e1fc40d87ecde7b2b02883f79cf8ac",
+    "/usr/share/haskell/unregister/haskell-exceptions.sh": "c74ccc5a58c1ff9fddb7a20d5124670684090e2a7e189b629d8498e432c88272",
+    "/usr/share/licenses/haskell-exceptions/LICENSE": "09baf819c095749d4f8563600b5ffca346ed1124a2d964dc2085515627029091",
+    "/usr/lib/libHSexceptions-0.8.3-LdkvhAEH3VPBvXQLZp0mCT-ghc8.2.2.so": "bbb2c2ca3854d1cb1ab9dc02dba93637974e279205ae2010ca5f7eb9c57cab59",
+    "/usr/lib/ghc-8.2.2/site-local/exceptions-0.8.3/Control/Monad/Catch.dyn_hi": "43fc419f4fe32379beef14e5731a457e43d0d0a4f857b6a69608272c9d6fb697",
+    "/usr/lib/ghc-8.2.2/site-local/exceptions-0.8.3/Control/Monad/Catch/Pure.dyn_hi": "165507842041145116387b8f703c300f02ab7379c46427339a1699415246ca2a",
+    "/var/log/pacman.log": "d2a62c4769baa6442967cdc1c1d526be00bec3296be4cc1a5dc2a861efd73f09"
   }
 }

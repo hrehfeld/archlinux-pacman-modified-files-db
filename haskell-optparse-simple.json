@@ -15,5 +15,14 @@
     "/usr/lib/ghc-8.2.2/site-local/optparse-simple-0.1.0/Paths_optparse_simple.dyn_hi": "964e44746de0cee1a741e68a61135a45a0413fb30fd58629ccfa97bfa8cfd5cd",
     "/usr/lib/ghc-8.2.2/site-local/optparse-simple-0.1.0/Options/Applicative/Simple.dyn_hi": "ddc93807e96c6206730e7451c314d81823cc5df1952db67fa5bc539fa8809e35",
     "/var/log/pacman.log": "92bc1c112194a805a152fe0509b655de52f29ee038e4188d78d8af83105f9dfb"
+  },
+  "0.1.0-3": {
+    "/usr/share/haskell/register/haskell-optparse-simple.sh": "0a1593c35a03b8b25a2fe9b9ade0d8fa82cfd11bf17492ef08fc8a63436aab8a",
+    "/usr/share/haskell/unregister/haskell-optparse-simple.sh": "78dbaad8e87d33bb076f4d7af58978574d7aebaa47caa0897ab952d6b0ce3b16",
+    "/usr/share/licenses/haskell-optparse-simple/LICENSE": "1c4e8f6ac2bef015f7e6fe8dc379ff5d3e7f6632705566d507fb6e965a918b98",
+    "/usr/lib/libHSoptparse-simple-0.1.0-5bxM1xuAdXHDUVu3xAszhQ-ghc8.2.2.so": "3cd41a9c2824c6023a620bc9bcf60db3e8aafcff72ade432afc1656868665c69",
+    "/usr/lib/ghc-8.2.2/site-local/optparse-simple-0.1.0/Paths_optparse_simple.dyn_hi": "079b87d742860efad176e5f533a4970b803233972c24602abbf22f54da40538e",
+    "/usr/lib/ghc-8.2.2/site-local/optparse-simple-0.1.0/Options/Applicative/Simple.dyn_hi": "a506640e8c4d71812a6db980353803e9490270f78b27aaef711ca97d327e49cb",
+    "/var/log/pacman.log": "28408b84f798be8d4ab24535119a31ad31461a252452a44725ce609bd97a4fd0"
   }
 }

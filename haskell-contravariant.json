@@ -20,5 +20,16 @@
     "/usr/lib/ghc-8.2.2/site-local/contravariant-1.4/Data/Functor/Contravariant/Divisible.dyn_hi": "9eb7a4a6a8e2ea9bc0ff588dc6aba62d6416878bb6df7dfbe8679fc8db6ad8ab",
     "/usr/lib/ghc-8.2.2/site-local/contravariant-1.4/Data/Functor/Contravariant/Generic.dyn_hi": "bb4620a74684af4a356bd3280b9b30bff1c4af27ce2799c4abf26bc581395f38",
     "/var/log/pacman.log": "01f53730f637cecab2c9bd6e3db1759afb1ffe34ea685cb210d1ead7a0048975"
+  },
+  "1.4.1-2": {
+    "/usr/share/haskell/register/haskell-contravariant.sh": "b9465307fd15682b54540ef0433a52cb4fe69c53d5df603437d133902e03ad72",
+    "/usr/share/haskell/unregister/haskell-contravariant.sh": "1816836bf463fc76a4c167c9ea254842ad5f62b8bfb3d080d6c5ffabced34c04",
+    "/usr/share/licenses/haskell-contravariant/LICENSE": "ca552b03f51300af9f01341076808d7df603a1dab4dbbf47e2cae276cb15c770",
+    "/usr/lib/libHScontravariant-1.4.1-7cEYjzgkYgPFdXWpdMNGgr-ghc8.2.2.so": "86ca8d6ca14f1d7db8256f69e811429cbb4131ff301fa58fdee1169eb11acdb6",
+    "/usr/lib/ghc-8.2.2/site-local/contravariant-1.4.1/Data/Functor/Contravariant.dyn_hi": "8588f3630ead6eaee5762fa58d7c877afd96aafd338af9222aae1efe8db46195",
+    "/usr/lib/ghc-8.2.2/site-local/contravariant-1.4.1/Data/Functor/Contravariant/Compose.dyn_hi": "3e844feeac7b326ff9cccb5996f53bf95ee0a336683d78fa9235d692e9260ae3",
+    "/usr/lib/ghc-8.2.2/site-local/contravariant-1.4.1/Data/Functor/Contravariant/Divisible.dyn_hi": "90aa409f80393b476504e05e51e197d8e547a3aac32e144b89f4ba943c31b1a9",
+    "/usr/lib/ghc-8.2.2/site-local/contravariant-1.4.1/Data/Functor/Contravariant/Generic.dyn_hi": "9130988357e7919e4fdf08b025ee5b5694b7a4f46efb5cbca56c76f934c11959",
+    "/var/log/pacman.log": "576c8b61cfd626a7ef0ac6b0a73e2894502f9551eb5f4f1996fa5d6ad5c40101"
   }
 }

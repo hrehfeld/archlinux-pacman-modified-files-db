@@ -67,5 +67,28 @@
     "/usr/lib/ghc-8.2.2/site-local/profunctors-5.2.1/Data/Profunctor/Unsafe.dyn_hi": "4aad32fd64f737806e030fc1db4dc62ed8a5ff76cd5280fe8c936126d4a942de",
     "/usr/lib/ghc-8.2.2/site-local/profunctors-5.2.1/Data/Profunctor/Yoneda.dyn_hi": "aab9860cd2d3741f8228356ca6e65db90a26d95fc4959d121b292f55b8efe6d5",
     "/var/log/pacman.log": "196029b2334f3a253dd31d64246296d9c6a1bc9f511158f8dc9a3d1fe4b8e7af"
+  },
+  "5.2.2-3": {
+    "/usr/share/haskell/register/haskell-profunctors.sh": "cfaad4368b2cd08b197656a0d59a6f9a301c62b836c5b7da762b8813ae426d58",
+    "/usr/share/haskell/unregister/haskell-profunctors.sh": "d959a6eba2b9541999242980572d47fc7d5f0f4009e88c0a727fa1c55b6e9d4c",
+    "/usr/share/licenses/haskell-profunctors/LICENSE": "d3c0d29afc5409a95a762dc22a0f343adcf9a9e431baf4e78648dcde69300d14",
+    "/usr/lib/libHSprofunctors-5.2.2-ANDNzwg4PNIADu6E4kZ9s8-ghc8.2.2.so": "8cd1461eccd6c09445655a22c625659d9011426c7c6621c996f69b705913538a",
+    "/usr/lib/ghc-8.2.2/site-local/profunctors-5.2.2/Data/Profunctor.dyn_hi": "593aea4909047cdcf00c37a9b5a1ca6574f7f96a8f53f16f1ba8fdd952551fd5",
+    "/usr/lib/ghc-8.2.2/site-local/profunctors-5.2.2/Data/Profunctor/Adjunction.dyn_hi": "2b54ffcd55b1f12030a808a1a91b85c1af962960f8e05ee6aa7da8df2db9f4a2",
+    "/usr/lib/ghc-8.2.2/site-local/profunctors-5.2.2/Data/Profunctor/Cayley.dyn_hi": "c4e9a43848192876d81b34b13d0d19e0b7554d8901c88d0fb0d0bc287a59d197",
+    "/usr/lib/ghc-8.2.2/site-local/profunctors-5.2.2/Data/Profunctor/Choice.dyn_hi": "bec47d26b052c763f1abd3d73a9138438220cdcd5e5a0bae4c42930a619e47f9",
+    "/usr/lib/ghc-8.2.2/site-local/profunctors-5.2.2/Data/Profunctor/Closed.dyn_hi": "b47b5d1a841d1988c5e48ed8becc4f82dc22cd1eb1814a4c281bb5f219ead91a",
+    "/usr/lib/ghc-8.2.2/site-local/profunctors-5.2.2/Data/Profunctor/Composition.dyn_hi": "b2e6cf6af6e77e68cd0565a87a8d7df1d53f9bb0f3b4e74c65464d89bae1da4d",
+    "/usr/lib/ghc-8.2.2/site-local/profunctors-5.2.2/Data/Profunctor/Mapping.dyn_hi": "158ea14e544d4815b5755f9b93a44cb3bee21ef3a1f54e59ccf4919868944c95",
+    "/usr/lib/ghc-8.2.2/site-local/profunctors-5.2.2/Data/Profunctor/Monad.dyn_hi": "6d1677956586a8818429aa02a6cf6fbf87ca2a6881e728ea1d7799c0b369cb65",
+    "/usr/lib/ghc-8.2.2/site-local/profunctors-5.2.2/Data/Profunctor/Ran.dyn_hi": "a8a7105de1367f1acc226aa0dc18713ea8766aefd8deb901999280802eb5151e",
+    "/usr/lib/ghc-8.2.2/site-local/profunctors-5.2.2/Data/Profunctor/Rep.dyn_hi": "d701158e47ec3cb65afa18450bf88d6ada9c28e8bf50b40aba91d2850f44a757",
+    "/usr/lib/ghc-8.2.2/site-local/profunctors-5.2.2/Data/Profunctor/Sieve.dyn_hi": "20e8cfcddc9e3c1ea59717602f27958e90a91b046e98b60953f8d69c2706b700",
+    "/usr/lib/ghc-8.2.2/site-local/profunctors-5.2.2/Data/Profunctor/Strong.dyn_hi": "3f71f385e6c8fe9a30ea0709f7d7c062e41004e2ac7bcd4659827364b2d53755",
+    "/usr/lib/ghc-8.2.2/site-local/profunctors-5.2.2/Data/Profunctor/Traversing.dyn_hi": "0607739d9672d53ce2d6b18df8acb8c0011fbaf2bb46cb13b3160fea2d5510f5",
+    "/usr/lib/ghc-8.2.2/site-local/profunctors-5.2.2/Data/Profunctor/Types.dyn_hi": "f8ade9b2685823277e96b1760e48bbdb9bc17750bcd0704c13d01425cfe0e496",
+    "/usr/lib/ghc-8.2.2/site-local/profunctors-5.2.2/Data/Profunctor/Unsafe.dyn_hi": "2fdb6aece53a581221b3b63cdbcfef1db72177327e030c81cfbabcf2b0cc69a6",
+    "/usr/lib/ghc-8.2.2/site-local/profunctors-5.2.2/Data/Profunctor/Yoneda.dyn_hi": "c5ba2711bf21cf0bcf668f16e6b3be67084f868198c66d20dd46dca9ab82c95e",
+    "/var/log/pacman.log": "ed10ca9230dd0b4512979c4797dd9af053ec4e1d186949126ccb6ec9c6bc7895"
   }
 }

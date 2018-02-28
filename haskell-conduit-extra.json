@@ -80,5 +80,26 @@
     "/usr/lib/ghc-8.2.2/site-local/conduit-extra-1.2.2/Data/Conduit/Network/Unix.dyn_hi": "28941ba0e404c1a88e904ea1369dc2b7589eff660d5dbb84c2ae85150bc84897",
     "/usr/lib/ghc-8.2.2/site-local/conduit-extra-1.2.2/Data/Conduit/Process/Typed.dyn_hi": "5107dce7bf026e8ec17f25280c240b1083cfa72b436f539e058918d47e749882",
     "/var/log/pacman.log": "a1cffe59f061301ecf11f3448bd37cd0770b4bae5e3327d7a193640b69f7768a"
+  },
+  "1.2.3.2-8": {
+    "/usr/share/haskell/register/haskell-conduit-extra.sh": "a3390b4c5f60f344520326909c66b370320268403c00beaea27b545a5f6ca845",
+    "/usr/share/haskell/unregister/haskell-conduit-extra.sh": "72bdf33a7ddfc8b2e1b31005b4fc4f58224f0db2f828dcb6717e5a666c7507f3",
+    "/usr/share/licenses/haskell-conduit-extra/LICENSE": "bebc00cb81ab4a16c3f27768fad205a203d0d7b56944299808dc3c35b53e198d",
+    "/usr/lib/libHSconduit-extra-1.2.3.2-1vesJQcnxCTHbbMIx8mPmV-ghc8.2.2.so": "c4bf718a4836997c6cb157d6f6850ceeeff24f5f275b028ff219ed4d59c944e6",
+    "/usr/lib/ghc-8.2.2/site-local/conduit-extra-1.2.3.2/Data/Conduit/Attoparsec.dyn_hi": "62eb9041c923b0da4f5af08df3b76891b3161d0a7e42bfb021a5f177d916d13a",
+    "/usr/lib/ghc-8.2.2/site-local/conduit-extra-1.2.3.2/Data/Conduit/Binary.dyn_hi": "0d6e16233544508c9c366bc10d44cee3901e65de447f0aa98e12db602bec377c",
+    "/usr/lib/ghc-8.2.2/site-local/conduit-extra-1.2.3.2/Data/Conduit/Blaze.dyn_hi": "919b0c432c385ab06983ea349f466b25e67a16f164fa2928ce3524b0b38fd438",
+    "/usr/lib/ghc-8.2.2/site-local/conduit-extra-1.2.3.2/Data/Conduit/Filesystem.dyn_hi": "aa99c567912c84ec8d96847b51e5a768046680e1d467e9cad55224cc356e2d56",
+    "/usr/lib/ghc-8.2.2/site-local/conduit-extra-1.2.3.2/Data/Conduit/Foldl.dyn_hi": "d6a854b89dc93071739e4625cdeb97e171621f393ba3066b4477dfb2df592b23",
+    "/usr/lib/ghc-8.2.2/site-local/conduit-extra-1.2.3.2/Data/Conduit/Lazy.dyn_hi": "0a2e444c929603548404cef6abee21bcad6d9a18d2086966b2cb2d42f8f3c1bc",
+    "/usr/lib/ghc-8.2.2/site-local/conduit-extra-1.2.3.2/Data/Conduit/Network.dyn_hi": "86c30a97900934c4e64782a3fde63661148ea4ff194b9e39c05f53dba8d3032f",
+    "/usr/lib/ghc-8.2.2/site-local/conduit-extra-1.2.3.2/Data/Conduit/Process.dyn_hi": "144a649ab447cc5a2721bb3e759101162ddadd34e3790eb7f5194e331a6b531d",
+    "/usr/lib/ghc-8.2.2/site-local/conduit-extra-1.2.3.2/Data/Conduit/Text.dyn_hi": "51a8887c89e6f7417de087da3ece433282b0753fb48d5113eff35ce69cff6e90",
+    "/usr/lib/ghc-8.2.2/site-local/conduit-extra-1.2.3.2/Data/Conduit/Zlib.dyn_hi": "d0511321c1aefe26a200c4e614e845ab3f15a359745bbdc21edac9a01f9a13f9",
+    "/usr/lib/ghc-8.2.2/site-local/conduit-extra-1.2.3.2/Data/Conduit/ByteString/Builder.dyn_hi": "7f4ff98ea86446d81fc9ee00d3c003228b29851bf7407f7bae1df8bb2615a0a4",
+    "/usr/lib/ghc-8.2.2/site-local/conduit-extra-1.2.3.2/Data/Conduit/Network/UDP.dyn_hi": "1b6d81518c82c5d60c4d4da2b993b88d8169c61bed5d9262e4b2ef905e2775d2",
+    "/usr/lib/ghc-8.2.2/site-local/conduit-extra-1.2.3.2/Data/Conduit/Network/Unix.dyn_hi": "9c1d75bdfc352b5ed1ff314d5336cfa75abdfddc091d10be601a3b1f3a4390fd",
+    "/usr/lib/ghc-8.2.2/site-local/conduit-extra-1.2.3.2/Data/Conduit/Process/Typed.dyn_hi": "d119026bc343dc4a36b8d9f241d25c89804d05182292eb1fe2cd0e65d566bb9b",
+    "/var/log/pacman.log": "7eb44459fdc44d8f5e2e16642198cdbb5ab3ae5e340e2bbe2bffc6e9887ecf83"
   }
 }

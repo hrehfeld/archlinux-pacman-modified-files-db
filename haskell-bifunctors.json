@@ -64,5 +64,27 @@
     "/usr/lib/ghc-8.2.2/site-local/bifunctors-5.5/Data/Bifunctor/Wrapped.dyn_hi": "cc7b46ec0ddbebeb02eb7a63e1475a732dc8a0283bb1d502c6cd293844cc38b4",
     "/usr/lib/ghc-8.2.2/site-local/bifunctors-5.5/Data/Bifunctor/TH/Internal.dyn_hi": "3c27f428cb02cfc6122090290270e00e38109dcaad226aa553242d8b7310354f",
     "/var/log/pacman.log": "018cf4d1ce9436dea4f0071b4854574f09ba7d85f5e8dd69a01ccaa48ced0072"
+  },
+  "5.5-4": {
+    "/usr/share/haskell/register/haskell-bifunctors.sh": "6a3fa2baf2d3aa6aefe3997a91728f2e61fe786f1a0bbfd3ed34f3c4d801fe4b",
+    "/usr/share/haskell/unregister/haskell-bifunctors.sh": "c0b2471dcb73935419daebb27ce6a4b60bb8f251ca4ed08710250a6941818458",
+    "/usr/share/licenses/haskell-bifunctors/LICENSE": "bcc90708feb8a742f4702201849b51b6fc99d48308ddccdecc5498d144c3a223",
+    "/usr/lib/libHSbifunctors-5.5-Lin4VTKwDYvJZNayuCYkvV-ghc8.2.2.so": "68c4a06af2d1415a928547de4825fc4bfcdb22f4086c734c26ad4191f50ea2f1",
+    "/usr/lib/ghc-8.2.2/site-local/bifunctors-5.5/Paths_bifunctors.dyn_hi": "c9cf6605b45a85d03626e1ed2d80173c6b8d995806dfb04cf0d3fd4b00f675e4",
+    "/usr/lib/ghc-8.2.2/site-local/bifunctors-5.5/Data/Biapplicative.dyn_hi": "5b79eddc39585bc553cc21e091a0206bbd2f263eca72836325713e6f22acf69e",
+    "/usr/lib/ghc-8.2.2/site-local/bifunctors-5.5/Data/Bifunctor/Biff.dyn_hi": "8046f1b621df6cc32a667de716bc309e7d151d55217fc97fcf98b8c38f725595",
+    "/usr/lib/ghc-8.2.2/site-local/bifunctors-5.5/Data/Bifunctor/Clown.dyn_hi": "9ba96caf0def4f3a6c0e53a4eeb5cb91ab0ff5ffdb8828ad18e528b281348ced",
+    "/usr/lib/ghc-8.2.2/site-local/bifunctors-5.5/Data/Bifunctor/Fix.dyn_hi": "1fe55af56e52f513037ff9370fa4f851a665c9c22ced7d8b240a5ea7be178389",
+    "/usr/lib/ghc-8.2.2/site-local/bifunctors-5.5/Data/Bifunctor/Flip.dyn_hi": "9fb5762c5cdea1c6074b26c012a7065335e2ed8d1df927bb0806e807256d1dd0",
+    "/usr/lib/ghc-8.2.2/site-local/bifunctors-5.5/Data/Bifunctor/Functor.dyn_hi": "654a1d92ec78405bab4a880ee0e13d3688ab3f9a9492069f1bb54d70a6b41e8d",
+    "/usr/lib/ghc-8.2.2/site-local/bifunctors-5.5/Data/Bifunctor/Join.dyn_hi": "9c0966cf9a745dec074e96787d1f755913b5b6fdb157ce886b1016744cb94aa6",
+    "/usr/lib/ghc-8.2.2/site-local/bifunctors-5.5/Data/Bifunctor/Joker.dyn_hi": "00fcb4058a9205d5392c5bbbcf25433d9046bf67d4203414c9d12429a6484298",
+    "/usr/lib/ghc-8.2.2/site-local/bifunctors-5.5/Data/Bifunctor/Product.dyn_hi": "a91310557e9f885d779da022c04958a532bec313975fc52e9f8fa7e5a8949ca0",
+    "/usr/lib/ghc-8.2.2/site-local/bifunctors-5.5/Data/Bifunctor/Sum.dyn_hi": "425091fb52e166caf261f9761abe40deac9b1be525f9e1e914b4088cf03fb12c",
+    "/usr/lib/ghc-8.2.2/site-local/bifunctors-5.5/Data/Bifunctor/Tannen.dyn_hi": "6383bf63454d83221e0ed07c393b32f9916228dae064670cbedb2e0918cf915a",
+    "/usr/lib/ghc-8.2.2/site-local/bifunctors-5.5/Data/Bifunctor/TH.dyn_hi": "b1b19f72b5f8bbb6dbe65f0025f7e97ed65228067d28be73e109ee056b5c7fe4",
+    "/usr/lib/ghc-8.2.2/site-local/bifunctors-5.5/Data/Bifunctor/Wrapped.dyn_hi": "6d325f8a52d336f7f1a383fdac78d52150157717f937fbde1fd08a1f2ceb305d",
+    "/usr/lib/ghc-8.2.2/site-local/bifunctors-5.5/Data/Bifunctor/TH/Internal.dyn_hi": "d85d482613bd8f191c4cd929bd36fa00f567639e031821d2a94e9a265fbb39a3",
+    "/var/log/pacman.log": "b5040ce5a8b1542b9611c6665b6cd3167a6d05734e5184ebc4683f6f6fa8b37f"
   }
 }

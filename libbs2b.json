@@ -1,0 +1,16 @@
+{
+  "3.1.0-6": {
+    "/usr/include/bs2b/bs2b.h": "0445a1484dfe55a149fecfd56a7c71ae8098dbf714e9301d0d151bff91c928ea",
+    "/usr/include/bs2b/bs2bclass.h": "52885e9df095cbdf0fadf543ede43c12d37fecc05671b2837e697a245be7f736",
+    "/usr/include/bs2b/bs2btypes.h": "5f0474d09d5b23ee4a6f0123915f71d858cebd24a03ac6caf5d96477a6628e13",
+    "/usr/include/bs2b/bs2bversion.h": "323fb409ecc5ae1d0c3706859c24b9b4ce8d141bc960580de0f759da6cb8bc9f",
+    "/usr/lib/libbs2b.so.0": "15e814c71ac1a911ce5cf06ff0bbb61909775c18d156aa074e9e272cb758bd93",
+    "/usr/lib/libbs2b.so": "15e814c71ac1a911ce5cf06ff0bbb61909775c18d156aa074e9e272cb758bd93",
+    "/usr/lib/libbs2b.so.0.0.0": "15e814c71ac1a911ce5cf06ff0bbb61909775c18d156aa074e9e272cb758bd93",
+    "/usr/lib/pkgconfig/libbs2b.pc": "2f85cd39e379c64d97a120948a9cf1c8145b48aef81aafcd2865dcfc54a883c5",
+    "/usr/bin/bs2bstream": "fcc4635d15e2dfe32ae2d40e5352a31819c94c6d3cfecc23e85f49e3beb10b65",
+    "/usr/bin/bs2bconvert": "f1710b3a70f830ea9f39bdb753ed966adcd269dda0bc8360f6e94c44c25cc3cf",
+    "/usr/share/licenses/libbs2b/LICENSE": "dfd5a8d7dc501447bf0d58b0fc9ef85ab9e713963d7dcf459897adefa4c710ca",
+    "/var/log/pacman.log": "ff50d1b7a3181342720df3088b04b2df9280ddd9293b44b7ed6f07d6b8029232"
+  }
+}

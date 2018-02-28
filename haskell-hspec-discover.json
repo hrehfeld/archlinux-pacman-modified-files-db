@@ -20,5 +20,17 @@
     "/usr/lib/ghc-8.2.2/site-local/hspec-discover-2.4.4/Test/Hspec/Discover/Run.dyn_hi": "b8e91702eb6fa74cdf7e9dffa48d4ea072d3b39633eff24a3f8452429198251a",
     "/usr/bin/hspec-discover": "9f09850a79ab8f65e45c39a86ce002964131b18eb13e5af064fd7ec39f236d84",
     "/var/log/pacman.log": "961afbaa70c3933e21f995d7f5e2b6d6ea5f618327a1436046e78cac47010a0c"
+  },
+  "2.4.7-1": {
+    "/usr/share/haskell/register/haskell-hspec-discover.sh": "45954fb90eaad4873ef407f6ded84f6c08f4f554c06e84430f1e3bdf069cc2e0",
+    "/usr/share/haskell/unregister/haskell-hspec-discover.sh": "6054b486008a7e9e37679e84c8c19b796de46e6e8bf4de89e2d5243c252df856",
+    "/usr/share/licenses/haskell-hspec-discover/LICENSE": "105eacd0522545d0069046a8b140ae6319a3e0c8fe59ed2205c2249b78cefaa8",
+    "/usr/lib/libHShspec-discover-2.4.7-5gp7nfTqlBI3ThHqmhXXHt-ghc8.2.2.so": "966b3475c95988360ee3a29ab079517ea58aceed4755195024b62cd4fd27a026",
+    "/usr/lib/ghc-8.2.2/site-local/hspec-discover-2.4.7/Paths_hspec_discover.dyn_hi": "512e694204203d1aabaccd06778c41707bfe976bed87507a2f81945634b6ce9d",
+    "/usr/lib/ghc-8.2.2/site-local/hspec-discover-2.4.7/Test/Hspec/Discover/Config.dyn_hi": "7b3f4c89dcabe9c748877e28d13e9e7a8ccd839e3d2629a43ad749c236d60cbc",
+    "/usr/lib/ghc-8.2.2/site-local/hspec-discover-2.4.7/Test/Hspec/Discover/Run.dyn_hi": "e349e3f4469aebab081a621dc024c96da900cf082977200fcabe3e0387ba430a",
+    "/usr/lib/ghc-8.2.2/site-local/hspec-discover-2.4.7/Test/Hspec/Discover/Sort.dyn_hi": "b07843a2e1c2abd20804f2797e820b35a17f6a84d901919f8398038c97ba91cb",
+    "/usr/bin/hspec-discover": "ad81f7177ec5ec77cca29faf3894a9011e540ac7da44e2aa31cd073cbe4700e9",
+    "/var/log/pacman.log": "aab25aaf8f7258a377bb1b3eba4f62c46107d156f0409d48531696c5ce42f7bb"
   }
 }

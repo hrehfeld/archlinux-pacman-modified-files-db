@@ -12,5 +12,12 @@
     "/usr/lib/xorg/protocol.txt": "26975b8acc1ffd79632aa0a1f28c4eaa37a8b451b61e39fbf9103cb0e15be5d7",
     "/var/log/pacman.log": "0d70ed03e1695c5df59e1a750dc9a2416920f5c83e4310c3026c430496af67ec",
     "/var/lib/xkb/README.compiled": "134ec3234772efacc6d51e158f27f13931a7c687a847be1ac7281076ff41a611"
+  },
+  "1.19.6+13+gd0d1a694f-1": {
+    "/usr/share/licenses/xorg-server-common/COPYING": "4cc0447a22635c7b2f1a93fec4aa94f1970fadeb72a063de006b51cf4963a06f",
+    "/usr/share/man/man1/Xserver.1.gz": "938bd960cdccf3bab270a8e69033ec887a2600e970333d6b42f4b12051f1f815",
+    "/usr/lib/xorg/protocol.txt": "26975b8acc1ffd79632aa0a1f28c4eaa37a8b451b61e39fbf9103cb0e15be5d7",
+    "/var/log/pacman.log": "6e16f0a706bc4c93d034ae64b27a280da442755102afbe73ea0079e915085bcd",
+    "/var/lib/xkb/README.compiled": "134ec3234772efacc6d51e158f27f13931a7c687a847be1ac7281076ff41a611"
   }
 }

@@ -55,5 +55,24 @@
     "/usr/lib/ghc-8.2.2/site-local/unliftio-0.2.1.0/UnliftIO/Temporary.dyn_hi": "ff72ff2fd03c87327054acc2721a6434552ce8efd2119e63fea382a4715b5ee6",
     "/usr/lib/ghc-8.2.2/site-local/unliftio-0.2.1.0/UnliftIO/Timeout.dyn_hi": "89a3a45902b2a13d0fb6e8e1768652f77e069502f896d5944940ea89fd21e9a3",
     "/var/log/pacman.log": "4a699bd51f304eb1889ceedd23659f0a174773d0a3027d0a6960eb593a60f980"
+  },
+  "0.2.4.0-2": {
+    "/usr/share/haskell/register/haskell-unliftio.sh": "eff728ed837ecc2ffeebda4c7bfd8c80e50a46f152d1c5a71405256b35d374d4",
+    "/usr/share/haskell/unregister/haskell-unliftio.sh": "74e77fe0876c71577f89327dc0521620aa65b16f725265a2c86abc1c778a175e",
+    "/usr/share/licenses/haskell-unliftio/LICENSE": "c125e5ab10ec8805d3e3b648ac3f522a61a8a55306de0b130d322863fa7a7327",
+    "/usr/lib/libHSunliftio-0.2.4.0-I51GPAEXv6uCowmnPnr3qR-ghc8.2.2.so": "efd61dcf7b7d3d6a2a15cbd33e6ae8ecc2483869d39d23b240afb8c01d637c3f",
+    "/usr/lib/ghc-8.2.2/site-local/unliftio-0.2.4.0/UnliftIO.dyn_hi": "3e28bbd55e27ff7058b55d25477a1a5547fd17e809d8f74b036e6ec59aa52f8e",
+    "/usr/lib/ghc-8.2.2/site-local/unliftio-0.2.4.0/Paths_unliftio.dyn_hi": "936ba9a9b97c9106a0d00859779a2d9858ba31a3c6ed32ce7b106bee8f204d8a",
+    "/usr/lib/ghc-8.2.2/site-local/unliftio-0.2.4.0/UnliftIO/Async.dyn_hi": "31cede8fb93b37a9bacb6fb72528d0f68dfeccfb963dab95ec880a12d232eeb4",
+    "/usr/lib/ghc-8.2.2/site-local/unliftio-0.2.4.0/UnliftIO/Chan.dyn_hi": "2c00ee0a8b64d0a940d0f18695c1648caf6bbc1708ad2a799c955b446294e94d",
+    "/usr/lib/ghc-8.2.2/site-local/unliftio-0.2.4.0/UnliftIO/Concurrent.dyn_hi": "258de563cd0c2a2a99558ed09fa69a7e32565f50530efd9fb05693eaa5e4fc79",
+    "/usr/lib/ghc-8.2.2/site-local/unliftio-0.2.4.0/UnliftIO/Exception.dyn_hi": "e13476d8299f7535c15c8c2e3b785f15e5dab1764229011992e20864baada9ae",
+    "/usr/lib/ghc-8.2.2/site-local/unliftio-0.2.4.0/UnliftIO/IO.dyn_hi": "da7b5e246ad4b98e5cc4ff4cee2212e99422b955ae0c686ff646058299580e19",
+    "/usr/lib/ghc-8.2.2/site-local/unliftio-0.2.4.0/UnliftIO/IORef.dyn_hi": "bd59f98991270bc3726a45bfe52650e0c9fc84b0515b40d21c360d7e84dfa835",
+    "/usr/lib/ghc-8.2.2/site-local/unliftio-0.2.4.0/UnliftIO/MVar.dyn_hi": "318d417be789daf4e6db8f214aa191519ba2fd079eff43464de4a8fdef801d46",
+    "/usr/lib/ghc-8.2.2/site-local/unliftio-0.2.4.0/UnliftIO/STM.dyn_hi": "1f7d4001461b01f9a691a49e307510c85542f4a39a7b7344d48023c7fda8f02f",
+    "/usr/lib/ghc-8.2.2/site-local/unliftio-0.2.4.0/UnliftIO/Temporary.dyn_hi": "66cf627f8bbd4a202af23b04ab01617dbb5c5c77ba6c0fb89a65e3c71e04c27b",
+    "/usr/lib/ghc-8.2.2/site-local/unliftio-0.2.4.0/UnliftIO/Timeout.dyn_hi": "e0ab882d6903a95f88c46be550ff6e08c18c818aa3c2a71b7a11d44270adeaf4",
+    "/var/log/pacman.log": "362dbe25ab096cf770c620e98c7aef2d77194cfbc852fe9d9259c9aebb54f396"
   }
 }

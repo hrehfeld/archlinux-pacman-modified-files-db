@@ -22,5 +22,13 @@
     "/usr/lib/libHSstore-core-0.4.1-LvBtefNQqkuEvBHf0cpZ0w-ghc8.2.2.so": "9875c1d36b276087fca0c2f1479d46ec8233676ff520f94d8610e09d5a0e1b9a",
     "/usr/lib/ghc-8.2.2/site-local/store-core-0.4.1/Data/Store/Core.dyn_hi": "a814b46c771f00949dab22ceb54b7ed4d891f1b9f93ea812ca0e21e9c1abe053",
     "/var/log/pacman.log": "0ab78680b915d14495fd8ace536558a475298de20775100cedcc398ee2586221"
+  },
+  "0.4.1-8": {
+    "/usr/share/haskell/register/haskell-store-core.sh": "82b8f7d6c6b3e694137e0ea1c09e011fbce7dfdaf686fe8a2c6923daf8c1fa85",
+    "/usr/share/haskell/unregister/haskell-store-core.sh": "ca84f9e96927c89396a28e6b6b5aacdf74f2047cb2eaca89f8d304705d76498f",
+    "/usr/share/licenses/haskell-store-core/LICENSE": "fce256ffd8186e2312a4ed35875e86b0ec08658b4da1c26cfb668fb009c59f6d",
+    "/usr/lib/libHSstore-core-0.4.1-2y2Yl0Zff1WCpK5LaLMk5y-ghc8.2.2.so": "3d20f1831b203417502dbc640eab5ecaf8d7713ede1a721a1a5c1dc48d82349a",
+    "/usr/lib/ghc-8.2.2/site-local/store-core-0.4.1/Data/Store/Core.dyn_hi": "331f59cca4e517a76caeffd150addfff1b0616d5f34d2bcee6a079b370fd1dff",
+    "/var/log/pacman.log": "769c11295f31ed8a8571ed7278c1c36274e24de83caf3e88981f69cb0e9f17d8"
   }
 }

@@ -34,5 +34,14 @@
     "/usr/lib/ghc-8.2.2/site-local/monad-logger-0.3.26/Control/Monad/Logger.dyn_hi": "be26f3d5d5cb0a5eb9031d02bd151efd509be122c10766e514fda3b6ccd125f3",
     "/usr/lib/ghc-8.2.2/site-local/monad-logger-0.3.26/Control/Monad/Logger/CallStack.dyn_hi": "c503aee159d310f838b47853ec7820be2a3af3a5deaa54e5ea27740bf85344ab",
     "/var/log/pacman.log": "2ee721048f44a54dc18538ed1848906ff3dca19bb569487a7e06fc72db8db3ad"
+  },
+  "0.3.28.1-2": {
+    "/usr/share/haskell/register/haskell-monad-logger.sh": "a44b8d5c30987e29bd4ee6b41cd806e628f7e40c6b94d3c51f31219e178c4a42",
+    "/usr/share/haskell/unregister/haskell-monad-logger.sh": "8509d8b502332c9f8df86147a6c2cf6ef883d22e2d2f660e97c054cc701aecc2",
+    "/usr/share/licenses/haskell-monad-logger/LICENSE": "bebc00cb81ab4a16c3f27768fad205a203d0d7b56944299808dc3c35b53e198d",
+    "/usr/lib/libHSmonad-logger-0.3.28.1-816ySfWQaCvCXsJOLzavr6-ghc8.2.2.so": "9b580dc0feb523b17eea7c7286090e4eeaf152ae63f540f9435f58ff6d3a3aa0",
+    "/usr/lib/ghc-8.2.2/site-local/monad-logger-0.3.28.1/Control/Monad/Logger.dyn_hi": "de287b2262b823fb49f4d917bc68847b87a176ccf0924d1a69229a533ce1c7bc",
+    "/usr/lib/ghc-8.2.2/site-local/monad-logger-0.3.28.1/Control/Monad/Logger/CallStack.dyn_hi": "5e4ddf009a4e7b051f692fe539808dcc50f1dba28f0e6c52ff08bf455d09a305",
+    "/var/log/pacman.log": "46377094bdb82ec2c7f2e8e3ec60fabd248879006d60da6aee7bebef09f5ebfd"
   }
 }

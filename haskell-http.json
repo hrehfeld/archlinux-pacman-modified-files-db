@@ -98,5 +98,30 @@
     "/usr/lib/ghc-8.2.2/site-local/HTTP-4000.3.9/Network/HTTP/MD5Aux.dyn_hi": "0642ce6752e229b65c171c5996bbb31a4f5bef563b0304fc613d36e18c473880",
     "/usr/lib/ghc-8.2.2/site-local/HTTP-4000.3.9/Network/HTTP/Utils.dyn_hi": "cd6b8e8dea46f6529ef18933935d92927efcec29cff831328fb27102f6805c51",
     "/var/log/pacman.log": "b2de2424ee2d106e55a4362c2b97ed84a8da53700ff653b9e99850357a35207d"
+  },
+  "4000.3.9-4": {
+    "/usr/share/haskell/register/haskell-http.sh": "909edbf424d41f00d40751b9bec5fceb509baef319f8ce314042eb107ed14ed6",
+    "/usr/share/haskell/unregister/haskell-http.sh": "58b8dea740cc49a5f683adf4b5658e67d6f23f1583fc7d6197441abe1c4e323c",
+    "/usr/share/licenses/haskell-http/LICENSE": "53079c8eec1d69d78c7bd6d6187ae37c9e98d8816aaabff03ae65e320d72282c",
+    "/usr/lib/libHSHTTP-4000.3.9-ApWtQyZuwl7B1of0Mr8gyM-ghc8.2.2.so": "fec0ee37acd96283c5699be0442c69565869ec73a14a64e772b612beabed6431",
+    "/usr/lib/ghc-8.2.2/site-local/HTTP-4000.3.9/Paths_HTTP.dyn_hi": "6f5e86cc5ae229ef0f73439874757ca82cf18c591a5b3d176d53ebb2379d4864",
+    "/usr/lib/ghc-8.2.2/site-local/HTTP-4000.3.9/Network/BufferType.dyn_hi": "7e2a8e2967ae6c070684ebe2610a151d12fb8729f81d31cb35ea77eb8aecbdb2",
+    "/usr/lib/ghc-8.2.2/site-local/HTTP-4000.3.9/Network/Stream.dyn_hi": "10809bb77cd7fa0b1f9a38f57043dc75f628570855b0d1462c4222cea6c5e91c",
+    "/usr/lib/ghc-8.2.2/site-local/HTTP-4000.3.9/Network/StreamDebugger.dyn_hi": "00687c56503450cf6b09537e34d262532cfcdd8d6b791b92977b2224a5fe8348",
+    "/usr/lib/ghc-8.2.2/site-local/HTTP-4000.3.9/Network/StreamSocket.dyn_hi": "e3700d85fedfd7cec566c896e73c76dccff637fdffce5928e88b95db925caa0b",
+    "/usr/lib/ghc-8.2.2/site-local/HTTP-4000.3.9/Network/TCP.dyn_hi": "20096deb1f6cb783f0cfa542c9d35d2bf7148d1fa91d24afc259ba9c1a1c0da7",
+    "/usr/lib/ghc-8.2.2/site-local/HTTP-4000.3.9/Network/HTTP.dyn_hi": "96d580fe00304abcaf8f84c1f037c62b8e9dc50761c75389ec1e098d911c6135",
+    "/usr/lib/ghc-8.2.2/site-local/HTTP-4000.3.9/Network/Browser.dyn_hi": "4d3dbccefab0eff23f089d036186afb65aaeec16bd766b51789a2d6b38b26269",
+    "/usr/lib/ghc-8.2.2/site-local/HTTP-4000.3.9/Network/HTTP/Headers.dyn_hi": "32cd991c88ed381fe3e73ba61c36d0df463511568f475a46dca7a0a662207ef6",
+    "/usr/lib/ghc-8.2.2/site-local/HTTP-4000.3.9/Network/HTTP/Base.dyn_hi": "9d8a86656fa9e113d6bf6d326424992141ad3086382ff1fae7e0793f7cf28808",
+    "/usr/lib/ghc-8.2.2/site-local/HTTP-4000.3.9/Network/HTTP/Stream.dyn_hi": "f8c526620e6987435a44632b195637c4a6a01efce4d1a8bcde36fb3be90ac11e",
+    "/usr/lib/ghc-8.2.2/site-local/HTTP-4000.3.9/Network/HTTP/Auth.dyn_hi": "32e8a4d4044650ccab91f61e8ff81d75fe8cfa607dea224ab219ad763dbc90dc",
+    "/usr/lib/ghc-8.2.2/site-local/HTTP-4000.3.9/Network/HTTP/Cookie.dyn_hi": "cf13c860889e244efe315894515656c66182a17cae183bc553e52fca6c094abb",
+    "/usr/lib/ghc-8.2.2/site-local/HTTP-4000.3.9/Network/HTTP/Proxy.dyn_hi": "8ecee154717e6b37ed403a97eec6316842137ef8b7f09a5df2700e11569de4fd",
+    "/usr/lib/ghc-8.2.2/site-local/HTTP-4000.3.9/Network/HTTP/HandleStream.dyn_hi": "86047d7c4168cc877d2d78ddd8ec3721f52d99b5365fe9030ee20fb9f88e1734",
+    "/usr/lib/ghc-8.2.2/site-local/HTTP-4000.3.9/Network/HTTP/Base64.dyn_hi": "31c7620f4b506613d21fd933464d22c0aac69ff456ee559d036f8a12f668eb7a",
+    "/usr/lib/ghc-8.2.2/site-local/HTTP-4000.3.9/Network/HTTP/MD5Aux.dyn_hi": "4d87290a116d28a04ec48e5067c6ae3d0b662c6cf661fd5277201674feeee90e",
+    "/usr/lib/ghc-8.2.2/site-local/HTTP-4000.3.9/Network/HTTP/Utils.dyn_hi": "697f0f85dbcbfb88a206dbcebaade6167e308ccb3f65732738ce904860085078",
+    "/var/log/pacman.log": "271ec67210747ebf8810d55c9343a68f721d1028c4203b2ca973ca0e5d986908"
   }
 }

@@ -22,5 +22,17 @@
     "/usr/lib/ghc-8.2.2/site-local/stm-chans-3.0.0.4/Control/Concurrent/STM/TBMQueue.dyn_hi": "a589cad902ebeb52a276645750c5dbe624a052cc5bb93efe582438041411b87b",
     "/usr/lib/ghc-8.2.2/site-local/stm-chans-3.0.0.4/Control/Concurrent/STM/TMQueue.dyn_hi": "9e151db4c0f05683d6a1aeda51d668d5ca3eb0fea04f45f26f83efaed92539ae",
     "/var/log/pacman.log": "33218c0d5c74312a1ce25c5c98182df66720f38ea8f51d7b4fe427e9cab54e84"
+  },
+  "3.0.0.4-9": {
+    "/usr/share/haskell/register/haskell-stm-chans.sh": "d405a35ad9aa07167e0387b32083af5309505fd86df58057f4f9eb89b4d3bba3",
+    "/usr/share/haskell/unregister/haskell-stm-chans.sh": "704bd5a3599fa8256b25b404d433e5449536c37003e46cc83b387ef9cee35141",
+    "/usr/share/licenses/haskell-stm-chans/LICENSE": "224432bac5cd2cc0cd5b1df4dbcfac815a8b60a569db2c4542177ff5e1873ccb",
+    "/usr/lib/libHSstm-chans-3.0.0.4-Cr78aZkwhsaHBOCaXlDPX0-ghc8.2.2.so": "f55df34011508d428036a813835c81333d72cb30897a8f0ec9d93dc556e2b27e",
+    "/usr/lib/ghc-8.2.2/site-local/stm-chans-3.0.0.4/Control/Concurrent/STM/TBChan.dyn_hi": "dfdd28d7f16d304b18df83031c0a9a922eacdc18afa0c150534a6e64f3d41e5c",
+    "/usr/lib/ghc-8.2.2/site-local/stm-chans-3.0.0.4/Control/Concurrent/STM/TBMChan.dyn_hi": "52d16caaa4763914298a5ee5d0100cedad1bf6e6c6f8f950975e52741e624d3a",
+    "/usr/lib/ghc-8.2.2/site-local/stm-chans-3.0.0.4/Control/Concurrent/STM/TMChan.dyn_hi": "08ce3d178bfa27f528639ba436b551531835611f2514154ab3f90a91eaf5963c",
+    "/usr/lib/ghc-8.2.2/site-local/stm-chans-3.0.0.4/Control/Concurrent/STM/TBMQueue.dyn_hi": "bf13b90cef8ecf17e0ae1dae5572575286d6e1fb9cf1bafa2d09307a208ab320",
+    "/usr/lib/ghc-8.2.2/site-local/stm-chans-3.0.0.4/Control/Concurrent/STM/TMQueue.dyn_hi": "7904d78f9c882cb832bee277fc40bb6de5da3d879b1757d7c0f09d004f50b6e1",
+    "/var/log/pacman.log": "157c179087635073681a3b86b2f82ba6728b75a522f1663d96a9dc3ce17c3401"
   }
 }

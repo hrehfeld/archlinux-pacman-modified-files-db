@@ -50,5 +50,31 @@
     "/usr/lib/ghc-8.2.2/site-local/generic-deriving-1.12/Generics/Deriving/TH/Internal.dyn_hi": "1ebc3ffe6aa0bc460e745b55ea2fec86692f5e4ae5be6c47f8b6889235d481a8",
     "/usr/lib/ghc-8.2.2/site-local/generic-deriving-1.12/Generics/Deriving/TH/Post4_9.dyn_hi": "1b51b4eb392efeaed9f47ccade4a1c70ea924d54adbdb1f9f5a05d5981281b84",
     "/var/log/pacman.log": "f48f4e296acc3a6b17e43d7067344e54ab67ad59c3c72fc5b21ebcd9993b2677"
+  },
+  "1.12.1-1": {
+    "/usr/share/haskell/register/haskell-generic-deriving.sh": "c2d285d9d1373c327bb1f6bd1d73cb8397822d475b9da925d73eca11e651c374",
+    "/usr/share/haskell/unregister/haskell-generic-deriving.sh": "be049d8b9c17fcaed714a97ca0bbb10b6f098e8a038200e775e7d46bb8604f48",
+    "/usr/share/licenses/haskell-generic-deriving/LICENSE": "7aa716d7204901fc0ea47fd411ed110e479cd292523ca36fc7f55db9d40985c8",
+    "/usr/lib/libHSgeneric-deriving-1.12.1-5xFQbdWOF4z1YGQG2uW3ZD-ghc8.2.2.so": "133b2c4939027e33776428a2227966ae6aa3d56c3dd92e1318a2904d84c00f69",
+    "/usr/lib/ghc-8.2.2/site-local/generic-deriving-1.12.1/Paths_generic_deriving.dyn_hi": "b56f7c195c795adc014ba0ef0c0a8d147dc94ada58df2fdfa1f9d398f84a3f32",
+    "/usr/lib/ghc-8.2.2/site-local/generic-deriving-1.12.1/Generics/Deriving.dyn_hi": "b3cb32a46eadb5428b6bec6e990f23e7d44889a92cfb116fd462f0d2e680bfd0",
+    "/usr/lib/ghc-8.2.2/site-local/generic-deriving-1.12.1/Generics/Deriving/Base.dyn_hi": "fed4292efcf4e0f94c8956759e899905767b9a3219a9aecf7b64fcebb42f63fa",
+    "/usr/lib/ghc-8.2.2/site-local/generic-deriving-1.12.1/Generics/Deriving/Instances.dyn_hi": "1958b5ee52774298560cab80fc36bbd7c56d36191075cba689f2eeda817eab2c",
+    "/usr/lib/ghc-8.2.2/site-local/generic-deriving-1.12.1/Generics/Deriving/Copoint.dyn_hi": "a866e4e5fb93e5a3c459493d2601b0b925a4f8c28c9654bd38276551355ff971",
+    "/usr/lib/ghc-8.2.2/site-local/generic-deriving-1.12.1/Generics/Deriving/ConNames.dyn_hi": "c905692fcbd67c1c330bce1afcd9f6df3d4cd4314a625bb3e9bf5f3843ad4a42",
+    "/usr/lib/ghc-8.2.2/site-local/generic-deriving-1.12.1/Generics/Deriving/Enum.dyn_hi": "0ad973f87f2806a83d7f1a2f2742d7b90b047bc5ec8e9941be2812b7c7bc2d29",
+    "/usr/lib/ghc-8.2.2/site-local/generic-deriving-1.12.1/Generics/Deriving/Eq.dyn_hi": "01f6eff29103711e27fbca49791d65e5352e3da3c1796924db7a75dc589440f9",
+    "/usr/lib/ghc-8.2.2/site-local/generic-deriving-1.12.1/Generics/Deriving/Foldable.dyn_hi": "51ae88220586000069c9f82e07712a28be364661c6d1c94b7b19610359c08185",
+    "/usr/lib/ghc-8.2.2/site-local/generic-deriving-1.12.1/Generics/Deriving/Functor.dyn_hi": "28ab205721e47f501de4bd0724181bea8db9c7b206c1c26f7a32b4ebead96c45",
+    "/usr/lib/ghc-8.2.2/site-local/generic-deriving-1.12.1/Generics/Deriving/Monoid.dyn_hi": "08f0c45a1588727c1c86d7d4027e8ee8bc9f8261ec3f29f462dff53997eb67de",
+    "/usr/lib/ghc-8.2.2/site-local/generic-deriving-1.12.1/Generics/Deriving/Semigroup.dyn_hi": "bcb327b2b22e6acbc138a175249e4b297a8eb45c2d42aeb81503cb5969ab7a69",
+    "/usr/lib/ghc-8.2.2/site-local/generic-deriving-1.12.1/Generics/Deriving/Show.dyn_hi": "d4e3ecf72a51adbd558df3c94b450b414ac830d17eb26eee75dbc080123d5ec1",
+    "/usr/lib/ghc-8.2.2/site-local/generic-deriving-1.12.1/Generics/Deriving/Traversable.dyn_hi": "414569c0eb54af9dfd6eb42160b92ff6897a83e906c711f86236e3ec9ca420f2",
+    "/usr/lib/ghc-8.2.2/site-local/generic-deriving-1.12.1/Generics/Deriving/Uniplate.dyn_hi": "6499592176325c493e690978eec8a51a058a361bab7472657d411cfffb2fa7fb",
+    "/usr/lib/ghc-8.2.2/site-local/generic-deriving-1.12.1/Generics/Deriving/TH.dyn_hi": "855994b2100205c4afaeb24ae778041c991aab12d8ce33e39db4fd574cfbea6a",
+    "/usr/lib/ghc-8.2.2/site-local/generic-deriving-1.12.1/Generics/Deriving/Base/Internal.dyn_hi": "e1a1bb6be5794b8c421b0a6e2d6ca8041cd49641da42bfeeb3a9cc2299f4fdb5",
+    "/usr/lib/ghc-8.2.2/site-local/generic-deriving-1.12.1/Generics/Deriving/TH/Internal.dyn_hi": "4fe424f5e53469de1c55c43462d3fd0928ececa9795ade89cceccdfba686d36d",
+    "/usr/lib/ghc-8.2.2/site-local/generic-deriving-1.12.1/Generics/Deriving/TH/Post4_9.dyn_hi": "c5ffbab9d522d1a8db3cf3805a222e6a795f0d11b155c99b43c8a1ed9d01f953",
+    "/var/log/pacman.log": "b68752adf31c613664f6dac7c1711d4c818093158cb5a800de614a48b2587b57"
   }
 }

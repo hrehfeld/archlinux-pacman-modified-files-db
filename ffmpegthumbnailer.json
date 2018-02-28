@@ -1,0 +1,19 @@
+{
+  "2.2.0-1": {
+    "/usr/bin/ffmpegthumbnailer": "4bc6237c33eb0e614c90210b32db2cecc75acdbe7c34cb8d8efefdb90ed41602",
+    "/usr/lib/libffmpegthumbnailer.so.4": "3fae5fd1bbc9d1ae2add81399d2caf4323e0560fe46660c28b2b446eacca8c49",
+    "/usr/lib/libffmpegthumbnailer.so": "3fae5fd1bbc9d1ae2add81399d2caf4323e0560fe46660c28b2b446eacca8c49",
+    "/usr/lib/libffmpegthumbnailer.so.4.13.1": "3fae5fd1bbc9d1ae2add81399d2caf4323e0560fe46660c28b2b446eacca8c49",
+    "/usr/lib/pkgconfig/libffmpegthumbnailer.pc": "74114521f8cfae76fef86ab1125c366abb4658557f3e2add00cbf048bdd2caf9",
+    "/usr/include/libffmpegthumbnailer/videothumbnailer.h": "a76d5510d808fac51a99fa1366ab1175a62a2e6c778dbe9506671c10ef600863",
+    "/usr/include/libffmpegthumbnailer/videothumbnailerc.h": "ef2da78a7344b83ae2e83c31414c3771c720aed623ccb41416613706b4eab17c",
+    "/usr/include/libffmpegthumbnailer/imagetypes.h": "f1ae6f9bb85ef1f7e43fefda86eb57bda7796a1b4f2fcc10de1acb7f1a1f4997",
+    "/usr/include/libffmpegthumbnailer/ffmpegthumbnailertypes.h": "d9cb8475fd17462ac785df851db8fee663c2629cc42dc77ff15cf617c4192fd9",
+    "/usr/include/libffmpegthumbnailer/ifilter.h": "10f8d32a28c01f13dcb3806b06fbf378c82c67632f825ba948e56bff9da223ab",
+    "/usr/include/libffmpegthumbnailer/videoframe.h": "feaae8a7df0e37cc4d2e01d02a71104b76d7944ef55d8c0627b9660432ab2aec",
+    "/usr/include/libffmpegthumbnailer/filmstripfilter.h": "1f1c7035e78e09830f185b5aeff62eec79f080367fc6217e05cba558f22dc9a1",
+    "/usr/share/man/man1/ffmpegthumbnailer.1.gz": "62d30127d5080770776610325a198fe4bec8fcefa7bfe990d6b019df4e1c6483",
+    "/usr/share/thumbnailers/ffmpegthumbnailer.thumbnailer": "d68b3885eaacd86bfc248ae1d2079a728a60aaf5fdcd101143c4dc5f8a3bd68f",
+    "/var/log/pacman.log": "c30b5a97b48a4530ffdfe219a9d470a7aec3b0bff941111c6f00d1fe9615828f"
+  }
+}

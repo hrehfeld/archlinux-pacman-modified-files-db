@@ -12,5 +12,15 @@
     "/usr/bin/adb": "cf757870d1933087bd0bbfba7a208a23b040c8e4713a900f4226f89e7146171a",
     "/usr/share/bash-completion/completions/fastboot": "0807281422825404a7bee2a76f89062a104777011530f7c5e559910b8e585b0a",
     "/var/log/pacman.log": "e3f2b468f91bd479c5ef46c9cadbd1c9f03249589ae058fcfca59beb7e46045b"
+  },
+  "8.1.0_r7-1": {
+    "/usr/bin/fastboot": "c045a07356c5bbed836240fe90f8f42111ea4ed96ae043f481bd225fa35d14f6",
+    "/usr/bin/mkbootimg": "f0649b9cd5202ed7e9c1c89270a59acb53ce94bc3ad3dc2e95d67e28a8ba473b",
+    "/usr/bin/adb": "21b7bef6bd49012bcfaac2fd0620686c5e60faf0cb0c57fee3789a4440b6c7d8",
+    "/usr/bin/mke2fs.android": "4c3982883befa5c5d6f7c27cdb2cbcff9c721eb64f499213b54930ef41af3a7d",
+    "/usr/bin/e2fsdroid": "e746d55d1e40e23f6a0af1642994d34a04ff58bc3346ac552b2769ef4b9081d6",
+    "/usr/bin/ext2simg": "3a2b294a95c096620880123a883deb9da63cbd49f2fb3528d05ccb15b1a811e3",
+    "/usr/share/bash-completion/completions/fastboot": "0807281422825404a7bee2a76f89062a104777011530f7c5e559910b8e585b0a",
+    "/var/log/pacman.log": "8db2e0091c94b01a0410f9577032997a8c912bb7212cc8dc776aaf338b043379"
   }
 }

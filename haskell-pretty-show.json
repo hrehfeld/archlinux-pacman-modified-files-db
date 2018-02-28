@@ -52,5 +52,23 @@
     "/usr/lib/ghc-8.2.2/site-local/pretty-show-1.6.15/Text/Show/PrettyVal.dyn_hi": "a50c82e6bab8264324bd5c64140fe99f8b4007ebf79a981cdc09cfbe143f4e89",
     "/usr/bin/ppsh": "d9f8c31dd766ca02992cfd5118b35661aa346c349a1ecf647d1d4d20c2db88cb",
     "/var/log/pacman.log": "73043253ec706d7574936fc79616d57abaed324c7847b133328d1d13e471dc7c"
+  },
+  "1.6.16-1": {
+    "/usr/share/haskell/register/haskell-pretty-show.sh": "117637dd5cc23227919bf950d933530bd3e524f8049d6d8201a91c6f6804b317",
+    "/usr/share/haskell/unregister/haskell-pretty-show.sh": "27b5633f9a2d09691696598a5a569f1996a41d15b9b18e626ab5050818369e2b",
+    "/usr/share/haskell-pretty-show/style/jquery.js": "b294e973896f8f874e90a8eb1a8908ac790980d034c4c4bdf0fc3d37b8abf682",
+    "/usr/share/haskell-pretty-show/style/jquery-src.js": "ce0343e1d6f489768eeefe022c12181c6a0822e756239851310acf076d23d10c",
+    "/usr/share/haskell-pretty-show/style/pretty-show.js": "af07fd0c6c4df864d336a8f3f331dcf81fdc73f950c64e637df9568f20f9a271",
+    "/usr/share/haskell-pretty-show/style/pretty-show.css": "2cb254b5bb68d909241317f412bbf696353999b9c046e287c7eac30181abac40",
+    "/usr/share/licenses/haskell-pretty-show/LICENSE": "a6be34c0642d2905c77fb894c6578ae18753ecb5e24fc108ff11f3eaa632a723",
+    "/usr/lib/libHSpretty-show-1.6.16-4yL3QMm4omX5sydQq6eqFv-ghc8.2.2.so": "35b0db6ba274e98e5c0920aa308edd591c19984ca99ff33c014ec1cfb281af82",
+    "/usr/lib/ghc-8.2.2/site-local/pretty-show-1.6.16/Paths_pretty_show.dyn_hi": "cfcf9c42832bb5c660167a6672858663b3bb42714409580f86c872e10b73c655",
+    "/usr/lib/ghc-8.2.2/site-local/pretty-show-1.6.16/Text/Show/Pretty.dyn_hi": "f761bb72c7015e4b0759dce49165d0b3171c9a97f527b2f8ead13d9a3922a632",
+    "/usr/lib/ghc-8.2.2/site-local/pretty-show-1.6.16/Text/Show/Html.dyn_hi": "710e9db5f61bb2ff4ddfd4ffb575dbb6be78ed94a2280ec044b5ba5db8d59d36",
+    "/usr/lib/ghc-8.2.2/site-local/pretty-show-1.6.16/Text/Show/Parser.dyn_hi": "49ac3f0c73efa07f62e961f06fc9993f4fe1a5f2db3a6afc8ca4cbec88e6502e",
+    "/usr/lib/ghc-8.2.2/site-local/pretty-show-1.6.16/Text/Show/Value.dyn_hi": "e019974bafd3705d2e6d68bdae719c0113f5206c6b408f9d6b065a7a53a9e090",
+    "/usr/lib/ghc-8.2.2/site-local/pretty-show-1.6.16/Text/Show/PrettyVal.dyn_hi": "2db78b69ae6d04e1bbe266487e18480e2778da1e153ec2ab803bc3bdeb78c5f3",
+    "/usr/bin/ppsh": "30b5c9dd877afd6e6b9f41c4da5781b138f405c74ca317e7d02298cbeba0021f",
+    "/var/log/pacman.log": "fffe3ba03c90598cc4ce80fdfa1681a157ac125786544ec096c3c150da309c04"
   }
 }

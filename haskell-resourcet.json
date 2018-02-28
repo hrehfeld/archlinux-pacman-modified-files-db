@@ -21,5 +21,17 @@
     "/usr/lib/ghc-8.2.2/site-local/resourcet-1.1.10/Data/Acquire/Internal.dyn_hi": "267f6572bef0316efbf569771a19230dc8a0e31fca4c03925162c12423eabea3",
     "/usr/lib/ghc-8.2.2/site-local/resourcet-1.1.10/UnliftIO/Resource.dyn_hi": "1a46012cc03e2a5e235b43cd8f439b08eae7bc9da25fe2d3267f355bdf4cac3b",
     "/var/log/pacman.log": "326f04bf3fbe7ca4aa1fa835bdfad403d6c3942bbd89e34954512bcd8da2ea35"
+  },
+  "1.1.11-2": {
+    "/usr/share/haskell/register/haskell-resourcet.sh": "ed869579468cb58371fd0338c18dbb3584f30d1757a0c5b7de231c5f5a54d6f9",
+    "/usr/share/haskell/unregister/haskell-resourcet.sh": "c6455299668f7c3b6cbcbd6368d3f4ca7ca4df8f210f700b9ecbeed82e65f8cc",
+    "/usr/share/licenses/haskell-resourcet/LICENSE": "0b154140d607038387f735e6f519365f2c13d6c1bd4ad5ab43e2b7c0f142e093",
+    "/usr/lib/libHSresourcet-1.1.11-CBqlS4EKis96dPH3jRDN4i-ghc8.2.2.so": "f81368fa82abf3b206f8c47b17f6c0a51d2fcfb8d3b18b95e6f25ff254ec035d",
+    "/usr/lib/ghc-8.2.2/site-local/resourcet-1.1.11/Control/Monad/Trans/Resource.dyn_hi": "b3bbc5a81eab505bbec2bf1177463f19ec944c24d48ed2722f3f419406ef753c",
+    "/usr/lib/ghc-8.2.2/site-local/resourcet-1.1.11/Control/Monad/Trans/Resource/Internal.dyn_hi": "64d776e400dc325ca68632623f63509c4c8f662f9523b82f831f33e2774063b4",
+    "/usr/lib/ghc-8.2.2/site-local/resourcet-1.1.11/Data/Acquire.dyn_hi": "25c4469e6f289ce531755d05ab19ddad8f679bfd45c494f2096f10b7717dc604",
+    "/usr/lib/ghc-8.2.2/site-local/resourcet-1.1.11/Data/Acquire/Internal.dyn_hi": "dc7a03da3ef76eab0be66eb83f79528e5552c3b375f088479606cbbfcabf7f4f",
+    "/usr/lib/ghc-8.2.2/site-local/resourcet-1.1.11/UnliftIO/Resource.dyn_hi": "6cbe8bc5cc01ad41c47318b2d4825db6a2e1f9bb38ccc01c39c94f3b8ac95ec8",
+    "/var/log/pacman.log": "8881e0431138645803cc5a6ebe90362c30ef49b3ba76b4d58b2d27daedc122ee"
   }
 }

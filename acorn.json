@@ -37,5 +37,26 @@
     "/usr/lib/node_modules/acorn/bin/run_test262.js": "d68de7f223c288581f51b063ba990eab4b71038b3cc581088d4fc5767a80950c",
     "/usr/lib/node_modules/acorn/bin/_acorn.js": "da4dfa77dcb84a28416d7dd86683f4f230d3a3806639776e335888eda15f6bbd",
     "/var/log/pacman.log": "82c676a3fa8bc685329f72e5a07b3fb6d288fdff711b6e8f167756234d370d89"
+  },
+  "5.4.1-1": {
+    "/usr/lib/node_modules/acorn/AUTHORS": "2f8ea9cbf2a55cb3c73232a3706c5817d332ffc3194ded6da9fe2f6381df4949",
+    "/usr/lib/node_modules/acorn/CHANGELOG.md": "8cf5e43109ac707d3b194b031396caf6ed4dd656d1d04c5f962fa9604147df37",
+    "/usr/lib/node_modules/acorn/LICENSE": "7cdb44aabddbdd78998119d68a39c87424119b663945c79891fc1b022301824c",
+    "/usr/lib/node_modules/acorn/README.md": "cc608a561398fc94fa9ad8f4e5c6188e9071b36ca2003276f3a55e469cae7a63",
+    "/usr/lib/node_modules/acorn/package.json": "4413b371abfdf311a05d24a4adaca56242916f479d8b9e7a42544c1ac3fcd1f8",
+    "/usr/lib/node_modules/acorn/bin/_acorn.js": "da4dfa77dcb84a28416d7dd86683f4f230d3a3806639776e335888eda15f6bbd",
+    "/usr/lib/node_modules/acorn/bin/run_test262.js": "e2bd62da549526320853bf7ce7352dd2ff11bb6cd17732110bd03502a4ceb08d",
+    "/usr/lib/node_modules/acorn/bin/test262.whitelist": "3db7c84df4aeebe4e29a3c0eb56d65422f1ccf67903bb7bf0aeba48b33cc8cf5",
+    "/usr/lib/node_modules/acorn/bin/acorn": "eb9772adc96adc40297fbadd683ab3caa45414633c02844c4608bb3d8b5ca63a",
+    "/usr/lib/node_modules/acorn/dist/.keep": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "/usr/lib/node_modules/acorn/dist/acorn_loose.es.js": "666e8e0207a209597f78b500681349859811d2d23cce3254872d1d5918abbfd2",
+    "/usr/lib/node_modules/acorn/dist/acorn_loose.js": "978cc37011557f9e83b9a07efd5a6cc8c18136c5c8b52f0159a0d558249dfffc",
+    "/usr/lib/node_modules/acorn/dist/acorn.es.js": "624c0a3abd90b9122df018d9cd9918889243d9cb8b39fa879044c9543019cf5d",
+    "/usr/lib/node_modules/acorn/dist/acorn.js": "9c204fb971dc46b25b4fccce5bc5302a6bbb540826af99be16aa73bbd5be4ab9",
+    "/usr/lib/node_modules/acorn/dist/walk.es.js": "69c6c2eb27ae24a42f5a38f7a615a955f305a3ef75106e4763fa0d1303bc88d0",
+    "/usr/lib/node_modules/acorn/dist/walk.js": "3a114d7d64d0ef6fb401f9ea1b0813c24fe579ea55c209149586bb4d4e40b74f",
+    "/usr/bin/acorn": "eb9772adc96adc40297fbadd683ab3caa45414633c02844c4608bb3d8b5ca63a",
+    "/usr/share/licenses/acorn/LICENSE": "7cdb44aabddbdd78998119d68a39c87424119b663945c79891fc1b022301824c",
+    "/var/log/pacman.log": "d2d55e27c95101950c282f185af3de3d82b59b4d3de952dd5740ff9620e48f41"
   }
 }

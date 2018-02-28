@@ -19,5 +19,31 @@
     "/usr/lib/python2.7/site-packages/msgpack/_version.py": "5f64c594e95bb3dee54cf04c1df74f5ea42f978626087b25292b5a52db8d4491",
     "/usr/lib/python2.7/site-packages/msgpack/__init__.py": "f4d9580d2851824cccb4d797cdde745e0c9a6ecafa6f35de0d6427494d3d1fcf",
     "/var/log/pacman.log": "1f36e34fbccf62369229771f6f713005c5f8481fbd51f0f871a88dc4f8f24092"
+  },
+  "0.5.0-2": {
+    "/usr/lib/python2.7/site-packages/msgpack/__init__.py": "f4d9580d2851824cccb4d797cdde745e0c9a6ecafa6f35de0d6427494d3d1fcf",
+    "/usr/lib/python2.7/site-packages/msgpack/__init__.pyo": "c5ede44f24fa3299ce7a934a2171152732448f129d3eb8bc5f5c19605aeca579",
+    "/usr/lib/python2.7/site-packages/msgpack/__init__.pyc": "3dcd3a1cbe30f2c80a670ed2b3f9e18da16f75bb36cdf8bed15914d10ea86f2c",
+    "/usr/lib/python2.7/site-packages/msgpack/_packer.so": "0f478f2947029c86cdf69fa608cb92880ffb180775dd306b547179ae418ec4ac",
+    "/usr/lib/python2.7/site-packages/msgpack/exceptions.py": "94f9008bfbb5d8d9456a30f3e0510b48711d7d4f21ad1df3793bca5fc690bb3e",
+    "/usr/lib/python2.7/site-packages/msgpack/fallback.pyc": "d78d80af4bae7b3e86a8a8f5c4fbb433ff6eb7a26ed212f7494c304fa7d272ea",
+    "/usr/lib/python2.7/site-packages/msgpack/_unpacker.so": "53507f20e905da8338b0bdac0856226015e8b43fd73b85dd20e2cc58293711ec",
+    "/usr/lib/python2.7/site-packages/msgpack/fallback.pyo": "835d25b834a41cccd3d081aaf98102bbac2abb789c0e4ef03644e3afd2b67651",
+    "/usr/lib/python2.7/site-packages/msgpack/_version.pyc": "6516952e5aa40166620475965eff6007aec677c9440b8ab786801034110b39a2",
+    "/usr/lib/python2.7/site-packages/msgpack/fallback.py": "cce25e60ea47ce7ae6ca3dda7c711871bcf3434d59f70c1bc81b8db876783584",
+    "/usr/lib/python2.7/site-packages/msgpack/_version.pyo": "b753a6f261dc9763af72125c7527191651d8a1b1884c4f035b8056ac0dd117e7",
+    "/usr/lib/python2.7/site-packages/msgpack/exceptions.pyc": "641c4975e7a0fb818d3eedc6d639dec4e240a3e4ae113291b3de32e9f6a68087",
+    "/usr/lib/python2.7/site-packages/msgpack/exceptions.pyo": "2e13e702121db6114af7bb8f3c16b323520d79f5aa8abf87e7a225f607558bde",
+    "/usr/lib/python2.7/site-packages/msgpack/_version.py": "6be47daaca779c13045c8e14a7ac75e9a5daf9ba30c0edf5b5f14b3cd3ea14bb",
+    "/usr/lib/python2.7/site-packages/msgpack-0.5.0-py2.7.egg-info/dependency_links.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "/usr/lib/python2.7/site-packages/msgpack-0.5.0-py2.7.egg-info/top_level.txt": "dadca4498d695dd880db16130d1ea33f0d2a239646c518a1ca17f84b9859c979",
+    "/usr/lib/python2.7/site-packages/msgpack-0.5.0-py2.7.egg-info/PKG-INFO": "66f268efeef889a5aad3331306e848853b0337854f99fe13e78156faa1c870f0",
+    "/usr/lib/python2.7/site-packages/msgpack-0.5.0-py2.7.egg-info/SOURCES.txt": "02ecb78a87fdcc75d81e5c64aff7235ba522c4a92a474e3939499b7afc50f7e1",
+    "/usr/lib/python2.7/site-packages/msgpack_python-0.5.0-py2.7.egg-info/dependency_links.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "/usr/lib/python2.7/site-packages/msgpack_python-0.5.0-py2.7.egg-info/top_level.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "/usr/lib/python2.7/site-packages/msgpack_python-0.5.0-py2.7.egg-info/PKG-INFO": "723045e56647355d9b629bc8a17220f3481f54999dd1049d9d80957e84f3d8a4",
+    "/usr/lib/python2.7/site-packages/msgpack_python-0.5.0-py2.7.egg-info/requires.txt": "7914953d1018a82a559ae97f412d05bebe4f97cf65329bb1dd3a9308fbc00e73",
+    "/usr/lib/python2.7/site-packages/msgpack_python-0.5.0-py2.7.egg-info/SOURCES.txt": "b888bab4fcc97f6aa8d068e84e7806109ec119a3409b6564c361ea3adab12616",
+    "/var/log/pacman.log": "b8c0c8fe0260695f077b457ab87f404c412330e12a5dc30667b302114bcde7e9"
   }
 }

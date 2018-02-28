@@ -22,5 +22,13 @@
     "/usr/lib/libHSzip-archive-0.3.1.1-1POZS8L0JxO6awyGFEqZx8-ghc8.2.2.so": "b604a36fa9bc1ada55f2e507f001c39efea00ac7881f755a45fb2550994ffb14",
     "/usr/lib/ghc-8.2.2/site-local/zip-archive-0.3.1.1/Codec/Archive/Zip.dyn_hi": "4dae382a338d329565382d0b2bdeea878be3798189e25b82db28dd3a322e0f3e",
     "/var/log/pacman.log": "2e466a90029eb2aa7de29ab621d863b884c5f3e3399a470173efef1caf725be8"
+  },
+  "0.3.2.2-1": {
+    "/usr/share/haskell/register/haskell-zip-archive.sh": "ee2b3e4a0fbbe707570896d82d05f5925f47b3f268bbf51de63d963fcf214ebe",
+    "/usr/share/haskell/unregister/haskell-zip-archive.sh": "35fcce4430c082e3845bad985164897235f0096f7af8fd25aa66531e52b075ac",
+    "/usr/share/licenses/haskell-zip-archive/LICENSE": "12f931a8d1fc251c5c4509991290a873e838046078567ffe3fd9d311f24172c9",
+    "/usr/lib/libHSzip-archive-0.3.2.2-K0eZwYn7qvVHbDkwj4trrR-ghc8.2.2.so": "a8d5af26aa0cb50a9c5b39cb6b85f7112ddec80dc49af5e6af886e0274a91dd5",
+    "/usr/lib/ghc-8.2.2/site-local/zip-archive-0.3.2.2/Codec/Archive/Zip.dyn_hi": "61c4800303adab433e9de30b22d8e4dbccb984300caae95974d2c23fd930c0a1",
+    "/var/log/pacman.log": "b58d78712fb481cdb7a678e468609ef56b37193ef02d7e1085c84d72bc643e11"
   }
 }

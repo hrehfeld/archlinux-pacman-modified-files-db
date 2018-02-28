@@ -13,5 +13,10 @@
     "/usr/share/licenses/composer/LICENSE": "7855ac293067aebe7e51afdd23b9dea54b8be24187dbecc9b9142581c37f596c",
     "/usr/bin/composer": "25e75d72818c4f1d46b3ae47a8deaaf4ef25c87198329d4a6ee53601b00459e5",
     "/var/log/pacman.log": "cfab3cac5de3cb6cd7084fb4c6979c1fbced13e0c334705f0ff47bf47dbdc747"
+  },
+  "1.6.3-1": {
+    "/usr/share/licenses/composer/LICENSE": "7855ac293067aebe7e51afdd23b9dea54b8be24187dbecc9b9142581c37f596c",
+    "/usr/bin/composer": "52cb7bbbaee720471e3b34c8ae6db53a38f0b759c06078a80080db739e4dcab6",
+    "/var/log/pacman.log": "d095cce531e5446a1b47a9fbe29af320ce347517a8ff0060cf6efb044146be0e"
   }
 }

@@ -20,5 +20,27 @@
     "/usr/lib/liblcms.so.1": "a4c59343f28f9d6b531eb2d30826d4978875e459708e1790367a0dacdc41ad44",
     "/usr/lib/pkgconfig/lcms.pc": "813d2f35509f9d0a337b97cc8abfb50a8a401a67f245f6fa3b93c33b06f90d91",
     "/var/log/pacman.log": "90d804457e655a0bc62b98b5ba6e49a407ce050ead73b99c022ca7dfa3a0fe33"
+  },
+  "1.19-7": {
+    "/usr/lib/liblcms.so.1": "52ff92e9940735158d0dbb8a99d9a61d04dfe482e10b46abcd7b8bdbe8223250",
+    "/usr/lib/liblcms.so": "52ff92e9940735158d0dbb8a99d9a61d04dfe482e10b46abcd7b8bdbe8223250",
+    "/usr/lib/liblcms.so.1.0.19": "52ff92e9940735158d0dbb8a99d9a61d04dfe482e10b46abcd7b8bdbe8223250",
+    "/usr/lib/pkgconfig/lcms.pc": "813d2f35509f9d0a337b97cc8abfb50a8a401a67f245f6fa3b93c33b06f90d91",
+    "/usr/share/man/man1/icclink.1.gz": "849c824d3bc50d9d3a5ff9ccd2e650eb502aee5b3b2195a63a6ff02fd33820a9",
+    "/usr/share/man/man1/icc2ps.1.gz": "ea17c9f617843a271ac62c93ee640d37b784bded243e2326d13da5bc42d24a95",
+    "/usr/share/man/man1/wtpt.1.gz": "dd8401d3aa64103158e7c9749be8e5d1fd2209a7bfcce438f3aa80604175ebf2",
+    "/usr/share/man/man1/tifficc.1.gz": "d4d68b0a1e8aa5bcbf7ddc31b4ca3967e5de63499770bddcb9be62f10703aa00",
+    "/usr/share/man/man1/jpegicc.1.gz": "76ff389d5656d3c8f92f62e69509a7b2c243057fc2897046971e2e08a5094edb",
+    "/usr/share/licenses/lcms/LICENSE": "7dfada6229e20da40af156afe760eb2a005cda69fd8900fda2bd3ea4cafb06d8",
+    "/usr/bin/icclink": "c867256c90abdee55e3a90d91a2db0ebfe7d58adfbfe5c4a25c4e2d77fb38b1e",
+    "/usr/bin/icc2ps": "29ca483aebabbf51452b77ff8c565aea4389710e11a8e611a44167a25554490a",
+    "/usr/bin/wtpt": "5b258815b5d3d585d29495ebcc1bf637fef0561ca15f9c6c3cb3ab6a79b337ef",
+    "/usr/bin/icctrans": "6e3f28629e14d701ae7b69d6d3309407e58698ec3247cdee3b48f22c08d50e8b",
+    "/usr/bin/tiffdiff": "67333fb6eaa7701492c0c549c869321dd91e5bfcbc449ea13085a4c7e05b5c42",
+    "/usr/bin/tifficc": "f4c8912e01ce7b3c4e73479ba21d324bf1b8b54051c2d3c7fe57a3b4898976a9",
+    "/usr/bin/jpegicc": "e1e50cdfc0250d06f9adc3a2580e52bbfc7c877c47c8b8652adc7f08955619f6",
+    "/usr/include/icc34.h": "0cf81fbf9cda3a2247056a85f9ab4f6ad1150adfb26ad76409fb10ce3f54eaf6",
+    "/usr/include/lcms.h": "f24b3afd440094840d0586a1ac9c583c0adf4b216b21ecc0de5b17b9ea4e45e2",
+    "/var/log/pacman.log": "98dc2ccf9e7862376b80a0ff31b2a3b173fa92b78c99b94fe0566961d174c045"
   }
 }

@@ -22,5 +22,13 @@
     "/usr/lib/libHSasn1-parse-0.9.4-1l9De8nuujkJZFH2MTWBF9-ghc8.2.2.so": "4aac16760bae769f2d1bd3e8d2cb90a74827da383548f83e7564fda8f62a476a",
     "/usr/lib/ghc-8.2.2/site-local/asn1-parse-0.9.4/Data/ASN1/Parse.dyn_hi": "77466180cff9db6e67845c3976198f1a0256452f1480671b9623e8847a225e45",
     "/var/log/pacman.log": "c34aa6bbea5f90b5cb74912432ec95ffcd1ef0dfdefb9b031f5d3a22e5a8a2bf"
+  },
+  "0.9.4-40": {
+    "/usr/share/haskell/register/haskell-asn1-parse.sh": "adf81bd11f65ec94c832b08a5d21967ff2da083391a346734f2612e125ef82c4",
+    "/usr/share/haskell/unregister/haskell-asn1-parse.sh": "18960062aa423b1b9477e74011b282c744313e4b105f50e21fa1397e7d4d33e2",
+    "/usr/share/licenses/haskell-asn1-parse/LICENSE": "43d820ad7c467c6c9cd6eedb385cfe89d1545a48eca4d40bfe3b7bcd80c298cb",
+    "/usr/lib/libHSasn1-parse-0.9.4-BvRXpak9mabHKoCUuZ4hF7-ghc8.2.2.so": "1a5ce913e183fc04460947d102a3b25e66ffcc49174209414393114982ca4bc1",
+    "/usr/lib/ghc-8.2.2/site-local/asn1-parse-0.9.4/Data/ASN1/Parse.dyn_hi": "e96d90e778e9c4d6dc8e2fb61714b1e83668c882a91ccbec9fa6798c07777eb8",
+    "/var/log/pacman.log": "391e5b447017271298115421350d41f1fe678699325e7267476c929d18170d51"
   }
 }

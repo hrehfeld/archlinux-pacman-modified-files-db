@@ -34,5 +34,17 @@
     "/usr/lib/ghc-8.2.2/site-local/x509-validation-1.6.9/Data/X509/Validation/Cache.dyn_hi": "f2b6bcf62f44576b089a9cc9fe85d777afd2ace11c84d197d9542bde72a18d78",
     "/usr/lib/ghc-8.2.2/site-local/x509-validation-1.6.9/Data/X509/Validation/Types.dyn_hi": "85a9853e0e84bdd68be1be8ea19a16d4ff1152b1f01d8be81ab40539a5b514df",
     "/var/log/pacman.log": "25faaf78350284cb17b7799457839ce3d1972e5101826c8df48f66d357a6b09c"
+  },
+  "1.6.9-17": {
+    "/usr/share/haskell/register/haskell-x509-validation.sh": "162ffc88ece505b736f737434a539981f0eec13282936932e781a0bb647645c0",
+    "/usr/share/haskell/unregister/haskell-x509-validation.sh": "42ebd0eecc99d019814e2c590493d3a0a1605e915008784739a1ef94fef3af1b",
+    "/usr/share/licenses/haskell-x509-validation/LICENSE": "43d820ad7c467c6c9cd6eedb385cfe89d1545a48eca4d40bfe3b7bcd80c298cb",
+    "/usr/lib/libHSx509-validation-1.6.9-Juw2TsoxbeOHXq8nIfZE6I-ghc8.2.2.so": "60b1160cd500e9648ad5816000ab0ec0d7178999dc4bb31d4e30d6bdb5dc89fe",
+    "/usr/lib/ghc-8.2.2/site-local/x509-validation-1.6.9/Data/X509/Validation.dyn_hi": "3330c4d7df0231d57f5c9773ee652926f780663ff88ddf66df463fdcaf0bbbd5",
+    "/usr/lib/ghc-8.2.2/site-local/x509-validation-1.6.9/Data/X509/Validation/Signature.dyn_hi": "63672fbe514e005c3a220ae882d2a1503348552d35cc0046d44d183d78b1a48b",
+    "/usr/lib/ghc-8.2.2/site-local/x509-validation-1.6.9/Data/X509/Validation/Fingerprint.dyn_hi": "7f566436da2ea8f4693e5808e8da50534fc89f929b39da9fb11d71aac9c0b931",
+    "/usr/lib/ghc-8.2.2/site-local/x509-validation-1.6.9/Data/X509/Validation/Cache.dyn_hi": "bcd74a10c3d396858d1867fe2d3b9963aca8a1ea72393298d27f534db0220f8e",
+    "/usr/lib/ghc-8.2.2/site-local/x509-validation-1.6.9/Data/X509/Validation/Types.dyn_hi": "40250ff394a0083b9ce27be6cd3fd088a98924c43edc717f2cad234864e08dae",
+    "/var/log/pacman.log": "24469a08ad95c385bb6fcfc51c9a0213f5d4b62aab6bef9af9833a1348aeac06"
   }
 }

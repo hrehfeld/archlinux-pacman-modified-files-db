@@ -28,5 +28,20 @@
     "/usr/lib/ghc-8.2.2/site-local/conduit-1.2.12.1/Data/Conduit/Internal/Conduit.dyn_hi": "2f603bda905337ad909ee9b93a4fc2bf7306fcf0c585690e8c1ad62bf3415a4f",
     "/usr/lib/ghc-8.2.2/site-local/conduit-1.2.12.1/Data/Conduit/Internal/List/Stream.dyn_hi": "e8cfbf557899bff5119d336834e600ecb338d4621151721ac7cf352f7f187063",
     "/var/log/pacman.log": "c84c9f5907fd53687432d6a4be77ce302238b2283814c30895b59bd030e0803c"
+  },
+  "1.2.13-5": {
+    "/usr/share/haskell/register/haskell-conduit.sh": "58d4856b8ead6b34c4ea277ad7f989ff0dc3094879ab6dc8a0c9825e8bcf6f1a",
+    "/usr/share/haskell/unregister/haskell-conduit.sh": "b4c55326b1ab31a0f11b4d41ee0b5ec6baf2ef6a776bff9d411768336326aa34",
+    "/usr/share/licenses/haskell-conduit/LICENSE": "bebc00cb81ab4a16c3f27768fad205a203d0d7b56944299808dc3c35b53e198d",
+    "/usr/lib/libHSconduit-1.2.13-FH7KWsUW5ajAmf8UFAEQA6-ghc8.2.2.so": "8b447e923dc2be4e4cc46e5c290cde60b8cb1417dcb7abf237608ec9fb6e2a80",
+    "/usr/lib/ghc-8.2.2/site-local/conduit-1.2.13/Data/Conduit.dyn_hi": "9c8413b4f6d0a3c91ef08352e9c14281550e6a7ad89092e285f1bc9d1957ddf0",
+    "/usr/lib/ghc-8.2.2/site-local/conduit-1.2.13/Data/Conduit/List.dyn_hi": "e2753e353450e3ba0e0e9173075b63de0d9825e370ae4d28edca54a704e71e35",
+    "/usr/lib/ghc-8.2.2/site-local/conduit-1.2.13/Data/Conduit/Internal.dyn_hi": "4c73e45b34c4fc0313066dcea51c669c599554a4080e7e932f985b9dce0d7b16",
+    "/usr/lib/ghc-8.2.2/site-local/conduit-1.2.13/Data/Conduit/Lift.dyn_hi": "49d2020af44903bff5021301d2c62a21a894024fa46c458521e75749799a3f13",
+    "/usr/lib/ghc-8.2.2/site-local/conduit-1.2.13/Data/Conduit/Internal/Fusion.dyn_hi": "996e96fbd6a90196e76e03c10b2d79a14616203a3027757c0ad64379f8aa09f6",
+    "/usr/lib/ghc-8.2.2/site-local/conduit-1.2.13/Data/Conduit/Internal/Pipe.dyn_hi": "7a95bb1c77ec7b5cfd462b6105a5e52eb8b7cff2eb844e67dc78c68c144f9ce9",
+    "/usr/lib/ghc-8.2.2/site-local/conduit-1.2.13/Data/Conduit/Internal/Conduit.dyn_hi": "5278b59c21dc8b200839aedb706626dd617330b08b44ba847fca50aeec872335",
+    "/usr/lib/ghc-8.2.2/site-local/conduit-1.2.13/Data/Conduit/Internal/List/Stream.dyn_hi": "97aa5d1c178e57bf33c92f45a42586f452fa6eff38de3af248b9e7f7920390f7",
+    "/var/log/pacman.log": "f2c297e484d43668ce24ecf25077bfb8c24185cf519460901ae138c1fa8a3077"
   }
 }

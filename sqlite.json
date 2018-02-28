@@ -15,5 +15,22 @@
     "/usr/lib/libsqlite3.so.0": "05ae1d3bc673ffb91e63b68b3a1f5e8aeb96342b8d094eab74fc6463ce3f38a3",
     "/usr/lib/pkgconfig/sqlite3.pc": "910823b94c368ba98af53989a95c0af2cd876ea36bfe43dbfab9f5f71133ded5",
     "/var/log/pacman.log": "5c5eed3cf23a565e321bbb0504a0a3d9b32a1b8cf05197f4f9eeaa0568e96353"
+  },
+  "3.22.0-1": {
+    "/usr/include/sqlite3.h": "a9eac62fa30ba19c080674b086e14d2dc9eefe736b49aa32c65d4b50d31d5e18",
+    "/usr/include/sqlite3ext.h": "f446a85a9b71a20eef1f6bc5eb2201c020462a17839a3fe4a606231bdef1c229",
+    "/usr/share/licenses/sqlite/license.txt": "4e57d9ac979f1c9872e69799c2597eeef4c6ce7224f3ede0bf9dc8d217b1e65d",
+    "/usr/share/man/man1/sqlite3.1.gz": "c3d798a2cdc6cec01e417fdad09584a6f042c841be8a78a4e8c7c7365af5d586",
+    "/usr/bin/showjournal": "cace9960b5a27ef495d13d0bd5a3306490ac8d426a032a1ef8408c758fe201b9",
+    "/usr/bin/showwal": "3a2d6e6e665d4dcff72339b08ab0cd98075c1518a3fe612e7deb2460e7d140c3",
+    "/usr/bin/sqldiff": "9a215104e5e8623a6933a8a37d6828659ad0769b5080af9b3f134491f6bf42af",
+    "/usr/bin/showstat4": "c08c9bce6e6b750965cbdde57b6238b277bdb4dbc8c476ebec95a47270ad294d",
+    "/usr/bin/showdb": "02ec6d5d88980ac3a6de8a61c070a672e67c1d4180861f67b61129606b6a00ca",
+    "/usr/bin/sqlite3": "144d54e728585fbf96b95d43668d23664ee3a9d4287b8295213ecd11f0cbcaa0",
+    "/usr/lib/libsqlite3.so.0.8.6": "7bb5690a83a8fa716ae5c5d4cd7b0af960e8c5465b6cc655a82250094d5a2e26",
+    "/usr/lib/libsqlite3.so": "7bb5690a83a8fa716ae5c5d4cd7b0af960e8c5465b6cc655a82250094d5a2e26",
+    "/usr/lib/libsqlite3.so.0": "7bb5690a83a8fa716ae5c5d4cd7b0af960e8c5465b6cc655a82250094d5a2e26",
+    "/usr/lib/pkgconfig/sqlite3.pc": "3090ff426b034f383ee73c5a9ada2d5b12a1b5dc765805c1ffdbda5129849c15",
+    "/var/log/pacman.log": "daa9bc2c19231631d66d31fe880b3bcf259f460fb7dcd4e483ade6466c1e78c5"
   }
 }

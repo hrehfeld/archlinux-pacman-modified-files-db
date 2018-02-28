@@ -35,5 +35,24 @@
     "/usr/bin/enchant": "ab123fbcbc496af994a5726dc0341aaefb66c36db0b43840a6012db3fd80e8b1",
     "/usr/bin/enchant-lsmod": "c38a3ea806dee9843f205f6d259606b4482fd9aa266d9ca0197a80045b93f650",
     "/var/log/pacman.log": "eda1568e74550c1df85892df5f9dd3ce81a821c2b7ad7706c67e1df870aee772"
+  },
+  "2.2.1-1": {
+    "/usr/include/enchant-2/enchant.h": "5ab5d55132d615062b72621dd84eff5908ad231f21dc2e38d1250999f9566025",
+    "/usr/include/enchant-2/enchant-provider.h": "7a096af82a379619ab9eb1769eb091a00a6a02a5d23d32a030edf050f1e9835a",
+    "/usr/include/enchant-2/enchant++.h": "5c0e2ce925c81be8be3a958d8fcb8481bbbc8f60a6f168192caba08cd6b9da2e",
+    "/usr/share/man/man1/enchant-lsmod-2.1.gz": "439d9f0cc0a621994b90db3b55f17e45150745c7f9a9b6f6169b52c3f07bebf9",
+    "/usr/share/man/man1/enchant-2.1.gz": "68df7f7797c7bcce92b27eb4a9c3bca8d0d61eb059eb6c35b3a9e7634c9e7005",
+    "/usr/share/enchant/enchant.ordering": "ab34ee37c7ffdef3a36ff5a0623d097f2a4dc1f52c3b60ea3545ecc00a39057c",
+    "/usr/lib/libenchant-2.so.2": "c6e4861826515ed71d91a29f89dcef53a151ed1a0809eb91cd4827558e8414e3",
+    "/usr/lib/libenchant-2.so": "c6e4861826515ed71d91a29f89dcef53a151ed1a0809eb91cd4827558e8414e3",
+    "/usr/lib/libenchant-2.so.2.2.1": "c6e4861826515ed71d91a29f89dcef53a151ed1a0809eb91cd4827558e8414e3",
+    "/usr/lib/enchant-2/enchant_voikko.so": "b642f8d627b95a542bf057d6a4c915c2dd290f249f5b037b93fe80d3d31332e0",
+    "/usr/lib/enchant-2/enchant_hunspell.so": "750eecbfa016cb58e620d15809398e84874ecbb1a5af9a4d3820ed95f2deabbf",
+    "/usr/lib/enchant-2/enchant_hspell.so": "fb9352e066a0d9c4c31abf87050e35151ad626d19d6463fb42e5119dbee13545",
+    "/usr/lib/enchant-2/enchant_aspell.so": "14b6e3898d552af2138278b72d0c92824fed2acf6f496e380b27feeef982c233",
+    "/usr/lib/pkgconfig/enchant-2.pc": "7ed32f6779fa1c2a71cdc94b93b6a51fb1dda3bb65d96df097a61fb5cf3b1beb",
+    "/usr/bin/enchant-lsmod-2": "dc8b1fedd2859db9369f3cf64a3a78a400164631363316e9612ea1cc142da9a4",
+    "/usr/bin/enchant-2": "d12c59e3937bf7015ae7c0574d27b03f70d44de9fed03393caa7ae162785d753",
+    "/var/log/pacman.log": "21b3b8673949dffc1ae37315d9a26764cb0fc852eb1a6491a8e358f089aa532a"
   }
 }

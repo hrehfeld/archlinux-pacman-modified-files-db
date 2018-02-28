@@ -34,5 +34,23 @@
     "/usr/lib/ghc-8.2.2/site-local/vector-algorithms-0.7.0.1/Data/Vector/Algorithms/Tim.dyn_hi": "5d0bcb646fa67a303e278d7fbd43a7512f662e9017a865f1535bb3766b660c7e",
     "/usr/lib/ghc-8.2.2/site-local/vector-algorithms-0.7.0.1/Data/Vector/Algorithms/Common.dyn_hi": "d934f2968e72e0b14a04eafa1339b4e12efea0c3efb34f1fe504d331aa8c13ae",
     "/var/log/pacman.log": "a438e7092dc14c1e0e3f056167137af577044fc0a86a2950d8e424389023f06b"
+  },
+  "0.7.0.1-11": {
+    "/usr/share/haskell/register/haskell-vector-algorithms.sh": "aed7a7dbd5ebbc5483b8f9e1b941b5b7dbd0e4e36f52875e47f94615cf3976e5",
+    "/usr/share/haskell/unregister/haskell-vector-algorithms.sh": "d7de44214fa1682ad636ffe9937748f17e8a77a94f7612257cb97c74bc17e34c",
+    "/usr/share/licenses/haskell-vector-algorithms/LICENSE": "0507f775105cd6d52286fd6cfe4ac4c9e1751e9afa3a49ac36e164b9156b7501",
+    "/usr/lib/libHSvector-algorithms-0.7.0.1-5mphjIH0bWI4CUpg2N3vz8-ghc8.2.2.so": "19aa9bc72fa4b6d95b61b61d5bf8fd60e492153463edd95f9241aca37b670483",
+    "/usr/lib/ghc-8.2.2/site-local/vector-algorithms-0.7.0.1/include/vector.h": "6b1dda263204411833ea271a2d96b25d341bbeb76f8246ac4c5a10d74dae75da",
+    "/usr/lib/ghc-8.2.2/site-local/vector-algorithms-0.7.0.1/Data/Vector/Algorithms/Optimal.dyn_hi": "e655220a8e8975bafc2877547964b5b40b869add384547f155236bd1999232d2",
+    "/usr/lib/ghc-8.2.2/site-local/vector-algorithms-0.7.0.1/Data/Vector/Algorithms/Insertion.dyn_hi": "e851eda4a79a0b250002be6a407937b5541922614865a99278299b77958b28cc",
+    "/usr/lib/ghc-8.2.2/site-local/vector-algorithms-0.7.0.1/Data/Vector/Algorithms/Intro.dyn_hi": "53f70ca1cf6505d6d4dc8e4a180f9824f434c9b21cf0aa441dd189291d5bb5ca",
+    "/usr/lib/ghc-8.2.2/site-local/vector-algorithms-0.7.0.1/Data/Vector/Algorithms/Merge.dyn_hi": "042670e2c5da7bdf8182c5fb1c41ec851ee8c32ad2213f2c258059582cbbf88a",
+    "/usr/lib/ghc-8.2.2/site-local/vector-algorithms-0.7.0.1/Data/Vector/Algorithms/Radix.dyn_hi": "05e98c06327ece67534dc2bed9fe69add60f2697e70a31d387ccd1ddbd50d4a1",
+    "/usr/lib/ghc-8.2.2/site-local/vector-algorithms-0.7.0.1/Data/Vector/Algorithms/Search.dyn_hi": "5e80cdfde014e249bc58c5b3a98a2ceb9244697bd4e3eeb7d89c163174beb630",
+    "/usr/lib/ghc-8.2.2/site-local/vector-algorithms-0.7.0.1/Data/Vector/Algorithms/Heap.dyn_hi": "79b299dd0bba36b8246929d5cd2a7201285200f4c13d9ce2de1af8292d329db1",
+    "/usr/lib/ghc-8.2.2/site-local/vector-algorithms-0.7.0.1/Data/Vector/Algorithms/AmericanFlag.dyn_hi": "a99b48f0cf119fde2303b3ddbce37e6619c713c6695304774920cb3438f63ce9",
+    "/usr/lib/ghc-8.2.2/site-local/vector-algorithms-0.7.0.1/Data/Vector/Algorithms/Tim.dyn_hi": "5f6c710152f7267bae004e0be15a97bd41318af86d513c6d58fda4974f961c1f",
+    "/usr/lib/ghc-8.2.2/site-local/vector-algorithms-0.7.0.1/Data/Vector/Algorithms/Common.dyn_hi": "71166e45c7f9c3650cd79e300996b502d45023d0284bd09a76f2f26ccf646cce",
+    "/var/log/pacman.log": "3e433f94b07742709ec6c28636037d2e2c6e1f54c5d65c5e4a788cb5ef680c1c"
   }
 }

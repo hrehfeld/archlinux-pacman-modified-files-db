@@ -20,5 +20,27 @@
     "/usr/share/man/man1/zstd.1.gz": "ecfe23cf00b10f13dd8433bdc3cafc57588f7df95fefdd91ba81539d604c52d4",
     "/usr/share/licenses/zstd/LICENSE": "2c1a7fa704df8f3a606f6fc010b8b5aaebf403f3aeec339a12048f1ba7331a0b",
     "/var/log/pacman.log": "3c36231704b194791727b96d1756f927555349e3adbefeb3b6487ab30536e725"
+  },
+  "1.3.3-1": {
+    "/usr/lib/libzstd.so.1": "8e64500cfa4d11d1f9be351dffed70cbfead743ac352944d5a0c4d7277f16094",
+    "/usr/lib/libzstd.so": "8e64500cfa4d11d1f9be351dffed70cbfead743ac352944d5a0c4d7277f16094",
+    "/usr/lib/libzstd.so.1.3.3": "8e64500cfa4d11d1f9be351dffed70cbfead743ac352944d5a0c4d7277f16094",
+    "/usr/lib/pkgconfig/libzstd.pc": "0ee7c445c7496a7d1c7786446cd382bbdf6c6f6cf4106335935168588aae5585",
+    "/usr/include/zstd.h": "fb2fb2503922dd353d9f50b36462ec13b701b0ec5b7df13aa5fae798d971150a",
+    "/usr/include/zstd_errors.h": "c04fac1b096be587d4fe89ac1a13c6b34aafd4c4729c3ca19fd4b01fb5c1d8b7",
+    "/usr/include/zbuff.h": "e1aa0c84dd40cfcf5a23e8dea5c376f9da626eeed902667fe0f8cbceb673840f",
+    "/usr/include/zdict.h": "853e7a4710530eb995eef8dbbb5e0257f5fb1479cbd9085ed65f4b8da17f169d",
+    "/usr/bin/zstdcat": "4ecc64ec28d7df0a518d38a3883ddf12ea0fc066e26722f412a983d265367551",
+    "/usr/bin/unzstd": "4ecc64ec28d7df0a518d38a3883ddf12ea0fc066e26722f412a983d265367551",
+    "/usr/bin/zstdless": "d088aa04d1e60fa093bbe0a8c5defd71cff7aec4333a7b4cd774a5ced40eece3",
+    "/usr/bin/zstdgrep": "7cc07665ec07016ef9bfd2c18412f30bccbeeef3ec708adc63e4fe086b281ac5",
+    "/usr/bin/pzstd": "d14c561562933460c22a5d8c6c43638a89d9ee874233bf97d3e91ce72f167e04",
+    "/usr/bin/zstdmt": "4ecc64ec28d7df0a518d38a3883ddf12ea0fc066e26722f412a983d265367551",
+    "/usr/bin/zstd": "4ecc64ec28d7df0a518d38a3883ddf12ea0fc066e26722f412a983d265367551",
+    "/usr/share/man/man1/unzstd.1.gz": "2fad30f4ce68136f6af8d9c94b8169f31c69fa79a639072d312d9df5852d0c51",
+    "/usr/share/man/man1/zstdcat.1.gz": "2fad30f4ce68136f6af8d9c94b8169f31c69fa79a639072d312d9df5852d0c51",
+    "/usr/share/man/man1/zstd.1.gz": "2fad30f4ce68136f6af8d9c94b8169f31c69fa79a639072d312d9df5852d0c51",
+    "/usr/share/licenses/zstd/LICENSE": "2c1a7fa704df8f3a606f6fc010b8b5aaebf403f3aeec339a12048f1ba7331a0b",
+    "/var/log/pacman.log": "884bef59ff87fbc40de51e9f65be9f76d89c27f6216e1cb2275d6253e389ab0e"
   }
 }

@@ -16,5 +16,14 @@
     "/usr/lib/ghc-8.2.2/site-local/unliftio-core-0.1.0.0/Paths_unliftio_core.dyn_hi": "56428f815d638aab07b5dca05bd0769b335b9842dc8c6f1cb429d2d6f546426c",
     "/usr/lib/ghc-8.2.2/site-local/unliftio-core-0.1.0.0/Control/Monad/IO/Unlift.dyn_hi": "ddf2ccce0856808088b0efe4831f843cea0b2f5ba8ef5c344e6fcc740c799707",
     "/var/log/pacman.log": "2974ccc4d56e7425f69a618f2dfe14e6832da0878e3455793bbe5494d29168ee"
+  },
+  "0.1.1.0-1": {
+    "/usr/share/haskell/register/haskell-unliftio-core.sh": "446a84bcd5315ec7d55b184946799643c918d94efada760e31dc063f877af9a1",
+    "/usr/share/haskell/unregister/haskell-unliftio-core.sh": "f67f717f4be6f1195486269a87bf59cd47db6d68cd9ba4fcec1f461ca14b9ec7",
+    "/usr/share/licenses/haskell-unliftio-core/LICENSE": "c125e5ab10ec8805d3e3b648ac3f522a61a8a55306de0b130d322863fa7a7327",
+    "/usr/lib/libHSunliftio-core-0.1.1.0-3wrHy3Ijr0BBoYMyh4oX3g-ghc8.2.2.so": "49d5903b209e353e08ea10e5b63d4fbe4e7e6872f10ad348ff7cb54f6e6244ba",
+    "/usr/lib/ghc-8.2.2/site-local/unliftio-core-0.1.1.0/Paths_unliftio_core.dyn_hi": "89b031b448d90897a5dd35378f5048d4854e7a6511681e786388e0a4303813f4",
+    "/usr/lib/ghc-8.2.2/site-local/unliftio-core-0.1.1.0/Control/Monad/IO/Unlift.dyn_hi": "8bcf8990a71d3ebb17d64cc25242efd7a79b16e5a4686b2c9cc561ed7f2edfe3",
+    "/var/log/pacman.log": "8458febfcd626a8c3ee5e4d3bf374744b2c549220f2f61dd064af6ea02a0ac94"
   }
 }

@@ -16,5 +16,14 @@
     "/usr/lib/ghc-8.2.2/site-local/quickcheck-io-0.2.0/Paths_quickcheck_io.dyn_hi": "440c634b9a83b5e404b0bb5e010ccc5fafe7da6cbe638d52811363da7cfb6e36",
     "/usr/lib/ghc-8.2.2/site-local/quickcheck-io-0.2.0/Test/QuickCheck/IO.dyn_hi": "a080bfb67e515628541c7f36f19fcd8a899f78d41c0b5331a8e3c49eeb6662c8",
     "/var/log/pacman.log": "20c362c8ab3057b272f2b3d19052ec2fd78a64850fe48584f14c22e97331ed39"
+  },
+  "0.2.0-7": {
+    "/usr/share/haskell/register/haskell-quickcheck-io.sh": "b850cbf569e50698df32621ddeb40c87ec26a0ec1e369239f8e9cee4143ff0da",
+    "/usr/share/haskell/unregister/haskell-quickcheck-io.sh": "667deacf5161554103b9d468076b3a1fc5e35d27f7fc218e2d2ccaf1387bfbac",
+    "/usr/share/licenses/haskell-quickcheck-io/LICENSE": "e04c8bd70cdf1458071e7d82b39746ae0d560c9eb60ea98e9a5c57aab9545324",
+    "/usr/lib/libHSquickcheck-io-0.2.0-ITScGS5n4UyAIFa9qy7eQB-ghc8.2.2.so": "6d9a212c49ce437dd766818ba6c0618ab9a8c5712f69e765691676eb483490cd",
+    "/usr/lib/ghc-8.2.2/site-local/quickcheck-io-0.2.0/Paths_quickcheck_io.dyn_hi": "aaded87fc023fb5732631b9a49c38453f7c5cd9a9d7d43784bd578e3312d7457",
+    "/usr/lib/ghc-8.2.2/site-local/quickcheck-io-0.2.0/Test/QuickCheck/IO.dyn_hi": "0294d91b49472c07653be274f4e8077e0b97bec095cb7db6a6e56a11f3bec316",
+    "/var/log/pacman.log": "a0792f2d3c8c3d8ef0824db3194ca2398d196e848414680ef2a378a8ee50d5c8"
   }
 }

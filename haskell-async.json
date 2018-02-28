@@ -14,5 +14,13 @@
     "/usr/lib/libHSasync-2.1.1.1-K5IvYqkVegLI7CBS6i3gtn-ghc8.2.2.so": "14370a0925562814e1116acca5abc7b604a055ca0f7ce90cb99bfbbb1e050ac6",
     "/usr/lib/ghc-8.2.2/site-local/async-2.1.1.1/Control/Concurrent/Async.dyn_hi": "af19f8e09ec8cc580c765321efbbfc685ae7c109aecff9739263ac5785397ed0",
     "/var/log/pacman.log": "b2729eccab4327ab13bd7d3597b6ec7a9c4711c7aa5201b3dc416f0e320872a5"
+  },
+  "2.1.1.1-6": {
+    "/usr/share/haskell/register/haskell-async.sh": "61e2c48b224361b575a149960bfd7a6fa80dc4482599ce9f5a2e6b5b1b5a9ea1",
+    "/usr/share/haskell/unregister/haskell-async.sh": "4092a9c6d1e6f2397302aff575550763e76441edead282180cf81ec62e9455a6",
+    "/usr/share/licenses/haskell-async/LICENSE": "27a80f1809158dc95425c19854cf49aa04fa321d430787c768a39de6f55c264e",
+    "/usr/lib/libHSasync-2.1.1.1-8ROwjo1yVqvF3cWHtq6DEd-ghc8.2.2.so": "2e346fa31b7a61cc0d8f075548247057ca4dad62f90866efcc3efcd2a189f448",
+    "/usr/lib/ghc-8.2.2/site-local/async-2.1.1.1/Control/Concurrent/Async.dyn_hi": "539a5a40f1dad786df600ef0237b204f55f8a133849b16ee2c56b113afe77890",
+    "/var/log/pacman.log": "ef9b72559687804558ebabd92933c685cd18922c06c101ca9c913b8a0d73303d"
   }
 }

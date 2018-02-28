@@ -110,5 +110,33 @@
     "/usr/lib/ghc-8.2.2/site-local/semigroupoids-5.2.1/Data/Semigroupoid/Static.dyn_hi": "273774e5699f422e2aa61d680e334eba9a01d2d0424810ab15ec39a419449efd",
     "/usr/lib/ghc-8.2.2/site-local/semigroupoids-5.2.1/Data/Traversable/Instances.dyn_hi": "b9d340f6757ef55b9e26c00804ee006a3882500430783c473553d0be3f79b1e2",
     "/var/log/pacman.log": "4481753d625dce432b4d603d484b3c76b45514892a774fca02174747bb40f875"
+  },
+  "5.2.2-4": {
+    "/usr/share/haskell/register/haskell-semigroupoids.sh": "9d7bb2c9ce47d4123ef53a878a10ac180e1585a1613634700e787b46af0903e5",
+    "/usr/share/haskell/unregister/haskell-semigroupoids.sh": "44103321551a96bdce1bcd270b374e393f006c1622e27ea4dc47459047c08db1",
+    "/usr/share/licenses/haskell-semigroupoids/LICENSE": "c9ed0c32e5332899f31bfad68cdb6e949a712a155318a0eb4872cc8f5bf4c95b",
+    "/usr/lib/libHSsemigroupoids-5.2.2-H3vVykFCBM9AAd2ZXrJhKu-ghc8.2.2.so": "8380a1332c52e9b180fabf6a8b666f171374c6022547603d722d9e76b9314d35",
+    "/usr/lib/ghc-8.2.2/site-local/semigroupoids-5.2.2/Data/Groupoid.dyn_hi": "e938da49a8d07a939809b03fa507202a908604009440fb7af7623d41917565d2",
+    "/usr/lib/ghc-8.2.2/site-local/semigroupoids-5.2.2/Data/Isomorphism.dyn_hi": "7d5c924c6eecdb54faeb98eb210703ae5c3065935999729297ff5b3adb1a644f",
+    "/usr/lib/ghc-8.2.2/site-local/semigroupoids-5.2.2/Data/Semigroupoid.dyn_hi": "f847a1d211e6915b9c61d2f0348944412343dbcc6563daaa40d2b4332d0d14db",
+    "/usr/lib/ghc-8.2.2/site-local/semigroupoids-5.2.2/Data/Bifunctor/Apply.dyn_hi": "1141101a958af02036103963d94fb0c9f069e13a06b8b6e7bd55501520e35bdc",
+    "/usr/lib/ghc-8.2.2/site-local/semigroupoids-5.2.2/Data/Functor/Alt.dyn_hi": "ce904388d85c4201e39208c1fa5eb13287136937ea8cf09870bbfd3e7dc58bf8",
+    "/usr/lib/ghc-8.2.2/site-local/semigroupoids-5.2.2/Data/Functor/Apply.dyn_hi": "30a44397a8d5afe84a5c3bb9f79a87bdd8086a7eddeb601aeb9520804bde78aa",
+    "/usr/lib/ghc-8.2.2/site-local/semigroupoids-5.2.2/Data/Functor/Bind.dyn_hi": "4b48bc1b32aef8e0d956166bcc24e222c20352f3efcaefc458f48c86be457f03",
+    "/usr/lib/ghc-8.2.2/site-local/semigroupoids-5.2.2/Data/Functor/Extend.dyn_hi": "d27ceae610df646d96abce693ac608062fc4f1bb526da8782bec5b72bfbe684d",
+    "/usr/lib/ghc-8.2.2/site-local/semigroupoids-5.2.2/Data/Functor/Plus.dyn_hi": "b65a4b70d06a6be6dea3fb9a5bc2efa2b9f4bb2dd13a707c3cc0edd31caa82f5",
+    "/usr/lib/ghc-8.2.2/site-local/semigroupoids-5.2.2/Data/Functor/Bind/Class.dyn_hi": "f78ee71c00fa96f7057f02c985d898ef0242d77790c23cbd0d2d2e5337922800",
+    "/usr/lib/ghc-8.2.2/site-local/semigroupoids-5.2.2/Data/Functor/Bind/Trans.dyn_hi": "cdb1864f098d1cbbcc31b9453941a1515341add5c35330b8b48a9bc8f3d694c1",
+    "/usr/lib/ghc-8.2.2/site-local/semigroupoids-5.2.2/Data/Semigroup/Bifoldable.dyn_hi": "ab6574a1897a8d112bb641b25fec76113f569fc4c45cc470e7e58c1ed552f34f",
+    "/usr/lib/ghc-8.2.2/site-local/semigroupoids-5.2.2/Data/Semigroup/Bitraversable.dyn_hi": "4800a1fa10cf48a1ca86dd5f313856a94fc525addbeadcf2f21231c3eced68d7",
+    "/usr/lib/ghc-8.2.2/site-local/semigroupoids-5.2.2/Data/Semigroup/Foldable.dyn_hi": "a55e88e37e64ad1c15a7528f27782bea71f19528d7462b6d4edc1097f42f9eed",
+    "/usr/lib/ghc-8.2.2/site-local/semigroupoids-5.2.2/Data/Semigroup/Traversable.dyn_hi": "07f1fa1448b5f4be1cb958c31a63aa3137069e9d4c0fea6d0dbd0526ba0e1fe5",
+    "/usr/lib/ghc-8.2.2/site-local/semigroupoids-5.2.2/Data/Semigroup/Foldable/Class.dyn_hi": "c613868159e0fe40ac096ad569e34fa9a04d00b0f77de6965e9cc47f603f1f1e",
+    "/usr/lib/ghc-8.2.2/site-local/semigroupoids-5.2.2/Data/Semigroup/Traversable/Class.dyn_hi": "b7f761380981b07e166056a45a515d6b2bd504015a458d8fa31ede8014d9e2ef",
+    "/usr/lib/ghc-8.2.2/site-local/semigroupoids-5.2.2/Data/Semigroupoid/Dual.dyn_hi": "86e282dd1dc23d8e81a02fcdc9bd7c86d556c48c4fee7d1dac2fbb79dcd0c2b6",
+    "/usr/lib/ghc-8.2.2/site-local/semigroupoids-5.2.2/Data/Semigroupoid/Ob.dyn_hi": "c9f2307c15f4dd5139977d548add5a3a78aa0664977c4510af8a093c1d47a2ab",
+    "/usr/lib/ghc-8.2.2/site-local/semigroupoids-5.2.2/Data/Semigroupoid/Static.dyn_hi": "ff524dbc81aa5c573038421379c662f28b654e5424c4d249c6b50d12b249e6ed",
+    "/usr/lib/ghc-8.2.2/site-local/semigroupoids-5.2.2/Data/Traversable/Instances.dyn_hi": "655251f7618559d071295e0643c4d03779bbec570a5fcbed07d3f416e81e304c",
+    "/var/log/pacman.log": "b259e241b834c82abfcc1fce948777050e33fe20a7cc2822fbd4a76196dc7b4a"
   }
 }

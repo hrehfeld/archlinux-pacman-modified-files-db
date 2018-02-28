@@ -88,5 +88,23 @@
     "/usr/share/haskell/unregister/haskell-store.sh": "d78e3121e5b2c519bafdf6b5b210c72b7f36b9f0482f52bf093e760e2ca0529f",
     "/usr/share/haskell/register/haskell-store.sh": "1d6f446d6bbe26365f25a3603e488412cc7ad16cf16fbd9da3f6feb1d7aecfe6",
     "/var/log/pacman.log": "925feaf43fdf9018d2374c665d0384de10bdfc1a05a3174d15fd38d6322e8592"
+  },
+  "0.4.3.2-48": {
+    "/usr/share/haskell/register/haskell-store.sh": "2abd238c852f486e053ccc48d1f9696303f9181a98eeb1dd1eb38fd325ad1ccc",
+    "/usr/share/haskell/unregister/haskell-store.sh": "d78e3121e5b2c519bafdf6b5b210c72b7f36b9f0482f52bf093e760e2ca0529f",
+    "/usr/share/licenses/haskell-store/LICENSE": "fce256ffd8186e2312a4ed35875e86b0ec08658b4da1c26cfb668fb009c59f6d",
+    "/usr/lib/libHSstore-0.4.3.2-zEPrUMhux34SiiIsWdlGF-ghc8.2.2.so": "0ab2c11461cb99196cf0e79471d62ef3e382c17dd630483bee79fe7b890490ec",
+    "/usr/lib/ghc-8.2.2/site-local/store-0.4.3.2/Data/Store.dyn_hi": "adb8b2681314b09a430e26a02434e2d32223099672022a79de782e1fbcfdc6dd",
+    "/usr/lib/ghc-8.2.2/site-local/store-0.4.3.2/Data/Store/Internal.dyn_hi": "0881fd37f563c99f6ed91e4e2f0a9e03bbd22fa425480625eae061bac1a16a19",
+    "/usr/lib/ghc-8.2.2/site-local/store-0.4.3.2/Data/Store/Streaming.dyn_hi": "97e6b6e9964ed8bd2925a1d1821e634ec73339e14f3be7a2dcf6d37b8282b817",
+    "/usr/lib/ghc-8.2.2/site-local/store-0.4.3.2/Data/Store/TH.dyn_hi": "cd7dfc636dc0869619b14f89c331b17813e1d791a52dbec940f82316555a35ab",
+    "/usr/lib/ghc-8.2.2/site-local/store-0.4.3.2/Data/Store/TypeHash.dyn_hi": "e316ac189a88da6a43d278e9a72fcc299ae803efb3f721470fe4eef9d1989534",
+    "/usr/lib/ghc-8.2.2/site-local/store-0.4.3.2/Data/Store/Version.dyn_hi": "f8368fe7a57d372554ec9be7fd9d1f530192f2da662c6ea319d3d10389897a24",
+    "/usr/lib/ghc-8.2.2/site-local/store-0.4.3.2/Data/Store/Impl.dyn_hi": "7761122a562e4ebd4073eb0d1a66c20acd80029b9ce1e36d1ea7ddd55c99b21a",
+    "/usr/lib/ghc-8.2.2/site-local/store-0.4.3.2/Data/Store/Streaming/Internal.dyn_hi": "b077b5078078826050ef0a2cf473ae13d626ee5c68a69857bdefc22a2cf12444",
+    "/usr/lib/ghc-8.2.2/site-local/store-0.4.3.2/Data/Store/TH/Internal.dyn_hi": "68c35f33cd6e94247ba1efdab6c2ed642d786cadd2d0f96814840176970ad623",
+    "/usr/lib/ghc-8.2.2/site-local/store-0.4.3.2/Data/Store/TypeHash/Internal.dyn_hi": "5da9e6195304595b5eda29fff787b1c9bfbf9ee3910078573fabd886df39f9af",
+    "/usr/lib/ghc-8.2.2/site-local/store-0.4.3.2/System/IO/ByteBuffer.dyn_hi": "48de2ea8b700f9a9387f435b620d83bec38b05654f42c52399e6ef435e64ed96",
+    "/var/log/pacman.log": "390b52e588543ccabeec268a94dd4028a3e47f4946f12a8038745a6b87c7a29a"
   }
 }

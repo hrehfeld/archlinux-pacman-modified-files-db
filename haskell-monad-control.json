@@ -14,5 +14,13 @@
     "/usr/lib/libHSmonad-control-1.0.2.2-EdIoEINWcWuDiJeYd7J09J-ghc8.2.2.so": "37fa98bc5984c2a82a18c9ec022cf644b46ba9bcb1c91ee15e395e368d99dbe4",
     "/usr/lib/ghc-8.2.2/site-local/monad-control-1.0.2.2/Control/Monad/Trans/Control.dyn_hi": "f2dbb617db1ba109b4874a05e56d3469f767a057093b862d3d85fddd2c00a6e5",
     "/var/log/pacman.log": "c9394c126c801341268b476019a9c263109cc1b91bbc63a41fdacacb8e3b14d4"
+  },
+  "1.0.2.2-5": {
+    "/usr/share/haskell/register/haskell-monad-control.sh": "c51507b25b3985d2e3234d8b82a6ca773f7b015e84e13a8583df5a639441d8ff",
+    "/usr/share/haskell/unregister/haskell-monad-control.sh": "ba797c2f4657bf884bbca30fba3286b403a23bd4d9e7e8a7139f63140e9afb2f",
+    "/usr/share/licenses/haskell-monad-control/LICENSE": "46e3f68b53ff42e79829eb54d9529340141548cb792a5e6d6a4e780d4daf5cff",
+    "/usr/lib/libHSmonad-control-1.0.2.2-Cf7Y7IL4PGG7qLiejghsYv-ghc8.2.2.so": "270d2455f862be351fdd409c40f2bc8e9c1920ee27064d0b0e152d0595d5e0b1",
+    "/usr/lib/ghc-8.2.2/site-local/monad-control-1.0.2.2/Control/Monad/Trans/Control.dyn_hi": "8bad3b1cff678a554e35260448415f775b81133f730a86fe40bac6d60e8e3d02",
+    "/var/log/pacman.log": "c9d857d76cc60ecfae7b686a7693d64c329be6d9b1ee3257465b085930a3a6b5"
   }
 }

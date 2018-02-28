@@ -1,0 +1,31 @@
+{
+  "2.0.0-1": {
+    "/usr/lib/python3.6/site-packages/qopenvpn/qopenvpnlogviewer.ui": "48017f1ad0f35601fe7b7e81f7d44115ab4aa819558a2ca55144f0742a05dbbe",
+    "/usr/lib/python3.6/site-packages/qopenvpn/qopenvpnsettings.ui": "1dced6e8f7aa14e5cf3f5dc986549139f91d1cf56830aacb80039652f6c77616",
+    "/usr/lib/python3.6/site-packages/qopenvpn/openvpn_disabled.svg": "1dc6ec985a19560d25d3abe7967a69372d7f24c98227d6906c836d6f6bf3b8b4",
+    "/usr/lib/python3.6/site-packages/qopenvpn/openvpn.svg": "c8029ae6f34127f57632db68ed3239bc750eb2bef74dc5e046b1ff48696c25a0",
+    "/usr/lib/python3.6/site-packages/qopenvpn/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "/usr/lib/python3.6/site-packages/qopenvpn/__main__.py": "fe0f9a43cb8b3ce0a6d1579c2ef9a8067ff2c1254cca75387b6a757ef8a5b756",
+    "/usr/lib/python3.6/site-packages/qopenvpn/stun.py": "f9e93024cbfbaaeb47ca98bb2f403b2544e9e44a4bdb344f514de2036444b90a",
+    "/usr/lib/python3.6/site-packages/qopenvpn/ui_qopenvpnlogviewer.py": "40476953dece07f40bcac01026fb7b88ce5847c0d8584e1131ac69fb22d04a6b",
+    "/usr/lib/python3.6/site-packages/qopenvpn/ui_qopenvpnsettings.py": "d31df3a62858f79052b0b52a50a42418275c54e98db550def03c7b2f45c3556f",
+    "/usr/lib/python3.6/site-packages/qopenvpn/version.py": "ffb3a541d6d590ae2369dd022dda48d20ad3fb31006feaa01661f9985cc35e20",
+    "/usr/lib/python3.6/site-packages/qopenvpn/languages/qopenvpn_cs.ts": "e27f73bb32a7692028d124a262a3e76ca76ed23a130838365413b5d30d148800",
+    "/usr/lib/python3.6/site-packages/qopenvpn/languages/qopenvpn_cs.qm": "9959b510b15d18937848ad13007e30459d2e993c67e564badbfc18f935695c85",
+    "/usr/lib/python3.6/site-packages/qopenvpn/__pycache__/__init__.cpython-36.pyc": "4a89051d5ff2e41fd0ad7f1ebab841d1e83ca823f647a53fe9e3acd3d7d975d1",
+    "/usr/lib/python3.6/site-packages/qopenvpn/__pycache__/__main__.cpython-36.pyc": "b29cbad4701e283ec55f5f9c20f6682caea84d5da254fcf9059de58166a40900",
+    "/usr/lib/python3.6/site-packages/qopenvpn/__pycache__/stun.cpython-36.pyc": "631eb04b0dfc1fccbf4ca6170a0963d282df37907bf6be441cc4759c6e4a7ca1",
+    "/usr/lib/python3.6/site-packages/qopenvpn/__pycache__/ui_qopenvpnlogviewer.cpython-36.pyc": "47fff400b7cee937cb11d29690e9e0321b30342ad1560fb5a987232fd8ef81bf",
+    "/usr/lib/python3.6/site-packages/qopenvpn/__pycache__/ui_qopenvpnsettings.cpython-36.pyc": "5a735bd58edf88b21be445888f891bd2cd5c2b80e8013a7aed826282ad67c84b",
+    "/usr/lib/python3.6/site-packages/qopenvpn/__pycache__/version.cpython-36.pyc": "4d2f1dfb63aa1d82f1a33a15eeac323d7e78077eb032edc316c8f84d12038a04",
+    "/usr/lib/python3.6/site-packages/QOpenVPN-2.0.0-py3.6.egg-info/SOURCES.txt": "4c9684e03f0d786233ed8c43c30fc84e651060dab6cf0d7415ebbe47506b6101",
+    "/usr/lib/python3.6/site-packages/QOpenVPN-2.0.0-py3.6.egg-info/top_level.txt": "0b1dc7a5f61def42f7812f29f852944d4dc0b1231134812c0c62d2143a09c297",
+    "/usr/lib/python3.6/site-packages/QOpenVPN-2.0.0-py3.6.egg-info/entry_points.txt": "5ffca55a9a5a04bfac08afcbf546e0a99d60d9454c299bf6d32841736f711973",
+    "/usr/lib/python3.6/site-packages/QOpenVPN-2.0.0-py3.6.egg-info/dependency_links.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "/usr/lib/python3.6/site-packages/QOpenVPN-2.0.0-py3.6.egg-info/PKG-INFO": "1b5eee35a235d46ff3e5cfd56de0f727715bd16a86a8abf690e1b4b6462d92f3",
+    "/usr/share/applications/qopenvpn.desktop": "60e9049e0b34cb61869a454a9a79d27e6703013242862c070a2890dd3cceaf0c",
+    "/usr/share/pixmaps/qopenvpn.png": "19510b6b438af2c9078a9974ba4ea4e32f666fdbf5a21b56a20e4603a45467d2",
+    "/usr/bin/qopenvpn": "86f8c9f7aae75ac3d107c69957874b6815bd6c8fb7ef639c998607399e621ff0",
+    "/var/log/pacman.log": "2e1c6ff49e94401a5cdc1095151c3af26f21c0268ad9b657d58b1860556f469a"
+  }
+}

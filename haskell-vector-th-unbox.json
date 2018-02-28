@@ -14,5 +14,13 @@
     "/usr/lib/libHSvector-th-unbox-0.2.1.6-3P8JZRhyMmIHRdA9vtPCkD-ghc8.2.2.so": "400e73a8d9c538f291255046cf437adf8042a2a40057c50c4994c115c1d8d7ee",
     "/usr/lib/ghc-8.2.2/site-local/vector-th-unbox-0.2.1.6/Data/Vector/Unboxed/Deriving.dyn_hi": "f4f6411db133eaa3ddc1c168e0d11cba95b806849e6dc045f6468cfc02b84fd2",
     "/var/log/pacman.log": "9f11c12e36c81f37e586fa2a2cfd514811d18e76cb383bb4459aff55c7bc5971"
+  },
+  "0.2.1.6-8": {
+    "/usr/share/haskell/register/haskell-vector-th-unbox.sh": "df1e79a173fcba342fc973bc70432f45eea05562e1d9ff1dcb0f4bd9171468b1",
+    "/usr/share/haskell/unregister/haskell-vector-th-unbox.sh": "f70a48e3781cf1d1d0e930861e7bd02df5c85ec18fd37deb9d578f2678bf8e08",
+    "/usr/share/licenses/haskell-vector-th-unbox/LICENSE": "648eecef81541dc7fe4afdcc3cc166618e75c5491862b3ebdfd8324186a87b6e",
+    "/usr/lib/libHSvector-th-unbox-0.2.1.6-EkvhwY3l64Q29vAw3HIN07-ghc8.2.2.so": "a39241ee64ffa227d78cea9f09eb9b3c4b7415a204301d22bf7be5c128faee67",
+    "/usr/lib/ghc-8.2.2/site-local/vector-th-unbox-0.2.1.6/Data/Vector/Unboxed/Deriving.dyn_hi": "2c98b92cfd002810e292b69c67ba56fa0f3caa7f0f6adec8ff1fea431f83ac03",
+    "/var/log/pacman.log": "d6b469bb54469292f3f91dc6c19b78d258a7348a7defff85768830897905ec9c"
   }
 }

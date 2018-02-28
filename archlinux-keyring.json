@@ -10,5 +10,11 @@
     "/usr/share/pacman/keyrings/archlinux-trusted": "8ab578c21a376d0906a2b0c0d1d7be4f9569a7cbf471254c8f577ee259b7fc24",
     "/usr/share/pacman/keyrings/archlinux-revoked": "2c9a0a52965100fbbb1bfdd7346b3b2a9211e14c57f843d2d807bb82552774e3",
     "/var/log/pacman.log": "b27ac8035376245dd109d546e87ccf80e9e6b1e8c34f9cb58ed44242c031667b"
+  },
+  "20180108-1": {
+    "/usr/share/pacman/keyrings/archlinux.gpg": "db6d31599e633e3c6bdfdb84197081241888879cfe5e440b277f4015cd48addb",
+    "/usr/share/pacman/keyrings/archlinux-trusted": "8ab578c21a376d0906a2b0c0d1d7be4f9569a7cbf471254c8f577ee259b7fc24",
+    "/usr/share/pacman/keyrings/archlinux-revoked": "2c9a0a52965100fbbb1bfdd7346b3b2a9211e14c57f843d2d807bb82552774e3",
+    "/var/log/pacman.log": "04c46d36fb8eabfb271fa8bad9b03e7c015097fc833806fefe9f7c4b3869aacd"
   }
 }

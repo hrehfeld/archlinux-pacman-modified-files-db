@@ -34,5 +34,17 @@
     "/usr/lib/ghc-8.2.2/site-local/uri-bytestring-0.3.0.2/URI/ByteString/Types.dyn_hi": "18a92a6b78af25e7d15f4d2fd96ff11fd9cfa83c9fc7661e3ce5eacb902bdb2a",
     "/usr/lib/ghc-8.2.2/site-local/uri-bytestring-0.3.0.2/URI/ByteString/Internal.dyn_hi": "74a642842fd65944de2c9bc912e31dcf093bd53043ac2fdb48608418ecc8f9eb",
     "/var/log/pacman.log": "a528845d78b58e82ca2f949412456d4cffeb16d8e1a9fead5a2cead871e178fe"
+  },
+  "0.3.1.0-4": {
+    "/usr/share/haskell/register/haskell-uri-bytestring.sh": "435a974aca372c53f258d6484f925050129efe80536b737eebcbd727f0f04782",
+    "/usr/share/haskell/unregister/haskell-uri-bytestring.sh": "5f93906b2c0b5331d58e86ea7cd8fd3234b34c4f2f525c36b1f0eb6767640668",
+    "/usr/share/licenses/haskell-uri-bytestring/LICENSE": "b0e609481c648379aa7ade903ac3c7903ed95eec1716e8f6588be6a347cec57f",
+    "/usr/lib/libHSuri-bytestring-0.3.1.0-6IXQam1jt3ALn4VwHptDWu-ghc8.2.2.so": "3fd79127bf41c329f7212e53b3ff51ce900005848ff378fd5e7e23df97e61bf9",
+    "/usr/lib/ghc-8.2.2/site-local/uri-bytestring-0.3.1.0/URI/ByteString.dyn_hi": "412dec17f77b08dfa92d9f04565b1c951e02766eceaade6c8ef5f0ba2f310701",
+    "/usr/lib/ghc-8.2.2/site-local/uri-bytestring-0.3.1.0/URI/ByteString/QQ.dyn_hi": "ede88588710a88384351c0647c21bda6160f6fe2e177bacd15f70c7fec92a079",
+    "/usr/lib/ghc-8.2.2/site-local/uri-bytestring-0.3.1.0/URI/ByteString/Lens.dyn_hi": "f5d33a452cd52646ca129b1f0b61780c5ae95e7522eeba404f9e5fa5a647af53",
+    "/usr/lib/ghc-8.2.2/site-local/uri-bytestring-0.3.1.0/URI/ByteString/Types.dyn_hi": "c438ce67b8d222e56a40543edd35412a52073eabf2b43e62591d7b1ce1911aa2",
+    "/usr/lib/ghc-8.2.2/site-local/uri-bytestring-0.3.1.0/URI/ByteString/Internal.dyn_hi": "4037eabcaa1fed891afddd4e67f9619d0a8eb37c189ec91b6b8af684151ef5c8",
+    "/var/log/pacman.log": "dc2d07b9ba64577c9fa9895ac7d04081b5d9a1a81051dff30fb76df35627748b"
   }
 }

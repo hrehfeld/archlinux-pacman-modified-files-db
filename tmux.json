@@ -4,5 +4,11 @@
     "/usr/share/man/man1/tmux.1.gz": "aa7f31d46ddb0cc4bc8b88339bf1be468f927c3ed25592073d845a74e71962a4",
     "/usr/share/licenses/tmux/LICENSE": "b5de80619e4884ced2dfe0a96020e85dcfb715a831ecdfdd7ce8c97b5a6ff2cc",
     "/var/log/pacman.log": "bba692dadfb9f60c28b1afefbf488c7053dc5b8300c02cf401edc6e6b39c5469"
+  },
+  "2.6-2": {
+    "/usr/bin/tmux": "8ee93a26ad8b9557797a65fad7c01774ce068cb6bb1ea2870863fccd862db92b",
+    "/usr/share/man/man1/tmux.1.gz": "aa7f31d46ddb0cc4bc8b88339bf1be468f927c3ed25592073d845a74e71962a4",
+    "/usr/share/licenses/tmux/LICENSE": "b5de80619e4884ced2dfe0a96020e85dcfb715a831ecdfdd7ce8c97b5a6ff2cc",
+    "/var/log/pacman.log": "4cff8557ff2e820f26607b158cc3ca3ed9943ad578852cdbb13dea0c5d2e4050"
   }
 }

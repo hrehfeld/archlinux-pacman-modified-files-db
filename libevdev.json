@@ -12,5 +12,19 @@
     "/usr/lib/libevdev.so.2": "7744e7d4fa863dce63684708422ed5773970f82942cb23eda0bf75ec767335fa",
     "/usr/lib/pkgconfig/libevdev.pc": "df2163d79c541ca71d5b424bc0f99deefdf291f148f853b35f0442391bfd0568",
     "/var/log/pacman.log": "e1a2316125093696fe4202b69e59f29a9f0310950a83b7272710741700f4b1f4"
+  },
+  "1.5.8-1": {
+    "/usr/include/libevdev-1.0/libevdev/libevdev.h": "9c7e550a3b02ae6d531457a8b322385fe2148f20e183dc66c1f7217a161544b7",
+    "/usr/include/libevdev-1.0/libevdev/libevdev-uinput.h": "4df9ba458198348ebfd28717684a02d1bd14a20911411f728ba6b798df31f92f",
+    "/usr/share/licenses/libevdev/COPYING": "f063d1279b31e73007e1c54493391818b4cb5f9162d590120397e0347b932137",
+    "/usr/share/man/man3/libevdev.3.gz": "13eca33f871fdbc7b15c1ff102a0bfc7736b5638b105bd20467dd12174c0e23e",
+    "/usr/bin/touchpad-edge-detector": "f5cfe02514043a9087b93faf18f23e05e4799ac0c954cbaa9487795e23202fb7",
+    "/usr/bin/mouse-dpi-tool": "70ed0683ab317aa24eeccdc6e0fe84b55aafa83853c94afd19d9dd933252c1b2",
+    "/usr/bin/libevdev-tweak-device": "f84c4ab7c800d99a45a4a61024c716ba20a73ed926c3c17a19f654758c6ccbd3",
+    "/usr/lib/libevdev.so": "9ef89e5c601a6d48134c967f6fd56646203f83331b97cc1475db94ca19f8ae36",
+    "/usr/lib/libevdev.so.2.1.20": "9ef89e5c601a6d48134c967f6fd56646203f83331b97cc1475db94ca19f8ae36",
+    "/usr/lib/libevdev.so.2": "9ef89e5c601a6d48134c967f6fd56646203f83331b97cc1475db94ca19f8ae36",
+    "/usr/lib/pkgconfig/libevdev.pc": "a762c60be22c1f98041b6b04689a023c2d7d378569a244f1751a532414226086",
+    "/var/log/pacman.log": "fa4b6ba366ff4e8d462c0d1724f6640da7c99912e87e870deb44aac9d643072a"
   }
 }

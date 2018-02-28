@@ -55,5 +55,24 @@
     "/usr/bin/json2yaml": "2533504b7c9a70fc8c88bea2b4dbcdb81e24bdc4dcbd3885ae1fb757f29a463a",
     "/usr/bin/yaml2json": "86b0cfa5da327eb69882ca1fe6b5e970e131c5ec9de846463731b68bd03d1912",
     "/var/log/pacman.log": "a6631f3f0afc901bc9b5b6056eae400f8e26e0fe6ac3ea30e84236c241ebd840"
+  },
+  "0.8.28-5": {
+    "/usr/share/haskell/register/haskell-yaml.sh": "9c3aa25f49d4637ac5105fd2fe5546adfe41a73854c113a4804729c271204714",
+    "/usr/share/haskell/unregister/haskell-yaml.sh": "39d3d136db56456afe3ad351500a01bb423157fbb77b3d2cd0f218f4c5ba0685",
+    "/usr/share/licenses/haskell-yaml/LICENSE": "8681da769bea4d67080fe8d9d997fac6fcbda3bae9c5582bf643eefb5f05d490",
+    "/usr/lib/libHSyaml-0.8.28-Hk56osObQLsJuOvfSkVFhf-ghc8.2.2.so": "a03d9240b294e71287739c3005a16c104f2272916d88a3a8f083947b992e9ad3",
+    "/usr/lib/ghc-8.2.2/site-local/yaml-0.8.28/Text/Libyaml.dyn_hi": "1f4dea3b4149fd22bc678965d5adc1808a76521323d40fc35b8e89d2a3cdafc5",
+    "/usr/lib/ghc-8.2.2/site-local/yaml-0.8.28/Data/Yaml.dyn_hi": "7092a67220af26634813e81bcb6c23cf2884d775b8b4687d74d2b5888925091b",
+    "/usr/lib/ghc-8.2.2/site-local/yaml-0.8.28/Data/Yaml/Aeson.dyn_hi": "e0f38a3fa0d9a7484484f32c2e49cb6b59e0fa1634113ec72af00ea85f7dec9e",
+    "/usr/lib/ghc-8.2.2/site-local/yaml-0.8.28/Data/Yaml/Builder.dyn_hi": "0a3451a7bbc4a8f2888b0a638b690137703f44e3415e5ec65680d46bdb25ab6c",
+    "/usr/lib/ghc-8.2.2/site-local/yaml-0.8.28/Data/Yaml/Config.dyn_hi": "2ff4048915078ab4deb21a7c18752d5145873962b602a940696688bf04e22872",
+    "/usr/lib/ghc-8.2.2/site-local/yaml-0.8.28/Data/Yaml/Include.dyn_hi": "00586a758bf816c2b03920f186a2c803df23bdff6aa27ad17f2ddd1fde7affef",
+    "/usr/lib/ghc-8.2.2/site-local/yaml-0.8.28/Data/Yaml/Parser.dyn_hi": "d64078850398b4086b5218ae8df75e83628f424a4c1d643590c4f3c136ef7728",
+    "/usr/lib/ghc-8.2.2/site-local/yaml-0.8.28/Data/Yaml/Pretty.dyn_hi": "6290f0b6ac214b40d60cbfabf01c1e20e2d4855fe484cf03010f2280a45c1bb2",
+    "/usr/lib/ghc-8.2.2/site-local/yaml-0.8.28/Data/Yaml/TH.dyn_hi": "1ee280291f4a44ca170908a99806d5a025f528e968cdda3b2eb114cad2191936",
+    "/usr/lib/ghc-8.2.2/site-local/yaml-0.8.28/Data/Yaml/Internal.dyn_hi": "7bce86d24f1be33f25002a2a41eafa7f214a6ae40f00c9d6d8a6ee6fdc017fcd",
+    "/usr/bin/json2yaml": "490394f17329596845727bb545bc8cd9a13fb33ba42aa734ad57dfa7fe0f18bb",
+    "/usr/bin/yaml2json": "f343c3b1114e85de3c182ed2f270a1367868bce72a380b1298f405d4044d39d0",
+    "/var/log/pacman.log": "68efa5dd5e0bb3e8e9251a3a7e9e7c91b32324b4d04e059558d60c37e7c68fbc"
   }
 }

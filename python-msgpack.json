@@ -19,5 +19,31 @@
     "/usr/lib/python3.6/site-packages/msgpack/__pycache__/_version.cpython-36.pyc": "69d238df6096ce5241a774a34fbdd13b0c587f0019441f7ed8b83a5da07d4914",
     "/usr/lib/python3.6/site-packages/msgpack/__pycache__/__init__.cpython-36.pyc": "396da2a5014d46be5d11701f1462a75b711349580bbfc8a5707f18d17e90f535",
     "/var/log/pacman.log": "8a946a5aa3b436cd17c7fcfa3353a1d8cc2a7b25343f7e0d826816f91e6a8939"
+  },
+  "0.5.0-2": {
+    "/usr/lib/python3.6/site-packages/msgpack_python-0.5.0-py3.6.egg-info/dependency_links.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "/usr/lib/python3.6/site-packages/msgpack_python-0.5.0-py3.6.egg-info/top_level.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "/usr/lib/python3.6/site-packages/msgpack_python-0.5.0-py3.6.egg-info/PKG-INFO": "723045e56647355d9b629bc8a17220f3481f54999dd1049d9d80957e84f3d8a4",
+    "/usr/lib/python3.6/site-packages/msgpack_python-0.5.0-py3.6.egg-info/requires.txt": "7914953d1018a82a559ae97f412d05bebe4f97cf65329bb1dd3a9308fbc00e73",
+    "/usr/lib/python3.6/site-packages/msgpack_python-0.5.0-py3.6.egg-info/SOURCES.txt": "b888bab4fcc97f6aa8d068e84e7806109ec119a3409b6564c361ea3adab12616",
+    "/usr/lib/python3.6/site-packages/msgpack/__init__.py": "f4d9580d2851824cccb4d797cdde745e0c9a6ecafa6f35de0d6427494d3d1fcf",
+    "/usr/lib/python3.6/site-packages/msgpack/exceptions.py": "94f9008bfbb5d8d9456a30f3e0510b48711d7d4f21ad1df3793bca5fc690bb3e",
+    "/usr/lib/python3.6/site-packages/msgpack/_packer.cpython-36m-x86_64-linux-gnu.so": "43a6c6dde9d0d04bde05242b01495533765ff9c7ca73299a5b43b97a6a0b9663",
+    "/usr/lib/python3.6/site-packages/msgpack/_unpacker.cpython-36m-x86_64-linux-gnu.so": "ab89a5fdd11c636b7bb30fd829ac09912637f516656690c47f98067a59039cef",
+    "/usr/lib/python3.6/site-packages/msgpack/fallback.py": "cce25e60ea47ce7ae6ca3dda7c711871bcf3434d59f70c1bc81b8db876783584",
+    "/usr/lib/python3.6/site-packages/msgpack/_version.py": "6be47daaca779c13045c8e14a7ac75e9a5daf9ba30c0edf5b5f14b3cd3ea14bb",
+    "/usr/lib/python3.6/site-packages/msgpack/__pycache__/fallback.cpython-36.pyc": "491ea31c408d0a8c3e44b488c1e82e08569f2dd133aa562c4b9f1555d6c357d9",
+    "/usr/lib/python3.6/site-packages/msgpack/__pycache__/__init__.cpython-36.opt-1.pyc": "2ed631814e076673ca16ff280a3c8043e2cf992dc05ef7ce1694af6aad8b0435",
+    "/usr/lib/python3.6/site-packages/msgpack/__pycache__/_version.cpython-36.opt-1.pyc": "688ceae61d6801c37e48fb9333318829cd5865d9c7cab5aa5d5d9674a876b2a5",
+    "/usr/lib/python3.6/site-packages/msgpack/__pycache__/exceptions.cpython-36.pyc": "ee5594cb13483e8a357e862c6cabd151b49b32f5e53dbffb3a77d7966322176c",
+    "/usr/lib/python3.6/site-packages/msgpack/__pycache__/__init__.cpython-36.pyc": "b23bafc0df693da13bcec93e11b10fc4f3687f74bc81aab7e07bdc501370374c",
+    "/usr/lib/python3.6/site-packages/msgpack/__pycache__/fallback.cpython-36.opt-1.pyc": "044b161c379e9d6976a5cd692271d1703f72e3457281f1d3ba5b04e6afde852d",
+    "/usr/lib/python3.6/site-packages/msgpack/__pycache__/exceptions.cpython-36.opt-1.pyc": "1cf274902f49a7e611dcd47d2e53ebf3787fd11d3dbeaa8dc3a398acaadba217",
+    "/usr/lib/python3.6/site-packages/msgpack/__pycache__/_version.cpython-36.pyc": "7120f95be2d4a38642071899b754c11433db517a832361c889584e60a2db3738",
+    "/usr/lib/python3.6/site-packages/msgpack-0.5.0-py3.6.egg-info/dependency_links.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "/usr/lib/python3.6/site-packages/msgpack-0.5.0-py3.6.egg-info/top_level.txt": "dadca4498d695dd880db16130d1ea33f0d2a239646c518a1ca17f84b9859c979",
+    "/usr/lib/python3.6/site-packages/msgpack-0.5.0-py3.6.egg-info/PKG-INFO": "66f268efeef889a5aad3331306e848853b0337854f99fe13e78156faa1c870f0",
+    "/usr/lib/python3.6/site-packages/msgpack-0.5.0-py3.6.egg-info/SOURCES.txt": "02ecb78a87fdcc75d81e5c64aff7235ba522c4a92a474e3939499b7afc50f7e1",
+    "/var/log/pacman.log": "0f4be26b6854a6ecf2224fe4669dbf0b8e768af409bf6ab8273a391561ccb9a4"
   }
 }

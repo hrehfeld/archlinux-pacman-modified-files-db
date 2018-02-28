@@ -1,0 +1,8 @@
+{
+  "8-1": {
+    "/usr/share/licenses/expac/LICENSE": "cf0635ac05848888befa2d193bd59acd098b5360ad5b12d9cbde6db43d28d394",
+    "/usr/share/man/man1/expac.1.gz": "68d0fce53f33a901e4317f9133f006a6aaaba18605a511593c95daee21cee7dc",
+    "/usr/bin/expac": "1744e0fc47ad82a39148d007729b3f8c0d5a9cc27749a1916a473ef8365da84f",
+    "/var/log/pacman.log": "9863203e939d8acb64eae0fbf332932785b5560e965c26853911adcd1ffcd905"
+  }
+}

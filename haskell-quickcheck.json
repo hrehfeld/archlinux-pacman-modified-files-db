@@ -42,5 +42,27 @@
     "/usr/lib/ghc-8.2.2/site-local/QuickCheck-2.10.1/Test/QuickCheck/All.dyn_hi": "964206c4ec375dba20d84fb29219080c1250c511afa68412bcdd6e9d4f408484",
     "/usr/lib/ghc-8.2.2/site-local/QuickCheck-2.10.1/Test/QuickCheck/Gen/Unsafe.dyn_hi": "c38b95fb5768f838d33b535508b1a7b6f7c33cb1cfe63c851b90f699e3564bee",
     "/var/log/pacman.log": "41f63c34ef274b250ea5719f9166e2af879a766ac588c81163834ab20231d958"
+  },
+  "2.10.1-3": {
+    "/usr/share/haskell/register/haskell-quickcheck.sh": "ab31410cd70364ef6673d7bfef981ec2f20368079976dcc529224333f35e927e",
+    "/usr/share/haskell/unregister/haskell-quickcheck.sh": "58abdc09191c76d85b16d4c24ef6d1772699826a87f6f85e384d69bccb15be6a",
+    "/usr/share/licenses/haskell-quickcheck/LICENSE": "90da94844e411c0e44971b9d22a4647e089c7d2d3103fbabba93b89463ce791e",
+    "/usr/lib/libHSQuickCheck-2.10.1-pyTUKjDV2C3TaEubSGdV9-ghc8.2.2.so": "7c1780e83d87f4992d8a4b52aee3e8718715daf8c6cb6fb75566c2af323847b3",
+    "/usr/lib/ghc-8.2.2/site-local/QuickCheck-2.10.1/Test/QuickCheck.dyn_hi": "2b34c6de67e37f100ca69c14e82e9161cb7a148207d95ca01548ff90810ffaa9",
+    "/usr/lib/ghc-8.2.2/site-local/QuickCheck-2.10.1/Test/QuickCheck/Arbitrary.dyn_hi": "46ba2c94eb198e5e1e7c6c950a68365a8434de32a33c2b9a36201c6c28443a35",
+    "/usr/lib/ghc-8.2.2/site-local/QuickCheck-2.10.1/Test/QuickCheck/Gen.dyn_hi": "249c216955ecd56f2f53b093b0b8b73556674201539ec63e2e0c040c08890cf2",
+    "/usr/lib/ghc-8.2.2/site-local/QuickCheck-2.10.1/Test/QuickCheck/Monadic.dyn_hi": "c1572a3101b9f77b0dca7ec98b439413d1d1702c0d4185ab8dc188a3878e3d35",
+    "/usr/lib/ghc-8.2.2/site-local/QuickCheck-2.10.1/Test/QuickCheck/Modifiers.dyn_hi": "3c05f1711ff1916e0d135e4ddba6f224faa1719e0bbe6ba67a416f444a87ae68",
+    "/usr/lib/ghc-8.2.2/site-local/QuickCheck-2.10.1/Test/QuickCheck/Property.dyn_hi": "6febe9f9a8826276d7894c35644ce76eba0cbfedd691776fa63e502b99824047",
+    "/usr/lib/ghc-8.2.2/site-local/QuickCheck-2.10.1/Test/QuickCheck/Test.dyn_hi": "99dd7e491172103453deb8fe6f5fd0b836be9e93e37b6ac521e36c3d98cbedd1",
+    "/usr/lib/ghc-8.2.2/site-local/QuickCheck-2.10.1/Test/QuickCheck/Text.dyn_hi": "af8198a098f095e226b43faa1985bbbad3a63ff14395c8f912d6a48b010aef16",
+    "/usr/lib/ghc-8.2.2/site-local/QuickCheck-2.10.1/Test/QuickCheck/Poly.dyn_hi": "a69f1abc99aa37ec0f8701efa9f5e92d809a5ddc738b9eb6747abee391b62771",
+    "/usr/lib/ghc-8.2.2/site-local/QuickCheck-2.10.1/Test/QuickCheck/State.dyn_hi": "4f787b61229a3a3a758dcd69bf65a4bce29f10d5302f994b0397e6dbad126b3c",
+    "/usr/lib/ghc-8.2.2/site-local/QuickCheck-2.10.1/Test/QuickCheck/Random.dyn_hi": "c2877bf521dc7830fbfb41fc0da497f193288a7a125e120918a5e646e339284d",
+    "/usr/lib/ghc-8.2.2/site-local/QuickCheck-2.10.1/Test/QuickCheck/Exception.dyn_hi": "bf27149252235e7e552eaf39af4ed3e7e27bf5f8c09a999d2cfa668a623b9100",
+    "/usr/lib/ghc-8.2.2/site-local/QuickCheck-2.10.1/Test/QuickCheck/Function.dyn_hi": "ddcfb114840874ed9a6aa409d3c48c308fbab4f3cb0215d2e9785f1ef91ede36",
+    "/usr/lib/ghc-8.2.2/site-local/QuickCheck-2.10.1/Test/QuickCheck/All.dyn_hi": "20c0de8e08d061ab65edcff1ed2d0361f7f764e65879ad54e43f2042f0d04caf",
+    "/usr/lib/ghc-8.2.2/site-local/QuickCheck-2.10.1/Test/QuickCheck/Gen/Unsafe.dyn_hi": "5b6bad96f16f14b749a94e25b8a19c82f7927a602c4c4affea79f6f67808dbfe",
+    "/var/log/pacman.log": "ebe0887f1a53fac4ad0def44611337e0b9ded08fea9e756d4d7c49616fae61c4"
   }
 }

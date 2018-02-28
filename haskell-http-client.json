@@ -98,5 +98,31 @@
     "/usr/lib/ghc-8.2.2/site-local/http-client-0.5.7.1/Network/PublicSuffixList/Serialize.dyn_hi": "fb10c491505ac9fe5b3d1f1d8bf1e5b6cc361ec6ac9ea2f3649a06ff8e65723e",
     "/usr/lib/ghc-8.2.2/site-local/http-client-0.5.7.1/Network/PublicSuffixList/DataStructure.dyn_hi": "c1215d8355b0bf8a8924cfdaab7bb2db35ba74d2be6d6956f61531cd7cdd279d",
     "/var/log/pacman.log": "0843233e5076686ce7adbc13c2d66d921760bf5ad5e7c1659487136210b2c9d5"
+  },
+  "0.5.10-2": {
+    "/usr/share/haskell/register/haskell-http-client.sh": "66f47f213b5f64a5411bbbec7377eafd3024fbfd6fecaaf55c4c46c8aab674a8",
+    "/usr/share/haskell/unregister/haskell-http-client.sh": "b91b5a33537731e963b4dd464db09039174d2c6575ff9f3bdf015eb759ea2266",
+    "/usr/share/licenses/haskell-http-client/LICENSE": "b986b1413f8388c5729491f607f2869e139f19228e76117875980cb3ec9fa8ef",
+    "/usr/lib/libHShttp-client-0.5.10-1euUGWzhcEJ8XdJss2BGn-ghc8.2.2.so": "27d53e72df45ba7cd031a8bf11e6353074a5595c5ee32d424a3e3da5af9518da",
+    "/usr/lib/ghc-8.2.2/site-local/http-client-0.5.10/Network/HTTP/Client.dyn_hi": "1f6da42c06f6e512d96003ccf6ff0f8653217eea403fb207f57e4fa441a1e660",
+    "/usr/lib/ghc-8.2.2/site-local/http-client-0.5.10/Network/HTTP/Proxy.dyn_hi": "fa5d6cde880842af02420d7f75136baa679b87f432112370d716b9a517411dc4",
+    "/usr/lib/ghc-8.2.2/site-local/http-client-0.5.10/Network/HTTP/Client/MultipartFormData.dyn_hi": "52091cefceade7ddde2c179208239f2548e7d14f9488aef7885350270366de8c",
+    "/usr/lib/ghc-8.2.2/site-local/http-client-0.5.10/Network/HTTP/Client/Internal.dyn_hi": "f519d353234bf997e3b7b590b232922f5035584d72847c86a54ca5e120593e7f",
+    "/usr/lib/ghc-8.2.2/site-local/http-client-0.5.10/Network/HTTP/Client/Body.dyn_hi": "da71612a7b3f9382d416135ece0a899d1ef358a2a5a3d7ad5f1d2ddb79c9ad1b",
+    "/usr/lib/ghc-8.2.2/site-local/http-client-0.5.10/Network/HTTP/Client/Connection.dyn_hi": "2d9c7253f6c92a600943e86294902d183677386a44725b47b72e069761f226b6",
+    "/usr/lib/ghc-8.2.2/site-local/http-client-0.5.10/Network/HTTP/Client/Cookies.dyn_hi": "00003ab1a7c563a889e7f53724f4f899efd516869ca4120a8838ecc9dc8ca8e2",
+    "/usr/lib/ghc-8.2.2/site-local/http-client-0.5.10/Network/HTTP/Client/Core.dyn_hi": "2ade7180832171b6bc3578088737865fc65b852953e3a0be919bbdac3be46bb8",
+    "/usr/lib/ghc-8.2.2/site-local/http-client-0.5.10/Network/HTTP/Client/Headers.dyn_hi": "5ecab3db3bb4bd24db2215d443bcae9459a4a848c893b70defe8c218da8cd262",
+    "/usr/lib/ghc-8.2.2/site-local/http-client-0.5.10/Network/HTTP/Client/Manager.dyn_hi": "1b65f26233e5f5642da5374acb968821d8c903e920c5bbad6ef0f62e9ff9e0c4",
+    "/usr/lib/ghc-8.2.2/site-local/http-client-0.5.10/Network/HTTP/Client/Request.dyn_hi": "81be21c873032fd020c63a76789aa03ad8f14317a11f591c5574be5f4dc77252",
+    "/usr/lib/ghc-8.2.2/site-local/http-client-0.5.10/Network/HTTP/Client/Response.dyn_hi": "4aaa0a66ecf16f489e9da2457f81f20d2428d6cab0d0d8a8e94bdd0cd466e634",
+    "/usr/lib/ghc-8.2.2/site-local/http-client-0.5.10/Network/HTTP/Client/Types.dyn_hi": "01283fa364f3c993c4bc6988a904f520ea94a283ac6ab5c05a15de8f6591367a",
+    "/usr/lib/ghc-8.2.2/site-local/http-client-0.5.10/Network/HTTP/Client/Util.dyn_hi": "aafe66a7868c311bf3331ba9123456069939fb624fdfb2594c04c455152e3516",
+    "/usr/lib/ghc-8.2.2/site-local/http-client-0.5.10/Network/PublicSuffixList/Lookup.dyn_hi": "28f981150595b4f0f26c5311049f6538eee60cf5284c7b2ce680985688958bb4",
+    "/usr/lib/ghc-8.2.2/site-local/http-client-0.5.10/Network/PublicSuffixList/Types.dyn_hi": "e082050dd3bc8e4158114cff71360fc5bd140fda80d1f479fdf24649a48f8c16",
+    "/usr/lib/ghc-8.2.2/site-local/http-client-0.5.10/Network/PublicSuffixList/Serialize.dyn_hi": "ba52db669e100f1ee7549716f68e194727448bedf1f660218ffe28725868ea23",
+    "/usr/lib/ghc-8.2.2/site-local/http-client-0.5.10/Network/PublicSuffixList/DataStructure.dyn_hi": "e52d172189e826a7108d3f3bc1812a4f6dff0e28bee51fc5288f287c95853446",
+    "/usr/lib/ghc-8.2.2/site-local/http-client-0.5.10/Data/KeyedPool.dyn_hi": "521dc0fac462ff664ed59460e92355a90793898e2434fbd7ac5827db1df7a595",
+    "/var/log/pacman.log": "84da9d8cd8c08e0bd79da78882bb5a4de26f89b219233197280e44352d995f54"
   }
 }

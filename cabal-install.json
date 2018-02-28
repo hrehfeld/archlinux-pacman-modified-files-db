@@ -30,5 +30,13 @@
     "/usr/share/bash-completion/completions/cabal": "032388d77e33ff0bde2b6937863b352bbeb4801b621a4e0ff56a2121a7715cbd",
     "/usr/bin/cabal": "5de7e544b5d6c72a8bd1c48ab02e978114006b16f9f14d16d6bdf7eb6feed7d2",
     "/var/log/pacman.log": "6a8a5efaa06edb211447e0693bba8e0e123c74cd7700bb22ae33e58c254de88f"
+  },
+  "2.0.0.1-5": {
+    "/usr/share/doc/cabal-install/LICENSE": "2c1b34deedc2b2e4c0ecae58741c379054e6e983efaf81712639cef45d768151",
+    "/usr/share/man/man1/cabal.1.gz": "91b5dfaa9518ad8a1aa57996699d47ff866188ece20f7046d95836f88f03e51d",
+    "/usr/share/licenses/cabal-install/LICENSE": "2c1b34deedc2b2e4c0ecae58741c379054e6e983efaf81712639cef45d768151",
+    "/usr/share/bash-completion/completions/cabal": "032388d77e33ff0bde2b6937863b352bbeb4801b621a4e0ff56a2121a7715cbd",
+    "/usr/bin/cabal": "9d43161502c876fa5e8fed1c51fcab44380165f267c9cfa41caeae484794250e",
+    "/var/log/pacman.log": "669352b1fde71fd015e4c1780a2a96b21c10c075041d876eb7fb29cbc8c9f0f4"
   }
 }

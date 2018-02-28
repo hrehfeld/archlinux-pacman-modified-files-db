@@ -6,5 +6,9 @@
   "20171203-1": {
     "/var/log/pacman.log": "1153b3ecb2327eb02dde4ed98d1de6be6e59ad7356d959a23514ece75a84e44a",
     "/etc/pacman.d/mirrorlist": "9a15441bcd1614a52cf8e3b9da452deeb0e328a18e343c5d9244cdae8c2e5ae4"
+  },
+  "20180203-1": {
+    "/var/log/pacman.log": "438d9afeda1211202dfe898096944d0a1cb81dc8aa10bc1005293e0cf008c8e1",
+    "/etc/pacman.d/mirrorlist": "7aee3685be384c1504301ba9619b4a4c911736bf0a80fc308eec2c2be48e3426"
   }
 }

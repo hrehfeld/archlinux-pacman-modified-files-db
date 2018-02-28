@@ -28,5 +28,20 @@
     "/usr/lib/ghc-8.2.2/site-local/hspec-2.4.4/Test/Hspec/QuickCheck.dyn_hi": "8c9b211ff13d1ca719ef8b4d09a485214e2b39c496a920e375b269d6c9814d06",
     "/usr/lib/ghc-8.2.2/site-local/hspec-2.4.4/Test/Hspec/Runner.dyn_hi": "d49cc758a977b26e1d0461720a8a8f88d963205462d308f2e161abfde7826ef5",
     "/var/log/pacman.log": "1f0c6b3165d59da57504ade24ff3877201ffbb2903154467842a6224eb62e9f7"
+  },
+  "2.4.7-3": {
+    "/usr/share/haskell/register/haskell-hspec.sh": "73a8eeb27b237e6ee6491b6432dc1b77e95018f0ac05ad36cbf3aaa317b8f256",
+    "/usr/share/haskell/unregister/haskell-hspec.sh": "57604f577b779fc169b9b0920fe62fa9d96f5d6cec55756fd01c37f4c1b18bd9",
+    "/usr/share/licenses/haskell-hspec/LICENSE": "105eacd0522545d0069046a8b140ae6319a3e0c8fe59ed2205c2249b78cefaa8",
+    "/usr/lib/libHShspec-2.4.7-7BWgKeF2ku1GGq68rnuVd1-ghc8.2.2.so": "2c707731590f2db4dfac9ae3b1ce1f83f394a0096e093e50b91522fdc3d2ed3f",
+    "/usr/lib/ghc-8.2.2/site-local/hspec-2.4.7/Paths_hspec.dyn_hi": "086a388178298fd600c40aec723ff9c96aedb0a932247e099b2d666a43e4b31f",
+    "/usr/lib/ghc-8.2.2/site-local/hspec-2.4.7/Test/Hspec.dyn_hi": "176c6daecb2d6ab664cfa1d4ab5b05be3b7d8d5c022889f4e7b2e316b99cf7cf",
+    "/usr/lib/ghc-8.2.2/site-local/hspec-2.4.7/Test/Hspec/Core.dyn_hi": "335f446ff339e88a08e59bfb314ecf7fec3efa8daa3ec9084436c09aec86affd",
+    "/usr/lib/ghc-8.2.2/site-local/hspec-2.4.7/Test/Hspec/Discover.dyn_hi": "0fb48d1c84a9d7a5f5eab80a5109db0aa160f2a652ae1276c425ce22d5fc7823",
+    "/usr/lib/ghc-8.2.2/site-local/hspec-2.4.7/Test/Hspec/Formatters.dyn_hi": "9f7d6f74db8ca70442cca9630875127cbc2e2e14f28953f178ec5b63c5df2330",
+    "/usr/lib/ghc-8.2.2/site-local/hspec-2.4.7/Test/Hspec/HUnit.dyn_hi": "4836bb702d750550ebad6a25d5e262ebfb2176e4dbf51b10eb4be9af7c77e97c",
+    "/usr/lib/ghc-8.2.2/site-local/hspec-2.4.7/Test/Hspec/QuickCheck.dyn_hi": "f32bc5d4b35e34583d8e5568a54989c10b44a90165302a1279837f099ebeedca",
+    "/usr/lib/ghc-8.2.2/site-local/hspec-2.4.7/Test/Hspec/Runner.dyn_hi": "8276790e2c19079f40501111c8dcc1d27b0abe9bd0bd4c3bd0e59f5eeedc4ce3",
+    "/var/log/pacman.log": "8f0b049975e4dc6b34c9649cf695bb8d05fbed3fb205033f91634783908dd5e5"
   }
 }

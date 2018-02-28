@@ -14,5 +14,13 @@
     "/usr/lib/libHStemporary-1.2.1.1-7a1ypWDsHB4EWhBxWwtUro-ghc8.2.2.so": "6d9f4a0a7a52764530e327f1069c40737e7b69d3924257c308c8a20528a8f447",
     "/usr/lib/ghc-8.2.2/site-local/temporary-1.2.1.1/System/IO/Temp.dyn_hi": "7e133624d471790664c2bfb923b144f12c8f1ee452ffb833b22b90b242ddfb91",
     "/var/log/pacman.log": "0bdbdc05b0d63b2943b65b91b1a7b17019eb121f35fbbb9ec7edfa266f03ebbb"
+  },
+  "1.2.1.1-5": {
+    "/usr/share/haskell/register/haskell-temporary.sh": "88928c482f9fb10deb27decb981cedc7de50f747718011fd6fdef38a89bfff17",
+    "/usr/share/haskell/unregister/haskell-temporary.sh": "d78fe81d3ba170867dcaa361351cd344df0487078710d3a7c3e6f748ce5c2e05",
+    "/usr/share/licenses/haskell-temporary/LICENSE": "a219a531e2ab495cb53f30041f688d52c114bb566c1b245856c9dcb4e72fe7d2",
+    "/usr/lib/libHStemporary-1.2.1.1-2QgeQJQfCPf69oxJVZZ5cG-ghc8.2.2.so": "33390122c8c574a35fd4a0608d2f7be60a895398b1502ab761a4c2628d00bc82",
+    "/usr/lib/ghc-8.2.2/site-local/temporary-1.2.1.1/System/IO/Temp.dyn_hi": "105ae84632e7945b7b9241f2973602ccd58ef5d574ae52e8a114651122af6545",
+    "/var/log/pacman.log": "f1aedf3420c59627714e5800b6ca19f4e12d7c9127dfcfe687d63b6cc2d43f30"
   }
 }

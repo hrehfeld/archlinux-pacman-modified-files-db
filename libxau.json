@@ -16,5 +16,23 @@
     "/usr/share/man/man3/XauGetBestAuthByAddr.3.gz": "df95dfc272e4fc6b18c76b751be2b98d20d3c68e66f566ca6daa838b17d74114",
     "/usr/share/man/man3/XauDisposeAuth.3.gz": "df95dfc272e4fc6b18c76b751be2b98d20d3c68e66f566ca6daa838b17d74114",
     "/var/log/pacman.log": "6a67f232cbb76425361094232d709d37d627c0e3aa9bd8632ad28bebc778ba54"
+  },
+  "1.0.8-3": {
+    "/usr/share/man/man3/XauWriteAuth.3.gz": "df95dfc272e4fc6b18c76b751be2b98d20d3c68e66f566ca6daa838b17d74114",
+    "/usr/share/man/man3/XauUnlockAuth.3.gz": "df95dfc272e4fc6b18c76b751be2b98d20d3c68e66f566ca6daa838b17d74114",
+    "/usr/share/man/man3/XauReadAuth.3.gz": "df95dfc272e4fc6b18c76b751be2b98d20d3c68e66f566ca6daa838b17d74114",
+    "/usr/share/man/man3/XauLockAuth.3.gz": "df95dfc272e4fc6b18c76b751be2b98d20d3c68e66f566ca6daa838b17d74114",
+    "/usr/share/man/man3/XauGetBestAuthByAddr.3.gz": "df95dfc272e4fc6b18c76b751be2b98d20d3c68e66f566ca6daa838b17d74114",
+    "/usr/share/man/man3/XauGetAuthByAddr.3.gz": "df95dfc272e4fc6b18c76b751be2b98d20d3c68e66f566ca6daa838b17d74114",
+    "/usr/share/man/man3/XauFileName.3.gz": "df95dfc272e4fc6b18c76b751be2b98d20d3c68e66f566ca6daa838b17d74114",
+    "/usr/share/man/man3/XauDisposeAuth.3.gz": "df95dfc272e4fc6b18c76b751be2b98d20d3c68e66f566ca6daa838b17d74114",
+    "/usr/share/man/man3/Xau.3.gz": "525494cbb87c9941d939a5cb0f10957a8c86206cd539c66e63c10207a2a8c9ef",
+    "/usr/share/licenses/libxau/COPYING": "56abe29bb1d9806a9e04fa9f80fed2c0f18027594df3f098148d814aef6bddfa",
+    "/usr/lib/libXau.so.6": "6e4647c3c75e325c96f8de01b9f07b5713a23d826e448c151251071dd20e7af5",
+    "/usr/lib/libXau.so": "6e4647c3c75e325c96f8de01b9f07b5713a23d826e448c151251071dd20e7af5",
+    "/usr/lib/libXau.so.6.0.0": "6e4647c3c75e325c96f8de01b9f07b5713a23d826e448c151251071dd20e7af5",
+    "/usr/lib/pkgconfig/xau.pc": "0d252491f8e260a077c9371b0797231a5b286417a5da8035bb939326907c0d8f",
+    "/usr/include/X11/Xauth.h": "5c217ce77f5e1eb12dbf0353bcb7204b2f2a3d5ae586fdb17b3255a056190d02",
+    "/var/log/pacman.log": "3d455e691f71c31a8711eca3a8d5a5da61e584f63937ff1567b970cbac078dd8"
   }
 }

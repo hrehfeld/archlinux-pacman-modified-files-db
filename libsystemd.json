@@ -37,5 +37,18 @@
     "/usr/lib/libnss_mymachines.so.2": "8a9dde2a5b26c4e870420f5b2c4300325058665b9f3e679298ec1d5594c63e71",
     "/usr/lib/libnss_myhostname.so.2": "924711ca825876b9c32b30817f81a202e115012bc633e786cb56bf34bf2e4afc",
     "/var/log/pacman.log": "91db376e23d35557a6d2e8176d722885274e47ca2d3f558c0237c64b00772e51"
+  },
+  "237.0-2": {
+    "/usr/lib/libsystemd.so": "b4eb9b24adacad277df76099c53f52d7f533dc7f4b68ee35665d94153a1f8f5c",
+    "/usr/lib/libsystemd.so.0": "b4eb9b24adacad277df76099c53f52d7f533dc7f4b68ee35665d94153a1f8f5c",
+    "/usr/lib/libudev.so": "fd147f02fe8724acd040aeda77651ac9f3c8b00c6e9d7122d82437f15811e5bc",
+    "/usr/lib/libudev.so.1": "fd147f02fe8724acd040aeda77651ac9f3c8b00c6e9d7122d82437f15811e5bc",
+    "/usr/lib/libudev.so.1.6.9": "fd147f02fe8724acd040aeda77651ac9f3c8b00c6e9d7122d82437f15811e5bc",
+    "/usr/lib/libsystemd.so.0.21.0": "b4eb9b24adacad277df76099c53f52d7f533dc7f4b68ee35665d94153a1f8f5c",
+    "/usr/lib/libnss_systemd.so.2": "1245dd8ad2af4730db4fc80f8c7972185e3fe25a1a4eb2da404b85d8fb9bb778",
+    "/usr/lib/libnss_resolve.so.2": "2b3b834b43233a22fff5181f272da4b1bb8150f93b19ab14ea70f7abb5c2178e",
+    "/usr/lib/libnss_mymachines.so.2": "56c50d92008223220e976046836ed4a2610eeee29b3e9aca7e39fe6a16eb14e9",
+    "/usr/lib/libnss_myhostname.so.2": "a9c5e3a7f96d4a042e1603873160ae2b7eb304a67adaf75b3ac084a4bdc0225b",
+    "/var/log/pacman.log": "f951a4b0bafcb9de8e64ef16567fb90081985a741d6fd2ac10633a496b85eb15"
   }
 }

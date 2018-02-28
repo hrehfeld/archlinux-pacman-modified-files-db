@@ -25,5 +25,14 @@
     "/usr/lib/ghc-8.2.2/site-local/connection-0.2.8/Network/Connection.dyn_hi": "f96f1f0b7fe5507784e23e76ba62df0128fd7ad523b254c3651114d4309889cc",
     "/usr/lib/ghc-8.2.2/site-local/connection-0.2.8/Network/Connection/Types.dyn_hi": "9c0ff08b457b5a73a23f09bdc69c0f39d31e6e34821d3d22bb03dfeb058adb2b",
     "/var/log/pacman.log": "f8c850321affa9ff2ad02f855b75f05c721bc4a6ab0c2f25de645734ddfc3227"
+  },
+  "0.2.8-42": {
+    "/usr/share/haskell/register/haskell-connection.sh": "4a7fb7f3de9ef9ad93a611b9a1557e231eb7bd771da78cecd657c9c929db6996",
+    "/usr/share/haskell/unregister/haskell-connection.sh": "8d6078bc1072f45e73b17708bbfde2826e4576f45ddb9e60a0f1b4fc13945d48",
+    "/usr/share/licenses/haskell-connection/LICENSE": "9441d7ae2a1881cb2783078635f9d02eb2e1a7f093f23aad7b5bd7873a65f0a0",
+    "/usr/lib/libHSconnection-0.2.8-DunD8OROy6KHtrwG8OdxIY-ghc8.2.2.so": "09448af2d86c769d05c2e4f369121ea92c18ccbea60455b2a189605f0f5d1569",
+    "/usr/lib/ghc-8.2.2/site-local/connection-0.2.8/Network/Connection.dyn_hi": "a1ff2df2614df72477c45c9be64f8f80ef69a52dcc563f9a0b563e0b94fda0fc",
+    "/usr/lib/ghc-8.2.2/site-local/connection-0.2.8/Network/Connection/Types.dyn_hi": "9484f73ee03dc3ca611d8edbd8c40972838f3fc711b55d6eeb23f5abd1933a70",
+    "/var/log/pacman.log": "d3fd6b459555ecbbdd5bf5fa8ef0fc984e94892088cf1b29caa91a5d539501a2"
   }
 }

@@ -1,0 +1,16 @@
+{
+  "1.0.2-1": {
+    "/usr/lib/libaec.so.0": "dc56e36ecb3867c2be27e9c74984cefb48a4a4d95a79d52dd23433b2ee853240",
+    "/usr/lib/libaec.so": "dc56e36ecb3867c2be27e9c74984cefb48a4a4d95a79d52dd23433b2ee853240",
+    "/usr/lib/libsz.so.2": "fdadcacb1f8df5c3e5df4f55fb34c1fbc3574b98436b6a2de1978b0dd940ecbc",
+    "/usr/lib/libsz.so": "fdadcacb1f8df5c3e5df4f55fb34c1fbc3574b98436b6a2de1978b0dd940ecbc",
+    "/usr/lib/libsz.so.2.0.1": "fdadcacb1f8df5c3e5df4f55fb34c1fbc3574b98436b6a2de1978b0dd940ecbc",
+    "/usr/lib/libaec.so.0.0.8": "dc56e36ecb3867c2be27e9c74984cefb48a4a4d95a79d52dd23433b2ee853240",
+    "/usr/share/man/man1/aec.1.gz": "ce864dc18f54fa81e089c6a1ee9c170d0121ec8822bb4c556ba15ced65451210",
+    "/usr/share/licenses/libaec/Copyright.txt": "efcef27f44a3faab503b3b29b05c8a6b9ad9746e7c7a72a17b056e5842aaf119",
+    "/usr/include/libaec.h": "10c3fb6e64467f45601f27c11996ec6876dcd22ba655039a2625fc607ccaa96d",
+    "/usr/include/szlib.h": "9335ef10b3eb0cca239221220531e0476f2a600a3a19ce7480e83b430547bc0f",
+    "/usr/bin/aec": "97a126660ecddc9cb7662053fd2987fb285da3498747e21ba933d93ae7359b73",
+    "/var/log/pacman.log": "5c3ca78e66e89ea8ac01acf3100fbdd3279d9b7d79bab2c2e1e2814f5093e19d"
+  }
+}

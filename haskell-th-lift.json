@@ -18,5 +18,15 @@
     "/usr/lib/libHSth-lift-0.7.7-4Fh2JOKcGGMJqOzEylnfxU-ghc8.2.2.so": "ba67e5ae83f291059f9a31241fc64dfeb7a89e81cd6a8666c221253d0f8c1ac2",
     "/usr/lib/ghc-8.2.2/site-local/th-lift-0.7.7/Language/Haskell/TH/Lift.dyn_hi": "d6b6d76ed94a5e5ad75dd06f7c8a132da670d7dbc3594f874ef65815a4fc4817",
     "/var/log/pacman.log": "cee07565bfe63eb19d29e06ca750aeb2f461830c7d9752c5a0eeef50f5414c5a"
+  },
+  "0.7.8-1": {
+    "/usr/share/haskell/register/haskell-th-lift.sh": "76ac5bdc17696601bfbd7c6fce1571fbe1aeb7fa026250e32cf76183a711fb98",
+    "/usr/share/haskell/unregister/haskell-th-lift.sh": "473d7fd67410fe681d92235beacd6158de21248d0c2d9b34efe26c2711c26d62",
+    "/usr/share/doc/haskell-th-lift/COPYING": "d07ce8232c1ccb6ea1b9410bab2c9298e0abe8219082584fb6073acce552fde3",
+    "/usr/share/doc/haskell-th-lift/GPL-2": "32b1062f7da84967e7019d01ab805935caa7ab7321a7ced0e30ebe75e5df1670",
+    "/usr/share/licenses/haskell-th-lift/BSD3": "24bcea777ffab4a1facb04dd7d0c0d0c1274d1c55882513863e6de0f3acd84ad",
+    "/usr/lib/libHSth-lift-0.7.8-9WoT75e11sF5vCUkzmby5Q-ghc8.2.2.so": "f87484649086e5a7aacfdafaabbbf4b443270de0d8540e919530b9409522ed36",
+    "/usr/lib/ghc-8.2.2/site-local/th-lift-0.7.8/Language/Haskell/TH/Lift.dyn_hi": "19125ffdb5bcf29f567f31646702ba37caac80478170898669f2215db70cbc8c",
+    "/var/log/pacman.log": "e98ebc72264de5bdd4d1fd7d9163539e4b34bffe064ad8cd61540c2aea57b55b"
   }
 }

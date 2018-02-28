@@ -4,5 +4,11 @@
     "/usr/lib/python2.7/site-packages/apsw.so": "e2d522f41e1d28b44ad5a2636c7f72a66e169bd54b1138678ba7249834063107",
     "/usr/share/licenses/python2-apsw/LICENSE": "ad21e58d0409ad0f4e9a106d61c18cf5ff2dd84918b84e05371c55cca877fd64",
     "/var/log/pacman.log": "a29993c99121d9ab8784a2b146b06973e82a3827af8169a147e60d6609da8efa"
+  },
+  "3.21.0-1": {
+    "/usr/share/licenses/python2-apsw/LICENSE": "35b754c1d76a097c1586c6495760003508e998679864f4b6f3c18e42f8677af9",
+    "/usr/lib/python2.7/site-packages/apsw.so": "19f685eea98d2b29ac52cb2ec7884342b1595192854ad07fb3458363450725ac",
+    "/usr/lib/python2.7/site-packages/apsw-3.21.0_r1-py2.7.egg-info": "4f9601a007ac27916e036abb717757be2ed534900911f7a5b3db6a49ab03da44",
+    "/var/log/pacman.log": "85c8ddaaaa4be98c17d2bd8554b56638af9b415b9d543913c565ebef96978d3b"
   }
 }

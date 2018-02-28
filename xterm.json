@@ -26,5 +26,33 @@
     "/usr/bin/resize": "58d9cdba7d8fab3a11a5f521e3218eb17cb951a9472f6bd91e371595789f5365",
     "/usr/bin/uxterm": "b98efd91e833abb51f4bfc927e0f7e29698028fa3f6ebe4e51424b5cfe2ce7a0",
     "/var/log/pacman.log": "a9ddbe61e76eaa3cb691c075f41242d8d34d94772a691740aa34930c0eba2550"
+  },
+  "331-1": {
+    "/usr/share/X11/app-defaults/UXTerm": "18fce9c43bf9db71c848a291d960c1aedad7e45a6210b46ffcc236ceea9f7d7b",
+    "/usr/share/X11/app-defaults/KOI8RXTerm": "c885f62c1eb1716f0eb10b95ec67dfebb180eed78d9e0bb8192fedf1ec8cc570",
+    "/usr/share/X11/app-defaults/KOI8RXTerm-color": "55d7fc29ea89cd88590159323a7ae51986666c071a3a539c130132e02447e6c7",
+    "/usr/share/X11/app-defaults/XTerm": "c09025ee05bbd4e0c01c9a2e04d8a0e1285a789ec6113acf992d43d38cdc6d38",
+    "/usr/share/X11/app-defaults/UXTerm-color": "3cb77d157485b8a74c93460596b57ee28c348c77579a1703839fa0458db93048",
+    "/usr/share/X11/app-defaults/XTerm-color": "b1fb7abddc10e88e4dc0c4e844d68315b258387b02bd67938f2e9c0dfdaba2a3",
+    "/usr/share/pixmaps/xterm_48x48.xpm": "1fe1aff860b4758a2732d3d6a1594131940271495198151f5205f41862e3a395",
+    "/usr/share/pixmaps/xterm-color_48x48.xpm": "0633ed17b1a1cbc1b2eb473e06b93dddd19444ad7ebced693dbd224cfd06042e",
+    "/usr/share/pixmaps/xterm_32x32.xpm": "439621ce118818bf0090750ee96bf80c3d6b111f36699d538bc1511ba32055e6",
+    "/usr/share/pixmaps/mini.xterm_32x32.xpm": "a35d8fcb924584b6c78e83f5f7b0fa49d332b2a6cf8fb04a5629d92c8ce23bfc",
+    "/usr/share/pixmaps/mini.xterm_48x48.xpm": "0fee626d040447b2f71232f12d386bc6e6348eac67b031a79f34f62e45ebf147",
+    "/usr/share/pixmaps/xterm-color_32x32.xpm": "3350a22913cc16479c84d40086ffbc567e0f9c3eefe10f9e37c687005a09f92e",
+    "/usr/share/pixmaps/filled-xterm_32x32.xpm": "ef821f0dc27d61598c5a4e1af62794ab3ef9f3375c7234119555b9a73d6ac897",
+    "/usr/share/pixmaps/filled-xterm_48x48.xpm": "ac30ad8b624ac52666a2cb903b2b914c1698f3ff9840247102870285a5509516",
+    "/usr/share/licenses/xterm/LICENSE": "9929684f5e28eb5e49c5a7f924dec9c61e0b909b3debb92d247f73f222e09615",
+    "/usr/share/man/man1/resize.1.gz": "fc0e6e677f80522c6bc6733de4d4c8decbeee78e87ac199f3d481f362f656c09",
+    "/usr/share/man/man1/xterm.1.gz": "7ef8fe27581ce30d7961b071bbe5431827cc1b8e1071d7fa9542100f428e61b4",
+    "/usr/share/man/man1/koi8rxterm.1.gz": "f917b040d62b4acac21791e514710c7f0caa9f34c555796ced5bd3da531970e6",
+    "/usr/share/man/man1/uxterm.1.gz": "aa18dd28736a8afb157e7134e5fcce35d568b5c8b7a0e0f5ee3c3293f927c2e5",
+    "/usr/share/applications/uxterm.desktop": "c5c23aef5c8f4249c51bc113444c01930add8b0e300fc2aae4b722d81f000813",
+    "/usr/share/applications/xterm.desktop": "8bcde43385ae958933cb0307cbe11f2e8d35dacc9a42f5b755a05e76f97e10df",
+    "/usr/bin/xterm": "0230f735f0fef6be1a77403d0f71af8a18675531add5d4e76ecf97602b35a48e",
+    "/usr/bin/koi8rxterm": "a140ab4455cd9f09512fc582cb548a3ff9059ec3d10005d089235c4f041f540c",
+    "/usr/bin/resize": "36608a66a033e925a9a2198ffb5d96f8cf419b91c60853ab3420e925ce025884",
+    "/usr/bin/uxterm": "b98efd91e833abb51f4bfc927e0f7e29698028fa3f6ebe4e51424b5cfe2ce7a0",
+    "/var/log/pacman.log": "f07398361087c3328c39b723190e7a1c92d77192dba58c64f474947b5b2bae9e"
   }
 }

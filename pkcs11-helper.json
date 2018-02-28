@@ -1,0 +1,27 @@
+{
+  "1.22-2": {
+    "/usr/lib/libpkcs11-helper.so.1.0.0": "81a0262a1a1919b3fae4073e85b953bdf8d0df98ba1676b8aefcc17a8850536e",
+    "/usr/lib/libpkcs11-helper.so": "81a0262a1a1919b3fae4073e85b953bdf8d0df98ba1676b8aefcc17a8850536e",
+    "/usr/lib/libpkcs11-helper.so.1": "81a0262a1a1919b3fae4073e85b953bdf8d0df98ba1676b8aefcc17a8850536e",
+    "/usr/lib/pkgconfig/libpkcs11-helper-1.pc": "d60cc54cf3117f417d49712a6da6526b1fc8132e15143d8d6729e6c943fee460",
+    "/usr/include/pkcs11-helper-1.0/pkcs11h-token.h": "be1090bc24510b9516f3d105ab8c494ed5221eff9a74b412d572c72d558bd3b0",
+    "/usr/include/pkcs11-helper-1.0/pkcs11h-openssl.h": "f687fe0f62acff527d2122e881d9d3419c6559e614d5b513c94b0ec29ce917d2",
+    "/usr/include/pkcs11-helper-1.0/pkcs11h-data.h": "edcd6c102656d5e7aeb05772cdb8926033253e7baa31f59ecf7c89d4f4a1d107",
+    "/usr/include/pkcs11-helper-1.0/pkcs11h-certificate.h": "a8ccf55ad5c8014ff9444b7c8aa3aa3d1e891831af25a7afb3eec26b04516cd5",
+    "/usr/include/pkcs11-helper-1.0/pkcs11h-version.h": "6dc1f34366f362fcebc628f6e20502e673d9167e29b9feed3c5045c7125723c9",
+    "/usr/include/pkcs11-helper-1.0/pkcs11h-core.h": "4c47df25f2ceb8d1a5ecb9dbc5bbc131b62529266c52196ad456869ffecf05d7",
+    "/usr/include/pkcs11-helper-1.0/pkcs11h-engines.h": "3d4c063906ce93ca3ec8ac131ad9b56a70624ae9bff8853299b42c4f69905044",
+    "/usr/include/pkcs11-helper-1.0/pkcs11h-def.h": "115ef8223f7e7629e92425a500a347d410835efcba0cfa6e18fff653ac45ca91",
+    "/usr/include/pkcs11-helper-1.0/pkcs11.h": "ceca88b8cb52e68dab0f252a9621b6debba39685d73fffc61774d6b345aadaf3",
+    "/usr/share/licenses/pkcs11-helper/COPYING.GPL": "cd2e7d63a11058f19c58b06fb8c759140ce70788369dce6e6e9db40d3475021e",
+    "/usr/share/licenses/pkcs11-helper/COPYING.BSD": "608ef45eab7e165067dfa5622d84cb8393f0b38fdb3426b86d4efed9a58f2b8f",
+    "/usr/share/licenses/pkcs11-helper/COPYING": "033b98deb1b1940f5d1073b56efe05934e9390fa1df75241c323b0a767a939d6",
+    "/usr/share/doc/pkcs11-helper/COPYING": "033b98deb1b1940f5d1073b56efe05934e9390fa1df75241c323b0a767a939d6",
+    "/usr/share/doc/pkcs11-helper/COPYING.BSD": "608ef45eab7e165067dfa5622d84cb8393f0b38fdb3426b86d4efed9a58f2b8f",
+    "/usr/share/doc/pkcs11-helper/COPYING.GPL": "cd2e7d63a11058f19c58b06fb8c759140ce70788369dce6e6e9db40d3475021e",
+    "/usr/share/doc/pkcs11-helper/README": "5c31c1a15b3517efccaed18b4a22a8127d53d42f3c39334c37e37337e8cef9ac",
+    "/usr/share/aclocal/pkcs11-helper-1.m4": "d9b6f31d4b43e35c17037aabc0ed19eb93e30dbf605b29c5c0a9076e9d3ab1b8",
+    "/usr/share/man/man8/pkcs11-helper-1.8.gz": "e2e2183e851c386578ec6d970fa2b8e91e7134225646ea247de934c7121d833d",
+    "/var/log/pacman.log": "b7952a5ad8d7400ba0d0cd773e3707b8f97b30f953a20e20baf4e9ddb49c4501"
+  }
+}

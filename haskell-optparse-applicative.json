@@ -44,5 +44,28 @@
     "/usr/lib/ghc-8.2.2/site-local/optparse-applicative-0.14.0.0/Options/Applicative/Help/Pretty.dyn_hi": "626a92f65fa83aa1b7eee7c8b64a3bad6b5f957e5ed34a33c965d61bd966c83e",
     "/usr/lib/ghc-8.2.2/site-local/optparse-applicative-0.14.0.0/Options/Applicative/Help/Types.dyn_hi": "eb3ee9008c36e0263d770c48c0522c37a291142855e6223cb92f37a094309f19",
     "/var/log/pacman.log": "a0dbaec5692ae3714e79d36f3a0f94caff94ff4344edcfeab16550344e97ce68"
+  },
+  "0.14.0.0-5": {
+    "/usr/share/haskell/register/haskell-optparse-applicative.sh": "6856c6abfe1f3cab11c5d50821d91a99bb47fb46d6032e734b0d6d4a5e8a6f18",
+    "/usr/share/haskell/unregister/haskell-optparse-applicative.sh": "38ee195afe44aa0bebef9d3f4c38fbb061bf7d942458272ca054a15dd1783f87",
+    "/usr/share/licenses/haskell-optparse-applicative/LICENSE": "1919d7ec1ccf5f83f13c3070a25fd6ac4b5be91e1c99972d0eb3e564a61e8a2f",
+    "/usr/lib/libHSoptparse-applicative-0.14.0.0-2ZfllZxq2ruLdMUolNlkAF-ghc8.2.2.so": "8d1daeca60f86fa940c2b9c307a2e971f25a1e953cf39f2c0eac57e01db8bac8",
+    "/usr/lib/ghc-8.2.2/site-local/optparse-applicative-0.14.0.0/Options/Applicative.dyn_hi": "563e55d239aa8549198a5dd0f2aea9f383c1c97656804895f7fb764b23088e4e",
+    "/usr/lib/ghc-8.2.2/site-local/optparse-applicative-0.14.0.0/Options/Applicative/Arrows.dyn_hi": "3e4ddd10431b6e3fbcd04676f3fa37c305860a9b364442d2a637bfeb1f639bc9",
+    "/usr/lib/ghc-8.2.2/site-local/optparse-applicative-0.14.0.0/Options/Applicative/BashCompletion.dyn_hi": "fe09dc46ceda43a36ff2827b738e517d80809f2d67b49e792fb340620dc37ad2",
+    "/usr/lib/ghc-8.2.2/site-local/optparse-applicative-0.14.0.0/Options/Applicative/Builder.dyn_hi": "c42129a0c70778b835cf76928209f9e6ff5ed3ad3ffd9af3643e9fb058afd7ee",
+    "/usr/lib/ghc-8.2.2/site-local/optparse-applicative-0.14.0.0/Options/Applicative/Common.dyn_hi": "112009130805db08f0fba26c324745f135bf6ff638eaa264012ade09b32bf933",
+    "/usr/lib/ghc-8.2.2/site-local/optparse-applicative-0.14.0.0/Options/Applicative/Extra.dyn_hi": "16c2ad6bb018f2ea0c889a8129ebfc79f72c52ee3b45921006954b4667378391",
+    "/usr/lib/ghc-8.2.2/site-local/optparse-applicative-0.14.0.0/Options/Applicative/Help.dyn_hi": "8f90cf2d22e13e5dd13d42893deed9bac0f6ac2c0ee4c9df85f372d64c825b7e",
+    "/usr/lib/ghc-8.2.2/site-local/optparse-applicative-0.14.0.0/Options/Applicative/Types.dyn_hi": "5e567d5e80466ea7d88a6e0dc4446961d497a8992f0bd67a0b1f33b54db8e08d",
+    "/usr/lib/ghc-8.2.2/site-local/optparse-applicative-0.14.0.0/Options/Applicative/Internal.dyn_hi": "998aa5241ab49f175e149d506ec71ca4710667a5ea6746b60c01727da5f8e62b",
+    "/usr/lib/ghc-8.2.2/site-local/optparse-applicative-0.14.0.0/Options/Applicative/Builder/Completer.dyn_hi": "0e806c1a3606f90be3d2cd263f77f4659cb9c6035434573ee0324dc26fc4fa2e",
+    "/usr/lib/ghc-8.2.2/site-local/optparse-applicative-0.14.0.0/Options/Applicative/Builder/Internal.dyn_hi": "0d642e5d706cfabc73f7ce5174149d692b7078eb04642ccdec684482470d2214",
+    "/usr/lib/ghc-8.2.2/site-local/optparse-applicative-0.14.0.0/Options/Applicative/Help/Chunk.dyn_hi": "b5ee974e57f4cd94443ca404d46a1c76dbaf09a3cb316dec117998026800a3fd",
+    "/usr/lib/ghc-8.2.2/site-local/optparse-applicative-0.14.0.0/Options/Applicative/Help/Core.dyn_hi": "31173174e169a90e9b039899d9a1dfcf079e437baa3dd5456a8edacd65a861e6",
+    "/usr/lib/ghc-8.2.2/site-local/optparse-applicative-0.14.0.0/Options/Applicative/Help/Levenshtein.dyn_hi": "5a1ebc4c8e1df3225d36c48edd3d2b3a206dedaf80b21b025bb1359e0433c8a2",
+    "/usr/lib/ghc-8.2.2/site-local/optparse-applicative-0.14.0.0/Options/Applicative/Help/Pretty.dyn_hi": "918af47577cebdb1d10ed99cbb8bf612a965016eddb7907cf28bef0d87c87ea9",
+    "/usr/lib/ghc-8.2.2/site-local/optparse-applicative-0.14.0.0/Options/Applicative/Help/Types.dyn_hi": "612fc0d1423e9095b30408b65a8bf383e378217b9edcf10a94da9a66bcb76c17",
+    "/var/log/pacman.log": "d4b3e8154e4f07a0c6101badde86cccc982fa13df8fc43a80931a7f9682c8ce0"
   }
 }

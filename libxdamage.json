@@ -7,5 +7,14 @@
     "/usr/lib/libXdamage.so.1": "7cf19b1ffd3c4b3c3666e3af7676caecfcfb430f734ebe657faac85da6e4e9af",
     "/usr/lib/pkgconfig/xdamage.pc": "a8b42392194afabf8771b413c854c09493791efc31b28f1b9aaf2c4bd53d874a",
     "/var/log/pacman.log": "5a2df0a9f834dbef59f88bd28dd6508751ed9e34604e061ecc7dee32a5f62412"
+  },
+  "1.1.4-3": {
+    "/usr/lib/libXdamage.so.1": "2f960681bbb2003f6af7b5151be4218f51c9c4e512e24d6536be312a2e9044f8",
+    "/usr/lib/libXdamage.so": "2f960681bbb2003f6af7b5151be4218f51c9c4e512e24d6536be312a2e9044f8",
+    "/usr/lib/libXdamage.so.1.1.0": "2f960681bbb2003f6af7b5151be4218f51c9c4e512e24d6536be312a2e9044f8",
+    "/usr/lib/pkgconfig/xdamage.pc": "a8b42392194afabf8771b413c854c09493791efc31b28f1b9aaf2c4bd53d874a",
+    "/usr/include/X11/extensions/Xdamage.h": "ae7d50bdaf35b520b2b3f0fe0e7e55d809c6454e6bcdd64beb1c3409633cc403",
+    "/usr/share/licenses/libxdamage/COPYING": "33effe928634be12e668465c3935c5570ff2787b970b15d9243d69df42302c57",
+    "/var/log/pacman.log": "da85db95b4b113cbc9dc115864fd4d3f60712bd698e331a0f983c0937757b8de"
   }
 }

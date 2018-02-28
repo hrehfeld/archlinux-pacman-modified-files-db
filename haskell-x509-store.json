@@ -28,5 +28,15 @@
     "/usr/lib/ghc-8.2.2/site-local/x509-store-1.6.5/Data/X509/File.dyn_hi": "28b3c0df8a0b12daafa39911900016aef492f31a21888bada5045943e46ad24b",
     "/usr/lib/ghc-8.2.2/site-local/x509-store-1.6.5/Data/X509/Memory.dyn_hi": "2c6d921a6932725af8fa32350e5c6fdf369561fba8518b84e2072c8edc666d94",
     "/var/log/pacman.log": "9904c83f4a9fe93e5808290f08990d5b38c0e4ebbac170fb6526942aa0cc5b96"
+  },
+  "1.6.5-17": {
+    "/usr/share/haskell/register/haskell-x509-store.sh": "068bbe579e7e13722a19fbc23a21f31f0924b4e31d5caaf26bbe2000397a65b1",
+    "/usr/share/haskell/unregister/haskell-x509-store.sh": "4c6ebd80318efd5f8589cb964b28aa09dd6bc011524c6bfc46b96de71fc7b2de",
+    "/usr/share/licenses/haskell-x509-store/LICENSE": "43d820ad7c467c6c9cd6eedb385cfe89d1545a48eca4d40bfe3b7bcd80c298cb",
+    "/usr/lib/libHSx509-store-1.6.5-63vNGG2qYOoG3WB1bMtQ6G-ghc8.2.2.so": "88330402f21cb12eea8a81f5b3fd0c1384c6021caf71fcb0ce2dac9e56290fbe",
+    "/usr/lib/ghc-8.2.2/site-local/x509-store-1.6.5/Data/X509/CertificateStore.dyn_hi": "e01edb1c423c0607d7b677153282622a7845a25d38fc21ed675b61a76fdaad54",
+    "/usr/lib/ghc-8.2.2/site-local/x509-store-1.6.5/Data/X509/File.dyn_hi": "e3187779aca6968a2f0fe0bcc02603795d22b4fa2848ab14aed5c8fb0d955953",
+    "/usr/lib/ghc-8.2.2/site-local/x509-store-1.6.5/Data/X509/Memory.dyn_hi": "a2e28f4d23666e4d35abe08c344d553e8671a6610e91bcb28ff827c9cef74a91",
+    "/var/log/pacman.log": "ecc91338f5bbcee648fb6cb8614c9b781f12af6cd1c8ae24372071de7520cd1d"
   }
 }

@@ -26,5 +26,19 @@
     "/usr/lib/ghc-8.2.2/site-local/MonadRandom-0.5.1/Control/Monad/Trans/Random/Lazy.dyn_hi": "e5f6a4465fa6fa84a87cb3ee6e71c9be65d8b24ee1805458b3a460ffed63fa36",
     "/usr/lib/ghc-8.2.2/site-local/MonadRandom-0.5.1/Control/Monad/Trans/Random/Strict.dyn_hi": "b4de8462444d27491b2499d9ab57983b897f34e8b1aaf47d3645b63e554bc585",
     "/var/log/pacman.log": "f7bc23079877013d853649162ad933bde8fc0a3362d6bc16324e668ba2da36a3"
+  },
+  "0.5.1-7": {
+    "/usr/share/haskell/register/haskell-monadrandom.sh": "53374bacd6ebbb4a0500b31d6e258042c74a92432c65d0021bb88580513fb492",
+    "/usr/share/haskell/unregister/haskell-monadrandom.sh": "980f042a19ca3630b45a0700705d0f8f115ad7d65f2c166d430916fca84330e9",
+    "/usr/share/licenses/haskell-monadrandom/LICENSE": "d968b35dc90b5f486f22152e93ae385f395e5ea83a6e108690e3dbd11bcb6a1e",
+    "/usr/lib/libHSMonadRandom-0.5.1-Ex14R9dnc3jFDrudjRpjN2-ghc8.2.2.so": "ca69b73d2213327a932ce61393303fc81b6ad54b54330e03f30180d3f6bfabbe",
+    "/usr/lib/ghc-8.2.2/site-local/MonadRandom-0.5.1/Control/Monad/Random.dyn_hi": "3be54a874a2e4be9fcc3803f20686191d90cbe8ee6a563e200881d5eead2ea9c",
+    "/usr/lib/ghc-8.2.2/site-local/MonadRandom-0.5.1/Control/Monad/Random/Class.dyn_hi": "169839afa2fc3c00854a5adfa6cce6ef696ff529dc8e1af68f5134a298cdba36",
+    "/usr/lib/ghc-8.2.2/site-local/MonadRandom-0.5.1/Control/Monad/Random/Lazy.dyn_hi": "a9a08eff21c14d6b14f346d870a5415017f760754004287a8ff5ffea0de5f35c",
+    "/usr/lib/ghc-8.2.2/site-local/MonadRandom-0.5.1/Control/Monad/Random/Strict.dyn_hi": "d140dd5ec7ac1a094db37324854d12b2f43d8734a73304d3ad1c5dbdefef69e0",
+    "/usr/lib/ghc-8.2.2/site-local/MonadRandom-0.5.1/Control/Monad/Trans/Random.dyn_hi": "2e0f71d48d2807ee80ddc110557b95506bf9717ec4884067aac8d58709dca4c6",
+    "/usr/lib/ghc-8.2.2/site-local/MonadRandom-0.5.1/Control/Monad/Trans/Random/Lazy.dyn_hi": "cc838aaf916f5c984b4092bf026d9627fc294f056641284958fca4232958486d",
+    "/usr/lib/ghc-8.2.2/site-local/MonadRandom-0.5.1/Control/Monad/Trans/Random/Strict.dyn_hi": "81a6e254fbb4754de079ee52b08c790340d33e21006a806deeea5ad63a1c0078",
+    "/var/log/pacman.log": "2e4a5400a81ca3199d792f8cebe2bc7ccce6b7fc097548a9dacd30176c9465c2"
   }
 }

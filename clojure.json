@@ -14,5 +14,14 @@
     "/usr/share/clojure/libexec/clojure-tools-1.9.0.273.jar": "8a9fbe43a339c9001b4fc8303f3268cc039ccacaf861cfb955b2ce68ad8b8d5d",
     "/var/log/pacman.log": "77ad3eaa50d435dcac83dcc4227b3d031111a36bedc152fc3792b62bd18d9d3c",
     "/etc/profile.d/clojure.sh": "b3fa6257dad10fb39851e87563269b80b2473623126595d9c279bbd90e97f052"
+  },
+  "1.9.0-4": {
+    "/usr/bin/clj": "21da7e7749ca72df8294d8cc3bd0ca239499718c74a48d3bf32fca30921336eb",
+    "/usr/bin/clojure": "475ac5040daa1acf6cc3bbfbba0c69749ce8cdbf953e18e5e876debbc6b14540",
+    "/usr/share/clojure/example-deps.edn": "c90539f7c4ce6ca4c3ce58974f45d300f2dcd2d06002bedeb0dd4f2d0c3f7286",
+    "/usr/share/clojure/deps.edn": "b426f1cef4b2fd440d352aa6240d45f39e44e1f9c6c7cf32fce9e34c2fa97ac6",
+    "/usr/share/clojure/libexec/clojure-tools-1.9.0.315.jar": "96e0322bacf9f8c79ef821628c24f85d5ca6b0ac1be039f0db4692d3347ed689",
+    "/var/log/pacman.log": "7a8815fcd2d7af953c78c0632795d33f3fb010e1c950f1a2898444fc9899534d",
+    "/etc/profile.d/clojure.sh": "b3fa6257dad10fb39851e87563269b80b2473623126595d9c279bbd90e97f052"
   }
 }

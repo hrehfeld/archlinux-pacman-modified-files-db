@@ -37,5 +37,18 @@
     "/usr/lib/ghc-8.2.2/site-local/th-utilities-0.2.0.1/TH/Derive/Storable.dyn_hi": "76602032997641113e11bfcf806c24874dc93d2a72ca5091c7afe1f50ae00ebd",
     "/usr/lib/ghc-8.2.2/site-local/th-utilities-0.2.0.1/TH/Derive/Internal.dyn_hi": "edeeffcdcddafe6f4d46674a23dcc49b36b4827bcafc83ab39755ca22dca59e5",
     "/var/log/pacman.log": "2da8648008ca3d7c5bffae95e00ec5ceab760b72d6e4f86b24e09809663a55f3"
+  },
+  "0.2.0.1-26": {
+    "/usr/share/haskell/register/haskell-th-utilities.sh": "d88d4791afc97a92f8db9481a1a72b6cda6a6dc48c8dd7e46cbe4db9f7bcb69f",
+    "/usr/share/haskell/unregister/haskell-th-utilities.sh": "dbe7bef15c892a1fa79ed278e142515787c6afff1e5c4eca02d06a234f6417f6",
+    "/usr/share/licenses/haskell-th-utilities/LICENSE": "f78b6cf12b23dc1fd799eb0448d9f78539fe468bccc06a40ab01839029edcf7d",
+    "/usr/lib/libHSth-utilities-0.2.0.1-IdQWqilLvOK1u26R8jVDBB-ghc8.2.2.so": "b6bafdbc7fd724340a27e0e77162f03f6aeec6989ea01cc09329939bf88cef0e",
+    "/usr/lib/ghc-8.2.2/site-local/th-utilities-0.2.0.1/TH/Derive.dyn_hi": "6f7244162b3e35567b6824592701ba33db100e856ec43363c0d5509fd601bfd2",
+    "/usr/lib/ghc-8.2.2/site-local/th-utilities-0.2.0.1/TH/ReifySimple.dyn_hi": "16630baed6f5bb4e5944c20c6736787d51f62d627d054ddd14ed9caa8e6eb253",
+    "/usr/lib/ghc-8.2.2/site-local/th-utilities-0.2.0.1/TH/RelativePaths.dyn_hi": "334ad5e2c111786dcc6e4878b141edfa0c06f429a240385ee30f9cd849850e09",
+    "/usr/lib/ghc-8.2.2/site-local/th-utilities-0.2.0.1/TH/Utilities.dyn_hi": "780e4c7ff7cf767daf3fbc3437c2eb148a2516bb88cd49fd011110b6c175a4d5",
+    "/usr/lib/ghc-8.2.2/site-local/th-utilities-0.2.0.1/TH/Derive/Storable.dyn_hi": "88ade114c9de53b0a8350d370f58564bbb6001e40e1c282f654e42e5d970dcc4",
+    "/usr/lib/ghc-8.2.2/site-local/th-utilities-0.2.0.1/TH/Derive/Internal.dyn_hi": "b8e7d7e5825438880c20da0c75dcd0160b526ead9a3e3c3fb5a1aadc87f53fc5",
+    "/var/log/pacman.log": "e1e446808a2dc04250dfc6b3d98289edfa71cd545bb8d6391ab3a78c3c38a78f"
   }
 }

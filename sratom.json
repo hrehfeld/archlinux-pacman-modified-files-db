@@ -7,5 +7,14 @@
     "/usr/lib/pkgconfig/sratom-0.pc": "4a88802ca9b6fdcc0929134c2f80ca4fac67035b6db1a8f2c274306764833f4d",
     "/usr/include/sratom-0/sratom/sratom.h": "3a927941945af176361dafaacd7c6c5dddbe0c5466d131f63a8654849bfcee16",
     "/var/log/pacman.log": "3b91caacde1d217c4a1507ddacfc1f87718b89f46ed7865313408ab814dfb018"
+  },
+  "0.4.6-2": {
+    "/usr/include/sratom-0/sratom/sratom.h": "3a927941945af176361dafaacd7c6c5dddbe0c5466d131f63a8654849bfcee16",
+    "/usr/lib/libsratom-0.so.0": "8b65e32ac04844db7320e5893e513d41d11c3c4ea98c2dda8ab088f3904dc6df",
+    "/usr/lib/libsratom-0.so": "8b65e32ac04844db7320e5893e513d41d11c3c4ea98c2dda8ab088f3904dc6df",
+    "/usr/lib/libsratom-0.so.0.4.6": "8b65e32ac04844db7320e5893e513d41d11c3c4ea98c2dda8ab088f3904dc6df",
+    "/usr/lib/pkgconfig/sratom-0.pc": "4a88802ca9b6fdcc0929134c2f80ca4fac67035b6db1a8f2c274306764833f4d",
+    "/usr/share/licenses/sratom/LICENSE": "8b304332424fd1b6e276ec5667dfc4c622b0bbb64b7b44c39293c1cd7328eeff",
+    "/var/log/pacman.log": "75e75687e1578d9ccc4989f0568d645ce0eacdd98951b5baf1c0b12709262231"
   }
 }

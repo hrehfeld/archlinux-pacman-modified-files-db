@@ -9,5 +9,16 @@
     "/usr/bin/semver": "f8f286386b4b21f30e81271becbe7e41f295e6ee4f072554493d6600170e3901",
     "/usr/share/licenses/semver/LICENSE": "4ec3d4c66cd87f5c8d8ad911b10f99bf27cb00cdfcff82621956e379186b016b",
     "/var/log/pacman.log": "ea2bf5a10e7023f361028c31b9fcc7a22062d5ee5cb54d526761ee2fafcbdac4"
+  },
+  "5.5.0-1": {
+    "/usr/lib/node_modules/semver/LICENSE": "4ec3d4c66cd87f5c8d8ad911b10f99bf27cb00cdfcff82621956e379186b016b",
+    "/usr/lib/node_modules/semver/range.bnf": "ed628fdaff64be366d07f6cc4559eae4de109826f743ea7f5e1588c370bca49a",
+    "/usr/lib/node_modules/semver/README.md": "0e8bed80036922551a4380d51da7fa82a50b273f968bbe8511a91f6d74439ce6",
+    "/usr/lib/node_modules/semver/semver.js": "dc5132fd953060d858e937eb9c102e6670ee2bb1b2941562f70dc0ab6a99a25b",
+    "/usr/lib/node_modules/semver/package.json": "f6a38cde335bd2b38c9f355e50965952dbbc6a44d671cf1e9c43dd75f27891bd",
+    "/usr/lib/node_modules/semver/bin/semver": "5de3e424da1bbcb11816d32f5f180047c07f6d1922f347f4e5098f19a859a6b6",
+    "/usr/bin/semver": "5de3e424da1bbcb11816d32f5f180047c07f6d1922f347f4e5098f19a859a6b6",
+    "/usr/share/licenses/semver/LICENSE": "4ec3d4c66cd87f5c8d8ad911b10f99bf27cb00cdfcff82621956e379186b016b",
+    "/var/log/pacman.log": "cf050183624faadd89b40b2959d27d723f95e7122bc4ee5c936019eab28c9495"
   }
 }

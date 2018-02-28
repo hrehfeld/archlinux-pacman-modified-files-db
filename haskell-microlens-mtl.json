@@ -16,5 +16,14 @@
     "/usr/lib/ghc-8.2.2/site-local/microlens-mtl-0.1.11.0/Lens/Micro/Mtl.dyn_hi": "995d0e03d634d250fa0f9a78504d37f0c4fdac0cf66d2aa625ac37771f5be7f4",
     "/usr/lib/ghc-8.2.2/site-local/microlens-mtl-0.1.11.0/Lens/Micro/Mtl/Internal.dyn_hi": "7e656a8d377e494dc30dd97216ee2073b3b5360d7b2400f974acd09807dace36",
     "/var/log/pacman.log": "b7517989540c4c8ae2d663f4af3e6da56cc9024f0a477ab6634b567d5fdb1c3a"
+  },
+  "0.1.11.1-1": {
+    "/usr/share/haskell/register/haskell-microlens-mtl.sh": "14d81f792c8d7c2ed79be127e210d2c5c2488430897845aa7070c6177ab93515",
+    "/usr/share/haskell/unregister/haskell-microlens-mtl.sh": "11f88aec5c775c2794a2a5df01379fc3b8e6a5ddd88d60a606bffb9210dcefa4",
+    "/usr/share/licenses/haskell-microlens-mtl/LICENSE": "de851518d062e1398a8f194324d63d424a20a23d38f8fc3a2c313d98ebc0d0be",
+    "/usr/lib/libHSmicrolens-mtl-0.1.11.1-9Xu5ItJKupsI9MNZunmg7x-ghc8.2.2.so": "906c465843f9ff528a1028f427066785179b2397963d563c1178cd644745f782",
+    "/usr/lib/ghc-8.2.2/site-local/microlens-mtl-0.1.11.1/Lens/Micro/Mtl.dyn_hi": "0c872593eecfd135a458eb8d7bd56b13124820c39e3d600ce56fdd0e0bd9df93",
+    "/usr/lib/ghc-8.2.2/site-local/microlens-mtl-0.1.11.1/Lens/Micro/Mtl/Internal.dyn_hi": "5c538030875019ef0ce3df4ac76d641a1860c969122765779a56d4d2a43afcce",
+    "/var/log/pacman.log": "2084604d18243ecbc191801e62fad639c0efa999dabc3fc1f0f623a21a39558d"
   }
 }

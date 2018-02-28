@@ -76,5 +76,31 @@
     "/usr/lib/ghc-8.2.2/site-local/haddock-library-1.4.5/Documentation/Haddock/Parser/Monad.dyn_hi": "fbe7e2aa9ae2e7051edef5d8be86d56567eea5e27a04ad0fc6c36fd853af538a",
     "/usr/lib/ghc-8.2.2/site-local/haddock-library-1.4.5/Documentation/Haddock/Parser/Util.dyn_hi": "b68efb998c5c1cd2e06e6e728e448a5c0b2fbd3ddbd05a5a381ca17d56e3b58d",
     "/var/log/pacman.log": "e53a92998e4f892cec11d6579528bddfeaf1164979a1b671e1836d4a3f9a74b6"
+  },
+  "1.4.5-7": {
+    "/usr/share/haskell/register/haskell-haddock-library.sh": "b6fa51d8f97be79130fa95a3a26b894bbad2bc33222f569891c22dcf8a808a0a",
+    "/usr/share/haskell/unregister/haskell-haddock-library.sh": "8d7322e130621e07912c4a024564172f446df184a980be0b1179357bf2c0a49e",
+    "/usr/share/licenses/haskell-haddock-library/LICENSE": "8a890efffbb6c9499d5c9aefe82be9298805371c406d50bb30fde8152f4baa84",
+    "/usr/lib/libHShaddock-library-1.4.5-uQdrVGi1uKLD22IlKGc6n-ghc8.2.2.so": "8251ef8904f1447116e641fedbd980515caf6e9ae31cbcee13abb3125b06c094",
+    "/usr/lib/libHShaddock-library-1.4.5-JMywL3gQR7h8vuSGU4Yu5w-attoparsec-ghc8.2.2.so": "ca49d0dd4c3fadcb00d8f023718b31e1ec880ed54a6137f2b454fba3902105c1",
+    "/usr/lib/ghc-8.2.2/site-local/haddock-library-1.4.5/Data/Attoparsec.dyn_hi": "8928a66530e882a6dd7c3a59d4e38f2a523aeb19e963e7f228eec8cdda3aab59",
+    "/usr/lib/ghc-8.2.2/site-local/haddock-library-1.4.5/Data/Attoparsec/ByteString.dyn_hi": "facaa275ed65dac2978363ea5b9f9f4248031b356c390bda58da0125c6310516",
+    "/usr/lib/ghc-8.2.2/site-local/haddock-library-1.4.5/Data/Attoparsec/Combinator.dyn_hi": "ff78ffb1420a28f56ed88fe671170235e439af35338973be5dc8353570578d23",
+    "/usr/lib/ghc-8.2.2/site-local/haddock-library-1.4.5/Data/Attoparsec/Internal.dyn_hi": "7d75dd75d04aece261f1f2d02e247451c489f4f5c5d240767a15adcf6fd174f3",
+    "/usr/lib/ghc-8.2.2/site-local/haddock-library-1.4.5/Data/Attoparsec/Number.dyn_hi": "bc8965aae6d05c4c4a06e0a2aaabd332cd84ec8ae957f73f1433ea6bde35d7f7",
+    "/usr/lib/ghc-8.2.2/site-local/haddock-library-1.4.5/Data/Attoparsec/ByteString/Char8.dyn_hi": "3b8724401935aec72b956295e0a9b361cec36726976b882c09522ea431489098",
+    "/usr/lib/ghc-8.2.2/site-local/haddock-library-1.4.5/Data/Attoparsec/ByteString/Buffer.dyn_hi": "30aa5cb866f62bca12a6756460ed880170d54a93d7e39a5e817d4998ee2100f9",
+    "/usr/lib/ghc-8.2.2/site-local/haddock-library-1.4.5/Data/Attoparsec/ByteString/FastSet.dyn_hi": "bef20f70a0167e151b85552006858dd13f46e58cdde6c29e436afa0cc1007602",
+    "/usr/lib/ghc-8.2.2/site-local/haddock-library-1.4.5/Data/Attoparsec/ByteString/Internal.dyn_hi": "f49c2528ca03d33a1e6704a99d375f03a04368760e47d75bdd66d373ad58d305",
+    "/usr/lib/ghc-8.2.2/site-local/haddock-library-1.4.5/Data/Attoparsec/Internal/Fhthagn.dyn_hi": "8665454139519fd481498f0514209db803d91cf97722d5c188af2a0911f1d3d5",
+    "/usr/lib/ghc-8.2.2/site-local/haddock-library-1.4.5/Data/Attoparsec/Internal/Types.dyn_hi": "dad4a1110d407fac4ab655f3426a14d416492fde1205a7313cf596fc8f103cdb",
+    "/usr/lib/ghc-8.2.2/site-local/haddock-library-1.4.5/Documentation/Haddock/Doc.dyn_hi": "83e14482d58a33ca2651e19bc39688b030d945d17fc15fa0795148c51c11aa3c",
+    "/usr/lib/ghc-8.2.2/site-local/haddock-library-1.4.5/Documentation/Haddock/Markup.dyn_hi": "a4dca9271b2c35f1dca644ae8c1267b982e31d0010602ace18588715fdac51b3",
+    "/usr/lib/ghc-8.2.2/site-local/haddock-library-1.4.5/Documentation/Haddock/Parser.dyn_hi": "8ee427b5635a3bc1ba196eda72984204664f39dd4b10c39abde450bb27e5084b",
+    "/usr/lib/ghc-8.2.2/site-local/haddock-library-1.4.5/Documentation/Haddock/Types.dyn_hi": "5dc4316f392497290eb73844eb23e46b4172e7d16e6e8e1209a52ff4f96458cf",
+    "/usr/lib/ghc-8.2.2/site-local/haddock-library-1.4.5/Documentation/Haddock/Utf8.dyn_hi": "28d02e4041b42409239b13f06dde692930f4273a5e8e2f1a2944b1269fa2a823",
+    "/usr/lib/ghc-8.2.2/site-local/haddock-library-1.4.5/Documentation/Haddock/Parser/Monad.dyn_hi": "fbe7e2aa9ae2e7051edef5d8be86d56567eea5e27a04ad0fc6c36fd853af538a",
+    "/usr/lib/ghc-8.2.2/site-local/haddock-library-1.4.5/Documentation/Haddock/Parser/Util.dyn_hi": "b68efb998c5c1cd2e06e6e728e448a5c0b2fbd3ddbd05a5a381ca17d56e3b58d",
+    "/var/log/pacman.log": "06dc012fb0698a357175a21e8b7248a114d7477220349c831063199bf30bd755"
   }
 }

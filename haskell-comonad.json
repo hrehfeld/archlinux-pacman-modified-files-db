@@ -42,5 +42,27 @@
     "/usr/lib/ghc-8.2.2/site-local/comonad-5.0.2/Control/Comonad/Trans/Traced.dyn_hi": "7a521e3667aebf49354aec0227ea5232c80f9e1598adf36e15590d6980357eba",
     "/usr/lib/ghc-8.2.2/site-local/comonad-5.0.2/Data/Functor/Composition.dyn_hi": "e6e10a9925ebb63bad396bd2a3f0415f105412ac690bd03c15d860d29179c502",
     "/var/log/pacman.log": "52a1aea0739fbdce985a8b97570ddc39a7b69da82846097e4c99563ba3481a7d"
+  },
+  "5.0.2-7": {
+    "/usr/share/haskell/register/haskell-comonad.sh": "7c8c55acbb3f304a0b100e97178a8765a0ed1a8001289cbab77b23a774012151",
+    "/usr/share/haskell/unregister/haskell-comonad.sh": "f468db8e740df18d06abb89eafd0647976dd50c7bf306b5b11b061bc82d2db1a",
+    "/usr/share/licenses/haskell-comonad/LICENSE": "1cd5d1f57ac61339dbad8f0a0b2e7dcf977c17e0b93021fbad3650a52c8d4975",
+    "/usr/lib/libHScomonad-5.0.2-39Ld6hwW25rA6T0xM0ORgi-ghc8.2.2.so": "2b958e133e1c164e37de32a55146ee02739f2a4efd259126a5657b17b4f449ef",
+    "/usr/lib/ghc-8.2.2/site-local/comonad-5.0.2/Control/Comonad.dyn_hi": "29a0138b283d1414c7f337cdb80bda954038e68e07b10b6e3519537b6372ef37",
+    "/usr/lib/ghc-8.2.2/site-local/comonad-5.0.2/Control/Comonad/Env.dyn_hi": "56e2a92e566b55571f246ecb68c2ff90a8701b6e359b693381c44a0f1bc269bd",
+    "/usr/lib/ghc-8.2.2/site-local/comonad-5.0.2/Control/Comonad/Identity.dyn_hi": "965904806c168dcec949b46eab9c399d817afb1a4ecc742cff2bd9fe21e2fee3",
+    "/usr/lib/ghc-8.2.2/site-local/comonad-5.0.2/Control/Comonad/Store.dyn_hi": "d08c24c7468fc4ec9bf335a49718b8b36cb0bd02488d5e83670b68c6a3939779",
+    "/usr/lib/ghc-8.2.2/site-local/comonad-5.0.2/Control/Comonad/Traced.dyn_hi": "fbb1c26b0b05f0536660953bb47f7c0f95d3c5f2e1b14761081f2886dc3cb02f",
+    "/usr/lib/ghc-8.2.2/site-local/comonad-5.0.2/Control/Comonad/Env/Class.dyn_hi": "3ffae9408fdc28cedbbdc0eabb6ce05efd1ac2fbc0c5dc41aea17dedef6040c9",
+    "/usr/lib/ghc-8.2.2/site-local/comonad-5.0.2/Control/Comonad/Hoist/Class.dyn_hi": "9933c1598acb1b56216bb2d35f4d2b911fe7e3bdf9d43dd588111534a1ad63b7",
+    "/usr/lib/ghc-8.2.2/site-local/comonad-5.0.2/Control/Comonad/Store/Class.dyn_hi": "8b6e2e2907a5fce24f268126b7a3f71cbeab73bc3ac584fccf709ba851b07a6d",
+    "/usr/lib/ghc-8.2.2/site-local/comonad-5.0.2/Control/Comonad/Traced/Class.dyn_hi": "57dbfa45995f381268856420b5786d42522cae9d776ad112a3fffd0d1247312d",
+    "/usr/lib/ghc-8.2.2/site-local/comonad-5.0.2/Control/Comonad/Trans/Class.dyn_hi": "67e3874744fa15e48364ad918a9526a8b7d288d6cb1fb1230e382fc2bf68fa67",
+    "/usr/lib/ghc-8.2.2/site-local/comonad-5.0.2/Control/Comonad/Trans/Env.dyn_hi": "5c70dc4212a00efd35af9fe4ba548d8d314c3532c5f896f7ab9feae8959c99a9",
+    "/usr/lib/ghc-8.2.2/site-local/comonad-5.0.2/Control/Comonad/Trans/Identity.dyn_hi": "a2a8e42ba2af971efefb7f2298b160d8942db36abcf831e02a4aa4f2dbd94796",
+    "/usr/lib/ghc-8.2.2/site-local/comonad-5.0.2/Control/Comonad/Trans/Store.dyn_hi": "6a9190280df0e65753bc61ca46ad34e7bb5d491dc1820f2efe79c10dc2812d20",
+    "/usr/lib/ghc-8.2.2/site-local/comonad-5.0.2/Control/Comonad/Trans/Traced.dyn_hi": "70b955edf07eeb786b70794b27ebf79d8c83c1efb938be267e3df17af53a01d5",
+    "/usr/lib/ghc-8.2.2/site-local/comonad-5.0.2/Data/Functor/Composition.dyn_hi": "c763aa01768969ffadce7f9d8877a628c49a4df951781cd6270d3b9cf9eb0abf",
+    "/var/log/pacman.log": "ee1856087a6dde0dd80cb5419ec606c238b5230904bb5c969817e276185f25c3"
   }
 }

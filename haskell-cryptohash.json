@@ -82,5 +82,33 @@
     "/usr/lib/ghc-8.2.2/site-local/cryptohash-0.11.9/Crypto/MAC/HMAC.dyn_hi": "9bcc73fdf7a11c03647ba4ccd546c4bc02d537e6d4c62bca77f8b1df7a2c7689",
     "/usr/lib/ghc-8.2.2/site-local/cryptohash-0.11.9/Crypto/MAC/SHA3.dyn_hi": "7ff15678c2458516669bee83259f6442d59b5be646ca031434e3a66036e74119",
     "/var/log/pacman.log": "119ecb15970e261fb94ba7bb9cfdfdee803ade6e68d647e7f5202c2573a6cd5d"
+  },
+  "0.11.9-44": {
+    "/usr/share/haskell/register/haskell-cryptohash.sh": "b9d0550d31c313e2febf3d1eefe148965921202509109457f1a52e40e9b2ddb3",
+    "/usr/share/haskell/unregister/haskell-cryptohash.sh": "63eb2b3a1d45aa305f79ea6ea8d7ea943565459aa3e105cedaafcc2ccc39bde3",
+    "/usr/share/licenses/haskell-cryptohash/LICENSE": "7c54d4f9d3e2602f8085a6b4a7b52e421cd6969e2b2b69e84afeadeeb1f05733",
+    "/usr/lib/libHScryptohash-0.11.9-LUKi0pGpGZaJCp1ffidkfi-ghc8.2.2.so": "ba8d2ed1a4add2110cc9a2621058e467642e8d24c48d807db58646df0f89e4d9",
+    "/usr/lib/ghc-8.2.2/site-local/cryptohash-0.11.9/Crypto/Hash.dyn_hi": "091bf61391d1a8421b7521e1333788113779c2f24405f7ebe17fe59b08873e8c",
+    "/usr/lib/ghc-8.2.2/site-local/cryptohash-0.11.9/Crypto/MAC.dyn_hi": "2ad9fb34b0b3d5ad39cb734ecc1c58d4fa70bcf5cfffaad0b8268389e0202507",
+    "/usr/lib/ghc-8.2.2/site-local/cryptohash-0.11.9/Crypto/Hash/Types.dyn_hi": "8f17786b4a8eab1a9f793afe5c00cf22b97644cfd6ad6c9c4448f34d14f7bc43",
+    "/usr/lib/ghc-8.2.2/site-local/cryptohash-0.11.9/Crypto/Hash/SHA1.dyn_hi": "6b7f8b8b82e4448d8ee42f39cadbe472da5c39153082b38e06b62bdb5faf43d3",
+    "/usr/lib/ghc-8.2.2/site-local/cryptohash-0.11.9/Crypto/Hash/SHA224.dyn_hi": "cafd35037dbe0cfdc6ae24c130d3331db6e57fa6fbc5dd159eebe95a342c5305",
+    "/usr/lib/ghc-8.2.2/site-local/cryptohash-0.11.9/Crypto/Hash/SHA256.dyn_hi": "81f538b85dfdb0fb6a679b10b906e86e200834ce9ca18fde8281056b6ef2928a",
+    "/usr/lib/ghc-8.2.2/site-local/cryptohash-0.11.9/Crypto/Hash/SHA384.dyn_hi": "b6588ac7c9b1f3c71a86c0b7ea912a33c8c040aadfd997d00dd540dfa127bf02",
+    "/usr/lib/ghc-8.2.2/site-local/cryptohash-0.11.9/Crypto/Hash/SHA512.dyn_hi": "6f705f13a27f06ba0945cf0e1b357049c47f095bd07a498b656e55f1cd297e26",
+    "/usr/lib/ghc-8.2.2/site-local/cryptohash-0.11.9/Crypto/Hash/SHA512t.dyn_hi": "5f50f4bdc71df7877d4825d4b06a174d94c1148dc5b53f38f63d33d8f0403e77",
+    "/usr/lib/ghc-8.2.2/site-local/cryptohash-0.11.9/Crypto/Hash/SHA3.dyn_hi": "7fc3e87a0bea8e52fd72bf95c4905730c376ea1938608f943f1005e492478cb2",
+    "/usr/lib/ghc-8.2.2/site-local/cryptohash-0.11.9/Crypto/Hash/MD2.dyn_hi": "60574c19d2b77b923a1c39afbb169870adf97c94419fd588871a31e51af9db96",
+    "/usr/lib/ghc-8.2.2/site-local/cryptohash-0.11.9/Crypto/Hash/MD4.dyn_hi": "55f245fa19b350913cb22d2f9e457c9d045f8c8ba4841cf280ec9a40960ce217",
+    "/usr/lib/ghc-8.2.2/site-local/cryptohash-0.11.9/Crypto/Hash/MD5.dyn_hi": "8b850418ca443896aa46a242c6a01ae70ee5f6af44ec272b4d9da461386a136d",
+    "/usr/lib/ghc-8.2.2/site-local/cryptohash-0.11.9/Crypto/Hash/RIPEMD160.dyn_hi": "a968732652488a5b5602a135625a3916f134121f03cf3c7bce13a094c52ae85d",
+    "/usr/lib/ghc-8.2.2/site-local/cryptohash-0.11.9/Crypto/Hash/Skein256.dyn_hi": "f7b37bee1001fc4207a9bdfc2b3226a43a7cfb68e4704fc02af730702bf31262",
+    "/usr/lib/ghc-8.2.2/site-local/cryptohash-0.11.9/Crypto/Hash/Skein512.dyn_hi": "8ae36746d0d0dfa17a85c6f03e360161bcb271bb073e9e0376cbfd4a18cf2a7e",
+    "/usr/lib/ghc-8.2.2/site-local/cryptohash-0.11.9/Crypto/Hash/Tiger.dyn_hi": "eb9083d173f72c0fa489b8a8dc451d22823dc38faf5cffb073135f6c820f057b",
+    "/usr/lib/ghc-8.2.2/site-local/cryptohash-0.11.9/Crypto/Hash/Whirlpool.dyn_hi": "636a86a11f88227d3d4eae6a3167d9bfa02505b7814d6284ceb504aba5c65604",
+    "/usr/lib/ghc-8.2.2/site-local/cryptohash-0.11.9/Crypto/Hash/Internal.dyn_hi": "1768eae86bde8609ef561bfd99d7f070881d3f874591ba7624853d44d3e8e4d7",
+    "/usr/lib/ghc-8.2.2/site-local/cryptohash-0.11.9/Crypto/MAC/HMAC.dyn_hi": "fe519bfb09aef74994ddee1e650a3b708cdf273fc2c792b8981b728bc7657b70",
+    "/usr/lib/ghc-8.2.2/site-local/cryptohash-0.11.9/Crypto/MAC/SHA3.dyn_hi": "395304abc894450b4b5000fb373bf2d55df17ca281daf9726141b88eb938a5fa",
+    "/var/log/pacman.log": "f069b8e234dde70251a35c88a531c345c67ab0f7ff8cc11747e48d2e416f4f4d"
   }
 }

@@ -1,0 +1,11 @@
+{
+  "20171227-3": {
+    "/usr/include/argon2.h": "dcae0989d0a2ca430205f6cedac950b1a69c00361a8254d334dbec8c2aea40bb",
+    "/usr/lib/libargon2.so": "dfdf5cd451a19993e09d060553c2228b07fd6cf685309dacaf789fcd251a8700",
+    "/usr/lib/libargon2.so.1": "dfdf5cd451a19993e09d060553c2228b07fd6cf685309dacaf789fcd251a8700",
+    "/usr/lib/pkgconfig/libargon2.pc": "c43ea65e71f9b22eaf5d799314cc9c952338f153688a72285589948a400917b7",
+    "/usr/bin/argon2": "d7930366e847586095bcc0eee1c0e6142d539d0e4d9c9b656376e6293640de93",
+    "/usr/share/licenses/argon2/LICENSE": "220f8736a89ff51c92ef3d497f413b48e6cf1df3d6278bc909c6308c78e1718e",
+    "/var/log/pacman.log": "2b575ffb9424fdc7d665bc9d0c2dce5807c58d4e08e061374cf97b185fbb4656"
+  }
+}

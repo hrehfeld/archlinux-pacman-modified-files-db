@@ -30,5 +30,21 @@
     "/usr/lib/pkgconfig/libcdio_cdda.pc": "24d4d2cab9e87734e053d058603782b9cfd40e26393ae07df75201ac8d0ec15a",
     "/usr/bin/cd-paranoia": "24e43f8103a7173e57ec714e6e2a1c4329096bcc70b0b8717cab7a2a0b983d9f",
     "/var/log/pacman.log": "1d712315b7688939d5fd499d4c7bd5075079afeb361605c498bbf486dab1ff77"
+  },
+  "10.2+0.94+2-2": {
+    "/usr/share/man/man1/cd-paranoia.1.gz": "ae759bc0a7f2a42cf9fdfe21e8893514b3836aeecb053bc8b9921e15afe27a70",
+    "/usr/share/man/jp/man1/cd-paranoia.1.gz": "67d5e3f5d9f26bb5a0d3d46b26ce831ffd469c7b77c4f0d13e7fd652e2ad8f01",
+    "/usr/include/cdio/paranoia/cdda.h": "55517dece3155ed88eb21a868fb39d8f4200a83daa3b4c63d067f5596ad77c91",
+    "/usr/include/cdio/paranoia/paranoia.h": "37f70ebed3ffad1a94aa2b2d89f84a3fe46141461834c3acbf5959da3d83c03e",
+    "/usr/lib/libcdio_cdda.so.2": "236585b357a2c4c0375be9d5b5625a790197cd1033e19986dc8788ae84d868b8",
+    "/usr/lib/libcdio_cdda.so": "236585b357a2c4c0375be9d5b5625a790197cd1033e19986dc8788ae84d868b8",
+    "/usr/lib/libcdio_paranoia.so.2": "d9f617a10780301c96fb89798582977df35df617f5ce73436106bb96a3fa70bf",
+    "/usr/lib/libcdio_paranoia.so": "d9f617a10780301c96fb89798582977df35df617f5ce73436106bb96a3fa70bf",
+    "/usr/lib/libcdio_paranoia.so.2.0.0": "d9f617a10780301c96fb89798582977df35df617f5ce73436106bb96a3fa70bf",
+    "/usr/lib/libcdio_cdda.so.2.0.0": "236585b357a2c4c0375be9d5b5625a790197cd1033e19986dc8788ae84d868b8",
+    "/usr/lib/pkgconfig/libcdio_paranoia.pc": "6579da39c00947cc1297a778615e2ffd7a1bd7c77c60519288a681a6145c25a8",
+    "/usr/lib/pkgconfig/libcdio_cdda.pc": "24d4d2cab9e87734e053d058603782b9cfd40e26393ae07df75201ac8d0ec15a",
+    "/usr/bin/cd-paranoia": "2c451c97e4aacdb4a8065309400bc7423bea47da7f01204db577cc3aeac6ee05",
+    "/var/log/pacman.log": "48f95d837d8cff86c4e04173ad10d7f90c6ca369deb2318f6a65bc12b1ca3310"
   }
 }

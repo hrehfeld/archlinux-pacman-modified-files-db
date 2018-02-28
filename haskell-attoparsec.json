@@ -82,5 +82,33 @@
     "/usr/lib/ghc-8.2.2/site-local/attoparsec-0.13.2.0/Data/Attoparsec/Text/FastSet.dyn_hi": "f2f10f1de4fb862557a58bbc5e85ed64ab54d4e783b419da30951d1f430c58f0",
     "/usr/lib/ghc-8.2.2/site-local/attoparsec-0.13.2.0/Data/Attoparsec/Text/Internal.dyn_hi": "5a259c75076212c788a2c6654c96ca7df1d678f1105360368f6ff759f37e07de",
     "/var/log/pacman.log": "3f577593d11278fa11c50de62e82cbdce1c008f2e4d4ef8c9928ba27b44328ec"
+  },
+  "0.13.2.2-2": {
+    "/usr/share/haskell/register/haskell-attoparsec.sh": "58cc2ca1779a13000f09a87eb5a9a8de0d72c2107ab743feb9cfd17b7dd3b663",
+    "/usr/share/haskell/unregister/haskell-attoparsec.sh": "fba8e3babdbf0ede6a20c3a34104d76020fe432b508ccfff6e57446da149b989",
+    "/usr/share/licenses/haskell-attoparsec/LICENSE": "b0400f7ccef7de35184d413828dabcd15e6970b11972d11c6100f869f6de1831",
+    "/usr/lib/libHSattoparsec-0.13.2.2-1IsPw46SBaXMxKqrmF8MV-ghc8.2.2.so": "005b7551197ecabc97977fcb1329cab4a0a40ba30d7648ea80c0f507d827c322",
+    "/usr/lib/ghc-8.2.2/site-local/attoparsec-0.13.2.2/Data/Attoparsec.dyn_hi": "748166981c3a84938bcef18d7149dda59b3381f7080f4d10e07c70a300194f7e",
+    "/usr/lib/ghc-8.2.2/site-local/attoparsec-0.13.2.2/Data/Attoparsec/ByteString.dyn_hi": "39abb567e3c0c7ff02eaba4076bb040fe71902ca5b8b7d49483a4554f7db870e",
+    "/usr/lib/ghc-8.2.2/site-local/attoparsec-0.13.2.2/Data/Attoparsec/Char8.dyn_hi": "a25c9f0b5d5ec0e94c988d230f7d5c69b5f75674d5263363dfbc6496be749a95",
+    "/usr/lib/ghc-8.2.2/site-local/attoparsec-0.13.2.2/Data/Attoparsec/Combinator.dyn_hi": "af8d73a131d05432f068291508df5c24ace0f4c6168af5e3ea144f8f4abb6cd8",
+    "/usr/lib/ghc-8.2.2/site-local/attoparsec-0.13.2.2/Data/Attoparsec/Internal.dyn_hi": "233d17a6791188059c842c82cb6b117d083b6764b19d6d2cafd95fbfd599327e",
+    "/usr/lib/ghc-8.2.2/site-local/attoparsec-0.13.2.2/Data/Attoparsec/Lazy.dyn_hi": "962fe5c614cccd7d99e71d82b18e195cc00f384b12922d06015980339534fed4",
+    "/usr/lib/ghc-8.2.2/site-local/attoparsec-0.13.2.2/Data/Attoparsec/Number.dyn_hi": "25417d2aeef380148ffe673dc1d1b81890738933f9e0a1fd4ae16581287cd8ca",
+    "/usr/lib/ghc-8.2.2/site-local/attoparsec-0.13.2.2/Data/Attoparsec/Text.dyn_hi": "2fbea8e706fb174c37cb00c6daae046838f2e218e45bc486901a6ffa67e3572d",
+    "/usr/lib/ghc-8.2.2/site-local/attoparsec-0.13.2.2/Data/Attoparsec/Types.dyn_hi": "f921b4a4a8cb49540b5f2e533dd83882cfcae3756c63342ce645e67a3f0992e3",
+    "/usr/lib/ghc-8.2.2/site-local/attoparsec-0.13.2.2/Data/Attoparsec/Zepto.dyn_hi": "d2c985d5010a7a16a01759ef7f879b0812c87d1982f5c5eeda833bb3187389c2",
+    "/usr/lib/ghc-8.2.2/site-local/attoparsec-0.13.2.2/Data/Attoparsec/ByteString/Char8.dyn_hi": "886cbb14b8bcd33aa4bdc2c86a5221540c7c9be62f5129839385b135192acb60",
+    "/usr/lib/ghc-8.2.2/site-local/attoparsec-0.13.2.2/Data/Attoparsec/ByteString/Lazy.dyn_hi": "dbe55c9f4083eab778594b499f8b750e7064e71b0c8260805b411ffa3cc903a3",
+    "/usr/lib/ghc-8.2.2/site-local/attoparsec-0.13.2.2/Data/Attoparsec/ByteString/Buffer.dyn_hi": "3261b2e23596e36d8fc2d3ff4815cf808c17ea3e177a46c6b8baed6ac5f1a938",
+    "/usr/lib/ghc-8.2.2/site-local/attoparsec-0.13.2.2/Data/Attoparsec/ByteString/FastSet.dyn_hi": "a93a0c7a673aba2d2a6ba8e714078f990a464a6b620d529ac90ff462b759ca02",
+    "/usr/lib/ghc-8.2.2/site-local/attoparsec-0.13.2.2/Data/Attoparsec/ByteString/Internal.dyn_hi": "b4c89b0137fbf6d985cca67bc481cd0bbc4eff89126525b35b0d192e110df095",
+    "/usr/lib/ghc-8.2.2/site-local/attoparsec-0.13.2.2/Data/Attoparsec/Internal/Types.dyn_hi": "4e4db073ccc5fc83c1e78874b275c4ea3b16d42851d775b044ef172ee6ad7829",
+    "/usr/lib/ghc-8.2.2/site-local/attoparsec-0.13.2.2/Data/Attoparsec/Internal/Fhthagn.dyn_hi": "6dd5b72f073b409cc7e87d56c748681e3cece9d352b4f347d6f05e002cf55ccf",
+    "/usr/lib/ghc-8.2.2/site-local/attoparsec-0.13.2.2/Data/Attoparsec/Text/Lazy.dyn_hi": "24e3ef426c6b8536ad43c6978041a74d2d52a0b9f82082ebfaf597cb4277ce8a",
+    "/usr/lib/ghc-8.2.2/site-local/attoparsec-0.13.2.2/Data/Attoparsec/Text/Buffer.dyn_hi": "86431cd4435bb798c6b09d78b32538053f518ba22e40ee1de85e5d1847cd774d",
+    "/usr/lib/ghc-8.2.2/site-local/attoparsec-0.13.2.2/Data/Attoparsec/Text/FastSet.dyn_hi": "4fbbe15bb9bef2c66d1b81aa92b1a9c508d032989e2ec2e78ee5b5d0a83c48ec",
+    "/usr/lib/ghc-8.2.2/site-local/attoparsec-0.13.2.2/Data/Attoparsec/Text/Internal.dyn_hi": "b5c4334f0ee0976cb65f6eba7a5ce4ad1474d7c6d74bb23dd0c00472e83b8a08",
+    "/var/log/pacman.log": "09934b9d0613ad940c8f5f097c3a4bc358ad0e6d9b5ed69d63caeb0ca38f8a0d"
   }
 }

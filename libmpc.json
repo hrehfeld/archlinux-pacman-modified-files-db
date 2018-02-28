@@ -6,5 +6,13 @@
     "/usr/lib/libmpc.so": "24a5986b1d5ce344dc7ad4883357df0b8cc3abfb7dc8886fc3acff76a59e0f38",
     "/usr/lib/libmpc.so.3": "24a5986b1d5ce344dc7ad4883357df0b8cc3abfb7dc8886fc3acff76a59e0f38",
     "/var/log/pacman.log": "7f110fc8e1c2f6555654c96cff2a5e4964de7acb9f2f4741792259f8ef1ca037"
+  },
+  "1.1.0-1": {
+    "/usr/lib/libmpc.so.3": "7de5343ea6d888049470380727a46a134e042d254659d93901260b599cd184d7",
+    "/usr/lib/libmpc.so": "7de5343ea6d888049470380727a46a134e042d254659d93901260b599cd184d7",
+    "/usr/lib/libmpc.so.3.1.0": "7de5343ea6d888049470380727a46a134e042d254659d93901260b599cd184d7",
+    "/usr/share/info/libmpc.info.gz": "b9778d87007be6311407bdaaec87ba9d6069f3c99d0a860e2149c1f0501cbc28",
+    "/usr/include/mpc.h": "2822bb51fac89c972f6fe2ce3b3ff22bd91cad08fddffa10f29c58839bb0a3e6",
+    "/var/log/pacman.log": "b3427daf8f7957447654bd38f6d1d67d57ada13590ad7c4b1b949e12408286ec"
   }
 }

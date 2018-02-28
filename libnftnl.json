@@ -36,5 +36,24 @@
     "/usr/include/libnftnl/udata.h": "5830dfa8b3152fef5000c5249cd967b01207d0391ed72585a3ced11d83ad0d73",
     "/usr/include/libnftnl/gen.h": "7dfb04478bcd38bf594bdc3db8bb4fdebb0a7f440afc3714adfe10ea38d48e54",
     "/var/log/pacman.log": "109576c105e61fd6c3e4be15fe406660e1cd4546052044b4e57b1c54b79e53d4"
+  },
+  "1.0.9-1": {
+    "/usr/include/libnftnl/gen.h": "7dfb04478bcd38bf594bdc3db8bb4fdebb0a7f440afc3714adfe10ea38d48e54",
+    "/usr/include/libnftnl/udata.h": "5830dfa8b3152fef5000c5249cd967b01207d0391ed72585a3ced11d83ad0d73",
+    "/usr/include/libnftnl/common.h": "9fc2c0c4a0950bb029db649b191f174bbafb5ac92e50a008516051299762b156",
+    "/usr/include/libnftnl/ruleset.h": "d82f7faf35ef53fda87ad4be8c6670a0fe7b8ed4e91e0e1982c70d6e5e2f8b24",
+    "/usr/include/libnftnl/set.h": "e25c5c17d7d29ef2301d8c00c96f08757127e5f0a3d80307c8b13d6d398bc343",
+    "/usr/include/libnftnl/expr.h": "fadc4b186b218df8b7bd0da8fd4c61381ab4d0911fa619b866c6f46dbcf8d5b6",
+    "/usr/include/libnftnl/rule.h": "29aceb8cd66c3dec969f166b9f193719511d525a9b3c4d454323e8928912a30b",
+    "/usr/include/libnftnl/object.h": "5c50d9e9a173bb31d7c4aab720a42c4146bf6fe60e4285a9997dd30f6e7f1efa",
+    "/usr/include/libnftnl/chain.h": "3425a8f183462649ec29094795d9e43f5a45d8d3a5040a6e15af5799f3c7e80b",
+    "/usr/include/libnftnl/trace.h": "0cee97aa1b07a03433a19a627ba1da9b7c99d695ae7775933996356f674a7a1c",
+    "/usr/include/libnftnl/table.h": "de7ce4b79959f498fada7e8ea25e91ebc7f28b42f3e7e79ae4a62d47b498be65",
+    "/usr/include/libnftnl/batch.h": "128d9b8bc61051e5fdec8e2df68bd8971e41e0fc643d87e28d78ddc0d3be9457",
+    "/usr/lib/libnftnl.so.7.1.0": "23defed916759935ac6db6592cc6b3e883230898f564330e1b7b6783d730a181",
+    "/usr/lib/libnftnl.so": "23defed916759935ac6db6592cc6b3e883230898f564330e1b7b6783d730a181",
+    "/usr/lib/libnftnl.so.7": "23defed916759935ac6db6592cc6b3e883230898f564330e1b7b6783d730a181",
+    "/usr/lib/pkgconfig/libnftnl.pc": "9a69d0c1f36271d6ca1b720e742f798ab342e74f288c22cc8fc62168ce211195",
+    "/var/log/pacman.log": "7db19ca4f48d8b382a195e1705f4e7b0bcfe070f090fcccf99cded99bed82351"
   }
 }

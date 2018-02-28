@@ -49,5 +49,18 @@
     "/usr/lib/ghc-8.2.2/site-local/mono-traversable-1.0.7.0/Data/Sequences.dyn_hi": "09bcde7dba07d3b7611c9fab2057e0627c0a1697ebfc78e6d2da36f33a7fb196",
     "/usr/lib/ghc-8.2.2/site-local/mono-traversable-1.0.7.0/Data/MonoTraversable/Unprefixed.dyn_hi": "867d64dc0d205132d080587d5b055b6db72c06331bd210fa084bbb24a74023d0",
     "/var/log/pacman.log": "b9f5a01caf8e03941f058a14b9b54fb6c765716c6c7af3cc52806268978250c7"
+  },
+  "1.0.8.1-3": {
+    "/usr/share/haskell/register/haskell-mono-traversable.sh": "730696621c46e40b2a4f08afa1954461e6f76e2a0629031f1cb70812f257c5e0",
+    "/usr/share/haskell/unregister/haskell-mono-traversable.sh": "c186ef84330b16764e88886bce57ee7a351b2dcd3c5dd8635baf586a5538d4bd",
+    "/usr/share/licenses/haskell-mono-traversable/LICENSE": "49993c21a514d0ea769e899737fa3b1df2d76b7e23846fcc46db6f5e6d07d14b",
+    "/usr/lib/libHSmono-traversable-1.0.8.1-9abeAxZ0tcX2niEyNQs3Db-ghc8.2.2.so": "8561ad1f583076e0df94ef57ebb98460e67fbb827119eaa77b57a77f215bda19",
+    "/usr/lib/ghc-8.2.2/site-local/mono-traversable-1.0.8.1/Paths_mono_traversable.dyn_hi": "1d6a612434877f65755df204c634f98f1c492af01421daa9b61e452ffb3b2a0d",
+    "/usr/lib/ghc-8.2.2/site-local/mono-traversable-1.0.8.1/Data/Containers.dyn_hi": "a7bb54d9b3274619cf3263907d7e5b9b9f5142e07c8abf7a41394f99753f9d12",
+    "/usr/lib/ghc-8.2.2/site-local/mono-traversable-1.0.8.1/Data/MonoTraversable.dyn_hi": "7861fc4c16e1c8d9d782c5def2d68ced2b453f45a26d0bdb5408a4e4bbcfd97f",
+    "/usr/lib/ghc-8.2.2/site-local/mono-traversable-1.0.8.1/Data/NonNull.dyn_hi": "7df88f7d775f78838ceb0810b3be715ef29e4683daa43791bb0713a569382b61",
+    "/usr/lib/ghc-8.2.2/site-local/mono-traversable-1.0.8.1/Data/Sequences.dyn_hi": "e9bb1562986f52791c5dc6368dee7162c298597b14e70ce5b034b9b014acdca1",
+    "/usr/lib/ghc-8.2.2/site-local/mono-traversable-1.0.8.1/Data/MonoTraversable/Unprefixed.dyn_hi": "7d7182a1c31680194ba22233601e2cf4cf942abdd33f42092cc32a5fe3a502d0",
+    "/var/log/pacman.log": "048a85c872190502b4d9f131407be09d9eb21ab3fb90e218e8c34422a841821c"
   }
 }

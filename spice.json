@@ -15,5 +15,23 @@
     "/usr/include/spice-server/spice-version.h": "266d437641e595001f67a7c094f39bda079d0389412ec01dc0a3ebf661ddee17",
     "/usr/include/spice-server/spice.h": "e5f5947b859b8904f31a3eb3abda07d7ad2893c7af19942fc1cf897579371b7b",
     "/var/log/pacman.log": "4ddaa1b438172846b5924a2edd85125fec3828b4a020459116459f255a471c64"
+  },
+  "0.14.0-2": {
+    "/usr/include/spice-server/spice-experimental.h": "ce4d93cc5cf3ef3b16e34a2d7f20e8a45b81973fd42434044d402bfbae417566",
+    "/usr/include/spice-server/spice-migration.h": "7b4c8c56178b65749536bc36208c147a33c25a39f64d52164820e6c81908c0a7",
+    "/usr/include/spice-server/spice.h": "a106e2df58f2adfddc3c65a826adde511f3cb16df6359cf9b6aa772d127d7697",
+    "/usr/include/spice-server/spice-qxl.h": "2e514e75e72f197b9a726206dcfeda37f0ccef581e87e968482f9a5e58a03560",
+    "/usr/include/spice-server/spice-input.h": "f190da5b17d361a92379f920301c8dc332714801b4150ebab59e6419426d3aeb",
+    "/usr/include/spice-server/spice-char.h": "30a6ce4005340569d84dc3c611f844a7653c644fcf3dff4da8d9ba042555c2d2",
+    "/usr/include/spice-server/spice-version.h": "216343eba435f93d2a77645ca23220f99a72372c3226be44b0c73f98680c8f32",
+    "/usr/include/spice-server/spice-core.h": "8d81a9180e5134a4611f5e0aec24649c822542a440aaaa158c348878f66fc3ee",
+    "/usr/include/spice-server/spice-audio.h": "97e621b081a723ead519f3de826cbe42b8a8f498b1f072978f0e7629adbe4a95",
+    "/usr/include/spice-server/spice-replay.h": "f83376722a2b3890edc0b007641057ba34e9f4188772c262e784901477ef094c",
+    "/usr/include/spice-server/spice-server.h": "7a4058a4580b472c662ae05b987f996377b8e4fe1adae3f0f7d7a3b806a9af19",
+    "/usr/lib/libspice-server.so.1.12.4": "02269ba1581bba79409714b1dd2c650fb1f68b7e8d9c4f016e1bd05d7b141027",
+    "/usr/lib/libspice-server.so.1": "02269ba1581bba79409714b1dd2c650fb1f68b7e8d9c4f016e1bd05d7b141027",
+    "/usr/lib/libspice-server.so": "02269ba1581bba79409714b1dd2c650fb1f68b7e8d9c4f016e1bd05d7b141027",
+    "/usr/lib/pkgconfig/spice-server.pc": "163b7cc955752535d8f9e6238bd920d0a59be17b1e8a7bcef6fb49a8c4652d88",
+    "/var/log/pacman.log": "a9d4cf32d6cf1ec96171ecc88a6dbe81af7cb5d20dceffe513d90454462f44ba"
   }
 }

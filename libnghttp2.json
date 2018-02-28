@@ -28,5 +28,15 @@
     "/usr/lib/pkgconfig/libnghttp2.pc": "532cc0b9646cbe3b118710c40a66193ad067d8378769d70f67742c8e972f43a1",
     "/usr/share/licenses/libnghttp2/COPYING": "6b94f3abc1aabd0c72a7c7d92a77f79dda7c8a0cb3df839a97890b4116a2de2a",
     "/var/log/pacman.log": "5d7655f4ca42ded6a3f0ffa979f74952c135ec50c218ca4f74bfea9e53f8ec09"
+  },
+  "1.29.0-1": {
+    "/usr/include/nghttp2/nghttp2.h": "234abc929d0472335821ecd1d512371e2692fca788430f4b532310b806c01b88",
+    "/usr/include/nghttp2/nghttp2ver.h": "8e69fff382ee8d43f20d31da0213af5cfad51ccfa2069dd9580eebec5acc306e",
+    "/usr/lib/libnghttp2.so.14": "5187320d3a4a9459d5f9f7aac9aab67da42f04303cc1ba345028006183541f58",
+    "/usr/lib/libnghttp2.so": "5187320d3a4a9459d5f9f7aac9aab67da42f04303cc1ba345028006183541f58",
+    "/usr/lib/libnghttp2.so.14.15.1": "5187320d3a4a9459d5f9f7aac9aab67da42f04303cc1ba345028006183541f58",
+    "/usr/lib/pkgconfig/libnghttp2.pc": "038b291b4b54bd941e40d47fb64cc36191ae836c67e5538a3e38b12ce41fcdc6",
+    "/usr/share/licenses/libnghttp2/COPYING": "6b94f3abc1aabd0c72a7c7d92a77f79dda7c8a0cb3df839a97890b4116a2de2a",
+    "/var/log/pacman.log": "ceb508ff1c743366ef9cfc60adcc100edce11065cc9c0b94dce2399a21dae7bb"
   }
 }

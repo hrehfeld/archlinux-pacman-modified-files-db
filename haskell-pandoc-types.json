@@ -40,5 +40,19 @@
     "/usr/lib/ghc-8.2.2/site-local/pandoc-types-1.17.3/Text/Pandoc/JSON.dyn_hi": "4c81e0635d715def380f72a1670b2baf8759b11baef43efaddbe8b075bf674c9",
     "/usr/lib/ghc-8.2.2/site-local/pandoc-types-1.17.3/Text/Pandoc/Arbitrary.dyn_hi": "708dadffee7b800c703ee64309b706ac3e33d72aef4542ed26fdc702563c2711",
     "/var/log/pacman.log": "846e62a170d91a3fffb6fa41187551ba299fd05bc0b91cfcd73b481edc8133da"
+  },
+  "1.17.3.1-3": {
+    "/usr/share/haskell/register/haskell-pandoc-types.sh": "bee7cce8298d9361498dff962ce8a4944e0fdb71cf32656740c443afb09c2cbf",
+    "/usr/share/haskell/unregister/haskell-pandoc-types.sh": "7490c3e653db11369e3c74fd7cf2370b1e5938a98f728a1dd57995ccf750bf01",
+    "/usr/share/licenses/haskell-pandoc-types/LICENSE": "e95de543decbb1d3dd759d2e68a2890bc4f8402babe34669cfa7c9d874cbde61",
+    "/usr/lib/libHSpandoc-types-1.17.3.1-LBDJljHJHCjEfN90HZe0hm-ghc8.2.2.so": "c53f18179d68e16623a980467327ea4db00ec9f024ca6878284b859670ae70b5",
+    "/usr/lib/ghc-8.2.2/site-local/pandoc-types-1.17.3.1/Paths_pandoc_types.dyn_hi": "9b6546c826fc9c702d59b4e00ff0249ab2b9d2d3fbfa6d5689d653cdfa70782f",
+    "/usr/lib/ghc-8.2.2/site-local/pandoc-types-1.17.3.1/Text/Pandoc/Definition.dyn_hi": "f869766989e70f8beb92f15d92ff9bcfb57030389a2ffa69de93b878bc7dc3e8",
+    "/usr/lib/ghc-8.2.2/site-local/pandoc-types-1.17.3.1/Text/Pandoc/Generic.dyn_hi": "28afb6a01e24bd9ccec6c03433bbe59e9effa9603ff0169d7caf75066f5d0b42",
+    "/usr/lib/ghc-8.2.2/site-local/pandoc-types-1.17.3.1/Text/Pandoc/Walk.dyn_hi": "8bfd87e1089905862fd99fd7c185a6a0107cc0c118c5e2b34db2f620a42c4d55",
+    "/usr/lib/ghc-8.2.2/site-local/pandoc-types-1.17.3.1/Text/Pandoc/Builder.dyn_hi": "9527049f7f6ab4fb4237cdc99518029339a2a4b595d5a7a6db43c4964e2b0623",
+    "/usr/lib/ghc-8.2.2/site-local/pandoc-types-1.17.3.1/Text/Pandoc/JSON.dyn_hi": "a290909e5513015173c997ea25de534f83f43727f900b12561009f252d2a44b3",
+    "/usr/lib/ghc-8.2.2/site-local/pandoc-types-1.17.3.1/Text/Pandoc/Arbitrary.dyn_hi": "7a79fb384c1cb6dd72e1a6cd875888bdb31fc06e0edf2716c42e91dd18c93568",
+    "/var/log/pacman.log": "d4c1feba98d2ef966ff60dd60551649ee80b898b32fe57a9893c128a1fcc18b8"
   }
 }

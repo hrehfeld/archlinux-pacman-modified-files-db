@@ -73,5 +73,30 @@
     "/usr/lib/ghc-8.2.2/site-local/streaming-commons-0.1.18/Data/Text/Internal/Encoding/Utf16.dyn_hi": "f084409abdb0141f852b671b8133e1cb658e59d08e980e5692df3e9985791671",
     "/usr/lib/ghc-8.2.2/site-local/streaming-commons-0.1.18/Data/Text/Internal/Encoding/Utf32.dyn_hi": "eca811211dc690f0f02d04f90d8c891596b39d52601d7282c91fb867f321fdf4",
     "/var/log/pacman.log": "8df02e1cfa40db15dcf84d93c5d5e5f8693fab0d34ce9a5b69f62d35ede9262b"
+  },
+  "0.1.18-8": {
+    "/usr/share/haskell/register/haskell-streaming-commons.sh": "662e6532d3222a07fb4e34a18a3f6ddecfad861781f3dbf630ade4238d1d79cc",
+    "/usr/share/haskell/unregister/haskell-streaming-commons.sh": "eb889bc546e690d09978dd5bdae9a17d1d0fd1d1888eabeecdc697426cb4ee1b",
+    "/usr/share/licenses/haskell-streaming-commons/LICENSE": "4b11a4597745ba028689093b5121e9e87b022169534c5d5e7317a5911d56e336",
+    "/usr/lib/libHSstreaming-commons-0.1.18-I8DVVj9l2z82ygVpnzLauL-ghc8.2.2.so": "4b565147fe39e6b779517d2b88efb924dc44f43f6ed9261ee1dc207df9c14cf9",
+    "/usr/lib/ghc-8.2.2/site-local/streaming-commons-0.1.18/Data/Streaming/Blaze.dyn_hi": "a759f86a00094ac114781d73b63a3392ad5577ffc2ea5cab50a871dfa8a8a522",
+    "/usr/lib/ghc-8.2.2/site-local/streaming-commons-0.1.18/Data/Streaming/FileRead.dyn_hi": "234d9dfd20faeba0ae6f51c782d193f7701898d6e57b161e3c618b7fcfbee778",
+    "/usr/lib/ghc-8.2.2/site-local/streaming-commons-0.1.18/Data/Streaming/Filesystem.dyn_hi": "a7cb5f17230d36bb0e987dc7cd330fe028c021ea2bf9b7db4f3a26e5827f28dc",
+    "/usr/lib/ghc-8.2.2/site-local/streaming-commons-0.1.18/Data/Streaming/Network.dyn_hi": "7e211a6aae5e934fbf2bd8f3e720cd22444300f13e4f4fd19097152484eb260b",
+    "/usr/lib/ghc-8.2.2/site-local/streaming-commons-0.1.18/Data/Streaming/Process.dyn_hi": "0a736813b9ecc86a93a57d5f71d68391b10b2ae71f43c8100de7b75a836df960",
+    "/usr/lib/ghc-8.2.2/site-local/streaming-commons-0.1.18/Data/Streaming/Text.dyn_hi": "a6eb77a9b34f07e2e79c505f104dfb82994df303b2b659801763d2db8b1a378a",
+    "/usr/lib/ghc-8.2.2/site-local/streaming-commons-0.1.18/Data/Streaming/Zlib.dyn_hi": "7a99ba5efa55a0c01ca7288fbdfce340b3130bb42580f09031f3b099a139d2a8",
+    "/usr/lib/ghc-8.2.2/site-local/streaming-commons-0.1.18/Data/Streaming/ByteString/Builder.dyn_hi": "4d86603f479ed343c364b0d18fe39cf265a05496486551c51123d1451c95b51a",
+    "/usr/lib/ghc-8.2.2/site-local/streaming-commons-0.1.18/Data/Streaming/ByteString/Builder/Buffer.dyn_hi": "692a836c0228e7c982801c1536d3c15f9968449744d12dda2bd04f385ee93022",
+    "/usr/lib/ghc-8.2.2/site-local/streaming-commons-0.1.18/Data/Streaming/ByteString/Builder/Class.dyn_hi": "db3b9d0a6a5dd00a1d79ef88f52d612527bc1ae8fd4847960e4ae14e8a7d8645",
+    "/usr/lib/ghc-8.2.2/site-local/streaming-commons-0.1.18/Data/Streaming/Network/Internal.dyn_hi": "bfe9a6b564fe2fe325b823bc109e4c4f8290afb77df079278912aefca8b74c0e",
+    "/usr/lib/ghc-8.2.2/site-local/streaming-commons-0.1.18/Data/Streaming/Process/Internal.dyn_hi": "39169ea66520740078a1dc313d684bd0f35c558863603459a0771858723c8235",
+    "/usr/lib/ghc-8.2.2/site-local/streaming-commons-0.1.18/Data/Streaming/Zlib/Lowlevel.dyn_hi": "244d8c5c9bf1f07573ea967eb2da5cc9a73517211edff44832e3eca09bcfe932",
+    "/usr/lib/ghc-8.2.2/site-local/streaming-commons-0.1.18/Data/Text/Internal/Unsafe/Char.dyn_hi": "951b2fac2b82fe844ec5ce9d18165fb8fa9da6267c8ebae0504c6b0d67f57a28",
+    "/usr/lib/ghc-8.2.2/site-local/streaming-commons-0.1.18/Data/Text/Internal/Unsafe/Shift.dyn_hi": "7127594441e0e66798e38c6d9975ad1a73252565c7269365ca52a380d90233e7",
+    "/usr/lib/ghc-8.2.2/site-local/streaming-commons-0.1.18/Data/Text/Internal/Encoding/Utf8.dyn_hi": "cf610b5c3701a4642a26343776ea47b5fc2a1942de165ca8ca0e5089268573af",
+    "/usr/lib/ghc-8.2.2/site-local/streaming-commons-0.1.18/Data/Text/Internal/Encoding/Utf16.dyn_hi": "bcba38519ba58d370fd02c0b13f341f19ef57faa7c8c7e8ff71c50bc273024aa",
+    "/usr/lib/ghc-8.2.2/site-local/streaming-commons-0.1.18/Data/Text/Internal/Encoding/Utf32.dyn_hi": "7b25c98461448a8ad73506601607ac10468cdbe66acd05bd6258613ba62655da",
+    "/var/log/pacman.log": "1ef6ebf45961c1f88605cf3ed0cf899dc7ae9f521623e4ecaf3799ddd8cdd50f"
   }
 }

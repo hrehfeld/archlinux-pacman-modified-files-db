@@ -25,5 +25,14 @@
     "/usr/lib/ghc-8.2.2/site-local/aeson-pretty-0.8.5/Data/Aeson/Encode/Pretty.dyn_hi": "ad0178fd5e2a8697dee3666bd8c5ee7edab2a7b42e8feadca0d7ef4913355417",
     "/usr/bin/aeson-pretty": "499df7174f81d712b893561625166811ed99c1f17cba91512934f72fb8604968",
     "/var/log/pacman.log": "a0849dc00ef27b2d2e5a200b2e9ae8c4e8b75411f31d15ec2e31ef3b2f4e01e4"
+  },
+  "0.8.5-21": {
+    "/usr/share/haskell/register/haskell-aeson-pretty.sh": "ee2bee7fe0fcdefa04e96dfeb46a7211e69e13034b842203e91fa256eb7c5d16",
+    "/usr/share/haskell/unregister/haskell-aeson-pretty.sh": "5a7a7cd66586e61f292cb70c9d298753f1415f00114af5fc8889549467fded24",
+    "/usr/share/licenses/haskell-aeson-pretty/LICENSE": "77754d0a9f3673cb50e1543467d155a3bf2531caa1bca4af0b48cc8b0d38e30b",
+    "/usr/lib/libHSaeson-pretty-0.8.5-5u0EkozodDYIVXufFG1zw2-ghc8.2.2.so": "34254ba396b4e2ba7d7dd1d995da4dd196187a116931440f5d91b8d3151c2d9b",
+    "/usr/lib/ghc-8.2.2/site-local/aeson-pretty-0.8.5/Data/Aeson/Encode/Pretty.dyn_hi": "484559b24d2a1b4ab3e14e01386093fb193c9044ea4975056e2630e4803f1b66",
+    "/usr/bin/aeson-pretty": "5c77e7c72b644e79a8de2c2648b0d3898e624387b241d94b21f4d6897b338eda",
+    "/var/log/pacman.log": "0b75b82794106c9218abfbff811292738daa6aa01b2e338559db0580bcf5e578"
   }
 }

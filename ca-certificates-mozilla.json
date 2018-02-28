@@ -6,5 +6,9 @@
   "3.34.1-1": {
     "/usr/share/ca-certificates/trust-source/mozilla.trust.p11-kit": "1ae0be878f8e6fcc8ed6ee9e5e5b37a19606cdcc318519325f43dc19fefe95ac",
     "/var/log/pacman.log": "c9f7eddc06509f36f7d674a8db8f4e357eb4c5c6d5439b1707e7c965468d00fb"
+  },
+  "3.35-1": {
+    "/usr/share/ca-certificates/trust-source/mozilla.trust.p11-kit": "c3747d5e6a40107ab80cc3f291d7c88a9b34366ed78b37e2967255ea7ee5002b",
+    "/var/log/pacman.log": "aa4f647bd66e4c0f53c71523563e16ec6377ef7cc75c8e9a5bbc68a79bcda000"
   }
 }

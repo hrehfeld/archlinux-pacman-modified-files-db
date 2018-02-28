@@ -16,5 +16,14 @@
     "/usr/lib/ghc-8.2.2/site-local/hinotify-0.3.9/System/INotify.dyn_hi": "fff170792bb431978044316eb25d6f747213e9292816f14b589361ac1c82def1",
     "/usr/lib/ghc-8.2.2/site-local/hinotify-0.3.9/System/INotify/Masks.dyn_hi": "f99608ffcb31df7a750f79e14c88fc96a3f56cba56754ade610a255cec4480c9",
     "/var/log/pacman.log": "5360c1792a3521cc4540f434d0437026871cd846d6eb42c306c7cab7de3704e5"
+  },
+  "0.3.9-7": {
+    "/usr/share/haskell/register/haskell-hinotify.sh": "c62761bdbd3291bc2dbfef966b3d3e52a1772beb14844975133f09d7be8fe70b",
+    "/usr/share/haskell/unregister/haskell-hinotify.sh": "ca5547866fe1c7448814ffed907114073d1cf93d3484006f4948053efd13d440",
+    "/usr/share/licenses/haskell-hinotify/LICENSE": "b0400f7ccef7de35184d413828dabcd15e6970b11972d11c6100f869f6de1831",
+    "/usr/lib/libHShinotify-0.3.9-JlGkv9dYANlFh8TRWOAzjE-ghc8.2.2.so": "2026a9bc5eba7e4803e290ada7515b4054372cccce2757894c5db33f1947c97d",
+    "/usr/lib/ghc-8.2.2/site-local/hinotify-0.3.9/System/INotify.dyn_hi": "2bafd596b18d52633182f1507d887e69a288fc03731e64d027a18f0222549926",
+    "/usr/lib/ghc-8.2.2/site-local/hinotify-0.3.9/System/INotify/Masks.dyn_hi": "e518eccd4db0a2c6327f5572aca729cd7482e4f07e035869106a7920edbb248f",
+    "/var/log/pacman.log": "f2e7c7ca8819da0f1a4d0e0b5debe53ab81a5ef2c4a8ee902f73984819850177"
   }
 }

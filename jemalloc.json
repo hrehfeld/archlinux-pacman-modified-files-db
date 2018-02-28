@@ -12,5 +12,19 @@
     "/usr/share/man/man3/jemalloc.3.gz": "6934d4803ac85503b6bb24ad5864638c15e31ab6c4b8327ab8053ac0091e24be",
     "/usr/share/licenses/jemalloc/COPYING": "504eb01a6d7f11485a5551d8b37b3e3858b9c445d1abdfbada664028262cf920",
     "/var/log/pacman.log": "e9877fab0ab4b29acc6c7a94fe418b563ba1b93a00720d0bee3661f08a33a7d4"
+  },
+  "1:5.0.1-4": {
+    "/usr/bin/jemalloc-config": "2e13623e690b56482746424948a11bafc4053e79b27196f57a1646b0e1c4a09f",
+    "/usr/bin/jemalloc.sh": "670ad403a33c4ba93e4ac8a22c629b5a4ca3522e610e0d35b9893ac458624275",
+    "/usr/bin/jeprof": "a95fbf9bf2c1ed4ee9932f4f7f9f07a13390b27ccb0d3782cfb6c9de19b0510a",
+    "/usr/include/jemalloc/jemalloc.h": "35cb618a38a0bfbe42e92c3c3a697340b83bad7092697fc968e1a5b3f9279fb0",
+    "/usr/share/doc/jemalloc/jemalloc.html": "ecce039b750109627040ef2b024824d2ccf46840d75564accc2538112aaaa316",
+    "/usr/share/man/man3/jemalloc.3.gz": "6934d4803ac85503b6bb24ad5864638c15e31ab6c4b8327ab8053ac0091e24be",
+    "/usr/share/licenses/jemalloc/COPYING": "504eb01a6d7f11485a5551d8b37b3e3858b9c445d1abdfbada664028262cf920",
+    "/usr/lib/libjemalloc.so": "2bbd20f43fa1f4c96594b528d507172f621b419e9e0a4e02cdf9dd971ce8438f",
+    "/usr/lib/libjemalloc_pic.a": "30d18016c71cf05416051af52ffac0e4b9b97531dddebc5a25bd6188768a724e",
+    "/usr/lib/libjemalloc.so.2": "2bbd20f43fa1f4c96594b528d507172f621b419e9e0a4e02cdf9dd971ce8438f",
+    "/usr/lib/pkgconfig/jemalloc.pc": "5e3aece2d060e86f650410de9ec8880130726fc89dc6a246d0cadf44376b0d66",
+    "/var/log/pacman.log": "e702a11ed14a463a65f74ffda3051b5f9abaa6ab1db13906db0ecda533c238bb"
   }
 }
