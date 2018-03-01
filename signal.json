@@ -77,5 +77,24 @@
     "/usr/share/icons/hicolor/256x256/apps/signal.png": "bf1556accbd4322ebdfb4ff034f4c9d6a4b20b389e0759579169758e1ec33b7a",
     "/usr/share/applications/signal.desktop": "a7f0b1ba9d64e279fb090d191750511a36c7b53b5bb2f37c54e019c8e57d1e65",
     "/var/log/pacman.log": "04d89ccaad89f6143c4b44fa58ac5fe983dce89442678e12a0c1e5c23423ee5f"
+  },
+  "1.5.0-1": {
+    "/usr/lib/signal/resources/app.asar": "875b754a59ceb45df06924775ea4f20579bbe3b854d5ba14da0a3375a309becd",
+    "/usr/lib/signal/resources/electron.asar": "48a33aae4d742f9209f2e86dea61cb27a8e6b130c94c386e38486eebb4ea6d5b",
+    "/usr/lib/signal/resources/app.asar.unpacked/node_modules/spellchecker/vendor/hunspell_dictionaries/README.txt": "51d98f2d929be659f69b7a862a97e9290a47dc853b8bec777120eff72b0b917d",
+    "/usr/lib/signal/resources/app.asar.unpacked/node_modules/spellchecker/vendor/hunspell_dictionaries/en_US.aff": "bdb961788f56e08c8db301c37c8e73e2ae827209bc0f5a8809fe5a1f6dd885aa",
+    "/usr/lib/signal/resources/app.asar.unpacked/node_modules/spellchecker/vendor/hunspell_dictionaries/en_US.dic": "5a29473f36db36cc4289b3b6aaa5e109ea571ff0c85ded564cd41603a3c7fbb2",
+    "/usr/share/icons/hicolor/16x16/apps/signal.png": "bd89bd7fc9b4ae0ab5a6827f9182fb7b9875ec4471bfc290df8d38bd420cc91e",
+    "/usr/share/icons/hicolor/24x24/apps/signal.png": "4e488d822ba1c706a35e653c561d933c0b1606a2ac393551c77c63b2d69f4413",
+    "/usr/share/icons/hicolor/32x32/apps/signal.png": "a89634596076cb470b1e6456e0a6570d34d310d4b40566cdde463a1267711840",
+    "/usr/share/icons/hicolor/48x48/apps/signal.png": "7be4d261675089937595550bccc33dd473ab9618b889563eb34143576052a455",
+    "/usr/share/icons/hicolor/64x64/apps/signal.png": "121a178ced7ab893298ddc2a3f3a4818e1674cc52aa44a1fc258e9328130500f",
+    "/usr/share/icons/hicolor/128x128/apps/signal.png": "0327e7bbcea499e37643d2d0bde14ca2a9ae3ccf82cc6a1ee64df490473bda01",
+    "/usr/share/icons/hicolor/256x256/apps/signal.png": "bf1556accbd4322ebdfb4ff034f4c9d6a4b20b389e0759579169758e1ec33b7a",
+    "/usr/share/icons/hicolor/512x512/apps/signal.png": "74aa92ea53380acf52cc00169dceb9bf0b4093e8f7df62eed9124c2b88aeaf94",
+    "/usr/share/applications/signal.desktop": "a7f0b1ba9d64e279fb090d191750511a36c7b53b5bb2f37c54e019c8e57d1e65",
+    "/usr/share/applications/signal-tray.desktop": "c354823b2f39d3a1d1066be7aace0e88c910377f41b7f5ba802f4aeae8f322b0",
+    "/usr/bin/signal-desktop": "d23d66b1e810c61430fd92466a4066b023bc79f5ba51b8cb1115c52f96a08bce",
+    "/var/log/pacman.log": "71a48956b0527483521d8c95b0db035e304e2421d14cf2c0df51f1cfc7e3a3cb"
   }
 }

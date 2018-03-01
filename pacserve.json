@@ -10,5 +10,18 @@
     "/etc/pacserve/pacserve-ports.conf": "a0cac3a78c1fd5eb52880c38cd068f928cdb198a2a59c7fc886204b037eedcfb",
     "/etc/pacserve/pacserve.service.conf": "e46c4b1ae660492f09ec07acdb1b62851921fdb2c44a49e38bd1ea830b22ccfa",
     "/etc/pacman.d/pacserve": "14973c3fb44afe9d020f2d259cd1d6a5e110b2f48e9b4f313d6143db5ed4263d"
+  },
+  "2018-7": {
+    "/usr/bin/pacman.conf-insert_pacserve": "9206ee6c31b263110370d06e66129fe6117f9e0930dfee108e4188f6ea7c9380",
+    "/usr/bin/pacserve": "9eb05bffb67aa7b193a21b550705fc75412c220cae62e441af3186e336199462",
+    "/usr/bin/pacserve-ports": "59d5b9aaa86ab6f24b6ca009a06eec0aac0de6114da91ee22b537c33f51ed13f",
+    "/usr/bin/pacsrv": "a5cc1f219757132827f3c1b345681d4bac4f6c8d42a0920a80c76d84832babdd",
+    "/usr/lib/systemd/system/pacserve-ports.service": "b3df18eed2c81ae886c98f79683a883e008ae009e7afd2ed1fae4423ec88dd32",
+    "/usr/lib/systemd/system/pacserve.service": "a2fd99d5e30c24e7c445eafbeeee7cad6db81ddec6d1e6414ff61a676dff47a2",
+    "/usr/lib/sysusers.d/pacserve.conf": "3efc758fa6ee4b108cdf77c5300e2f17d619a5703ba08c654d7d653c69fff2be",
+    "/var/log/pacman.log": "ddb5749c8d4faf360f599db623706b7d78ac4741f2bd57a9e01ff822902f929b",
+    "/etc/pacserve/pacserve-ports.conf": "a0cac3a78c1fd5eb52880c38cd068f928cdb198a2a59c7fc886204b037eedcfb",
+    "/etc/pacserve/pacserve.service.conf": "e46c4b1ae660492f09ec07acdb1b62851921fdb2c44a49e38bd1ea830b22ccfa",
+    "/etc/pacman.d/pacserve": "14973c3fb44afe9d020f2d259cd1d6a5e110b2f48e9b4f313d6143db5ed4263d"
   }
 }
